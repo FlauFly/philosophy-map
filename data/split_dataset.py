@@ -13,4 +13,7 @@ df_nodes = pd.DataFrame.from_dict(nodes)
 df_links = pd.DataFrame.from_dict(links)
 
 selected = df_links.loc[df_links['source'] == article]
-print(selected)
+print(selected["target"].values)
+
+for target in selected['target'].values:
+    print(target)
