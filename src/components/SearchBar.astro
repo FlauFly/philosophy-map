@@ -1,12 +1,27 @@
 ---
-let articles = ['Plato', "Aristotle", "Socrates", "Abstract Objects"];
+const articles = [
+{
+    id: 'plato',
+    title: 'Plato'
+},
+{
+    id: 'socrates',
+    title: 'Socrates'
+},
+{
+    id: 'aristotle',
+    title: 'Aristotle'
+}
+];
 ---
 <div class="search-bar">
     <input type="text" placeholder="Search article...">
     <ul class="suggestion-box">
         {
             articles.map((article) => (
-                <li>{article}</li>
+                <li>
+                    <a href={article.id}>{article.title}</a>
+                </li>
             ))
         }
     </ul>
