@@ -1,0 +1,103 @@
+---
+export function getStaticPaths() {
+  const articles = [
+    {
+      article: 'plato',
+      title: 'Plato'
+    },
+    {
+      article: 'socrates',
+      title: 'Socrates'
+    },
+    {
+      article: 'aristotle',
+      title: 'Aristotle'
+    }
+  ];
+
+  return articles.map(({ article, title }) => {
+    return {
+      params: { article },
+      props: { article, title },
+    }
+  })
+}
+
+const { article, title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style> body { margin: 0; } </style>
+    <title>{title}</title>
+    <link rel="stylesheet" href="/src/style.css">
+  </head>
+  <body>
+    <div class="info" id="info-card"></div>
+    <div id="3d-graph"></div>
+    <div id="code">{article}</div>
+  </body>
+</html>
+
+<script>
+    import ForceGraph3D from "3d-force-graph";
+
+    import SpriteText from "three-spritetext";
+
+    const address = document.getElementById('code')?.textContent;
+
+    const infoCard = document.getElementById('info-card');
+
+    const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement)
+    .jsonUrl(`../data/datasets/${address}.json`)
+    .nodeColor(node => '#ee4fc5')
+    .nodeThreeObject(node => {
+        const sprite = new SpriteText(node.id);
+        sprite.material.depthWrite = false;
+        sprite.color = '#fff';
+        sprite.textHeight = 8;
+        sprite.center.y = -0.6;
+        return sprite;
+    })
+    .onNodeClick(node => {
+        infoCard!.innerHTML = `
+        <div>${node.id}</div>
+        <a href="${node.address}">Link</a>`;
+    })
+    .nodeThreeObjectExtend(true);
+
+    Graph.d3Force('charge').strength(-120);
+</script>
+
+<style>
+  .node-label {
+    font-size: 12px;
+    padding: 1px 4px;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.5);
+    user-select: none;
+}
+
+  .info {
+    position: absolute;
+    z-index: 5000;
+    top: 16px;
+    left: 16px;
+    right: 16px;
+    border: 1px dashed rgba(255, 255, 255, 0.5);
+    background: rgba(0, 0, 0, 0.75);
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 8px;
+    max-width: 500px;
+}
+
+#code {
+  color: black;
+  display: none;
+}
+</style>

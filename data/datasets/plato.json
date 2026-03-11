@@ -1,0 +1,13 @@
+{
+    "nodes": [
+        {"id": "Plato", "group": 1, "address": "https://plato.stanford.edu/entries/plato/"},
+        {"id": "Aristotle", "group": 2, "address": "https://plato.stanford.edu/entries/aristotle/"},
+        {"id": "Socrates", "group": 3, "address": "https://plato.stanford.edu/entries/socrates/"},
+        {"id": "Abstract Objects", "group": 3, "address": "https://plato.stanford.edu/entries/abstract-objects/"}
+    ],
+    "links": [
+        {"source": "Plato", "target": "Aristotle"},
+        {"source": "Plato", "target": "Socrates"},
+        {"source": "Plato", "target": "Abstract Objects"}
+    ]
+}
