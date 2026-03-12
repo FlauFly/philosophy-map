@@ -81,8 +81,8 @@ const articles = [
     const input = document.querySelector("input") as HTMLInputElement;
     const suggestionBox = document.getElementById("suggestion-box") as HTMLElement;
 
-    const renderList = function(e) {
-        let searchText = !!e ? e.target.value : '';
+    const renderList = function(e: Event) {
+        let searchText = !!e ? (e.target as HTMLInputElement).value : '';
         if (searchText.length == 0) {
             suggestionBox.innerHTML = '';
             e.stopPropagation();
