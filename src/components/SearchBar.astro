@@ -15,20 +15,12 @@ const articles = [
 ];
 ---
 <div class="search-bar">
-    <input type="text" placeholder="Search article...">
-    <ul class="suggestion-box">
-        {
-            articles.map((article) => (
-                <li>
-                    <a href={article.id}>{article.title}</a>
-                </li>
-            ))
-        }
-    </ul>
+    <input type="text" placeholder="Search article..." id="search-input">
+    <ul id="suggestion-box"></ul>
 </div>
 
 
-<style>
+<style is:global>
     .search-bar {
         display: flex;
         justify-content: center;
@@ -48,25 +40,66 @@ const articles = [
         outline: none;
     }
 
-    .suggestion-box {
+    #suggestion-box {
         background-color: white;
         width: 32vw;
         list-style: none;
         padding: 0;
-        border: 1px solid #ddd;
         margin: 0;
     }
 
-    .suggestion-box li {
+    .suggestion {
         padding: 8px 16px;
         border-bottom: 1px solid #ddd;
     }
 
-    .suggestion-box li:last-child {
+    .suggestion:last-child {
         border-bottom: none;
     }
 
-    .suggestion-box li:hover {
+    .suggestion:hover {
         background-color: rgb(175, 226, 243);
     }
 </style>
+
+<script>
+    const articles = [
+        {
+            id: 'plato',
+            title: 'Plato'
+        },
+        {
+            id: 'socrates',
+            title: 'Socrates'
+        },
+        {
+            id: 'aristotle',
+            title: 'Aristotle'
+        }
+    ];
+
+    const input = document.querySelector("input") as HTMLInputElement;
+    const suggestionBox = document.getElementById("suggestion-box") as HTMLElement;
+
+    const renderList = function(e) {
+        let searchText = !!e ? e.target.value : '';
+        if (searchText.length == 0) {
+            suggestionBox.innerHTML = '';
+            e.stopPropagation();
+            return;
+        }
+
+        const filtered = articles.filter(article =>
+            article.title.toLowerCase().includes(searchText.toLowerCase())
+        )
+
+        let childrenElement = '';
+        for (const article of filtered) {
+            childrenElement += `<li class="suggestion"><a href=${article.id}>${article.title}</a></li>`;
+        }
+
+        suggestionBox.innerHTML = childrenElement;
+    }
+
+    input.addEventListener('keyup', renderList)  
+</script>
