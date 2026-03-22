@@ -1,33 +1,16 @@
 ---
-export function getStaticPaths() {
-  const articles = [
-    {
-      article: 'plato',
-      title: 'Plato'
-    },
-    {
-      article: 'socrates',
-      title: 'Socrates'
-    },
-    {
-      article: 'aristotle',
-      title: 'Aristotle'
-    },
-    {
-      article: 'william-jevons',
-      title: 'William Stanley Jevons'
-    },
-  ];
+import { getCollection, render } from 'astro:content';
 
-  return articles.map(({ article, title }) => {
-    return {
-      params: { article },
-      props: { article, title },
-    }
-  })
+export async function getStaticPaths() {
+  const pages = await getCollection('pages')
+
+  return pages.map(post => ({
+    params: { id: post.id },
+    props: { id: post.id, title: post.data.title },
+  }));
 }
 
-const { article, title } = Astro.props;
+const { id, title } = Astro.props;
 ---
 
 <!doctype html>
@@ -42,7 +25,7 @@ const { article, title } = Astro.props;
   <body>
     <div class="info" id="info-card"></div>
     <div id="3d-graph"></div>
-    <div id="code">{article}</div>
+    <div id="code">{id}</div>
   </body>
 </html>
 
