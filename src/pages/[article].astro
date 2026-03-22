@@ -38,7 +38,6 @@ const { article, title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style> body { margin: 0; } </style>
     <title>{title}</title>
-    <link rel="stylesheet" href="/src/style.css">
   </head>
   <body>
     <div class="info" id="info-card"></div>
@@ -58,20 +57,45 @@ const { article, title } = Astro.props;
 
     const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement)
     .jsonUrl(`../data/datasets/${address}.json`)
-    .nodeColor(node => '#ee4fc5')
+    .nodeColor(node => 
+      node.group == 1 ? node.color = '#ee4fc5'
+      : node.group == 2 ? node.color = '#0066cc'
+      : node.color = '#fff')
     .nodeThreeObject(node => {
         const sprite = new SpriteText(node.id);
         sprite.material.depthWrite = false;
         sprite.color = '#fff';
-        sprite.textHeight = 8;
-        sprite.center.y = -0.6;
+        sprite.textHeight = 5;
+        sprite.center.y = -1.6;
         return sprite;
     })
+    .nodeLabel(node => node.id)
+    .nodeVal(node =>
+      node.group == 1 ? 6
+      : node.group == 2 ? 3
+      : 1
+    )
     .onNodeClick(node => {
         infoCard!.innerHTML = `
         <div>${node.id}</div>
         <a href="${node.address}">Link</a>`;
+
+        const distance = 100;
+        const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
+
+        const newPos = node.x || node.y || node.z
+          ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
+          : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
+
+        Graph.cameraPosition(
+          newPos, // new position
+          node, // lookAt ({ x, y, z })
+          3000 // ms transition duration
+        );
     })
+    .linkDirectionalParticles(1)
+    .linkDirectionalParticleWidth(0.8)
+    .linkOpacity(0.1)
     .nodeThreeObjectExtend(true);
 
     Graph.d3Force('charge').strength(-120);
