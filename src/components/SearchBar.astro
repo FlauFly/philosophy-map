@@ -49,24 +49,7 @@
 </style>
 
 <script>
-    const articles = [
-        {
-            id: 'plato',
-            title: 'Plato'
-        },
-        {
-            id: 'socrates',
-            title: 'Socrates'
-        },
-        {
-            id: 'aristotle',
-            title: 'Aristotle'
-        },
-        {
-            id: 'william-jevons',
-            title: 'William Stanley Jevons'
-        }
-    ];
+    import articles from '../../data/articles.json' assert { type: 'json'};
 
     const input = document.querySelector("input") as HTMLInputElement;
     const suggestionBox = document.getElementById("suggestion-box") as HTMLElement;
