@@ -41,15 +41,21 @@ const { id, title } = Astro.props;
     const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement)
     .jsonUrl(`../data/datasets/${address}.json`)
     .nodeColor(node => 
-      node.group == 1 ? node.color = '#ee4fc5'
-      : node.group == 2 ? node.color = '#0066cc'
-      : node.color = '#fff')
+      node.group == 1 ? '#ee4fc5'
+      : node.group == 2 ? '#0066cc'
+      : '#fff')
     .nodeThreeObject(node => {
         const sprite = new SpriteText(node.id);
         sprite.material.depthWrite = false;
-        sprite.color = '#fff';
-        sprite.textHeight = 5;
-        sprite.center.y = -1.6;
+        sprite.color = node.group === 1 ? '#ee4fc5'
+        : node.group === 2 ? '#0066cc'
+        : '#ffffff';
+        sprite.textHeight = node.group === 1 ? 5
+        : node.group === 2 ? 3
+        : 2;
+        sprite.center.y = node.group === 1 ? -1.6
+        : node.group === 2 ? -2.3
+        : -2.6;
         return sprite;
     })
     .nodeLabel(node => node.id)
