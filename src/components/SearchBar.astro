@@ -53,7 +53,7 @@
 
     function simplifyText(text: String) {
         const nonAccentedText = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-        const finalText = nonAccentedText.replace(/[\u2018\u2019]/g, "'");
+        const finalText = nonAccentedText.replace(/[\u2018\u2019]/g, "'"); // quote marks
         return finalText;
     }
 
