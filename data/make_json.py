@@ -25,6 +25,10 @@ def requests_retry_session(
     return session
 
 def fix_string(text):
+    if "index.html#Counter" in text:
+        text = text[:-18]
+    if (text[-1:] != '/') and (text[-4:] != 'html'):
+        text = text + '/'
     if ('https://plato.stanford.edu/' in text):
         return text
     elif ('//' in text):
@@ -39,6 +43,7 @@ def fix_string(text):
         # Add entries before fixed text
     # Add 'https://plato.stanford.edu/'
     text = 'https://plato.stanford.edu/' + text
+    text = text.lower() # lowering string letters
     return text
 
 def load_page(url):
@@ -74,7 +79,7 @@ def download_page_data(link):
     # Find links to related articles
     rel = page.find(id='related-entries')
     links = rel.p.find_all('a')
-    links = [link['href'] for link in links]
+    links = [link['href'] for link in links if link['href'] != 'index.html'] 
     links = [fix_string(text) for text in links]
     
     return (title, intro, links)
@@ -84,26 +89,20 @@ def find_intro(link):
     intro = page.find('p').get_text()
     return intro
 
-# Ad-hoc fix to one broken link (to Abelard)
-def fix_broken_link(link):
-    if (link == 'entries/belard/'):
-        fixed_link = 'entries/abelard/'
-    else:
-        fixed_link = link
-    return fixed_link
-
 # Load page of content
 html = load_page('https://plato.stanford.edu/contents.html')
 
 # Take out all 'strong' tags
 topics = html.find_all('strong')
 
+
 df = pd.DataFrame()
 nodes = []
 connections = []
 link_title_table = {}
 links = take_links_from_tags(topics)
-links = [fix_broken_link(link) for link in links]
+links = [link for link in links]
+
 
 for link in links:
     title, intro, related_links = download_page_data(link)
