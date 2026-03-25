@@ -21,9 +21,14 @@ const id = "Plato"
 
     let resultNodes = [];
 
-    const filteredItem = data.nodes.filter(item => item.id == article);
+    const filteredItem = data.nodes.filter(item => item.id == article)[0];
+    const mainItem = {"id": filteredItem['id'], "address": filteredItem['address'], "group": 1};
+    resultNodes.push(mainItem);
 
-    console.log(filteredItem);
+    const targets = data.links.filter(item => item.source == article).map(item => item.target);
+    const sources = data.links.filter(item => item.target == article).map(item => item.source);
+
+    console.log(sources);
 
 
 </script>

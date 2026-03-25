@@ -107,7 +107,7 @@ links = [link for link in links]
 for link in links:
     title, intro, related_links = download_page_data(link)
     link_title_table[fix_string(link)] = title
-    nodes.append({"id": title, "intro": intro, "address": link})
+    nodes.append({"id": title, "intro": intro, "address": link[8:-1]})
     print(title) # For tracking purposes
     for related in related_links:
         row = {"source": title, "target": related}
