@@ -1,0 +1,5235 @@
+{
+  "nodes": [
+    {
+      "id": "Auditory Perception",
+      "group": 1,
+      "address": "perception-auditory"
+    },
+    {
+      "id": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "group": 2,
+      "address": "qualities-prim-sec"
+    },
+    {
+      "id": "The Problem of Perception",
+      "group": 2,
+      "address": "perception-problem"
+    },
+    {
+      "id": "Sounds",
+      "group": 2,
+      "address": "sounds"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 2,
+      "address": "music"
+    },
+    {
+      "id": "Inner Speech",
+      "group": 2,
+      "address": "inner-speech"
+    },
+    {
+      "id": "Touch",
+      "group": 2,
+      "address": "touch"
+    },
+    {
+      "id": "Color",
+      "group": 2,
+      "address": "color"
+    },
+    {
+      "id": "Inverted Qualia",
+      "group": 2,
+      "address": "qualia-inverted"
+    },
+    {
+      "id": "The Unity of Consciousness",
+      "group": 2,
+      "address": "consciousness-unity"
+    },
+    {
+      "id": "The Contents of Perception",
+      "group": 2,
+      "address": "perception-contents"
+    },
+    {
+      "id": "Henricus Regius",
+      "group": 2,
+      "address": "henricus-regius"
+    },
+    {
+      "id": "Galileo Galilei",
+      "group": 3,
+      "address": "galileo"
+    },
+    {
+      "id": "Ren\u00e9 Descartes",
+      "group": 3,
+      "address": "descartes"
+    },
+    {
+      "id": "Ancient Atomism",
+      "group": 3,
+      "address": "atomism-ancient"
+    },
+    {
+      "id": "Locke\u2019s Philosophy of Science",
+      "group": 3,
+      "address": "locke-philosophy-science"
+    },
+    {
+      "id": "Descartes\u2019 Epistemology",
+      "group": 3,
+      "address": "descartes-epistemology"
+    },
+    {
+      "id": "John Locke",
+      "group": 3,
+      "address": "locke"
+    },
+    {
+      "id": "Democritus",
+      "group": 3,
+      "address": "democritus"
+    },
+    {
+      "id": "Robert Boyle",
+      "group": 3,
+      "address": "boyle"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "Locke on Real Essence",
+      "group": 3,
+      "address": "real-essence"
+    },
+    {
+      "id": "Bodily Awareness",
+      "group": 3,
+      "address": "bodily-awareness"
+    },
+    {
+      "id": "Introspection",
+      "group": 3,
+      "address": "introspection"
+    },
+    {
+      "id": "Epistemology in Classical Indian Philosophy",
+      "group": 3,
+      "address": "epistemology-india"
+    },
+    {
+      "id": "George Edward Moore",
+      "group": 3,
+      "address": "moore"
+    },
+    {
+      "id": "Consciousness and Intentionality",
+      "group": 3,
+      "address": "consciousness-intentionality"
+    },
+    {
+      "id": "Qualia",
+      "group": 3,
+      "address": "qualia"
+    },
+    {
+      "id": "Franz Brentano",
+      "group": 3,
+      "address": "brentano"
+    },
+    {
+      "id": "Roderick Chisholm",
+      "group": 3,
+      "address": "chisholm"
+    },
+    {
+      "id": "Pain",
+      "group": 3,
+      "address": "pain"
+    },
+    {
+      "id": "John Cook Wilson",
+      "group": 3,
+      "address": "wilson"
+    },
+    {
+      "id": "Leibniz on Causation",
+      "group": 3,
+      "address": "leibniz-causation"
+    },
+    {
+      "id": "Charlie Dunbar Broad",
+      "group": 3,
+      "address": "broad"
+    },
+    {
+      "id": "Perceptual Experience and Perceptual Justification",
+      "group": 3,
+      "address": "perception-justification"
+    },
+    {
+      "id": "Nonconceptual Mental Content",
+      "group": 3,
+      "address": "content-nonconceptual"
+    },
+    {
+      "id": "Molyneux\u2019s Problem",
+      "group": 3,
+      "address": "molyneux-problem"
+    },
+    {
+      "id": "Epistemological Problems of Perception",
+      "group": 3,
+      "address": "perception-episprob"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Dreams and Dreaming",
+      "group": 3,
+      "address": "dreams-dreaming"
+    },
+    {
+      "id": "Phenomenal Intentionality",
+      "group": 3,
+      "address": "phenomenal-intentionality"
+    },
+    {
+      "id": "\u00c9tienne Bonnot de Condillac",
+      "group": 3,
+      "address": "condillac"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 3,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Metaepistemology",
+      "group": 3,
+      "address": "metaepistemology"
+    },
+    {
+      "id": "Mysticism",
+      "group": 3,
+      "address": "mysticism"
+    },
+    {
+      "id": "Intensional Transitive Verbs",
+      "group": 3,
+      "address": "intensional-trans-verbs"
+    },
+    {
+      "id": "Representational Theories of Consciousness",
+      "group": 3,
+      "address": "consciousness-representational"
+    },
+    {
+      "id": "Phenomenology",
+      "group": 3,
+      "address": "phenomenology"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Mental Representation",
+      "group": 3,
+      "address": "mental-representation"
+    },
+    {
+      "id": "Descartes and the Pineal Gland",
+      "group": 3,
+      "address": "pineal-gland"
+    },
+    {
+      "id": "Neutral Monism",
+      "group": 3,
+      "address": "neutral-monism"
+    },
+    {
+      "id": "The Disjunctive Theory of Perception",
+      "group": 3,
+      "address": "perception-disjunctive"
+    },
+    {
+      "id": "Jayar\u0101\u015bi",
+      "group": 3,
+      "address": "jayaraasi"
+    },
+    {
+      "id": "Sense Data",
+      "group": 3,
+      "address": "sense-data"
+    },
+    {
+      "id": "Consciousness",
+      "group": 3,
+      "address": "consciousness"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Goodman\u2019s Aesthetics",
+      "group": 3,
+      "address": "goodman-aesthetics"
+    },
+    {
+      "id": "Aristotle\u2019s Aesthetics",
+      "group": 3,
+      "address": "aristotle-aesthetics"
+    },
+    {
+      "id": "Emotion",
+      "group": 3,
+      "address": "emotion"
+    },
+    {
+      "id": "Confucius",
+      "group": 3,
+      "address": "confucius"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 3,
+      "address": "dance"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "The Definition of Art",
+      "group": 3,
+      "address": "art-definition"
+    },
+    {
+      "id": "Mental Imagery",
+      "group": 3,
+      "address": "mental-imagery"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Jean-Baptiste Du Bos",
+      "group": 3,
+      "address": "du-bos"
+    },
+    {
+      "id": "al-Farabi",
+      "group": 3,
+      "address": "al-farabi"
+    },
+    {
+      "id": "Fictional Entities",
+      "group": 3,
+      "address": "fictional-entities"
+    },
+    {
+      "id": "Dewey\u2019s Aesthetics",
+      "group": 3,
+      "address": "dewey-aesthetics"
+    },
+    {
+      "id": "History of Western Philosophy of Music: since 1800",
+      "group": 3,
+      "address": "hist-westphilmusic-since-1800"
+    },
+    {
+      "id": "History of Western Philosophy of Music: Antiquity to 1800",
+      "group": 3,
+      "address": "hist-westphilmusic-to-1800"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "Aesthetics and Cognitive Science",
+      "group": 3,
+      "address": "aesthetics-cogsci"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Aesthetic Experience",
+      "group": 3,
+      "address": "aesthetic-experience"
+    },
+    {
+      "id": "Types and Tokens",
+      "group": 3,
+      "address": "types-tokens"
+    },
+    {
+      "id": "Schopenhauer\u2019s Aesthetics",
+      "group": 3,
+      "address": "schopenhauer-aesthetics"
+    },
+    {
+      "id": "Roman Ingarden",
+      "group": 3,
+      "address": "ingarden"
+    },
+    {
+      "id": "Hegel\u2019s Aesthetics",
+      "group": 3,
+      "address": "hegel-aesthetics"
+    },
+    {
+      "id": "Aesthetic Judgment",
+      "group": 3,
+      "address": "aesthetic-judgment"
+    },
+    {
+      "id": "Experimental Philosophy of Art and Aesthetics",
+      "group": 3,
+      "address": "experimental-aesthetics"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "Self-Knowledge",
+      "group": 3,
+      "address": "self-knowledge"
+    },
+    {
+      "id": "Modularity of Mind",
+      "group": 3,
+      "address": "modularity-mind"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "Embodied Cognition",
+      "group": 3,
+      "address": "embodied-cognition"
+    },
+    {
+      "id": "Self-Consciousness",
+      "group": 3,
+      "address": "self-consciousness"
+    },
+    {
+      "id": "The Language of Thought Hypothesis",
+      "group": 3,
+      "address": "language-thought"
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "group": 3,
+      "address": "merleau-ponty"
+    },
+    {
+      "id": "Concepts",
+      "group": 3,
+      "address": "concepts"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "Realism",
+      "group": 3,
+      "address": "realism"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Hermann von Helmholtz",
+      "group": 3,
+      "address": "hermann-helmholtz"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "Determinables and Determinates",
+      "group": 3,
+      "address": "determinate-determinables"
+    },
+    {
+      "id": "Anton Marty",
+      "group": 3,
+      "address": "marty"
+    },
+    {
+      "id": "The Philosophy of Neuroscience",
+      "group": 3,
+      "address": "neuroscience"
+    },
+    {
+      "id": "Analysis",
+      "group": 3,
+      "address": "analysis"
+    },
+    {
+      "id": "Zombies",
+      "group": 3,
+      "address": "zombies"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Causal Theories of Mental Content",
+      "group": 3,
+      "address": "content-causal"
+    },
+    {
+      "id": "Narrow Mental Content",
+      "group": 3,
+      "address": "content-narrow"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Other Minds",
+      "group": 3,
+      "address": "other-minds"
+    },
+    {
+      "id": "Teleological Theories of Mental Content",
+      "group": 3,
+      "address": "content-teleological"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Emergent Properties",
+      "group": 3,
+      "address": "properties-emergent"
+    },
+    {
+      "id": "William James",
+      "group": 3,
+      "address": "james"
+    },
+    {
+      "id": "Mind in Indian Buddhist Philosophy",
+      "group": 3,
+      "address": "mind-indian-buddhism"
+    },
+    {
+      "id": "The Neuroscience of Consciousness",
+      "group": 3,
+      "address": "consciousness-neuroscience"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Leibniz\u2019s Philosophy of Mind",
+      "group": 3,
+      "address": "leibniz-mind"
+    },
+    {
+      "id": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "group": 3,
+      "address": "kant-mind"
+    },
+    {
+      "id": "Temporal Consciousness",
+      "group": 3,
+      "address": "consciousness-temporal"
+    },
+    {
+      "id": "Personal Identity and Ethics",
+      "group": 3,
+      "address": "identity-ethics"
+    },
+    {
+      "id": "Mary Shepherd",
+      "group": 3,
+      "address": "mary-shepherd"
+    },
+    {
+      "id": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "group": 3,
+      "address": "perception-india"
+    },
+    {
+      "id": "Moral Phenomenology",
+      "group": 3,
+      "address": "moral-phenomenology"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Perceptual Learning",
+      "group": 3,
+      "address": "perceptual-learning"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Kantian Conceptualism/Nonconceptualism",
+      "group": 3,
+      "address": "kant-conceptualism"
+    },
+    {
+      "id": "Structured Propositions",
+      "group": 3,
+      "address": "propositions-structured"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Indexicals",
+      "group": 3,
+      "address": "indexicals"
+    },
+    {
+      "id": "Ernst Mach",
+      "group": 3,
+      "address": "ernst-mach"
+    },
+    {
+      "id": "Descartes\u2019 Mathematics",
+      "group": 3,
+      "address": "descartes-mathematics"
+    },
+    {
+      "id": "Innateness and Language",
+      "group": 3,
+      "address": "innateness-language"
+    },
+    {
+      "id": "Philosophy of Religion",
+      "group": 3,
+      "address": "philosophy-religion"
+    },
+    {
+      "id": "Substance",
+      "group": 3,
+      "address": "substance"
+    },
+    {
+      "id": "Antoine Arnauld",
+      "group": 3,
+      "address": "arnauld"
+    },
+    {
+      "id": "The Mind/Brain Identity Theory",
+      "group": 3,
+      "address": "mind-identity"
+    },
+    {
+      "id": "Descartes\u2019 Life and Works",
+      "group": 3,
+      "address": "descartes-works"
+    },
+    {
+      "id": "Essential vs. Accidental Properties",
+      "group": 3,
+      "address": "essential-accidental"
+    },
+    {
+      "id": "Descartes\u2019 Ethics",
+      "group": 3,
+      "address": "descartes-ethics"
+    },
+    {
+      "id": "The Historical Controversies Surrounding Innateness",
+      "group": 3,
+      "address": "innateness-history"
+    },
+    {
+      "id": "Louis de La Forge",
+      "group": 3,
+      "address": "la-forge"
+    },
+    {
+      "id": "Innateness and Contemporary Theories of Cognition",
+      "group": 3,
+      "address": "innateness-cognition"
+    },
+    {
+      "id": "Mary Astell",
+      "group": 3,
+      "address": "astell"
+    },
+    {
+      "id": "Ontological Arguments",
+      "group": 3,
+      "address": "ontological-arguments"
+    },
+    {
+      "id": "God and Other Necessary Beings",
+      "group": 3,
+      "address": "god-necessary-being"
+    },
+    {
+      "id": "Ontological Dependence",
+      "group": 3,
+      "address": "dependence-ontological"
+    },
+    {
+      "id": "The Distinction Between Innate and Acquired Characteristics",
+      "group": 3,
+      "address": "innate-acquired"
+    },
+    {
+      "id": "Descartes\u2019 Theory of Ideas",
+      "group": 3,
+      "address": "descartes-ideas"
+    },
+    {
+      "id": "Nicolas Malebranche",
+      "group": 3,
+      "address": "malebranche"
+    },
+    {
+      "id": "Descartes\u2019 Physics",
+      "group": 3,
+      "address": "descartes-physics"
+    },
+    {
+      "id": "Descartes\u2019 Modal Metaphysics",
+      "group": 3,
+      "address": "descartes-modal"
+    },
+    {
+      "id": "Descartes\u2019 Ontological Argument",
+      "group": 3,
+      "address": "descartes-ontological"
+    },
+    {
+      "id": "Cosmological Argument",
+      "group": 3,
+      "address": "cosmological-argument"
+    },
+    {
+      "id": "Continental Rationalism",
+      "group": 3,
+      "address": "continental-rationalism"
+    },
+    {
+      "id": "Spinoza\u2019s Modal Metaphysics",
+      "group": 3,
+      "address": "spinoza-modal"
+    },
+    {
+      "id": "Henry More",
+      "group": 3,
+      "address": "henry-more"
+    }
+  ],
+  "links": [
+    {
+      "source": "Inner Speech",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "Color"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "Auditory Perception",
+      "target": "Sounds"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "Sounds",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "Touch",
+      "target": "Auditory Perception"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Primary and Secondary Qualities in Early Modern Philosophy"
+    },
+    {
+      "source": "Galileo Galilei",
+      "target": "Primary and Secondary Qualities in Early Modern Philosophy"
+    },
+    {
+      "source": "Locke\u2019s Philosophy of Science",
+      "target": "Primary and Secondary Qualities in Early Modern Philosophy"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Ancient Atomism"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Color"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Democritus"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "John Locke"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Locke\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Primary and Secondary Qualities in Early Modern Philosophy",
+      "target": "Touch"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Primary and Secondary Qualities in Early Modern Philosophy"
+    },
+    {
+      "source": "Touch",
+      "target": "Primary and Secondary Qualities in Early Modern Philosophy"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Color",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Introspection",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Leibniz on Causation",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Mysticism",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Pain",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Color"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Intensional Transitive Verbs"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Qualia"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Qualia",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Sense Data",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Touch",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "John Cook Wilson",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Events",
+      "target": "Sounds"
+    },
+    {
+      "source": "Sounds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Sounds",
+      "target": "Color"
+    },
+    {
+      "source": "Sounds",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Sounds",
+      "target": "Events"
+    },
+    {
+      "source": "al-Farabi",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Confucius"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Introspection"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Self-Consciousness"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Introspection",
+      "target": "Inner Speech"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Touch"
+    },
+    {
+      "source": "Touch",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Touch",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Touch",
+      "target": "Molyneux\u2019s Problem"
+    },
+    {
+      "source": "Touch",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Color",
+      "target": "Analysis"
+    },
+    {
+      "source": "Color",
+      "target": "Concepts"
+    },
+    {
+      "source": "Color",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Color",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Color",
+      "target": "Determinables and Determinates"
+    },
+    {
+      "source": "Color",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Color",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Color",
+      "target": "Qualia"
+    },
+    {
+      "source": "Color",
+      "target": "Realism"
+    },
+    {
+      "source": "Color",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Color",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Color",
+      "target": "Supervenience"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "Color"
+    },
+    {
+      "source": "Determinables and Determinates",
+      "target": "Color"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Color"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Color"
+    },
+    {
+      "source": "Anton Marty",
+      "target": "Color"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Color"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Color"
+    },
+    {
+      "source": "Properties",
+      "target": "Color"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Color"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Color"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "Qualia",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "John Locke"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Qualia"
+    },
+    {
+      "source": "Inverted Qualia",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Zombies",
+      "target": "Inverted Qualia"
+    },
+    {
+      "source": "Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "William James"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "Kant\u2019s View of the Mind and Consciousness of Self"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "Leibniz\u2019s Philosophy of Mind"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Boundary",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Kantian Conceptualism/Nonconceptualism",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Object",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Pain",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Indexicals"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Molyneux\u2019s Problem"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Qualia",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Sense Data",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Mary Shepherd",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Henricus Regius"
+    },
+    {
+      "source": "Louis de La Forge",
+      "target": "Henricus Regius"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Mary Astell"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Continental Rationalism"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Mathematics"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Leibniz\u2019s Philosophy of Mind"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "John Locke"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Henry More"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Spinoza\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Substance"
+    },
+    {
+      "source": "Galileo Galilei",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes and the Pineal Gland"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Mathematics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Louis de La Forge"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Henry More"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Democritus"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Ancient Atomism"
+    },
+    {
+      "source": "Locke\u2019s Philosophy of Science",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Locke\u2019s Philosophy of Science",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Locke\u2019s Philosophy of Science",
+      "target": "John Locke"
+    },
+    {
+      "source": "Locke\u2019s Philosophy of Science",
+      "target": "Substance"
+    },
+    {
+      "source": "Locke\u2019s Philosophy of Science",
+      "target": "Locke\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Realism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "John Locke",
+      "target": "David Hume"
+    },
+    {
+      "source": "John Locke",
+      "target": "Locke\u2019s Philosophy of Science"
+    },
+    {
+      "source": "John Locke",
+      "target": "Substance"
+    },
+    {
+      "source": "John Locke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Democritus",
+      "target": "Ancient Atomism"
+    },
+    {
+      "source": "Democritus",
+      "target": "Democritus"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "David Hume"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "John Locke"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "David Hume"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "John Locke"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Molyneux\u2019s Problem"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Realism"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "John Locke"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "Locke\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Emotion"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Pain"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Introspection",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Introspection",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Introspection",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Introspection",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Introspection",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Introspection",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Introspection",
+      "target": "William James"
+    },
+    {
+      "source": "Introspection",
+      "target": "Kant\u2019s View of the Mind and Consciousness of Self"
+    },
+    {
+      "source": "Introspection",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Introspection",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Introspection",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Introspection",
+      "target": "Pain"
+    },
+    {
+      "source": "Introspection",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Introspection",
+      "target": "Qualia"
+    },
+    {
+      "source": "Introspection",
+      "target": "Self-Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Introspection",
+      "target": "Introspection"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Concepts"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Properties"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Substance"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Analysis"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Sense Data"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Supervenience"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Qualia",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Qualia",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Qualia",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Qualia",
+      "target": "Qualia"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Anton Marty"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Events"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Roderick Chisholm"
+    },
+    {
+      "source": "Pain",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Pain",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Pain",
+      "target": "Emotion"
+    },
+    {
+      "source": "Pain",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Pain",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Pain",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Pain",
+      "target": "Qualia"
+    },
+    {
+      "source": "Pain",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Pain",
+      "target": "Pain"
+    },
+    {
+      "source": "John Cook Wilson",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "John Cook Wilson",
+      "target": "Properties"
+    },
+    {
+      "source": "John Cook Wilson",
+      "target": "John Cook Wilson"
+    },
+    {
+      "source": "Leibniz on Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Leibniz on Causation",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Leibniz on Causation",
+      "target": "Substance"
+    },
+    {
+      "source": "Leibniz on Causation",
+      "target": "Leibniz on Causation"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Charlie Dunbar Broad"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Perceptual Experience and Concepts in Classical Indian Philosophy"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Qualia"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Concepts"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Qualia"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Self-Consciousness"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "\u00c9tienne Bonnot de Condillac"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "William James"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "John Locke"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Molyneux\u2019s Problem",
+      "target": "Molyneux\u2019s Problem"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Imagination"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "John Locke"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Qualia"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "David Hume"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "John Locke"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "\u00c9tienne Bonnot de Condillac",
+      "target": "\u00c9tienne Bonnot de Condillac"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Analysis"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Roderick Chisholm"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "David Hume"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Realism"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Metaepistemology"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Mysticism",
+      "target": "William James"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Intensional Transitive Verbs",
+      "target": "Intensional Transitive Verbs"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Qualia"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Sense Data"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Cook Wilson"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Concepts"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Qualia"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "Emotion"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "Substance"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "Descartes and the Pineal Gland"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "William James"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Qualia"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Neutral Monism",
+      "target": "Neutral Monism"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Qualia"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Sense Data"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Jayar\u0101\u015bi"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Charlie Dunbar Broad"
+    },
+    {
+      "source": "Sense Data",
+      "target": "David Hume"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Sense Data",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Neutral Monism"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Qualia"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Realism"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Qualia"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Zombies"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Events",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Events",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Events",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Events",
+      "target": "Object"
+    },
+    {
+      "source": "Events",
+      "target": "Properties"
+    },
+    {
+      "source": "Events",
+      "target": "Substance"
+    },
+    {
+      "source": "Events",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Events"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Aristotle\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Emotion",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Emotion",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Emotion",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Emotion",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Emotion",
+      "target": "Emotion"
+    },
+    {
+      "source": "Confucius",
+      "target": "Confucius"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Imagination"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Realism"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Substance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Emotion"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Imagination"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Imagination",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Imagination",
+      "target": "Emotion"
+    },
+    {
+      "source": "Imagination",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Imagination",
+      "target": "David Hume"
+    },
+    {
+      "source": "Imagination",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Imagination",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "David Hume"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "John Locke"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "Jean-Baptiste Du Bos"
+    },
+    {
+      "source": "al-Farabi",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of Western Philosophy of Music: Antiquity to 1800"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Jean-Baptiste Du Bos"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "History of Western Philosophy of Music: Antiquity to 1800"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Emotion"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Imagination"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Properties"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Realism"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Realism"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Emotion"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Imagination"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Experimental Philosophy of Art and Aesthetics"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Introspection"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Kant\u2019s View of the Mind and Consciousness of Self"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Consciousness"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Concepts"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Introspection"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Kant\u2019s View of the Mind and Consciousness of Self"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Self-Consciousness",
+      "target": "Self-Consciousness"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Concepts"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Physicalism"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Qualia"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Concepts",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Concepts",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Concepts",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Concepts",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Concepts",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Concepts",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Concepts",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Concepts",
+      "target": "Concepts"
+    },
+    {
+      "source": "Properties",
+      "target": "Analysis"
+    },
+    {
+      "source": "Properties",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Concepts"
+    },
+    {
+      "source": "Properties",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Properties",
+      "target": "Determinables and Determinates"
+    },
+    {
+      "source": "Properties",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Properties",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Properties",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Properties",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Properties",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Realism",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Realism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Dispositions",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Properties"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Molyneux\u2019s Problem"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Properties"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Qualia"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Determinables and Determinates",
+      "target": "Properties"
+    },
+    {
+      "source": "Determinables and Determinates",
+      "target": "John Cook Wilson"
+    },
+    {
+      "source": "Determinables and Determinates",
+      "target": "Determinables and Determinates"
+    },
+    {
+      "source": "Anton Marty",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Anton Marty",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Anton Marty",
+      "target": "Anton Marty"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Qualia"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Analysis",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Analysis",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Analysis",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Analysis",
+      "target": "Analysis"
+    },
+    {
+      "source": "Zombies",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Zombies",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Zombies",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Zombies",
+      "target": "Neutral Monism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Zombies",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Zombies",
+      "target": "Zombies"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Qualia"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Qualia"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Zombies"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Imagination"
+    },
+    {
+      "source": "Other Minds",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Zombies"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Concepts"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Charlie Dunbar Broad"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Zombies"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "William James",
+      "target": "William James"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Qualia"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Mind in Indian Buddhist Philosophy"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Qualia"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Zombies"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "David Hume",
+      "target": "John Locke"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Leibniz\u2019s Philosophy of Mind",
+      "target": "Leibniz on Causation"
+    },
+    {
+      "source": "Leibniz\u2019s Philosophy of Mind",
+      "target": "Leibniz\u2019s Philosophy of Mind"
+    },
+    {
+      "source": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "target": "Self-Consciousness"
+    },
+    {
+      "source": "Kant\u2019s View of the Mind and Consciousness of Self",
+      "target": "Kant\u2019s View of the Mind and Consciousness of Self"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Mary Shepherd",
+      "target": "David Hume"
+    },
+    {
+      "source": "Mary Shepherd",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Mary Shepherd",
+      "target": "Mary Shepherd"
+    },
+    {
+      "source": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "target": "Mind in Indian Buddhist Philosophy"
+    },
+    {
+      "source": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Concepts in Classical Indian Philosophy",
+      "target": "Perceptual Experience and Concepts in Classical Indian Philosophy"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Introspection"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Moral Phenomenology"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Concepts"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pain"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Perceptual Learning"
+    },
+    {
+      "source": "Boundary",
+      "target": "Determinables and Determinates"
+    },
+    {
+      "source": "Boundary",
+      "target": "Events"
+    },
+    {
+      "source": "Boundary",
+      "target": "Realism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Kantian Conceptualism/Nonconceptualism",
+      "target": "Kant\u2019s View of the Mind and Consciousness of Self"
+    },
+    {
+      "source": "Kantian Conceptualism/Nonconceptualism",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Kantian Conceptualism/Nonconceptualism",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Kantian Conceptualism/Nonconceptualism",
+      "target": "Kantian Conceptualism/Nonconceptualism"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Object",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Object",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Object",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Object",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Object",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Object",
+      "target": "Properties"
+    },
+    {
+      "source": "Object",
+      "target": "Substance"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Concepts"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Emotion"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Perceptual Learning"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "Neutral Monism"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Descartes\u2019 Mathematics",
+      "target": "Analysis"
+    },
+    {
+      "source": "Descartes\u2019 Mathematics",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Mathematics",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Descartes\u2019 Mathematics",
+      "target": "Descartes\u2019 Mathematics"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Substance",
+      "target": "David Hume"
+    },
+    {
+      "source": "Substance",
+      "target": "Leibniz on Causation"
+    },
+    {
+      "source": "Substance",
+      "target": "John Locke"
+    },
+    {
+      "source": "Substance",
+      "target": "Properties"
+    },
+    {
+      "source": "Substance",
+      "target": "Substance"
+    },
+    {
+      "source": "Antoine Arnauld",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Antoine Arnauld",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Antoine Arnauld",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Antoine Arnauld",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "The Mind/Brain Identity Theory",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Mind/Brain Identity Theory",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Mind/Brain Identity Theory",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Descartes\u2019 Life and Works",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "Descartes\u2019 Life and Works",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Descartes\u2019 Life and Works",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Descartes\u2019 Life and Works",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Descartes\u2019 Life and Works",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "Descartes\u2019 Life and Works",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Substance"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Concepts"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "John Locke"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Louis de La Forge",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "Louis de La Forge",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Louis de La Forge",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Louis de La Forge",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Louis de La Forge",
+      "target": "Louis de La Forge"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Mary Astell",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Mary Astell",
+      "target": "John Locke"
+    },
+    {
+      "source": "Mary Astell",
+      "target": "Mary Astell"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "David Hume"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Spinoza\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "God and Other Necessary Beings",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "God and Other Necessary Beings",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Substance"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Concepts"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "William James"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Descartes\u2019 Theory of Ideas",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Descartes\u2019 Theory of Ideas",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Descartes\u2019 Theory of Ideas",
+      "target": "Properties"
+    },
+    {
+      "source": "Descartes\u2019 Theory of Ideas",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Continental Rationalism"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes and the Pineal Gland"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Leibniz on Causation"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Leibniz\u2019s Philosophy of Mind"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Descartes\u2019 Physics",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Descartes\u2019 Physics",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Descartes\u2019 Physics",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Descartes\u2019 Physics",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "David Hume"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Antoine Arnauld"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Mary Astell"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes and the Pineal Gland"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Life and Works"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Mathematics"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Descartes\u2019 Theory of Ideas"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Leibniz on Causation"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Leibniz\u2019s Philosophy of Mind"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Mary Shepherd"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Substance"
+    },
+    {
+      "source": "Continental Rationalism",
+      "target": "Continental Rationalism"
+    },
+    {
+      "source": "Spinoza\u2019s Modal Metaphysics",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Spinoza\u2019s Modal Metaphysics",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Spinoza\u2019s Modal Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "Spinoza\u2019s Modal Metaphysics",
+      "target": "Spinoza\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Henry More",
+      "target": "Ancient Atomism"
+    },
+    {
+      "source": "Henry More",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Henry More",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Henry More",
+      "target": "Spinoza\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Henry More",
+      "target": "Henry More"
+    }
+  ]
+}

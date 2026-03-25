@@ -1,0 +1,5702 @@
+{
+  "nodes": [
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 1,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Models in Science",
+      "group": 2,
+      "address": "models-science"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 2,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 2,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 2,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 2,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 2,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Game Theory",
+      "group": 2,
+      "address": "game-theory"
+    },
+    {
+      "id": "The Structure of Scientific Theories",
+      "group": 3,
+      "address": "structure-scientific-theories"
+    },
+    {
+      "id": "Philosophy of Microbiology",
+      "group": 3,
+      "address": "microbiology"
+    },
+    {
+      "id": "Intertheory Relations in Physics",
+      "group": 3,
+      "address": "physics-interrelate"
+    },
+    {
+      "id": "Thought Experiments",
+      "group": 3,
+      "address": "thought-experiment"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Fictionalism",
+      "group": 3,
+      "address": "fictionalism"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "Scientific Revolutions",
+      "group": 3,
+      "address": "scientific-revolutions"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Gene",
+      "group": 3,
+      "address": "gene"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Adaptationism",
+      "group": 3,
+      "address": "adaptationism"
+    },
+    {
+      "id": "Theory and Observation in Science",
+      "group": 3,
+      "address": "science-theory-observation"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 3,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "Philosophy of Psychiatry",
+      "group": 3,
+      "address": "psychiatry"
+    },
+    {
+      "id": "Measurement in Science",
+      "group": 3,
+      "address": "measurement-science"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 3,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Hans Vaihinger",
+      "group": 3,
+      "address": "vaihinger"
+    },
+    {
+      "id": "Scientific Representation",
+      "group": 3,
+      "address": "scientific-representation"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Fictional Entities",
+      "group": 3,
+      "address": "fictional-entities"
+    },
+    {
+      "id": "Truthlikeness",
+      "group": 3,
+      "address": "truthlikeness"
+    },
+    {
+      "id": "Constructive Empiricism",
+      "group": 3,
+      "address": "constructive-empiricism"
+    },
+    {
+      "id": "Philosophy of Biology in Latin America",
+      "group": 3,
+      "address": "phil-bio-latin-america"
+    },
+    {
+      "id": "Climate Science",
+      "group": 3,
+      "address": "climate-science"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Computer Simulations in Science",
+      "group": 3,
+      "address": "simulations-science"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 3,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "The Genotype/Phenotype Distinction",
+      "group": 3,
+      "address": "genotype-phenotype"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Developmental Biology",
+      "group": 3,
+      "address": "biology-developmental"
+    },
+    {
+      "id": "Methods in Comparative Cognition",
+      "group": 3,
+      "address": "comparative-cognition"
+    },
+    {
+      "id": "Philosophy of Chemistry",
+      "group": 3,
+      "address": "chemistry"
+    },
+    {
+      "id": "Chaos",
+      "group": 3,
+      "address": "chaos"
+    },
+    {
+      "id": "Computation in Physical Systems",
+      "group": 3,
+      "address": "computation-physicalsystems"
+    },
+    {
+      "id": "Philosophy of Immunology",
+      "group": 3,
+      "address": "immunology"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "The Neuroscience of Consciousness",
+      "group": 3,
+      "address": "consciousness-neuroscience"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "Mathematical Explanation",
+      "group": 3,
+      "address": "mathematics-explanation"
+    },
+    {
+      "id": "Cultural Evolution",
+      "group": 3,
+      "address": "evolution-cultural"
+    },
+    {
+      "id": "Fitness",
+      "group": 3,
+      "address": "fitness"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Evolutionary Psychology",
+      "group": 3,
+      "address": "evolutionary-psychology"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Sociobiology",
+      "group": 3,
+      "address": "sociobiology"
+    },
+    {
+      "id": "Units and Levels of Selection",
+      "group": 3,
+      "address": "selection-units"
+    },
+    {
+      "id": "Evolutionary Epistemology",
+      "group": 3,
+      "address": "epistemology-evolutionary"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Altruism",
+      "group": 3,
+      "address": "altruism"
+    },
+    {
+      "id": "Contemporary Approaches to the Social Contract",
+      "group": 3,
+      "address": "contractarianism-contemporary"
+    },
+    {
+      "id": "Biological Information",
+      "group": 3,
+      "address": "information-biological"
+    },
+    {
+      "id": "The Free Rider Problem",
+      "group": 3,
+      "address": "free-rider"
+    },
+    {
+      "id": "Evolution",
+      "group": 3,
+      "address": "evolution"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Biological Altruism",
+      "group": 3,
+      "address": "altruism-biological"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "Underdetermination of Scientific Theory",
+      "group": 3,
+      "address": "scientific-underdetermination"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 3,
+      "address": "peirce"
+    },
+    {
+      "id": "Scientific Objectivity",
+      "group": 3,
+      "address": "scientific-objectivity"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Mathematical Style",
+      "group": 3,
+      "address": "mathematical-style"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "John Stuart Mill",
+      "group": 3,
+      "address": "mill"
+    },
+    {
+      "id": "Ludwik Fleck",
+      "group": 3,
+      "address": "fleck"
+    },
+    {
+      "id": "Epistemological Problems of Testimony",
+      "group": 3,
+      "address": "testimony-episprob"
+    },
+    {
+      "id": "Reproducibility of Scientific Results",
+      "group": 3,
+      "address": "scientific-reproducibility"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Scientific Pluralism",
+      "group": 3,
+      "address": "scientific-pluralism"
+    },
+    {
+      "id": "Naturalism",
+      "group": 3,
+      "address": "naturalism"
+    },
+    {
+      "id": "Pragmatism",
+      "group": 3,
+      "address": "pragmatism"
+    },
+    {
+      "id": "Philosophy of Macroevolution",
+      "group": 3,
+      "address": "macroevolution"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Willard Van Orman Quine",
+      "group": 3,
+      "address": "quine"
+    },
+    {
+      "id": "Auguste Comte",
+      "group": 3,
+      "address": "comte"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Pascal\u2019s Wager",
+      "group": 3,
+      "address": "pascal-wager"
+    },
+    {
+      "id": "Coherentist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-coherence"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "Epistemology in Latin America",
+      "group": 3,
+      "address": "epistemology-latin-america"
+    },
+    {
+      "id": "Fine-Tuning",
+      "group": 3,
+      "address": "fine-tuning"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Fitch\u2019s Paradox of Knowability",
+      "group": 3,
+      "address": "fitch-paradox"
+    },
+    {
+      "id": "Logic and Probability",
+      "group": 3,
+      "address": "logic-probability"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 3,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Analytic Philosophy in Latin America",
+      "group": 3,
+      "address": "latin-american-analytic"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Legal Probabilism",
+      "group": 3,
+      "address": "legal-probabilism"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Confirmation",
+      "group": 3,
+      "address": "confirmation"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "Automated Reasoning",
+      "group": 3,
+      "address": "reasoning-automated"
+    },
+    {
+      "id": "Ancient Logic",
+      "group": 3,
+      "address": "logic-ancient"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 3,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Belief Merging and Judgment Aggregation",
+      "group": 3,
+      "address": "belief-merging"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Transmission of Justification and Warrant",
+      "group": 3,
+      "address": "transmission-justification-warrant"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 3,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "A Priorism in Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology-a-priori"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 3,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Louis Althusser",
+      "group": 3,
+      "address": "althusser"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Disagreement",
+      "group": 3,
+      "address": "disagreement"
+    },
+    {
+      "id": "Public Goods",
+      "group": 3,
+      "address": "public-goods"
+    },
+    {
+      "id": "Logic and Games",
+      "group": 3,
+      "address": "logic-games"
+    },
+    {
+      "id": "Hobbes\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "hobbes-moral"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "Independence Friendly Logic",
+      "group": 3,
+      "address": "logic-if"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "group": 3,
+      "address": "implicature-optimality-games"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "Political Realism in International Relations",
+      "group": 3,
+      "address": "realism-intl-relations"
+    },
+    {
+      "id": "Promises",
+      "group": 3,
+      "address": "promises"
+    }
+  ],
+  "links": [
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Chaos",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Climate Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Gene",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Imagination",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Chaos"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Fitness",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolution"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Contemporary Approaches to the Social Contract",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Risk",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Naturalism"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Trust",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Evidence"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Relativism"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Game Theory"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Promises",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Game Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Model Theory"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Thought Experiments",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Evolution"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Gene"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Imagination"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Hans Vaihinger"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Relativism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Genetics",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Evolution"
+    },
+    {
+      "source": "Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetics",
+      "target": "Gene"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Genetics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Genetics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Genetics",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Gene",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Evolution"
+    },
+    {
+      "source": "Gene",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Gene",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Gene",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Gene",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Gene",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Gene",
+      "target": "Gene"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Imagination",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolution"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Hans Vaihinger"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Imagination"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Evidence"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Gene"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Analytic Philosophy in Latin America"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Climate Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Climate Science",
+      "target": "Climate Science"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Chaos"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Evidence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Gene"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Evidence"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Methods in Comparative Cognition"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Chaos",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Chaos",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Chaos",
+      "target": "Chaos"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Fitness",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Evolution"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Fitness",
+      "target": "Fitness"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Altruism"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolution"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolution"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Gene"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Convention",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Convention",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Convention",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "Relativism"
+    },
+    {
+      "source": "Convention",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Altruism",
+      "target": "Altruism"
+    },
+    {
+      "source": "Contemporary Approaches to the Social Contract",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Gene"
+    },
+    {
+      "source": "Biological Information",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Public Goods"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolution",
+      "target": "Fitness"
+    },
+    {
+      "source": "Evolution",
+      "target": "Gene"
+    },
+    {
+      "source": "Evolution",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Evolution",
+      "target": "Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Evolution",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Democracy"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Convention"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Relativism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Naturalism"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Relativism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Trust"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Reproducibility of Scientific Results"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Reproducibility of Scientific Results"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "Altruism"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Relativism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Analytic Philosophy in Latin America"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Legal Probabilism"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Evidence"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Reproducibility of Scientific Results"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Evidence",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Relativism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Relativism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Relativism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Evidence"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Democracy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Naturalism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Public Goods",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Public Goods"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Democracy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Risk"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Convention"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Political Realism in International Relations"
+    },
+    {
+      "source": "Promises",
+      "target": "Convention"
+    },
+    {
+      "source": "Promises",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Promises",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Promises",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "Promises",
+      "target": "Promises"
+    }
+  ]
+}

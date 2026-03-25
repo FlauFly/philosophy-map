@@ -1,0 +1,6406 @@
+{
+  "nodes": [
+    {
+      "id": "Social Networking and Ethics",
+      "group": 1,
+      "address": "ethics-social-networking"
+    },
+    {
+      "id": "J\u00fcrgen Habermas",
+      "group": 2,
+      "address": "habermas"
+    },
+    {
+      "id": "Ethics of Artificial Intelligence and Robotics",
+      "group": 2,
+      "address": "ethics-ai"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 2,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 2,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Information Technology and Moral Values",
+      "group": 2,
+      "address": "it-moral-values"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 2,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Privacy and Information Technology",
+      "group": 2,
+      "address": "it-privacy"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 2,
+      "address": "technology"
+    },
+    {
+      "id": "Phenomenological Approaches to Ethics and Information Technology",
+      "group": 2,
+      "address": "ethics-it-phenomenology"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 2,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Moral Character",
+      "group": 2,
+      "address": "moral-character"
+    },
+    {
+      "id": "Artifact",
+      "group": 2,
+      "address": "artifact"
+    },
+    {
+      "id": "Publicity",
+      "group": 2,
+      "address": "publicity"
+    },
+    {
+      "id": "Privacy",
+      "group": 2,
+      "address": "privacy"
+    },
+    {
+      "id": "Personal Identity and Ethics",
+      "group": 2,
+      "address": "identity-ethics"
+    },
+    {
+      "id": "Search Engines and Ethics",
+      "group": 2,
+      "address": "ethics-search"
+    },
+    {
+      "id": "Citizenship",
+      "group": 3,
+      "address": "citizenship"
+    },
+    {
+      "id": "Political Legitimacy",
+      "group": 3,
+      "address": "legitimacy"
+    },
+    {
+      "id": "Critical Theory (Frankfurt School)",
+      "group": 3,
+      "address": "critical-theory"
+    },
+    {
+      "id": "Hermeneutics",
+      "group": 3,
+      "address": "hermeneutics"
+    },
+    {
+      "id": "Feminist Political Philosophy",
+      "group": 3,
+      "address": "feminism-political"
+    },
+    {
+      "id": "Alfred Schutz",
+      "group": 3,
+      "address": "schutz"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Public Justification",
+      "group": 3,
+      "address": "justification-public"
+    },
+    {
+      "id": "Religion and Morality in Western Philosophy",
+      "group": 3,
+      "address": "religion-morality"
+    },
+    {
+      "id": "Max Weber",
+      "group": 3,
+      "address": "weber"
+    },
+    {
+      "id": "Aesthetics in Critical Theory",
+      "group": 3,
+      "address": "aesthetics-critical-theory"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Patriotism",
+      "group": 3,
+      "address": "patriotism"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "Religion and Political Theory",
+      "group": 3,
+      "address": "religion-politics"
+    },
+    {
+      "id": "Max Horkheimer",
+      "group": 3,
+      "address": "horkheimer"
+    },
+    {
+      "id": "Theodor W. Adorno",
+      "group": 3,
+      "address": "adorno"
+    },
+    {
+      "id": "Wilhelm von Humboldt",
+      "group": 3,
+      "address": "wilhelm-humboldt"
+    },
+    {
+      "id": "The Common Good",
+      "group": 3,
+      "address": "common-good"
+    },
+    {
+      "id": "Transcendental Arguments",
+      "group": 3,
+      "address": "transcendental-arguments"
+    },
+    {
+      "id": "Cosmopolitanism",
+      "group": 3,
+      "address": "cosmopolitanism"
+    },
+    {
+      "id": "Public Reason",
+      "group": 3,
+      "address": "public-reason"
+    },
+    {
+      "id": "Authority",
+      "group": 3,
+      "address": "authority"
+    },
+    {
+      "id": "Pragmatism",
+      "group": 3,
+      "address": "pragmatism"
+    },
+    {
+      "id": "Herbert Marcuse",
+      "group": 3,
+      "address": "marcuse"
+    },
+    {
+      "id": "Walter Benjamin",
+      "group": 3,
+      "address": "benjamin"
+    },
+    {
+      "id": "George Herbert Mead",
+      "group": 3,
+      "address": "mead"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Internet Research Ethics",
+      "group": 3,
+      "address": "ethics-internet-research"
+    },
+    {
+      "id": "The Ethics of Manipulation",
+      "group": 3,
+      "address": "ethics-manipulation"
+    },
+    {
+      "id": "Empirical Approaches to Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility-empirical"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Friendship",
+      "group": 3,
+      "address": "friendship"
+    },
+    {
+      "id": "The Textual Transmission of the Aristotelian Corpus",
+      "group": 3,
+      "address": "aristotle-text"
+    },
+    {
+      "id": "Aristotle\u2019s Political Theory",
+      "group": 3,
+      "address": "aristotle-politics"
+    },
+    {
+      "id": "Forgiveness",
+      "group": 3,
+      "address": "forgiveness"
+    },
+    {
+      "id": "Plato\u2019s Ethics and Politics in The Republic",
+      "group": 3,
+      "address": "plato-ethics-politics"
+    },
+    {
+      "id": "Moral Naturalism",
+      "group": 3,
+      "address": "naturalism-moral"
+    },
+    {
+      "id": "17th and 18th Century Theories of Emotions",
+      "group": 3,
+      "address": "emotions-17th18th"
+    },
+    {
+      "id": "Aristotle\u2019s Psychology",
+      "group": 3,
+      "address": "aristotle-psychology"
+    },
+    {
+      "id": "Human Nature",
+      "group": 3,
+      "address": "human-nature"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Medieval Theories of Conscience",
+      "group": 3,
+      "address": "conscience-medieval"
+    },
+    {
+      "id": "Ancient Political Philosophy",
+      "group": 3,
+      "address": "ancient-political"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Roger Bacon",
+      "group": 3,
+      "address": "roger-bacon"
+    },
+    {
+      "id": "Albert the Great",
+      "group": 3,
+      "address": "albert-great"
+    },
+    {
+      "id": "Lorenzo Valla",
+      "group": 3,
+      "address": "lorenzo-valla"
+    },
+    {
+      "id": "Marriage and Domestic Partnership",
+      "group": 3,
+      "address": "marriage"
+    },
+    {
+      "id": "Bradley\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "bradley-moral"
+    },
+    {
+      "id": "Plato",
+      "group": 3,
+      "address": "plato"
+    },
+    {
+      "id": "Wisdom",
+      "group": 3,
+      "address": "wisdom"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 3,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Pleasure",
+      "group": 3,
+      "address": "pleasure"
+    },
+    {
+      "id": "Ancient Ethical Theory",
+      "group": 3,
+      "address": "ethics-ancient"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Justice",
+      "group": 3,
+      "address": "justice"
+    },
+    {
+      "id": "Medieval Theories of Practical Reason",
+      "group": 3,
+      "address": "practical-reason-med"
+    },
+    {
+      "id": "Egoism",
+      "group": 3,
+      "address": "egoism"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "group": 3,
+      "address": "al-farabi-soc-rel"
+    },
+    {
+      "id": "Moral Luck",
+      "group": 3,
+      "address": "moral-luck"
+    },
+    {
+      "id": "Cicero",
+      "group": 3,
+      "address": "cicero"
+    },
+    {
+      "id": "Dewey\u2019s Political Philosophy",
+      "group": 3,
+      "address": "dewey-political"
+    },
+    {
+      "id": "The Turing Test",
+      "group": 3,
+      "address": "turing-test"
+    },
+    {
+      "id": "Logic-Based Artificial Intelligence",
+      "group": 3,
+      "address": "logic-ai"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "Pornography and Censorship",
+      "group": 3,
+      "address": "pornography-censorship"
+    },
+    {
+      "id": "Intellectual Property",
+      "group": 3,
+      "address": "intellectual-property"
+    },
+    {
+      "id": "John Dewey",
+      "group": 3,
+      "address": "dewey"
+    },
+    {
+      "id": "Theory and Bioethics",
+      "group": 3,
+      "address": "theory-bioethics"
+    },
+    {
+      "id": "Life",
+      "group": 3,
+      "address": "life"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Philosophy of Education",
+      "group": 3,
+      "address": "education-philosophy"
+    },
+    {
+      "id": "Toleration",
+      "group": 3,
+      "address": "toleration"
+    },
+    {
+      "id": "The Ethics of Cultural Heritage",
+      "group": 3,
+      "address": "ethics-cultural-heritage"
+    },
+    {
+      "id": "Rights",
+      "group": 3,
+      "address": "rights"
+    },
+    {
+      "id": "Liberalism",
+      "group": 3,
+      "address": "liberalism"
+    },
+    {
+      "id": "John Stuart Mill",
+      "group": 3,
+      "address": "mill"
+    },
+    {
+      "id": "Freedom of Association",
+      "group": 3,
+      "address": "freedom-association"
+    },
+    {
+      "id": "Mill\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "mill-moral-political"
+    },
+    {
+      "id": "Positive and Negative Liberty",
+      "group": 3,
+      "address": "liberty-positive-negative"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Legal Rights",
+      "group": 3,
+      "address": "legal-rights"
+    },
+    {
+      "id": "Hate Speech",
+      "group": 3,
+      "address": "hate-speech"
+    },
+    {
+      "id": "Business Ethics",
+      "group": 3,
+      "address": "ethics-business"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "Material Constitution",
+      "group": 3,
+      "address": "material-constitution"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Knowledge How",
+      "group": 3,
+      "address": "knowledge-how"
+    },
+    {
+      "id": "Francis Bacon",
+      "group": 3,
+      "address": "francis-bacon"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Sortals",
+      "group": 3,
+      "address": "sortals"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 3,
+      "address": "church-turing"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Turing Machines",
+      "group": 3,
+      "address": "turing-machine"
+    },
+    {
+      "id": "Relative Identity",
+      "group": 3,
+      "address": "identity-relative"
+    },
+    {
+      "id": "Identity Over Time",
+      "group": 3,
+      "address": "identity-time"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "The Chinese Room Argument",
+      "group": 3,
+      "address": "chinese-room"
+    },
+    {
+      "id": "Multiple Realizability",
+      "group": 3,
+      "address": "multiple-realizability"
+    },
+    {
+      "id": "Episteme and Techne",
+      "group": 3,
+      "address": "episteme-techne"
+    },
+    {
+      "id": "Climate Justice",
+      "group": 3,
+      "address": "justice-climate"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Aristotle on Causality",
+      "group": 3,
+      "address": "aristotle-causality"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 3,
+      "address": "enhancement"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Phenomenology",
+      "group": 3,
+      "address": "phenomenology"
+    },
+    {
+      "id": "Heidegger\u2019s Aesthetics",
+      "group": 3,
+      "address": "heidegger-aesthetics"
+    },
+    {
+      "id": "Feminist Perspectives on Disability",
+      "group": 3,
+      "address": "feminism-disability"
+    },
+    {
+      "id": "Ayn Rand",
+      "group": 3,
+      "address": "ayn-rand"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "John Anderson",
+      "group": 3,
+      "address": "anderson-john"
+    },
+    {
+      "id": "Experimental Moral Philosophy",
+      "group": 3,
+      "address": "experimental-moral"
+    },
+    {
+      "id": "Moral Phenomenology",
+      "group": 3,
+      "address": "moral-phenomenology"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Madeleine de Scud\u00e9ry",
+      "group": 3,
+      "address": "madeleine-scudery"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "African Ethics",
+      "group": 3,
+      "address": "african-ethics"
+    },
+    {
+      "id": "Deontological Ethics",
+      "group": 3,
+      "address": "ethics-deontological"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Descartes\u2019 Ethics",
+      "group": 3,
+      "address": "descartes-ethics"
+    },
+    {
+      "id": "Empirical Approaches to Moral Character",
+      "group": 3,
+      "address": "moral-character-empirical"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Integrity",
+      "group": 3,
+      "address": "integrity"
+    },
+    {
+      "id": "Happiness",
+      "group": 3,
+      "address": "happiness"
+    },
+    {
+      "id": "Civic Education",
+      "group": 3,
+      "address": "civic-education"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Loyalty",
+      "group": 3,
+      "address": "loyalty"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Justice as a Virtue",
+      "group": 3,
+      "address": "justice-virtue"
+    },
+    {
+      "id": "Nietzsche\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "nietzsche-moral-political"
+    },
+    {
+      "id": "Moral Dilemmas",
+      "group": 3,
+      "address": "moral-dilemmas"
+    },
+    {
+      "id": "Philanthropy",
+      "group": 3,
+      "address": "philanthropy"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Ethics in Indian Buddhism",
+      "group": 3,
+      "address": "ethics-indian-buddhism"
+    },
+    {
+      "id": "Moral Particularism and Moral Generalism",
+      "group": 3,
+      "address": "moral-particularism-generalism"
+    },
+    {
+      "id": "Iris Murdoch",
+      "group": 3,
+      "address": "murdoch"
+    },
+    {
+      "id": "Normativity in Metaethics",
+      "group": 3,
+      "address": "normativity-metaethics"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 3,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "Gratitude",
+      "group": 3,
+      "address": "gratitude"
+    },
+    {
+      "id": "Philippa Foot",
+      "group": 3,
+      "address": "philippa-foot"
+    },
+    {
+      "id": "Corruption",
+      "group": 3,
+      "address": "corruption"
+    },
+    {
+      "id": "Feminist Environmental Philosophy",
+      "group": 3,
+      "address": "feminism-environmental"
+    },
+    {
+      "id": "Moral Theory",
+      "group": 3,
+      "address": "moral-theory"
+    },
+    {
+      "id": "Creativity",
+      "group": 3,
+      "address": "creativity"
+    },
+    {
+      "id": "Modesty and Humility",
+      "group": 3,
+      "address": "modesty-humility"
+    },
+    {
+      "id": "Feminist Bioethics",
+      "group": 3,
+      "address": "feminist-bioethics"
+    },
+    {
+      "id": "Respect",
+      "group": 3,
+      "address": "respect"
+    },
+    {
+      "id": "Supererogation",
+      "group": 3,
+      "address": "supererogation"
+    },
+    {
+      "id": "Moral Psychology: Empirical Approaches",
+      "group": 3,
+      "address": "moral-psych-emp"
+    },
+    {
+      "id": "Sikh Philosophy",
+      "group": 3,
+      "address": "sikh-philosophy"
+    },
+    {
+      "id": "Philosophy of Theater",
+      "group": 3,
+      "address": "theater"
+    },
+    {
+      "id": "Virtue Epistemology",
+      "group": 3,
+      "address": "epistemology-virtue"
+    },
+    {
+      "id": "Plato\u2019s Ethics: An Overview",
+      "group": 3,
+      "address": "plato-ethics"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Mind (Heart-Mind) in Chinese Philosophy",
+      "group": 3,
+      "address": "chinese-mind"
+    },
+    {
+      "id": "Karl Marx",
+      "group": 3,
+      "address": "marx"
+    },
+    {
+      "id": "Epictetus",
+      "group": 3,
+      "address": "epictetus"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Thomas Hill Green",
+      "group": 3,
+      "address": "green"
+    },
+    {
+      "id": "Stoicism",
+      "group": 3,
+      "address": "stoicism"
+    },
+    {
+      "id": "Love",
+      "group": 3,
+      "address": "love"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Aesthetics of the Everyday",
+      "group": 3,
+      "address": "aesthetics-of-everyday"
+    },
+    {
+      "id": "Philosophy of Architecture",
+      "group": 3,
+      "address": "architecture"
+    },
+    {
+      "id": "Ordinary Objects",
+      "group": 3,
+      "address": "ordinary-objects"
+    },
+    {
+      "id": "Environmental Aesthetics",
+      "group": 3,
+      "address": "environmental-aesthetics"
+    },
+    {
+      "id": "Mereology",
+      "group": 3,
+      "address": "mereology"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Henry Sidgwick",
+      "group": 3,
+      "address": "sidgwick"
+    },
+    {
+      "id": "Croce\u2019s Aesthetics",
+      "group": 3,
+      "address": "croce-aesthetics"
+    },
+    {
+      "id": "Informed Consent",
+      "group": 3,
+      "address": "informed-consent"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Theories of the Common Law of Torts",
+      "group": 3,
+      "address": "tort-theories"
+    },
+    {
+      "id": "Privacy and Medicine",
+      "group": 3,
+      "address": "privacy-medicine"
+    },
+    {
+      "id": "Human Rights",
+      "group": 3,
+      "address": "rights-human"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    },
+    {
+      "id": "The Definition of Death",
+      "group": 3,
+      "address": "death-definition"
+    },
+    {
+      "id": "Identity",
+      "group": 3,
+      "address": "identity"
+    },
+    {
+      "id": "Locke on Personal Identity",
+      "group": 3,
+      "address": "locke-personal-identity"
+    },
+    {
+      "id": "The Unity of Consciousness",
+      "group": 3,
+      "address": "consciousness-unity"
+    },
+    {
+      "id": "Advance Directives and Substitute Decision-Making",
+      "group": 3,
+      "address": "advance-directives"
+    },
+    {
+      "id": "Animalism",
+      "group": 3,
+      "address": "animalism"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Temporal Parts",
+      "group": 3,
+      "address": "temporal-parts"
+    },
+    {
+      "id": "Dreams and Dreaming",
+      "group": 3,
+      "address": "dreams-dreaming"
+    },
+    {
+      "id": "Akan Philosophy of the Person",
+      "group": 3,
+      "address": "akan-person"
+    },
+    {
+      "id": "Empirical Approaches to Altruism",
+      "group": 3,
+      "address": "altruism-empirical"
+    },
+    {
+      "id": "Personal Identity",
+      "group": 3,
+      "address": "identity-personal"
+    },
+    {
+      "id": "Neuroethics",
+      "group": 3,
+      "address": "neuroethics"
+    },
+    {
+      "id": "Reid on Memory and Personal Identity",
+      "group": 3,
+      "address": "reid-memory-identity"
+    },
+    {
+      "id": "The Ethics of Abortion",
+      "group": 3,
+      "address": "abortion"
+    },
+    {
+      "id": "The Nonidentity Problem",
+      "group": 3,
+      "address": "nonidentity-problem"
+    },
+    {
+      "id": "Obligations to Oneself",
+      "group": 3,
+      "address": "self-obligations"
+    },
+    {
+      "id": "The Donation and Sale of Human Eggs and Sperm",
+      "group": 3,
+      "address": "gametes-donation-sale"
+    }
+  ],
+  "links": [
+    {
+      "source": "Artifact",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Publicity"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Authority",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Citizenship"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "The Common Good"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Democracy"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Public Justification"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Patriotism"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Public Reason"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Wilhelm von Humboldt",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Public Justification",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Public Reason",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Max Weber",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Privacy",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Egoism"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Friendship"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Plato"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Aristotle\u2019s Political Theory",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Psychology",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Cicero",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Egoism",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Ancient Ethical Theory",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Justice",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Trust",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Life"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Hate Speech"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Toleration"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Information"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Sortals"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Artifact",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "African Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Corruption",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Creativity",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Integrity",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Nietzsche\u2019s Moral and Political Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Sikh Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Moral Character",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Epictetus",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Friendship",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Love",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Character"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Artifact"
+    },
+    {
+      "source": "Artifact",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Artifact",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Boundary",
+      "target": "Artifact"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Artifact"
+    },
+    {
+      "source": "Mereology",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Democracy",
+      "target": "Publicity"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Publicity"
+    },
+    {
+      "source": "Publicity",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Publicity",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Publicity",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Publicity",
+      "target": "Plato"
+    },
+    {
+      "source": "Publicity",
+      "target": "Privacy"
+    },
+    {
+      "source": "Publicity",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Publicity",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Publicity"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Publicity"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Privacy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Privacy"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Privacy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Privacy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Privacy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Privacy",
+      "target": "Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Privacy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Advance Directives and Substitute Decision-Making",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Akan Philosophy of the Person",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Animalism",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "The Donation and Sale of Human Eggs and Sperm",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Egoism",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Identity"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Locke on Personal Identity"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Obligations to Oneself"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Reid on Memory and Personal Identity",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Democracy"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Authority"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Max Weber"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Alfred Schutz"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Democracy"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Public Justification",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Nietzsche\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Max Weber",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Max Weber",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Max Weber",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Max Weber",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Max Weber",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Max Weber",
+      "target": "Max Weber"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Aesthetics in Critical Theory"
+    },
+    {
+      "source": "Democracy",
+      "target": "Authority"
+    },
+    {
+      "source": "Democracy",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Democracy",
+      "target": "Justice"
+    },
+    {
+      "source": "Democracy",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Democracy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Democracy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Democracy",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Democracy",
+      "target": "Rights"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Max Weber"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Authority"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Democracy"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Toleration"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Identity"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Max Weber"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Wilhelm von Humboldt",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Wilhelm von Humboldt",
+      "target": "Wilhelm von Humboldt"
+    },
+    {
+      "source": "The Common Good",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Common Good",
+      "target": "Democracy"
+    },
+    {
+      "source": "The Common Good",
+      "target": "Friendship"
+    },
+    {
+      "source": "The Common Good",
+      "target": "Justice"
+    },
+    {
+      "source": "The Common Good",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Common Good",
+      "target": "The Common Good"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Cicero"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Public Reason",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Public Reason",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Public Reason",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Public Reason",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Authority",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Authority",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Authority",
+      "target": "Democracy"
+    },
+    {
+      "source": "Authority",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Authority",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Authority",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Authority",
+      "target": "Authority"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "John Dewey"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Functionalism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Empirical Approaches to Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Friendship",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Friendship",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Love"
+    },
+    {
+      "source": "Friendship",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Friendship",
+      "target": "Respect"
+    },
+    {
+      "source": "Friendship",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Friendship",
+      "target": "Friendship"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "The Textual Transmission of the Aristotelian Corpus"
+    },
+    {
+      "source": "Aristotle\u2019s Political Theory",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Supererogation"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Stoicism"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Aristotle\u2019s Psychology",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Trust",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Friendship"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Plato"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Egoism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Cicero"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Love"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Bradley\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Plato",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Plato",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Plato",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Ancient Ethical Theory",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Ethical Theory",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Aristotle",
+      "target": "The Textual Transmission of the Aristotelian Corpus"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Happiness"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Justice",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Justice",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Justice",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Egoism",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Egoism",
+      "target": "Ayn Rand"
+    },
+    {
+      "source": "Egoism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Egoism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Egoism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Egoism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "al-Farabi\u2019s Philosophy of Society and Religion"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Cicero",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Cicero",
+      "target": "Plato"
+    },
+    {
+      "source": "Cicero",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Cicero",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Cicero",
+      "target": "Cicero"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Logic-Based Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Rights"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Civic Education"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Dewey",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "John Dewey",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "John Dewey",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Moral Theory"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Life",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Life",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Life",
+      "target": "Life"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Civic Education"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Toleration",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Toleration",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Toleration",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Toleration",
+      "target": "Toleration"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "The Ethics of Cultural Heritage"
+    },
+    {
+      "source": "Rights",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Rights",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Rights",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Justice"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Freedom of Association"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Liberalism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Toleration"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Democracy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Freedom of Association"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Happiness"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Respect"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Hate Speech"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Corruption"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Rights"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Genetics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Information",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Information",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Information"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Identity"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Mereology"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Sortals"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Sortals",
+      "target": "Identity"
+    },
+    {
+      "source": "Sortals",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Sortals",
+      "target": "Sortals"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Identity"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Mereology"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Sortals"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Risk",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Plato"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Animalism"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Alfred Schutz"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Egoism"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Rights"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Ayn Rand"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Mereology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Toleration"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "John Anderson",
+      "target": "John Anderson"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Moral Phenomenology"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Madeleine de Scud\u00e9ry"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "African Ethics",
+      "target": "Akan Philosophy of the Person"
+    },
+    {
+      "source": "African Ethics",
+      "target": "African Ethics"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Respect"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Happiness"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Respect"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Integrity",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Integrity",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Integrity",
+      "target": "Integrity"
+    },
+    {
+      "source": "Happiness",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Happiness",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Happiness",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Happiness",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Happiness",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Happiness",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Happiness",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Happiness",
+      "target": "Plato"
+    },
+    {
+      "source": "Happiness",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Happiness",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Happiness",
+      "target": "Happiness"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Democracy"
+    },
+    {
+      "source": "Civic Education",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Civic Education",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Civic Education"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Hate Speech"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Friendship"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Justice"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Nietzsche\u2019s Moral and Political Philosophy",
+      "target": "Nietzsche\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Bradley\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Plato"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "The Common Good"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Justice"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Supererogation"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Philanthropy"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Ethics in Indian Buddhism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Iris Murdoch"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Gratitude"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Corruption",
+      "target": "Integrity"
+    },
+    {
+      "source": "Corruption",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Corruption",
+      "target": "Corruption"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Moral Theory"
+    },
+    {
+      "source": "Creativity",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Creativity",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Creativity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Creativity",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Creativity",
+      "target": "Creativity"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Epictetus"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Ethics in Indian Buddhism"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Trust"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Love"
+    },
+    {
+      "source": "Respect",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Respect",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Respect",
+      "target": "Rights"
+    },
+    {
+      "source": "Respect",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Respect",
+      "target": "Respect"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Supererogation"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Egoism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Sikh Philosophy",
+      "target": "Sikh Philosophy"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Plato"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Iris Murdoch"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Mind (Heart-Mind) in Chinese Philosophy"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Epictetus",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Epictetus",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Epictetus",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Epictetus",
+      "target": "Epictetus"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Authority"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Democracy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Public Justification"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Public Reason"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Human Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Risk"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Toleration"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Friendship"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Integrity"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Life"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "The Common Good"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Cicero"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Epictetus"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Love",
+      "target": "Friendship"
+    },
+    {
+      "source": "Love",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Love",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Love",
+      "target": "Respect"
+    },
+    {
+      "source": "Love",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Love",
+      "target": "Love"
+    },
+    {
+      "source": "Boundary",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Boundary",
+      "target": "Life"
+    },
+    {
+      "source": "Boundary",
+      "target": "Mereology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Mereology",
+      "target": "Boundary"
+    },
+    {
+      "source": "Mereology",
+      "target": "Identity"
+    },
+    {
+      "source": "Mereology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Mereology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Mereology",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Mereology",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Mereology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Egoism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Advance Directives and Substitute Decision-Making"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Respect"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Trust"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Democracy"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Rights",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Respect"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Justice"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Identity",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Locke on Personal Identity",
+      "target": "Animalism"
+    },
+    {
+      "source": "Locke on Personal Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Locke on Personal Identity",
+      "target": "Locke on Personal Identity"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Advance Directives and Substitute Decision-Making",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Advance Directives and Substitute Decision-Making",
+      "target": "Respect"
+    },
+    {
+      "source": "Advance Directives and Substitute Decision-Making",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Advance Directives and Substitute Decision-Making",
+      "target": "Advance Directives and Substitute Decision-Making"
+    },
+    {
+      "source": "Animalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Animalism",
+      "target": "Identity"
+    },
+    {
+      "source": "Animalism",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Animalism",
+      "target": "Life"
+    },
+    {
+      "source": "Animalism",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Animalism",
+      "target": "Animalism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Identity"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Mereology"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Akan Philosophy of the Person",
+      "target": "Akan Philosophy of the Person"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Animalism"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Reid on Memory and Personal Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Reid on Memory and Personal Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Reid on Memory and Personal Identity",
+      "target": "Reid on Memory and Personal Identity"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Ethics in Indian Buddhism"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Obligations to Oneself",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Obligations to Oneself",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Obligations to Oneself",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Obligations to Oneself",
+      "target": "Respect"
+    },
+    {
+      "source": "Obligations to Oneself",
+      "target": "Supererogation"
+    },
+    {
+      "source": "Obligations to Oneself",
+      "target": "Obligations to Oneself"
+    },
+    {
+      "source": "The Donation and Sale of Human Eggs and Sperm",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "The Donation and Sale of Human Eggs and Sperm",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "The Donation and Sale of Human Eggs and Sperm",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "The Donation and Sale of Human Eggs and Sperm",
+      "target": "The Donation and Sale of Human Eggs and Sperm"
+    }
+  ]
+}

@@ -1,0 +1,4912 @@
+{
+  "nodes": [
+    {
+      "id": "Ibn Taymiyya",
+      "group": 1,
+      "address": "ibn-taymiyya"
+    },
+    {
+      "id": "Ibn Sina [Avicenna]",
+      "group": 2,
+      "address": "ibn-sina"
+    },
+    {
+      "id": "Ibn \u2018Arab\u012b",
+      "group": 2,
+      "address": "ibn-arabi"
+    },
+    {
+      "id": "Trinity",
+      "group": 2,
+      "address": "trinity"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Religion",
+      "group": 2,
+      "address": "arabic-islamic-religion"
+    },
+    {
+      "id": "Ibn Sina\u2019s Logic",
+      "group": 2,
+      "address": "ibn-sina-logic"
+    },
+    {
+      "id": "Fakhr al-Din al-Razi",
+      "group": 2,
+      "address": "al-din-al-razi"
+    },
+    {
+      "id": "Ibn Kamm\u016bna",
+      "group": 2,
+      "address": "ibn-kammuna"
+    },
+    {
+      "id": "Ibn Sina\u2019s Metaphysics",
+      "group": 2,
+      "address": "ibn-sina-metaphysics"
+    },
+    {
+      "id": "Ibn Rushd [Averroes]",
+      "group": 2,
+      "address": "ibn-rushd"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Language and Logic",
+      "group": 2,
+      "address": "arabic-islamic-language"
+    },
+    {
+      "id": "Arabic and Islamic Metaphysics",
+      "group": 3,
+      "address": "arabic-islamic-metaphysics"
+    },
+    {
+      "id": "\u2018Abd al-Latif al-Baghdadi",
+      "group": 3,
+      "address": "al-baghdadi"
+    },
+    {
+      "id": "al-Ghazali",
+      "group": 3,
+      "address": "al-ghazali"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "\u02bfAyn al-Qudat",
+      "group": 3,
+      "address": "al-qudat"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Mathematics",
+      "group": 3,
+      "address": "arabic-islamic-phil-math"
+    },
+    {
+      "id": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "group": 3,
+      "address": "arabic-islamic-mind"
+    },
+    {
+      "id": "Mysticism in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-mysticism"
+    },
+    {
+      "id": "Isaac Polqar",
+      "group": 3,
+      "address": "polqar"
+    },
+    {
+      "id": "Dante Alighieri",
+      "group": 3,
+      "address": "dante"
+    },
+    {
+      "id": "Ibn Rushd\u2019s Natural Philosophy",
+      "group": 3,
+      "address": "ibn-rushd-natural"
+    },
+    {
+      "id": "Ibn Sina\u2019s Natural Philosophy",
+      "group": 3,
+      "address": "ibn-sina-natural"
+    },
+    {
+      "id": "Medieval Theories of Modality",
+      "group": 3,
+      "address": "modality-medieval"
+    },
+    {
+      "id": "Roger Bacon",
+      "group": 3,
+      "address": "roger-bacon"
+    },
+    {
+      "id": "Umar Khayyam",
+      "group": 3,
+      "address": "umar-khayyam"
+    },
+    {
+      "id": "Abu Bakr al-Razi",
+      "group": 3,
+      "address": "abu-bakr-al-razi"
+    },
+    {
+      "id": "Albert the Great",
+      "group": 3,
+      "address": "albert-great"
+    },
+    {
+      "id": "Causation in Arabic and Islamic Thought",
+      "group": 3,
+      "address": "arabic-islamic-causation"
+    },
+    {
+      "id": "Mulla Sadra",
+      "group": 3,
+      "address": "mulla-sadra"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "group": 3,
+      "address": "arabic-islamic-judaic"
+    },
+    {
+      "id": "William of Auvergne",
+      "group": 3,
+      "address": "william-auvergne"
+    },
+    {
+      "id": "Neoplatonism",
+      "group": 3,
+      "address": "neoplatonism"
+    },
+    {
+      "id": "Isaac Albalag",
+      "group": 3,
+      "address": "albalag"
+    },
+    {
+      "id": "al-Farabi\u2019s Psychology and Epistemology",
+      "group": 3,
+      "address": "al-farabi-psych"
+    },
+    {
+      "id": "Greek Sources in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-greek"
+    },
+    {
+      "id": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "group": 3,
+      "address": "arabic-islamic-natural"
+    },
+    {
+      "id": "Medieval Theories of Transcendentals",
+      "group": 3,
+      "address": "transcendentals-medieval"
+    },
+    {
+      "id": "Suhrawardi",
+      "group": 3,
+      "address": "suhrawardi"
+    },
+    {
+      "id": "Medieval Political Philosophy",
+      "group": 3,
+      "address": "medieval-political"
+    },
+    {
+      "id": "Samuel Ibn Tibbon",
+      "group": 3,
+      "address": "tibbon"
+    },
+    {
+      "id": "Giordano Bruno",
+      "group": 3,
+      "address": "bruno"
+    },
+    {
+      "id": "al-Kindi",
+      "group": 3,
+      "address": "al-kindi"
+    },
+    {
+      "id": "Mysticism",
+      "group": 3,
+      "address": "mysticism"
+    },
+    {
+      "id": "Pseudo-Dionysius the Areopagite",
+      "group": 3,
+      "address": "pseudo-dionysius-areopagite"
+    },
+    {
+      "id": "Identity",
+      "group": 3,
+      "address": "identity"
+    },
+    {
+      "id": "Divine Revelation",
+      "group": 3,
+      "address": "divine-revelation"
+    },
+    {
+      "id": "Samuel Clarke",
+      "group": 3,
+      "address": "clarke"
+    },
+    {
+      "id": "The Medieval Problem of Universals",
+      "group": 3,
+      "address": "universals-medieval"
+    },
+    {
+      "id": "Jonathan Edwards",
+      "group": 3,
+      "address": "edwards"
+    },
+    {
+      "id": "States of Affairs",
+      "group": 3,
+      "address": "states-of-affairs"
+    },
+    {
+      "id": "Ordinary Objects",
+      "group": 3,
+      "address": "ordinary-objects"
+    },
+    {
+      "id": "Relative Identity",
+      "group": 3,
+      "address": "identity-relative"
+    },
+    {
+      "id": "Panentheism",
+      "group": 3,
+      "address": "panentheism"
+    },
+    {
+      "id": "Dialetheism",
+      "group": 3,
+      "address": "dialetheism"
+    },
+    {
+      "id": "Medieval Theories of Analogy",
+      "group": 3,
+      "address": "analogy-medieval"
+    },
+    {
+      "id": "Anicius Manlius Severinus Boethius",
+      "group": 3,
+      "address": "boethius"
+    },
+    {
+      "id": "Personal Identity",
+      "group": 3,
+      "address": "identity-personal"
+    },
+    {
+      "id": "God and Other Ultimates",
+      "group": 3,
+      "address": "god-ultimates"
+    },
+    {
+      "id": "Divine Simplicity",
+      "group": 3,
+      "address": "divine-simplicity"
+    },
+    {
+      "id": "Origen",
+      "group": 3,
+      "address": "origen"
+    },
+    {
+      "id": "Pierre Bayle",
+      "group": 3,
+      "address": "bayle"
+    },
+    {
+      "id": "Plural Quantification",
+      "group": 3,
+      "address": "plural-quant"
+    },
+    {
+      "id": "Divine Freedom",
+      "group": 3,
+      "address": "divine-freedom"
+    },
+    {
+      "id": "John Duns Scotus",
+      "group": 3,
+      "address": "duns-scotus"
+    },
+    {
+      "id": "Material Constitution",
+      "group": 3,
+      "address": "material-constitution"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Philosophy of Religion",
+      "group": 3,
+      "address": "philosophy-religion"
+    },
+    {
+      "id": "Peter Abelard",
+      "group": 3,
+      "address": "abelard"
+    },
+    {
+      "id": "Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-philosophy"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "Essential vs. Accidental Properties",
+      "group": 3,
+      "address": "essential-accidental"
+    },
+    {
+      "id": "Adam de Wodeham",
+      "group": 3,
+      "address": "wodeham"
+    },
+    {
+      "id": "Transcendentalism",
+      "group": 3,
+      "address": "transcendentalism"
+    },
+    {
+      "id": "Contradiction",
+      "group": 3,
+      "address": "contradiction"
+    },
+    {
+      "id": "Temporal Parts",
+      "group": 3,
+      "address": "temporal-parts"
+    },
+    {
+      "id": "Lorenzo Valla",
+      "group": 3,
+      "address": "lorenzo-valla"
+    },
+    {
+      "id": "Eternity in Christian Thought",
+      "group": 3,
+      "address": "eternity"
+    },
+    {
+      "id": "Meister Eckhart",
+      "group": 3,
+      "address": "meister-eckhart"
+    },
+    {
+      "id": "Robert Holkot",
+      "group": 3,
+      "address": "holkot"
+    },
+    {
+      "id": "Omniscience",
+      "group": 3,
+      "address": "omniscience"
+    },
+    {
+      "id": "Medieval Mereology",
+      "group": 3,
+      "address": "mereology-medieval"
+    },
+    {
+      "id": "The Problem of the Many",
+      "group": 3,
+      "address": "problem-of-many"
+    },
+    {
+      "id": "Plotinus",
+      "group": 3,
+      "address": "plotinus"
+    },
+    {
+      "id": "William of Champeaux",
+      "group": 3,
+      "address": "william-champeaux"
+    },
+    {
+      "id": "Sortals",
+      "group": 3,
+      "address": "sortals"
+    },
+    {
+      "id": "Medieval Theories of Singular Terms",
+      "group": 3,
+      "address": "singular-terms-medieval"
+    },
+    {
+      "id": "Joseph Kaspi",
+      "group": 3,
+      "address": "kaspi-joseph"
+    },
+    {
+      "id": "Mereology",
+      "group": 3,
+      "address": "mereology"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "Time Travel",
+      "group": 3,
+      "address": "time-travel"
+    },
+    {
+      "id": "The Epistemology of Religion",
+      "group": 3,
+      "address": "religion-epistemology"
+    },
+    {
+      "id": "John Buridan",
+      "group": 3,
+      "address": "buridan"
+    },
+    {
+      "id": "Numenius",
+      "group": 3,
+      "address": "numenius"
+    },
+    {
+      "id": "John Norris",
+      "group": 3,
+      "address": "john-norris"
+    },
+    {
+      "id": "John Philoponus",
+      "group": 3,
+      "address": "philoponus"
+    },
+    {
+      "id": "Bonaventure",
+      "group": 3,
+      "address": "bonaventure"
+    },
+    {
+      "id": "Religious Language",
+      "group": 3,
+      "address": "religious-language"
+    },
+    {
+      "id": "Medieval Theories of Relations",
+      "group": 3,
+      "address": "relations-medieval"
+    },
+    {
+      "id": "Relations",
+      "group": 3,
+      "address": "relations"
+    },
+    {
+      "id": "Anthony Collins",
+      "group": 3,
+      "address": "collins"
+    },
+    {
+      "id": "Tropes",
+      "group": 3,
+      "address": "tropes"
+    },
+    {
+      "id": "Abner of Burgos",
+      "group": 3,
+      "address": "abner-burgos"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Process Theism",
+      "group": 3,
+      "address": "process-theism"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "Locke on Personal Identity",
+      "group": 3,
+      "address": "locke-personal-identity"
+    },
+    {
+      "id": "Substance",
+      "group": 3,
+      "address": "substance"
+    },
+    {
+      "id": "Personalism",
+      "group": 3,
+      "address": "personalism"
+    },
+    {
+      "id": "Thomas Aquinas",
+      "group": 3,
+      "address": "aquinas"
+    },
+    {
+      "id": "Monotheism",
+      "group": 3,
+      "address": "monotheism"
+    },
+    {
+      "id": "Omnipotence",
+      "group": 3,
+      "address": "omnipotence"
+    },
+    {
+      "id": "Ontological Dependence",
+      "group": 3,
+      "address": "dependence-ontological"
+    },
+    {
+      "id": "Ramon Llull",
+      "group": 3,
+      "address": "llull"
+    },
+    {
+      "id": "Philosophy and Christian Theology",
+      "group": 3,
+      "address": "christiantheology-philosophy"
+    },
+    {
+      "id": "Isaac Newton",
+      "group": 3,
+      "address": "newton"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "Cosmological Argument",
+      "group": 3,
+      "address": "cosmological-argument"
+    },
+    {
+      "id": "Religion and Science",
+      "group": 3,
+      "address": "religion-science"
+    },
+    {
+      "id": "Occasionalism",
+      "group": 3,
+      "address": "occasionalism"
+    },
+    {
+      "id": "Medieval Theories of Demonstration",
+      "group": 3,
+      "address": "demonstration-medieval"
+    },
+    {
+      "id": "Modern Origins of Modal Logic",
+      "group": 3,
+      "address": "logic-modal-origins"
+    },
+    {
+      "id": "Aristotle\u2019s Logic",
+      "group": 3,
+      "address": "aristotle-logic"
+    },
+    {
+      "id": "Ancient Logic",
+      "group": 3,
+      "address": "logic-ancient"
+    },
+    {
+      "id": "al-Farabi",
+      "group": 3,
+      "address": "al-farabi"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "group": 3,
+      "address": "arabic-islamic-influence"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "group": 3,
+      "address": "al-farabi-logic"
+    },
+    {
+      "id": "Medieval Theories of the Syllogism",
+      "group": 3,
+      "address": "medieval-syllogism"
+    },
+    {
+      "id": "Essence and Existence in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-essence"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Maimonides",
+      "group": 3,
+      "address": "maimonides"
+    },
+    {
+      "id": "Intuition",
+      "group": 3,
+      "address": "intuition"
+    },
+    {
+      "id": "Religion and Morality in Western Philosophy",
+      "group": 3,
+      "address": "religion-morality"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Prophecy",
+      "group": 3,
+      "address": "prophecy"
+    },
+    {
+      "id": "Metaphysical Explanation",
+      "group": 3,
+      "address": "metaphysical-explanation"
+    },
+    {
+      "id": "The Theology of Aristotle",
+      "group": 3,
+      "address": "theology-aristotle"
+    },
+    {
+      "id": "Proclus",
+      "group": 3,
+      "address": "proclus"
+    },
+    {
+      "id": "Aristotle\u2019s Metaphysics",
+      "group": 3,
+      "address": "aristotle-metaphysics"
+    },
+    {
+      "id": "Shem Tov Ibn Falaquera",
+      "group": 3,
+      "address": "falaquera"
+    },
+    {
+      "id": "Aristotelianism in the Renaissance",
+      "group": 3,
+      "address": "aristotelianism-renaissance"
+    },
+    {
+      "id": "Boethius of Dacia",
+      "group": 3,
+      "address": "boethius-dacia"
+    },
+    {
+      "id": "Pietro Pomponazzi",
+      "group": 3,
+      "address": "pomponazzi"
+    },
+    {
+      "id": "Marsilius of Padua",
+      "group": 3,
+      "address": "marsilius-padua"
+    },
+    {
+      "id": "Elijah Delmedigo",
+      "group": 3,
+      "address": "delmedigo"
+    },
+    {
+      "id": "Dietrich of Freiberg",
+      "group": 3,
+      "address": "dietrich-freiberg"
+    },
+    {
+      "id": "Joseph Albo",
+      "group": 3,
+      "address": "albo-joseph"
+    },
+    {
+      "id": "Henry More",
+      "group": 3,
+      "address": "henry-more"
+    },
+    {
+      "id": "Ibn B\u00e2jja [Avempace]",
+      "group": 3,
+      "address": "ibn-bajja"
+    },
+    {
+      "id": "Solomon Ibn Gabirol [Avicebron]",
+      "group": 3,
+      "address": "ibn-gabirol"
+    },
+    {
+      "id": "Aristotle\u2019s Categories",
+      "group": 3,
+      "address": "aristotle-categories"
+    },
+    {
+      "id": "Medieval Theories of the Categories",
+      "group": 3,
+      "address": "medieval-categories"
+    },
+    {
+      "id": "Hegel\u2019s Dialectics",
+      "group": 3,
+      "address": "hegel-dialectics"
+    }
+  ],
+  "links": [
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Ibn Taymiyya"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "Ibn Taymiyya"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Ibn Taymiyya"
+    },
+    {
+      "source": "Ibn Taymiyya",
+      "target": "Fakhr al-Din al-Razi"
+    },
+    {
+      "source": "Ibn Taymiyya",
+      "target": "Arabic and Islamic Philosophy of Religion"
+    },
+    {
+      "source": "Ibn Taymiyya",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Ibn Taymiyya",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Taymiyya",
+      "target": "Ibn Sina\u2019s Logic"
+    },
+    {
+      "source": "Ibn Taymiyya",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Trinity",
+      "target": "Ibn Taymiyya"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Abu Bakr al-Razi",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Fakhr al-Din al-Razi",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Rushd\u2019s Natural Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina\u2019s Logic"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina\u2019s Natural Philosophy"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Sina\u2019s Natural Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Mulla Sadra",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Umar Khayyam",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "William of Auvergne",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Ibn \u2018Arab\u012b"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Ibn \u2018Arab\u012b"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "Ibn \u2018Arab\u012b",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "Mulla Sadra",
+      "target": "Ibn \u2018Arab\u012b"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Ibn \u2018Arab\u012b"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Trinity"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Trinity"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Trinity"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Trinity"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Trinity"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Trinity"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Trinity"
+    },
+    {
+      "source": "Origen",
+      "target": "Trinity"
+    },
+    {
+      "source": "Trinity",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Trinity",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Trinity",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Trinity",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Trinity",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Trinity",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Trinity",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Trinity",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Trinity",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Trinity",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Trinity",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Trinity",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Trinity",
+      "target": "Anthony Collins"
+    },
+    {
+      "source": "Trinity",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Trinity",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Trinity",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Trinity",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "Trinity",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Trinity",
+      "target": "Eternity in Christian Thought"
+    },
+    {
+      "source": "Trinity",
+      "target": "Events"
+    },
+    {
+      "source": "Trinity",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Trinity",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Trinity",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Trinity",
+      "target": "Identity"
+    },
+    {
+      "source": "Trinity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Trinity",
+      "target": "Joseph Kaspi"
+    },
+    {
+      "source": "Trinity",
+      "target": "Ramon Llull"
+    },
+    {
+      "source": "Trinity",
+      "target": "Locke on Personal Identity"
+    },
+    {
+      "source": "Trinity",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Trinity",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Trinity",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Trinity",
+      "target": "Mereology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Trinity",
+      "target": "John Norris"
+    },
+    {
+      "source": "Trinity",
+      "target": "Numenius"
+    },
+    {
+      "source": "Trinity",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Trinity",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Trinity",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Trinity",
+      "target": "Origen"
+    },
+    {
+      "source": "Trinity",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Trinity",
+      "target": "Personalism"
+    },
+    {
+      "source": "Trinity",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Trinity",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Trinity",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Trinity",
+      "target": "Isaac Polqar"
+    },
+    {
+      "source": "Trinity",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Properties"
+    },
+    {
+      "source": "Trinity",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Trinity",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Trinity",
+      "target": "Relations"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Trinity",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Trinity",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Trinity",
+      "target": "Religious Language"
+    },
+    {
+      "source": "Trinity",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Trinity",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Theories of Singular Terms"
+    },
+    {
+      "source": "Trinity",
+      "target": "Sortals"
+    },
+    {
+      "source": "Trinity",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Trinity",
+      "target": "Substance"
+    },
+    {
+      "source": "Trinity",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Trinity",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Trinity",
+      "target": "Transcendentalism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Tropes"
+    },
+    {
+      "source": "Trinity",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Trinity",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Trinity",
+      "target": "William of Auvergne"
+    },
+    {
+      "source": "Trinity",
+      "target": "William of Champeaux"
+    },
+    {
+      "source": "Trinity",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Arabic and Islamic Philosophy of Religion"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Fakhr al-Din al-Razi"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Ibn Sina\u2019s Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Fakhr al-Din al-Razi"
+    },
+    {
+      "source": "Fakhr al-Din al-Razi",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Fakhr al-Din al-Razi",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Fakhr al-Din al-Razi",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "Fakhr al-Din al-Razi"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Fakhr al-Din al-Razi"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Intuition"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Ibn Kamm\u016bna",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Ibn Kamm\u016bna"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Proclus"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Ibn Sina\u2019s Natural Philosophy",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Boethius of Dacia",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Elijah Delmedigo",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Shem Tov Ibn Falaquera",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Ibn B\u00e2jja [Avempace]",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Ibn Rushd\u2019s Natural Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Henry More",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Aristotle\u2019s Categories"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Hegel\u2019s Dialectics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Proclus"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Plotinus"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Proclus"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "\u2018Abd al-Latif al-Baghdadi"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Plotinus"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Umar Khayyam"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "\u02bfAyn al-Qudat"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Arabic and Islamic Philosophy of Mathematics"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Isaac Polqar",
+      "target": "Isaac Polqar"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Ibn Rushd\u2019s Natural Philosophy",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Ibn Rushd\u2019s Natural Philosophy",
+      "target": "Ibn Rushd\u2019s Natural Philosophy"
+    },
+    {
+      "source": "Ibn Sina\u2019s Natural Philosophy",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Ibn Sina\u2019s Natural Philosophy",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Ibn Sina\u2019s Natural Philosophy",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Ibn Sina\u2019s Natural Philosophy",
+      "target": "Ibn Sina\u2019s Natural Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Properties"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Substance"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "William of Auvergne"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Umar Khayyam",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Umar Khayyam",
+      "target": "Essence and Existence in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Umar Khayyam",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Umar Khayyam",
+      "target": "Properties"
+    },
+    {
+      "source": "Umar Khayyam",
+      "target": "Umar Khayyam"
+    },
+    {
+      "source": "Abu Bakr al-Razi",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Abu Bakr al-Razi",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Abu Bakr al-Razi",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Abu Bakr al-Razi",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Abu Bakr al-Razi",
+      "target": "Abu Bakr al-Razi"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Dietrich of Freiberg"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Proclus"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Mulla Sadra",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "Mulla Sadra",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Abu Bakr al-Razi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Elijah Delmedigo"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Shem Tov Ibn Falaquera"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Samuel Ibn Tibbon"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "William of Auvergne",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "William of Auvergne",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "William of Auvergne",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "William of Auvergne",
+      "target": "William of Auvergne"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Origen"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Proclus"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Elijah Delmedigo"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Isaac Polqar"
+    },
+    {
+      "source": "Isaac Albalag",
+      "target": "Isaac Albalag"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "al-Farabi\u2019s Philosophy of Logic and Language"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "Aristotle"
+    },
+    {
+      "source": "al-Farabi\u2019s Psychology and Epistemology",
+      "target": "al-Farabi\u2019s Psychology and Epistemology"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Proclus"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Medieval Theories of Transcendentals"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "Suhrawardi",
+      "target": "Suhrawardi"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Shem Tov Ibn Falaquera"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Samuel Ibn Tibbon"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Eternity in Christian Thought"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Plotinus"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Proclus"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Mysticism",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Proclus"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Identity",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Anthony Collins"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Properties"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Tropes"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "Mereology"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Properties"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Aristotle\u2019s Categories"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Monotheism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Panentheism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Process Theism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Religious Language"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Divine Simplicity",
+      "target": "Eternity in Christian Thought"
+    },
+    {
+      "source": "Divine Simplicity",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "Origen",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Origen",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Origen",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Origen",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Origen",
+      "target": "Numenius"
+    },
+    {
+      "source": "Origen",
+      "target": "Origen"
+    },
+    {
+      "source": "Pierre Bayle",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Pierre Bayle",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Mereology"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Identity"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Mereology"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Sortals"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Substance"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religious Language"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "William of Champeaux"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Transcendentals"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Substance"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Transcendentalism",
+      "target": "Transcendentalism"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Identity"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Mereology"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Temporal Parts",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Eternity in Christian Thought",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Eternity in Christian Thought",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Eternity in Christian Thought",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Eternity in Christian Thought",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Eternity in Christian Thought",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "Eternity in Christian Thought",
+      "target": "Eternity in Christian Thought"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Eternity in Christian Thought"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Identity"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Mereology"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "William of Champeaux",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "William of Champeaux",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "William of Champeaux",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "William of Champeaux",
+      "target": "William of Champeaux"
+    },
+    {
+      "source": "Sortals",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Sortals",
+      "target": "Identity"
+    },
+    {
+      "source": "Sortals",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Sortals",
+      "target": "Properties"
+    },
+    {
+      "source": "Sortals",
+      "target": "Substance"
+    },
+    {
+      "source": "Sortals",
+      "target": "Sortals"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "Medieval Theories of Singular Terms"
+    },
+    {
+      "source": "Joseph Kaspi",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Joseph Kaspi",
+      "target": "Samuel Ibn Tibbon"
+    },
+    {
+      "source": "Joseph Kaspi",
+      "target": "Joseph Kaspi"
+    },
+    {
+      "source": "Mereology",
+      "target": "Identity"
+    },
+    {
+      "source": "Mereology",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Mereology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Mereology",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Mereology",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Mereology",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Mereology",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Mereology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Time Travel",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Time Travel",
+      "target": "Time Travel"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "John Buridan",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Buridan",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Numenius",
+      "target": "Origen"
+    },
+    {
+      "source": "Numenius",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Numenius",
+      "target": "Numenius"
+    },
+    {
+      "source": "John Norris",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "John Norris",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "John Norris",
+      "target": "Substance"
+    },
+    {
+      "source": "John Norris",
+      "target": "John Norris"
+    },
+    {
+      "source": "John Philoponus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "John Philoponus",
+      "target": "John Buridan"
+    },
+    {
+      "source": "John Philoponus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "John Philoponus",
+      "target": "John Philoponus"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Religious Language",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Religious Language",
+      "target": "Religious Language"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Properties"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Substance"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Tropes"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Relations",
+      "target": "Properties"
+    },
+    {
+      "source": "Relations",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Relations",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Relations",
+      "target": "Tropes"
+    },
+    {
+      "source": "Relations",
+      "target": "Relations"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Anthony Collins"
+    },
+    {
+      "source": "Tropes",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Tropes",
+      "target": "Events"
+    },
+    {
+      "source": "Tropes",
+      "target": "Properties"
+    },
+    {
+      "source": "Tropes",
+      "target": "Relations"
+    },
+    {
+      "source": "Tropes",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "Tropes",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Tropes",
+      "target": "Substance"
+    },
+    {
+      "source": "Tropes",
+      "target": "Tropes"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Properties",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Properties",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Mereology"
+    },
+    {
+      "source": "Properties",
+      "target": "Relations"
+    },
+    {
+      "source": "Properties",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Properties",
+      "target": "Sortals"
+    },
+    {
+      "source": "Properties",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Properties",
+      "target": "Tropes"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Process Theism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Process Theism",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Events",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Events",
+      "target": "Identity"
+    },
+    {
+      "source": "Events",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Events",
+      "target": "Properties"
+    },
+    {
+      "source": "Events",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Events",
+      "target": "Substance"
+    },
+    {
+      "source": "Events",
+      "target": "Temporal Parts"
+    },
+    {
+      "source": "Events",
+      "target": "Tropes"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "Locke on Personal Identity",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Locke on Personal Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Locke on Personal Identity",
+      "target": "Locke on Personal Identity"
+    },
+    {
+      "source": "Substance",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Substance",
+      "target": "Identity"
+    },
+    {
+      "source": "Substance",
+      "target": "Properties"
+    },
+    {
+      "source": "Substance",
+      "target": "Sortals"
+    },
+    {
+      "source": "Substance",
+      "target": "Substance"
+    },
+    {
+      "source": "Personalism",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Personalism",
+      "target": "Personalism"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Simplicity"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Transcendentals"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Monotheism",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Monotheism",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Monotheism",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Omnipotence",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Omnipotence",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Identity"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Substance"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Tropes"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Ramon Llull"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "al-Farabi",
+      "target": "al-Farabi\u2019s Philosophy of Logic and Language"
+    },
+    {
+      "source": "al-Farabi",
+      "target": "al-Farabi\u2019s Psychology and Epistemology"
+    },
+    {
+      "source": "al-Farabi",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "al-Farabi",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Essence and Existence in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "William of Auvergne"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "al-Farabi\u2019s Psychology and Epistemology"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "al-Farabi\u2019s Philosophy of Logic and Language"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "Mulla Sadra"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "Umar Khayyam"
+    },
+    {
+      "source": "Essence and Existence in Arabic and Islamic Philosophy",
+      "target": "Essence and Existence in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Categories"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Hegel\u2019s Dialectics"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Substance"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Maimonides",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Maimonides",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Maimonides",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Intuition",
+      "target": "Intuition"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Eternity in Christian Thought"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Prophecy",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Plotinus"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Proclus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Proclus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Proclus",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Proclus",
+      "target": "Proclus"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Categories"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Shem Tov Ibn Falaquera",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Shem Tov Ibn Falaquera",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Shem Tov Ibn Falaquera",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Shem Tov Ibn Falaquera",
+      "target": "Shem Tov Ibn Falaquera"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Henry More"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Boethius of Dacia",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Boethius of Dacia",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Boethius of Dacia",
+      "target": "Boethius of Dacia"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Marsilius of Padua"
+    },
+    {
+      "source": "Elijah Delmedigo",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Elijah Delmedigo",
+      "target": "Elijah Delmedigo"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Proclus"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Dietrich of Freiberg"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Joseph Albo"
+    },
+    {
+      "source": "Henry More",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Henry More",
+      "target": "Origen"
+    },
+    {
+      "source": "Henry More",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Henry More",
+      "target": "Henry More"
+    },
+    {
+      "source": "Ibn B\u00e2jja [Avempace]",
+      "target": "al-Farabi"
+    },
+    {
+      "source": "Ibn B\u00e2jja [Avempace]",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Ibn B\u00e2jja [Avempace]",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ibn B\u00e2jja [Avempace]",
+      "target": "Ibn B\u00e2jja [Avempace]"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Aristotle\u2019s Categories",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotle\u2019s Categories",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle\u2019s Categories",
+      "target": "Substance"
+    },
+    {
+      "source": "Aristotle\u2019s Categories",
+      "target": "Aristotle\u2019s Categories"
+    },
+    {
+      "source": "Medieval Theories of the Categories",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Medieval Theories of the Categories",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Hegel\u2019s Dialectics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Hegel\u2019s Dialectics",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Hegel\u2019s Dialectics",
+      "target": "Hegel\u2019s Dialectics"
+    }
+  ]
+}

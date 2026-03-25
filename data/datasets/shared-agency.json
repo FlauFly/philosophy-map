@@ -1,0 +1,5924 @@
+{
+  "nodes": [
+    {
+      "id": "Shared Agency",
+      "group": 1,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Intention",
+      "group": 2,
+      "address": "intention"
+    },
+    {
+      "id": "Business Ethics",
+      "group": 2,
+      "address": "ethics-business"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 2,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Collective Intentionality",
+      "group": 2,
+      "address": "collective-intentionality"
+    },
+    {
+      "id": "Agency",
+      "group": 2,
+      "address": "agency"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 2,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 2,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Action",
+      "group": 2,
+      "address": "action"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 2,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 2,
+      "address": "social-ontology"
+    },
+    {
+      "id": "Group Rights",
+      "group": 2,
+      "address": "rights-group"
+    },
+    {
+      "id": "Practical Reason and the Structure of Actions",
+      "group": 2,
+      "address": "practical-reason-action"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Personal Autonomy",
+      "group": 3,
+      "address": "personal-autonomy"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Knowledge How",
+      "group": 3,
+      "address": "knowledge-how"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Self-Knowledge",
+      "group": 3,
+      "address": "self-knowledge"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 3,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 3,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Doctrine of Double Effect",
+      "group": 3,
+      "address": "double-effect"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "Philosophy of Contract Law",
+      "group": 3,
+      "address": "contract-law"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Hedonism",
+      "group": 3,
+      "address": "hedonism"
+    },
+    {
+      "id": "Philosophical Approaches to Work and Labor",
+      "group": 3,
+      "address": "work-labor"
+    },
+    {
+      "id": "Perfectionism in Moral and Political Philosophy",
+      "group": 3,
+      "address": "perfectionism-moral"
+    },
+    {
+      "id": "Distributive Justice",
+      "group": 3,
+      "address": "justice-distributive"
+    },
+    {
+      "id": "Markets",
+      "group": 3,
+      "address": "markets"
+    },
+    {
+      "id": "The Ethics of Manipulation",
+      "group": 3,
+      "address": "ethics-manipulation"
+    },
+    {
+      "id": "Rights",
+      "group": 3,
+      "address": "rights"
+    },
+    {
+      "id": "The Principle of Beneficence in Applied Ethics",
+      "group": 3,
+      "address": "principle-beneficence"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Loyalty",
+      "group": 3,
+      "address": "loyalty"
+    },
+    {
+      "id": "Privacy and Information Technology",
+      "group": 3,
+      "address": "it-privacy"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "Global Justice",
+      "group": 3,
+      "address": "justice-global"
+    },
+    {
+      "id": "Moral Relativism",
+      "group": 3,
+      "address": "moral-relativism"
+    },
+    {
+      "id": "Philanthropy",
+      "group": 3,
+      "address": "philanthropy"
+    },
+    {
+      "id": "Discrimination",
+      "group": 3,
+      "address": "discrimination"
+    },
+    {
+      "id": "Feminist Perspectives on Class and Work",
+      "group": 3,
+      "address": "feminism-class"
+    },
+    {
+      "id": "The Definition of Lying and Deception",
+      "group": 3,
+      "address": "lying-definition"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Corruption",
+      "group": 3,
+      "address": "corruption"
+    },
+    {
+      "id": "Human Rights",
+      "group": 3,
+      "address": "rights-human"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Exploitation",
+      "group": 3,
+      "address": "exploitation"
+    },
+    {
+      "id": "Methodological Holism in the Social Sciences",
+      "group": 3,
+      "address": "holism-social"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Marriage and Domestic Partnership",
+      "group": 3,
+      "address": "marriage"
+    },
+    {
+      "id": "Sin in Christian Thought",
+      "group": 3,
+      "address": "sin-christian"
+    },
+    {
+      "id": "Louis Althusser",
+      "group": 3,
+      "address": "althusser"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "George Herbert Mead",
+      "group": 3,
+      "address": "mead"
+    },
+    {
+      "id": "Animal Consciousness",
+      "group": 3,
+      "address": "consciousness-animal"
+    },
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 3,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Edith Stein",
+      "group": 3,
+      "address": "stein"
+    },
+    {
+      "id": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "group": 3,
+      "address": "phenomenology-mg"
+    },
+    {
+      "id": "Locke On Freedom",
+      "group": 3,
+      "address": "locke-freedom"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "The Neuroscience of Consciousness",
+      "group": 3,
+      "address": "consciousness-neuroscience"
+    },
+    {
+      "id": "Feminist Perspectives on Autonomy",
+      "group": 3,
+      "address": "feminism-autonomy"
+    },
+    {
+      "id": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "group": 3,
+      "address": "incompatibilism-theories"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 3,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Ideology",
+      "group": 3,
+      "address": "ideology"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Free Will",
+      "group": 3,
+      "address": "freewill"
+    },
+    {
+      "id": "School of Salamanca",
+      "group": 3,
+      "address": "school-salamanca"
+    },
+    {
+      "id": "Incommensurable Values",
+      "group": 3,
+      "address": "value-incommensurable"
+    },
+    {
+      "id": "Precedent and Analogy in Legal Reasoning",
+      "group": 3,
+      "address": "legal-reas-prec"
+    },
+    {
+      "id": "Moral Particularism",
+      "group": 3,
+      "address": "moral-particularism"
+    },
+    {
+      "id": "Kant\u2019s Account of Reason",
+      "group": 3,
+      "address": "kant-reason"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Bernard Williams",
+      "group": 3,
+      "address": "williams-bernard"
+    },
+    {
+      "id": "Deontic Logic",
+      "group": 3,
+      "address": "logic-deontic"
+    },
+    {
+      "id": "Moral Dilemmas",
+      "group": 3,
+      "address": "moral-dilemmas"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 3,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "Moral Particularism and Moral Generalism",
+      "group": 3,
+      "address": "moral-particularism-generalism"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Mill\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "mill-moral-political"
+    },
+    {
+      "id": "Moral Psychology: Empirical Approaches",
+      "group": 3,
+      "address": "moral-psych-emp"
+    },
+    {
+      "id": "Medieval Theories of Practical Reason",
+      "group": 3,
+      "address": "practical-reason-med"
+    },
+    {
+      "id": "Moral Skepticism",
+      "group": 3,
+      "address": "skepticism-moral"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "Reflective Equilibrium",
+      "group": 3,
+      "address": "reflective-equilibrium"
+    },
+    {
+      "id": "Promises",
+      "group": 3,
+      "address": "promises"
+    },
+    {
+      "id": "War",
+      "group": 3,
+      "address": "war"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Transitional Justice",
+      "group": 3,
+      "address": "justice-transitional"
+    },
+    {
+      "id": "Terrorism",
+      "group": 3,
+      "address": "terrorism"
+    },
+    {
+      "id": "Atonement",
+      "group": 3,
+      "address": "atonement"
+    },
+    {
+      "id": "Solidarity in Social and Political Philosophy",
+      "group": 3,
+      "address": "solidarity"
+    },
+    {
+      "id": "Patriotism",
+      "group": 3,
+      "address": "patriotism"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "The Sale of Human Organs",
+      "group": 3,
+      "address": "organs-sale"
+    },
+    {
+      "id": "Moral Vegetarianism",
+      "group": 3,
+      "address": "vegetarianism"
+    },
+    {
+      "id": "The Concept of Evil",
+      "group": 3,
+      "address": "concept-evil"
+    },
+    {
+      "id": "Black Reparations",
+      "group": 3,
+      "address": "black-reparations"
+    },
+    {
+      "id": "Blame",
+      "group": 3,
+      "address": "blame"
+    },
+    {
+      "id": "Bodily Awareness",
+      "group": 3,
+      "address": "bodily-awareness"
+    },
+    {
+      "id": "Abilities",
+      "group": 3,
+      "address": "abilities"
+    },
+    {
+      "id": "Anomalous Monism",
+      "group": 3,
+      "address": "anomalous-monism"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Actualism and Possibilism in Ethics",
+      "group": 3,
+      "address": "actualism-possibilism-ethics"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "Harold Arthur Prichard",
+      "group": 3,
+      "address": "prichard"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Self-Deception",
+      "group": 3,
+      "address": "self-deception"
+    },
+    {
+      "id": "Robin George Collingwood",
+      "group": 3,
+      "address": "collingwood"
+    },
+    {
+      "id": "Pragmatics",
+      "group": 3,
+      "address": "pragmatics"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Reasons for Action: Internal vs. External",
+      "group": 3,
+      "address": "reasons-internal-external"
+    },
+    {
+      "id": "Daoism",
+      "group": 3,
+      "address": "daoism"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Episteme and Techne",
+      "group": 3,
+      "address": "episteme-techne"
+    },
+    {
+      "id": "Positive and Negative Liberty",
+      "group": 3,
+      "address": "liberty-positive-negative"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Contractualism",
+      "group": 3,
+      "address": "contractualism"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "group": 3,
+      "address": "alternative-possibilities"
+    },
+    {
+      "id": "Paul Ricoeur",
+      "group": 3,
+      "address": "ricoeur"
+    },
+    {
+      "id": "Compatibilism",
+      "group": 3,
+      "address": "compatibilism"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 3,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Belief Merging and Judgment Aggregation",
+      "group": 3,
+      "address": "belief-merging"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Ludwik Fleck",
+      "group": 3,
+      "address": "fleck"
+    },
+    {
+      "id": "Epistemological Problems of Testimony",
+      "group": 3,
+      "address": "testimony-episprob"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Transmission of Justification and Warrant",
+      "group": 3,
+      "address": "transmission-justification-warrant"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 3,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "A Priorism in Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology-a-priori"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 3,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 3,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 3,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Disagreement",
+      "group": 3,
+      "address": "disagreement"
+    },
+    {
+      "id": "The Normativity of Meaning and Content",
+      "group": 3,
+      "address": "meaning-normativity"
+    },
+    {
+      "id": "Adolf Reinach",
+      "group": 3,
+      "address": "reinach"
+    },
+    {
+      "id": "Disability: Definitions and Models",
+      "group": 3,
+      "address": "disability"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 3,
+      "address": "dance"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "The Definition of Art",
+      "group": 3,
+      "address": "art-definition"
+    },
+    {
+      "id": "Dehumanization",
+      "group": 3,
+      "address": "dehumanization"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Race",
+      "group": 3,
+      "address": "race"
+    },
+    {
+      "id": "Backward Causation",
+      "group": 3,
+      "address": "causation-backwards"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Names",
+      "group": 3,
+      "address": "names"
+    },
+    {
+      "id": "Ontological Dependence",
+      "group": 3,
+      "address": "dependence-ontological"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "The Nature of Law",
+      "group": 3,
+      "address": "lawphil-nature"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Conceptual Art",
+      "group": 3,
+      "address": "conceptual-art"
+    },
+    {
+      "id": "The Philosophy of Digital Art",
+      "group": 3,
+      "address": "digital-art"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "Legal Positivism",
+      "group": 3,
+      "address": "legal-positivism"
+    },
+    {
+      "id": "Feminist Perspectives on Sex and Gender",
+      "group": 3,
+      "address": "feminism-gender"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Artifact",
+      "group": 3,
+      "address": "artifact"
+    },
+    {
+      "id": "Locke on Real Essence",
+      "group": 3,
+      "address": "real-essence"
+    },
+    {
+      "id": "Nationalism",
+      "group": 3,
+      "address": "nationalism"
+    },
+    {
+      "id": "Culture",
+      "group": 3,
+      "address": "culture"
+    },
+    {
+      "id": "Identity Politics",
+      "group": 3,
+      "address": "identity-politics"
+    },
+    {
+      "id": "Legal Rights",
+      "group": 3,
+      "address": "legal-rights"
+    },
+    {
+      "id": "Territorial Rights and Territorial Justice",
+      "group": 3,
+      "address": "territorial-rights"
+    },
+    {
+      "id": "Civil Rights",
+      "group": 3,
+      "address": "civil-rights"
+    },
+    {
+      "id": "Multiculturalism",
+      "group": 3,
+      "address": "multiculturalism"
+    },
+    {
+      "id": "Moral Motivation",
+      "group": 3,
+      "address": "moral-motivation"
+    },
+    {
+      "id": "Charles Leslie Stevenson",
+      "group": 3,
+      "address": "stevenson"
+    }
+  ],
+  "links": [
+    {
+      "source": "Action",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Action",
+      "target": "Intention"
+    },
+    {
+      "source": "Agency",
+      "target": "Intention"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Intention"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Intention"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Intention"
+    },
+    {
+      "source": "Events",
+      "target": "Intention"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Intention"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intention"
+    },
+    {
+      "source": "Imagination",
+      "target": "Intention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Intention"
+    },
+    {
+      "source": "Intention",
+      "target": "Action"
+    },
+    {
+      "source": "Intention",
+      "target": "Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Intention",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Intention",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Intention",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Intention",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Intention",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Intention",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Intention"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Intention"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Intention"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Corruption"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Markets"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Rights"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Human Rights"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Markets",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Action",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Agency",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Agency",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Agency",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Agency",
+      "target": "Events"
+    },
+    {
+      "source": "Agency",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Agency",
+      "target": "Free Will"
+    },
+    {
+      "source": "Agency",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Agency"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Agency"
+    },
+    {
+      "source": "Events",
+      "target": "Agency"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Agency"
+    },
+    {
+      "source": "Free Will",
+      "target": "Agency"
+    },
+    {
+      "source": "Ideology",
+      "target": "Agency"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Agency"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Agency"
+    },
+    {
+      "source": "Locke On Freedom",
+      "target": "Agency"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Agency"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Agency"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Promises",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Atonement",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Black Reparations",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Action"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "War",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Abilities",
+      "target": "Action"
+    },
+    {
+      "source": "Action",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Action",
+      "target": "Daoism"
+    },
+    {
+      "source": "Action",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Action",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Action",
+      "target": "Events"
+    },
+    {
+      "source": "Action",
+      "target": "Free Will"
+    },
+    {
+      "source": "Action",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Action",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Action",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Action",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Action"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Action"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Action"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Action"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Action"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Action"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Action"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Action"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Action"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Action"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Action"
+    },
+    {
+      "source": "Desire",
+      "target": "Action"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Action"
+    },
+    {
+      "source": "Events",
+      "target": "Action"
+    },
+    {
+      "source": "Free Will",
+      "target": "Action"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Action"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Action"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Action"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Action"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Action"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Action"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Action"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Action"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Action"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Action"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Action"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Action"
+    },
+    {
+      "source": "Paul Ricoeur",
+      "target": "Action"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Action"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Action"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Evidence"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Relativism"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Assertion"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Methodological Holism in the Social Sciences"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Names"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Race"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Culture",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Events",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Events",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Events",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Events",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Imagination",
+      "target": "Desire"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Evidence"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Culture"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Implicature",
+      "target": "Assertion"
+    },
+    {
+      "source": "Implicature",
+      "target": "Convention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Implicature",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Desire"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Promises"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Imagination"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Desire"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Markets"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Philosophical Approaches to Work and Labor"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Markets",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Markets",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Markets",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Markets",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Markets",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Markets",
+      "target": "Markets"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Exploitation"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Free Will"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Rights",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Rights",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Privacy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Privacy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Privacy",
+      "target": "Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Corruption"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "War"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Philanthropy"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Democracy"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Contractualism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Democracy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Nationalism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Human Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "War"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Corruption",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Corruption",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Corruption",
+      "target": "Corruption"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Democracy"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Human Rights",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Rights"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Methodological Holism in the Social Sciences"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Markets"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Convention",
+      "target": "Implicature"
+    },
+    {
+      "source": "Convention",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Convention",
+      "target": "Relativism"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Atonement"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Sin in Christian Thought"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Ideology"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Privacy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Free Will"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Locke On Freedom",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Locke On Freedom",
+      "target": "Free Will"
+    },
+    {
+      "source": "Locke On Freedom",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Locke On Freedom",
+      "target": "Locke On Freedom"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Abilities"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Ideology",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "Ideology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Ideology",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Ideology",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Ideology",
+      "target": "Ideology"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Events"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "War"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Free Will",
+      "target": "Blame"
+    },
+    {
+      "source": "Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Free Will"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Human Rights"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "War"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "School of Salamanca"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Reflective Equilibrium",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Reflective Equilibrium",
+      "target": "Relativism"
+    },
+    {
+      "source": "Reflective Equilibrium",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Promises",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Promises",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Promises",
+      "target": "Convention"
+    },
+    {
+      "source": "Promises",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Promises",
+      "target": "School of Salamanca"
+    },
+    {
+      "source": "Promises",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Promises",
+      "target": "Promises"
+    },
+    {
+      "source": "War",
+      "target": "Global Justice"
+    },
+    {
+      "source": "War",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "War",
+      "target": "Human Rights"
+    },
+    {
+      "source": "War",
+      "target": "War"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "War"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Terrorism",
+      "target": "War"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Atonement",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Atonement",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "Atonement",
+      "target": "Sin in Christian Thought"
+    },
+    {
+      "source": "Atonement",
+      "target": "Atonement"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Solidarity in Social and Political Philosophy"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Exploitation"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "The Sale of Human Organs"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Moral Vegetarianism"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Black Reparations",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "Blame",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Free Will"
+    },
+    {
+      "source": "Blame",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Blame",
+      "target": "Blame"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Abilities",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Abilities",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Abilities",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Abilities",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Abilities",
+      "target": "Abilities"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Events"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Free Will"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Harold Arthur Prichard"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Names"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Relativism"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Robin George Collingwood"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Free Will"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Daoism",
+      "target": "Daoism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Abilities"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Free Will"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Desire",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Contractualism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Contractualism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Abilities"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Free Will"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Harold Arthur Prichard"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Abilities"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Responsibility and the Principle of Alternative Possibilities"
+    },
+    {
+      "source": "Paul Ricoeur",
+      "target": "Paul Ricoeur"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Relativism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Relativism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Relativism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Relativism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Trust",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Trust",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Trust",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Relativism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Relativism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Assertion"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Trust"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Democracy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Democracy",
+      "target": "Rights"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Evidence"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Race"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Democracy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Race"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Agent-Based Modeling in the Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Robin George Collingwood"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Relativism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Disagreement"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Convention"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Promises"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Imagination"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "War"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Race",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Race",
+      "target": "Race"
+    },
+    {
+      "source": "Backward Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Artifact"
+    },
+    {
+      "source": "Boundary",
+      "target": "Convention"
+    },
+    {
+      "source": "Boundary",
+      "target": "Events"
+    },
+    {
+      "source": "Boundary",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Boundary",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Race"
+    },
+    {
+      "source": "Boundary",
+      "target": "Relativism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Names",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Names",
+      "target": "Names"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Free Will"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Assertion",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Assertion",
+      "target": "Convention"
+    },
+    {
+      "source": "Assertion",
+      "target": "Evidence"
+    },
+    {
+      "source": "Assertion",
+      "target": "Implicature"
+    },
+    {
+      "source": "Assertion",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Assertion",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Assertion",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Assertion"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Artifact"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Culture"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Solidarity in Social and Political Philosophy"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Territorial Rights and Territorial Justice"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Culture",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Culture",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Culture",
+      "target": "Culture"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Race"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Territorial Rights and Territorial Justice"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Democracy"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Culture"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Charles Leslie Stevenson"
+    }
+  ]
+}

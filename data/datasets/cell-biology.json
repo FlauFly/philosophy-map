@@ -1,0 +1,8040 @@
+{
+  "nodes": [
+    {
+      "id": "Philosophy of Cell Biology",
+      "group": 1,
+      "address": "cell-biology"
+    },
+    {
+      "id": "Philosophy of Systems and Synthetic Biology",
+      "group": 2,
+      "address": "systems-synthetic-biology"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 2,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "Emergent Properties",
+      "group": 2,
+      "address": "properties-emergent"
+    },
+    {
+      "id": "Philosophy of Immunology",
+      "group": 2,
+      "address": "immunology"
+    },
+    {
+      "id": "Evolution",
+      "group": 2,
+      "address": "evolution"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 2,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "Reductionism in Biology",
+      "group": 2,
+      "address": "reduction-biology"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 2,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "Biological Individuals",
+      "group": 2,
+      "address": "biology-individual"
+    },
+    {
+      "id": "Life",
+      "group": 2,
+      "address": "life"
+    },
+    {
+      "id": "Cancer",
+      "group": 2,
+      "address": "cancer"
+    },
+    {
+      "id": "Developmental Biology",
+      "group": 2,
+      "address": "biology-developmental"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 2,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "Neuroethics",
+      "group": 2,
+      "address": "neuroethics"
+    },
+    {
+      "id": "Philosophy of Biology",
+      "group": 3,
+      "address": "biology-philosophy"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Gene",
+      "group": 3,
+      "address": "gene"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Adaptationism",
+      "group": 3,
+      "address": "adaptationism"
+    },
+    {
+      "id": "Molecular Genetics",
+      "group": 3,
+      "address": "molecular-genetics"
+    },
+    {
+      "id": "Ethics of Stem Cell Research",
+      "group": 3,
+      "address": "stem-cells"
+    },
+    {
+      "id": "Genomics and Postgenomics",
+      "group": 3,
+      "address": "genomics"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Theories of Biological Development",
+      "group": 3,
+      "address": "theories-biological-development"
+    },
+    {
+      "id": "Fitness",
+      "group": 3,
+      "address": "fitness"
+    },
+    {
+      "id": "Inheritance Systems",
+      "group": 3,
+      "address": "inheritance-systems"
+    },
+    {
+      "id": "Heritability",
+      "group": 3,
+      "address": "heritability"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Teleological Notions in Biology",
+      "group": 3,
+      "address": "teleology-biology"
+    },
+    {
+      "id": "Philosophy of Psychiatry",
+      "group": 3,
+      "address": "psychiatry"
+    },
+    {
+      "id": "Pierre Duhem",
+      "group": 3,
+      "address": "duhem"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 3,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Causation and Manipulability",
+      "group": 3,
+      "address": "causation-mani"
+    },
+    {
+      "id": "Biological Information",
+      "group": 3,
+      "address": "information-biological"
+    },
+    {
+      "id": "Philosophy of Biology in Latin America",
+      "group": 3,
+      "address": "phil-bio-latin-america"
+    },
+    {
+      "id": "Evolution and Development",
+      "group": 3,
+      "address": "evolution-development"
+    },
+    {
+      "id": "Multiple Realizability",
+      "group": 3,
+      "address": "multiple-realizability"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Feminist Philosophy of Biology",
+      "group": 3,
+      "address": "feminist-philosophy-biology"
+    },
+    {
+      "id": "Replication and Reproduction",
+      "group": 3,
+      "address": "replication"
+    },
+    {
+      "id": "Philosophy of Medicine",
+      "group": 3,
+      "address": "medicine"
+    },
+    {
+      "id": "Philosophy of Chemistry",
+      "group": 3,
+      "address": "chemistry"
+    },
+    {
+      "id": "Phylogenetic Inference",
+      "group": 3,
+      "address": "phylogenetic-inference"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Intertheory Relations in Physics",
+      "group": 3,
+      "address": "physics-interrelate"
+    },
+    {
+      "id": "Material Constitution",
+      "group": 3,
+      "address": "material-constitution"
+    },
+    {
+      "id": "Zombies",
+      "group": 3,
+      "address": "zombies"
+    },
+    {
+      "id": "Levels of Organization in Biology",
+      "group": 3,
+      "address": "levels-org-biology"
+    },
+    {
+      "id": "The Unity of Consciousness",
+      "group": 3,
+      "address": "consciousness-unity"
+    },
+    {
+      "id": "Higher-Order Theories of Consciousness",
+      "group": 3,
+      "address": "consciousness-higher"
+    },
+    {
+      "id": "Panpsychism",
+      "group": 3,
+      "address": "panpsychism"
+    },
+    {
+      "id": "Atomism from the 17th to the 20th Century",
+      "group": 3,
+      "address": "atomism-modern"
+    },
+    {
+      "id": "Charlie Dunbar Broad",
+      "group": 3,
+      "address": "broad"
+    },
+    {
+      "id": "Cellular Automata",
+      "group": 3,
+      "address": "cellular-automata"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Tropes",
+      "group": 3,
+      "address": "tropes"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Ordinary Objects",
+      "group": 3,
+      "address": "ordinary-objects"
+    },
+    {
+      "id": "John Stuart Mill",
+      "group": 3,
+      "address": "mill"
+    },
+    {
+      "id": "Panentheism",
+      "group": 3,
+      "address": "panentheism"
+    },
+    {
+      "id": "Quantum Entanglement and Information",
+      "group": 3,
+      "address": "qt-entangle"
+    },
+    {
+      "id": "Fundamentality",
+      "group": 3,
+      "address": "fundamentality"
+    },
+    {
+      "id": "Monism",
+      "group": 3,
+      "address": "monism"
+    },
+    {
+      "id": "Epiphenomenalism",
+      "group": 3,
+      "address": "epiphenomenalism"
+    },
+    {
+      "id": "Phenomenal Intentionality",
+      "group": 3,
+      "address": "phenomenal-intentionality"
+    },
+    {
+      "id": "Samuel Alexander",
+      "group": 3,
+      "address": "alexander"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Computer Simulations in Science",
+      "group": 3,
+      "address": "simulations-science"
+    },
+    {
+      "id": "Nicolaus Taurellus",
+      "group": 3,
+      "address": "taurellus"
+    },
+    {
+      "id": "Qualia: The Knowledge Argument",
+      "group": 3,
+      "address": "qualia-knowledge"
+    },
+    {
+      "id": "The Chinese Room Argument",
+      "group": 3,
+      "address": "chinese-room"
+    },
+    {
+      "id": "Free Will",
+      "group": 3,
+      "address": "freewill"
+    },
+    {
+      "id": "Holism and Nonseparability in Physics",
+      "group": 3,
+      "address": "physics-holism"
+    },
+    {
+      "id": "Ecology",
+      "group": 3,
+      "address": "ecology"
+    },
+    {
+      "id": "George Herbert Mead",
+      "group": 3,
+      "address": "mead"
+    },
+    {
+      "id": "Anthony Collins",
+      "group": 3,
+      "address": "collins"
+    },
+    {
+      "id": "The Definition of Death",
+      "group": 3,
+      "address": "death-definition"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Feminist Perspectives on the Self",
+      "group": 3,
+      "address": "feminism-self"
+    },
+    {
+      "id": "Animalism",
+      "group": 3,
+      "address": "animalism"
+    },
+    {
+      "id": "Pregnancy, Birth, and Medicine",
+      "group": 3,
+      "address": "ethics-pregnancy"
+    },
+    {
+      "id": "Identity Over Time",
+      "group": 3,
+      "address": "identity-time"
+    },
+    {
+      "id": "Personal Identity",
+      "group": 3,
+      "address": "identity-personal"
+    },
+    {
+      "id": "Probabilistic Causation",
+      "group": 3,
+      "address": "causation-probabilistic"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Representational Theories of Consciousness",
+      "group": 3,
+      "address": "consciousness-representational"
+    },
+    {
+      "id": "Philosophy of Microbiology",
+      "group": 3,
+      "address": "microbiology"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "Herbert Spencer",
+      "group": 3,
+      "address": "spencer"
+    },
+    {
+      "id": "Population Genetics",
+      "group": 3,
+      "address": "population-genetics"
+    },
+    {
+      "id": "The Psychology of Normative Cognition",
+      "group": 3,
+      "address": "psychology-normative-cognition"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Darwinism",
+      "group": 3,
+      "address": "darwinism"
+    },
+    {
+      "id": "Sociobiology",
+      "group": 3,
+      "address": "sociobiology"
+    },
+    {
+      "id": "Human Nature",
+      "group": 3,
+      "address": "human-nature"
+    },
+    {
+      "id": "Evolutionary Psychology",
+      "group": 3,
+      "address": "evolutionary-psychology"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Units and Levels of Selection",
+      "group": 3,
+      "address": "selection-units"
+    },
+    {
+      "id": "Science and Pseudo-Science",
+      "group": 3,
+      "address": "pseudo-science"
+    },
+    {
+      "id": "Evolutionary Thought Before Darwin",
+      "group": 3,
+      "address": "evolution-before-darwin"
+    },
+    {
+      "id": "Altruism",
+      "group": 3,
+      "address": "altruism"
+    },
+    {
+      "id": "Ecological Genetics",
+      "group": 3,
+      "address": "ecological-genetics"
+    },
+    {
+      "id": "The Distinction Between Innate and Acquired Characteristics",
+      "group": 3,
+      "address": "innate-acquired"
+    },
+    {
+      "id": "The Genotype/Phenotype Distinction",
+      "group": 3,
+      "address": "genotype-phenotype"
+    },
+    {
+      "id": "Creationism",
+      "group": 3,
+      "address": "creationism"
+    },
+    {
+      "id": "Process Philosophy",
+      "group": 3,
+      "address": "process-philosophy"
+    },
+    {
+      "id": "Species",
+      "group": 3,
+      "address": "species"
+    },
+    {
+      "id": "Phenomenology of Religion",
+      "group": 3,
+      "address": "phenomenology-religion"
+    },
+    {
+      "id": "Philosophy of Macroevolution",
+      "group": 3,
+      "address": "macroevolution"
+    },
+    {
+      "id": "Darwin: From the Origin of Species to the Descent of Man",
+      "group": 3,
+      "address": "origin-descent"
+    },
+    {
+      "id": "Cultural Evolution",
+      "group": 3,
+      "address": "evolution-cultural"
+    },
+    {
+      "id": "Natural Selection",
+      "group": 3,
+      "address": "natural-selection"
+    },
+    {
+      "id": "The Structure of Scientific Theories",
+      "group": 3,
+      "address": "structure-scientific-theories"
+    },
+    {
+      "id": "Supervenience in Ethics",
+      "group": 3,
+      "address": "supervenience-ethics"
+    },
+    {
+      "id": "Methodological Holism in the Social Sciences",
+      "group": 3,
+      "address": "holism-social"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "The Mind/Brain Identity Theory",
+      "group": 3,
+      "address": "mind-identity"
+    },
+    {
+      "id": "Metaphysical Explanation",
+      "group": 3,
+      "address": "metaphysical-explanation"
+    },
+    {
+      "id": "Dualism",
+      "group": 3,
+      "address": "dualism"
+    },
+    {
+      "id": "David Lewis\u2019s Metaphysics",
+      "group": 3,
+      "address": "lewis-metaphysics"
+    },
+    {
+      "id": "The Incommensurability of Scientific Theories",
+      "group": 3,
+      "address": "incommensurability"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Ontological Dependence",
+      "group": 3,
+      "address": "dependence-ontological"
+    },
+    {
+      "id": "Scientific Pluralism",
+      "group": 3,
+      "address": "scientific-pluralism"
+    },
+    {
+      "id": "The Nature of Law",
+      "group": 3,
+      "address": "lawphil-nature"
+    },
+    {
+      "id": "Singularities and Black Holes",
+      "group": 3,
+      "address": "spacetime-singularities"
+    },
+    {
+      "id": "Paul Feyerabend",
+      "group": 3,
+      "address": "feyerabend"
+    },
+    {
+      "id": "Philosophy of Statistical Mechanics",
+      "group": 3,
+      "address": "statphys-statmech"
+    },
+    {
+      "id": "Metaphysical Grounding",
+      "group": 3,
+      "address": "grounding"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "The Philosophy of Neuroscience",
+      "group": 3,
+      "address": "neuroscience"
+    },
+    {
+      "id": "Color",
+      "group": 3,
+      "address": "color"
+    },
+    {
+      "id": "Scientific Progress",
+      "group": 3,
+      "address": "scientific-progress"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Mereology",
+      "group": 3,
+      "address": "mereology"
+    },
+    {
+      "id": "Prediction versus Accommodation",
+      "group": 3,
+      "address": "prediction-accommodation"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "group": 3,
+      "address": "newton-principia"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "William Whewell",
+      "group": 3,
+      "address": "whewell"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Wesley Salmon",
+      "group": 3,
+      "address": "wesley-salmon"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Sortals",
+      "group": 3,
+      "address": "sortals"
+    },
+    {
+      "id": "Biological Altruism",
+      "group": 3,
+      "address": "altruism-biological"
+    },
+    {
+      "id": "Biodiversity",
+      "group": 3,
+      "address": "biodiversity"
+    },
+    {
+      "id": "Aristotle\u2019s Biology",
+      "group": 3,
+      "address": "aristotle-biology"
+    },
+    {
+      "id": "The Meaning of Life",
+      "group": 3,
+      "address": "life-meaning"
+    },
+    {
+      "id": "Information Technology and Moral Values",
+      "group": 3,
+      "address": "it-moral-values"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Death",
+      "group": 3,
+      "address": "death"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Henri Bergson",
+      "group": 3,
+      "address": "bergson"
+    },
+    {
+      "id": "The Ethics of Abortion",
+      "group": 3,
+      "address": "abortion"
+    },
+    {
+      "id": "Definitions",
+      "group": 3,
+      "address": "definitions"
+    },
+    {
+      "id": "Girolamo [Geronimo] Cardano",
+      "group": 3,
+      "address": "cardano"
+    },
+    {
+      "id": "Concepts of Disease and Health",
+      "group": 3,
+      "address": "health-disease"
+    },
+    {
+      "id": "Lady Anne Conway",
+      "group": 3,
+      "address": "conway"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Ren\u00e9 Descartes",
+      "group": 3,
+      "address": "descartes"
+    },
+    {
+      "id": "Gottfried Wilhelm Leibniz",
+      "group": 3,
+      "address": "leibniz"
+    },
+    {
+      "id": "Aristotle\u2019s Metaphysics",
+      "group": 3,
+      "address": "aristotle-metaphysics"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Robert Boyle",
+      "group": 3,
+      "address": "boyle"
+    },
+    {
+      "id": "Nicolas Malebranche",
+      "group": 3,
+      "address": "malebranche"
+    },
+    {
+      "id": "Pierre Gassendi",
+      "group": 3,
+      "address": "gassendi"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Logical Empiricism",
+      "group": 3,
+      "address": "logical-empiricism"
+    },
+    {
+      "id": "Hermann von Helmholtz",
+      "group": 3,
+      "address": "hermann-helmholtz"
+    },
+    {
+      "id": "Natural Kinds",
+      "group": 3,
+      "address": "natural-kinds"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Causation in Physics",
+      "group": 3,
+      "address": "causation-physics"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Descartes\u2019 Physics",
+      "group": 3,
+      "address": "descartes-physics"
+    },
+    {
+      "id": "Aristotle on Causality",
+      "group": 3,
+      "address": "aristotle-causality"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "Justice, Inequality, and Health",
+      "group": 3,
+      "address": "justice-inequality-health"
+    },
+    {
+      "id": "Implicit Bias",
+      "group": 3,
+      "address": "implicit-bias"
+    },
+    {
+      "id": "Mental Disorder (Illness)",
+      "group": 3,
+      "address": "mental-disorder"
+    },
+    {
+      "id": "Informed Consent",
+      "group": 3,
+      "address": "informed-consent"
+    },
+    {
+      "id": "Decision-Making Capacity",
+      "group": 3,
+      "address": "decision-capacity"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 3,
+      "address": "enhancement"
+    },
+    {
+      "id": "Personal Autonomy",
+      "group": 3,
+      "address": "personal-autonomy"
+    },
+    {
+      "id": "The Ethics of Clinical Research",
+      "group": 3,
+      "address": "clinical-research"
+    },
+    {
+      "id": "Privacy and Medicine",
+      "group": 3,
+      "address": "privacy-medicine"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Personal Identity and Ethics",
+      "group": 3,
+      "address": "identity-ethics"
+    }
+  ],
+  "links": [
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Cancer"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Philosophy of Cell Biology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Philosophy of Cell Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Cell Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Cell Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Cell Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Cancer",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Ethics of Stem Cell Research",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Cancer"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Heritability"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Samuel Alexander",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Ecology",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Samuel Alexander"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Charlie Dunbar Broad"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Higher-Order Theories of Consciousness"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Free Will"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Tropes"
+    },
+    {
+      "source": "Emergent Properties",
+      "target": "Zombies"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Monism",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Emergent Properties"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Animalism"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolution"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Evolution"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Evolution"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Creationism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Evolution",
+      "target": "Ecology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolution",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "Evolution",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Fitness"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolution",
+      "target": "Gene"
+    },
+    {
+      "source": "Evolution",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Evolution",
+      "target": "Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Evolution",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "Heritability"
+    },
+    {
+      "source": "Evolution",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Evolution",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Evolution",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Evolution",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Species"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "Fitness",
+      "target": "Evolution"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolution"
+    },
+    {
+      "source": "Gene",
+      "target": "Evolution"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Evolution"
+    },
+    {
+      "source": "Genetics",
+      "target": "Evolution"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Evolution"
+    },
+    {
+      "source": "Heritability",
+      "target": "Evolution"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Evolution"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Evolution"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolution"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Evolution"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Evolution"
+    },
+    {
+      "source": "Process Philosophy",
+      "target": "Evolution"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Evolution"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Evolution"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Evolution"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolution"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Species",
+      "target": "Evolution"
+    },
+    {
+      "source": "Herbert Spencer",
+      "target": "Evolution"
+    },
+    {
+      "source": "Color",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Ecology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Properties",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Dualism"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Ecology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Newton\u2019s Philosophiae Naturalis Principia Mathematica"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Aristotle\u2019s Biology"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Gene"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Life"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Sortals"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Species"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Ecology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Fitness",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Species",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Animalism",
+      "target": "Life"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Life"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Boundary",
+      "target": "Life"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "Life"
+    },
+    {
+      "source": "Death",
+      "target": "Life"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Life"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Life"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Life"
+    },
+    {
+      "source": "Life",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Life",
+      "target": "Death"
+    },
+    {
+      "source": "Life",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Life",
+      "target": "Definitions"
+    },
+    {
+      "source": "Life",
+      "target": "The Meaning of Life"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Life"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Life"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Life"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Life"
+    },
+    {
+      "source": "Cancer",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Cancer",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Cancer",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Cancer",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Cancer"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Aristotle\u2019s Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Lady Anne Conway"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Species",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Ecology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Gene",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mereology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Properties",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "The Ethics of Clinical Research"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Free Will"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Creationism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Ecology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Heritability"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Species"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Genetics",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetics",
+      "target": "Gene"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Heritability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Genetics",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetics",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Genetics",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Genetics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Genetics",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Genetics",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Gene",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Gene",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Gene",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Gene",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Gene",
+      "target": "Heritability"
+    },
+    {
+      "source": "Gene",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Gene",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Gene",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Gene",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Gene",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Gene",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Gene",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Gene",
+      "target": "Species"
+    },
+    {
+      "source": "Gene",
+      "target": "Gene"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Gene"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Ethics of Stem Cell Research",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Ethics of Stem Cell Research",
+      "target": "Ethics of Stem Cell Research"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Gene"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Gene"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Heritability"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Human Nature"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Fitness",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Fitness",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Fitness",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Fitness",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Fitness",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Fitness"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Heritability"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Heritability",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Aristotle\u2019s Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Gene"
+    },
+    {
+      "source": "Heritability",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Heritability",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Heritability",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Heritability",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Heritability",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Heritability",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Heritability",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Heritability",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Heritability",
+      "target": "Heritability"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Atomism from the 17th to the 20th Century"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Properties"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Gene"
+    },
+    {
+      "source": "Biological Information",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Ecology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Gene"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Heritability"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Species"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Fitness"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Gene"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Heritability"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Atomism from the 17th to the 20th Century"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Chemistry",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Species"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Properties",
+      "target": "Species"
+    },
+    {
+      "source": "Properties",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Color"
+    },
+    {
+      "source": "Properties",
+      "target": "Definitions"
+    },
+    {
+      "source": "Properties",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Properties",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Properties",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Properties",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Properties",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Mereology"
+    },
+    {
+      "source": "Properties",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Properties",
+      "target": "Sortals"
+    },
+    {
+      "source": "Properties",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Properties",
+      "target": "Tropes"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Mereology"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Sortals"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Zombies",
+      "target": "Dualism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Zombies",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Zombies",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "Zombies",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Zombies",
+      "target": "Zombies"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "The Unity of Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Higher-Order Theories of Consciousness",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Higher-Order Theories of Consciousness",
+      "target": "Higher-Order Theories of Consciousness"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Mereology"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Monism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Atomism from the 17th to the 20th Century",
+      "target": "Atomism from the 17th to the 20th Century"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Charlie Dunbar Broad"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Free Will"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Cellular Automata"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Mereology"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Properties"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Tropes",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Tropes",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Tropes",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Tropes",
+      "target": "Properties"
+    },
+    {
+      "source": "Tropes",
+      "target": "Tropes"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Dualism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Free Will"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Tropes"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Monism"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Mereology"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Monism"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "Monism",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Monism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Monism",
+      "target": "Mereology"
+    },
+    {
+      "source": "Monism",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Monism",
+      "target": "Monism"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Epiphenomenalism",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Samuel Alexander",
+      "target": "Samuel Alexander"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Atomism from the 17th to the 20th Century"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Mereology"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Monism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Physicalism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Supervenience"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "William Whewell"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Monism"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Nicolaus Taurellus"
+    },
+    {
+      "source": "Qualia: The Knowledge Argument",
+      "target": "Dualism"
+    },
+    {
+      "source": "Qualia: The Knowledge Argument",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Qualia: The Knowledge Argument",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Qualia: The Knowledge Argument",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Zombies"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Free Will",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Ecology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Ecology",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Ecology",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Ecology",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Ecology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Ecology",
+      "target": "Species"
+    },
+    {
+      "source": "Ecology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Ecology",
+      "target": "Ecology"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Darwinism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Free Will"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Functionalism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Free Will"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Anthony Collins",
+      "target": "Anthony Collins"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Death"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on the Self",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Animalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Animalism",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Animalism",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Animalism",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Animalism",
+      "target": "Animalism"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Mereology"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Sortals"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Animalism"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Zombies"
+    },
+    {
+      "source": "Personal Identity",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Higher-Order Theories of Consciousness"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Representational Theories of Consciousness",
+      "target": "Representational Theories of Consciousness"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Species"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Gene"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Heritability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Herbert Spencer",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Herbert Spencer",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Herbert Spencer",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Herbert Spencer",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Herbert Spencer",
+      "target": "Herbert Spencer"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Heritability"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Altruism"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Creationism"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Fitness"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Darwinism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Species"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Darwinism",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Heritability"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Aristotle\u2019s Biology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Species"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Gene"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Creationism"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Aristotle\u2019s Biology"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Creationism"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Fitness"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Species"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Herbert Spencer"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Evolutionary Thought Before Darwin",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Altruism",
+      "target": "Altruism"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Darwinism"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Fitness"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Gene"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Heritability"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Human Nature"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Gene"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Heritability"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Creationism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Creationism",
+      "target": "Fitness"
+    },
+    {
+      "source": "Creationism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Creationism",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Creationism",
+      "target": "Creationism"
+    },
+    {
+      "source": "Process Philosophy",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Process Philosophy",
+      "target": "Process Philosophy"
+    },
+    {
+      "source": "Species",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Species",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "Species",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Species",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Species",
+      "target": "Species"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Creationism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Species"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Altruism"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Creationism"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Evolutionary Thought Before Darwin"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Fitness"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Species"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Herbert Spencer"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Darwin: From the Origin of Species to the Descent of Man",
+      "target": "Darwin: From the Origin of Species to the Descent of Man"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Fitness"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Darwinism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Supervenience in Ethics"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Methodological Holism in the Social Sciences"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Mind/Brain Identity Theory",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Mind/Brain Identity Theory",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Dualism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Dualism",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Dualism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Dualism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Dualism",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Dualism",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Dualism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Dualism",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "Dualism",
+      "target": "Dualism"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "David Lewis"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Tropes"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Monism"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Singularities and Black Holes"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Monism"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Zombies"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Methodological Holism in the Social Sciences"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Color"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "The Philosophy of Neuroscience",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Color",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Color",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Color",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Color",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Color",
+      "target": "Color"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Color"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Epiphenomenalism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Mereology",
+      "target": "Atomism from the 17th to the 20th Century"
+    },
+    {
+      "source": "Mereology",
+      "target": "Boundary"
+    },
+    {
+      "source": "Mereology",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Mereology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Mereology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Mereology",
+      "target": "Monism"
+    },
+    {
+      "source": "Mereology",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Mereology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Prediction versus Accommodation"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Newton\u2019s Philosophiae Naturalis Principia Mathematica"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Abduction"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "William Whewell",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "William Whewell",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Abduction",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Free Will"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Sortals",
+      "target": "Properties"
+    },
+    {
+      "source": "Sortals",
+      "target": "Species"
+    },
+    {
+      "source": "Sortals",
+      "target": "Sortals"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Ecology"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Aristotle\u2019s Biology",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle\u2019s Biology",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Aristotle\u2019s Biology",
+      "target": "Aristotle\u2019s Biology"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Death"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "The Meaning of Life"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Boundary",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Boundary",
+      "target": "Mereology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Boundary",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Boundary",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Species"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Death",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Death",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Death",
+      "target": "Death"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Process Philosophy"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Ethics of Stem Cell Research"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Definitions",
+      "target": "Definitions"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "Girolamo [Geronimo] Cardano"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Lady Anne Conway",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Lady Anne Conway",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Lady Anne Conway",
+      "target": "Lady Anne Conway"
+    },
+    {
+      "source": "Dispositions",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Color"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Properties"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Dualism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Free Will"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Mereology"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Philosophy of Chemistry"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Pierre Gassendi",
+      "target": "Atomism from the 17th to the 20th Century"
+    },
+    {
+      "source": "Pierre Gassendi",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Pierre Gassendi",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Pierre Gassendi",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Pierre Gassendi",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Mereology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Physicalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Qualia: The Knowledge Argument"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Supervenience"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Color"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Properties"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Species"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Descartes\u2019 Physics",
+      "target": "Pierre Gassendi"
+    },
+    {
+      "source": "Descartes\u2019 Physics",
+      "target": "Descartes\u2019 Physics"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "The Philosophy of Neuroscience"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Species"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "The Ethics of Clinical Research"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Animalism"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Species"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "The Ethics of Clinical Research"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "The Unity of Consciousness"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity and Ethics"
+    }
+  ]
+}

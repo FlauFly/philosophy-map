@@ -1,0 +1,4491 @@
+{
+  "nodes": [
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 1,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Logic and Games",
+      "group": 2,
+      "address": "logic-games"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 2,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 2,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 2,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Dynamic Epistemic Logic",
+      "group": 2,
+      "address": "dynamic-epistemic"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 2,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Preferences",
+      "group": 2,
+      "address": "preferences"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 2,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Linear Logic",
+      "group": 3,
+      "address": "logic-linear"
+    },
+    {
+      "id": "Infinitary Logic",
+      "group": 3,
+      "address": "logic-infinitary"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 3,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 3,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Independence Friendly Logic",
+      "group": 3,
+      "address": "logic-if"
+    },
+    {
+      "id": "Games, Full Abstraction and Full Completeness",
+      "group": 3,
+      "address": "games-abstraction"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Medieval Theories of Obligationes",
+      "group": 3,
+      "address": "obligationes"
+    },
+    {
+      "id": "Generalized Quantifiers",
+      "group": 3,
+      "address": "generalized-quantifiers"
+    },
+    {
+      "id": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "group": 3,
+      "address": "implicature-optimality-games"
+    },
+    {
+      "id": "Dependence Logic",
+      "group": 3,
+      "address": "logic-dependence"
+    },
+    {
+      "id": "Dialogical Logic",
+      "group": 3,
+      "address": "logic-dialogical"
+    },
+    {
+      "id": "Informal Logic",
+      "group": 3,
+      "address": "logic-informal"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Logic and Probability",
+      "group": 3,
+      "address": "logic-probability"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Deontic Logic",
+      "group": 3,
+      "address": "logic-deontic"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Temporal Logic",
+      "group": 3,
+      "address": "logic-temporal"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Propositional Dynamic Logic",
+      "group": 3,
+      "address": "logic-dynamic"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Justification Logic",
+      "group": 3,
+      "address": "logic-justification"
+    },
+    {
+      "id": "Many-Valued Logic",
+      "group": 3,
+      "address": "logic-manyvalued"
+    },
+    {
+      "id": "Abilities",
+      "group": 3,
+      "address": "abilities"
+    },
+    {
+      "id": "Clarence Irving Lewis",
+      "group": 3,
+      "address": "lewis-ci"
+    },
+    {
+      "id": "Relevance Logic",
+      "group": 3,
+      "address": "logic-relevance"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Possible Objects",
+      "group": 3,
+      "address": "possible-objects"
+    },
+    {
+      "id": "Hybrid Logic",
+      "group": 3,
+      "address": "logic-hybrid"
+    },
+    {
+      "id": "Ibn Sina\u2019s Logic",
+      "group": 3,
+      "address": "ibn-sina-logic"
+    },
+    {
+      "id": "Ancient Logic",
+      "group": 3,
+      "address": "logic-ancient"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Combining Logics",
+      "group": 3,
+      "address": "logic-combining"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Logical Constants",
+      "group": 3,
+      "address": "logical-constants"
+    },
+    {
+      "id": "Substructural Logics",
+      "group": 3,
+      "address": "logic-substructural"
+    },
+    {
+      "id": "Provability Logic",
+      "group": 3,
+      "address": "logic-provability"
+    },
+    {
+      "id": "Essential vs. Accidental Properties",
+      "group": 3,
+      "address": "essential-accidental"
+    },
+    {
+      "id": "Logical Truth",
+      "group": 3,
+      "address": "logical-truth"
+    },
+    {
+      "id": "Quantifiers and Quantification",
+      "group": 3,
+      "address": "quantification"
+    },
+    {
+      "id": "Two-Dimensional Semantics",
+      "group": 3,
+      "address": "two-dimensional-semantics"
+    },
+    {
+      "id": "The Possibilism-Actualism Debate",
+      "group": 3,
+      "address": "possibilism-actualism"
+    },
+    {
+      "id": "Logical Form",
+      "group": 3,
+      "address": "logical-form"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "Many-Sorted Logic",
+      "group": 3,
+      "address": "logic-many-sorted"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Impossible Worlds",
+      "group": 3,
+      "address": "impossible-worlds"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "Free Logic",
+      "group": 3,
+      "address": "logic-free"
+    },
+    {
+      "id": "Medieval Theories of Modality",
+      "group": 3,
+      "address": "modality-medieval"
+    },
+    {
+      "id": "Preference Logic",
+      "group": 3,
+      "address": "logic-preference"
+    },
+    {
+      "id": "The Epistemology of Modality",
+      "group": 3,
+      "address": "modality-epistemology"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "David Lewis\u2019s Metaphysics",
+      "group": 3,
+      "address": "lewis-metaphysics"
+    },
+    {
+      "id": "Typelogical Grammar",
+      "group": 3,
+      "address": "typelogical-grammar"
+    },
+    {
+      "id": "Intensional Logic",
+      "group": 3,
+      "address": "logic-intensional"
+    },
+    {
+      "id": "Automated Reasoning",
+      "group": 3,
+      "address": "reasoning-automated"
+    },
+    {
+      "id": "Necessary and Sufficient Conditions",
+      "group": 3,
+      "address": "necessary-sufficient"
+    },
+    {
+      "id": "Propositional Function",
+      "group": 3,
+      "address": "propositional-function"
+    },
+    {
+      "id": "Counterfactuals",
+      "group": 3,
+      "address": "counterfactuals"
+    },
+    {
+      "id": "Connexive Logic",
+      "group": 3,
+      "address": "logic-connexive"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Language and Logic",
+      "group": 3,
+      "address": "arabic-islamic-language"
+    },
+    {
+      "id": "Situations in Natural Language Semantics",
+      "group": 3,
+      "address": "situations-semantics"
+    },
+    {
+      "id": "Ruth Barcan Marcus",
+      "group": 3,
+      "address": "ruth-barcan-marcus"
+    },
+    {
+      "id": "Semantic Conceptions of Information",
+      "group": 3,
+      "address": "information-semantic"
+    },
+    {
+      "id": "Leibniz\u2019s Modal Metaphysics",
+      "group": 3,
+      "address": "leibniz-modal"
+    },
+    {
+      "id": "Arthur Prior",
+      "group": 3,
+      "address": "prior"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Sentence Connectives in Formal Logic",
+      "group": 3,
+      "address": "connectives-logic"
+    },
+    {
+      "id": "Dialectical School",
+      "group": 3,
+      "address": "dialectical-school"
+    },
+    {
+      "id": "Natural Deduction Systems in Logic",
+      "group": 3,
+      "address": "natural-deduction"
+    },
+    {
+      "id": "Modern Origins of Modal Logic",
+      "group": 3,
+      "address": "logic-modal-origins"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 3,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 3,
+      "address": "self-reference"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "Fitch\u2019s Paradox of Knowability",
+      "group": 3,
+      "address": "fitch-paradox"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Logic and Information",
+      "group": 3,
+      "address": "logic-information"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 3,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Pascal\u2019s Wager",
+      "group": 3,
+      "address": "pascal-wager"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "The St. Petersburg Paradox",
+      "group": 3,
+      "address": "paradox-stpetersburg"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 3,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "Causal Models",
+      "group": 3,
+      "address": "causal-models"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 3,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Measurement in Science",
+      "group": 3,
+      "address": "measurement-science"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Voting Methods",
+      "group": 3,
+      "address": "voting-methods"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "William Heytesbury",
+      "group": 3,
+      "address": "heytesbury"
+    },
+    {
+      "id": "Common Ground in Pragmatics",
+      "group": 3,
+      "address": "common-ground-pragmatics"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    }
+  ],
+  "links": [
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Negation",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Abilities",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dialectical School",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intensional Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Arthur Prior",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Desire",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preferences",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Preferences",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Preferences",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Preferences"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Negation"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Negation",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Abilities",
+      "target": "Abilities"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ibn Sina\u2019s Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Dialectical School"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Essential vs. Accidental Properties",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Free Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Many-Sorted Logic"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preference Logic"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Intensional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intensional Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Intensional Logic",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Intensional Logic",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Automated Reasoning",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Necessary and Sufficient Conditions"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Belief"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Ruth Barcan Marcus"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Arthur Prior",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Arthur Prior",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Arthur Prior",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Arthur Prior",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Arthur Prior",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Essential vs. Accidental Properties"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Dialectical School",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Dialectical School",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Dialectical School",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Dialectical School",
+      "target": "Dialectical School"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Intensional Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Arthur Prior"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Belief",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Desire"
+    },
+    {
+      "source": "Belief",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Belief"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Desire",
+      "target": "Belief"
+    },
+    {
+      "source": "Desire",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Belief"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Automated Reasoning"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Belief"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Ground in Pragmatics"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    }
+  ]
+}

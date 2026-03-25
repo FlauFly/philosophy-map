@@ -1,0 +1,971 @@
+{
+  "nodes": [
+    {
+      "id": "Philosophy of Sport",
+      "group": 1,
+      "address": "sport"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 2,
+      "address": "enhancement"
+    },
+    {
+      "id": "Legal Interpretivism",
+      "group": 2,
+      "address": "law-interpretivist"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 2,
+      "address": "dance"
+    },
+    {
+      "id": "Morality and Evolutionary Biology",
+      "group": 3,
+      "address": "morality-biology"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Disability: Definitions and Models",
+      "group": 3,
+      "address": "disability"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Teleological Notions in Biology",
+      "group": 3,
+      "address": "teleology-biology"
+    },
+    {
+      "id": "Dehumanization",
+      "group": 3,
+      "address": "dehumanization"
+    },
+    {
+      "id": "Concepts of Disease and Health",
+      "group": 3,
+      "address": "health-disease"
+    },
+    {
+      "id": "Parenthood and Procreation",
+      "group": 3,
+      "address": "parenthood"
+    },
+    {
+      "id": "Animalism",
+      "group": 3,
+      "address": "animalism"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Personal Identity and Ethics",
+      "group": 3,
+      "address": "identity-ethics"
+    },
+    {
+      "id": "Human/Non-Human Chimeras",
+      "group": 3,
+      "address": "chimeras"
+    },
+    {
+      "id": "The Grounds of Moral Status",
+      "group": 3,
+      "address": "grounds-moral-status"
+    },
+    {
+      "id": "Species",
+      "group": 3,
+      "address": "species"
+    },
+    {
+      "id": "Neuroethics",
+      "group": 3,
+      "address": "neuroethics"
+    },
+    {
+      "id": "Mental Disorder (Illness)",
+      "group": 3,
+      "address": "mental-disorder"
+    },
+    {
+      "id": "Authenticity",
+      "group": 3,
+      "address": "authenticity"
+    },
+    {
+      "id": "Eugenics",
+      "group": 3,
+      "address": "eugenics"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Artifact",
+      "group": 3,
+      "address": "artifact"
+    },
+    {
+      "id": "Precedent and Analogy in Legal Reasoning",
+      "group": 3,
+      "address": "legal-reas-prec"
+    },
+    {
+      "id": "Law and Language",
+      "group": 3,
+      "address": "law-language"
+    },
+    {
+      "id": "The Pure Theory of Law",
+      "group": 3,
+      "address": "lawphil-theory"
+    },
+    {
+      "id": "Legal Obligation and Authority",
+      "group": 3,
+      "address": "legal-obligation"
+    },
+    {
+      "id": "Legal Positivism",
+      "group": 3,
+      "address": "legal-positivism"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "Interpretation and Coherence in Legal Reasoning",
+      "group": 3,
+      "address": "legal-reas-interpret"
+    },
+    {
+      "id": "Legal Interpretation",
+      "group": 3,
+      "address": "legal-interpretation"
+    },
+    {
+      "id": "The Nature of Law",
+      "group": 3,
+      "address": "lawphil-nature"
+    },
+    {
+      "id": "Natural Law Theories",
+      "group": 3,
+      "address": "natural-law-theories"
+    },
+    {
+      "id": "The Limits of Law",
+      "group": 3,
+      "address": "law-limits"
+    },
+    {
+      "id": "Goodman\u2019s Aesthetics",
+      "group": 3,
+      "address": "goodman-aesthetics"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "Philosophy of Theater",
+      "group": 3,
+      "address": "theater"
+    },
+    {
+      "id": "Philosophy of Film",
+      "group": 3,
+      "address": "film"
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "group": 3,
+      "address": "merleau-ponty"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "Dewey\u2019s Aesthetics",
+      "group": 3,
+      "address": "dewey-aesthetics"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    }
+  ],
+  "links": [
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Sport"
+    },
+    {
+      "source": "Philosophy of Sport",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Philosophy of Sport",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Philosophy of Sport",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "Artifact",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Genetics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Animalism"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Authenticity"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human/Non-Human Chimeras"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Species"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Interpretivism"
+    },
+    {
+      "source": "Legal Interpretivism",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Legal Interpretivism",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Legal Interpretivism",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Legal Interpretivism",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Interpretivism",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Legal Interpretivism",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Genetics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Animalism",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Animalism",
+      "target": "Animalism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Human/Non-Human Chimeras",
+      "target": "Species"
+    },
+    {
+      "source": "Human/Non-Human Chimeras",
+      "target": "Human/Non-Human Chimeras"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Species",
+      "target": "Species"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Species"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Authenticity"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Eugenics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Artifact"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Law and Language",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Law and Language"
+    },
+    {
+      "source": "The Pure Theory of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Pure Theory of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Pure Theory of Law",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Law and Language"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Imagination"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Imagination",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    }
+  ]
+}

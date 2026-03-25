@@ -1,0 +1,7766 @@
+{
+  "nodes": [
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 1,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 2,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 2,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 2,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 2,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 2,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 2,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 2,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Dynamic Epistemic Logic",
+      "group": 2,
+      "address": "dynamic-epistemic"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 2,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Belief",
+      "group": 2,
+      "address": "belief"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 2,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Game Theory",
+      "group": 2,
+      "address": "game-theory"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 2,
+      "address": "self-reference"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 2,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 2,
+      "address": "formal-belief"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Questions",
+      "group": 3,
+      "address": "questions"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 3,
+      "address": "peirce"
+    },
+    {
+      "id": "Agency",
+      "group": 3,
+      "address": "agency"
+    },
+    {
+      "id": "Combining Logics",
+      "group": 3,
+      "address": "logic-combining"
+    },
+    {
+      "id": "Two-Dimensional Semantics",
+      "group": 3,
+      "address": "two-dimensional-semantics"
+    },
+    {
+      "id": "Quantifiers and Quantification",
+      "group": 3,
+      "address": "quantification"
+    },
+    {
+      "id": "The Possibilism-Actualism Debate",
+      "group": 3,
+      "address": "possibilism-actualism"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Deontic Logic",
+      "group": 3,
+      "address": "logic-deontic"
+    },
+    {
+      "id": "Temporal Logic",
+      "group": 3,
+      "address": "logic-temporal"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Russell\u2019s Paradox",
+      "group": 3,
+      "address": "russell-paradox"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Propositional Dynamic Logic",
+      "group": 3,
+      "address": "logic-dynamic"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 3,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Indexicals",
+      "group": 3,
+      "address": "indexicals"
+    },
+    {
+      "id": "Computational Complexity Theory",
+      "group": 3,
+      "address": "computational-complexity"
+    },
+    {
+      "id": "Justification Logic",
+      "group": 3,
+      "address": "logic-justification"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Leibniz\u2019s Modal Metaphysics",
+      "group": 3,
+      "address": "leibniz-modal"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Logic and Probability",
+      "group": 3,
+      "address": "logic-probability"
+    },
+    {
+      "id": "Logic and Games",
+      "group": 3,
+      "address": "logic-games"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Independence Friendly Logic",
+      "group": 3,
+      "address": "logic-if"
+    },
+    {
+      "id": "Games, Full Abstraction and Full Completeness",
+      "group": 3,
+      "address": "games-abstraction"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Dependence Logic",
+      "group": 3,
+      "address": "logic-dependence"
+    },
+    {
+      "id": "Pascal\u2019s Wager",
+      "group": 3,
+      "address": "pascal-wager"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "The St. Petersburg Paradox",
+      "group": 3,
+      "address": "paradox-stpetersburg"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 3,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 3,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Ramsey and Intergenerational Welfare Economics",
+      "group": 3,
+      "address": "ramsey-economics"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Causal Models",
+      "group": 3,
+      "address": "causal-models"
+    },
+    {
+      "id": "Analytical Marxism",
+      "group": 3,
+      "address": "marxism-analytical"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Prioritarianism as a Theory of Value",
+      "group": 3,
+      "address": "prioritarianism"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Counterfactuals",
+      "group": 3,
+      "address": "counterfactuals"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Evolutionary Psychology",
+      "group": 3,
+      "address": "evolutionary-psychology"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "The Free Rider Problem",
+      "group": 3,
+      "address": "free-rider"
+    },
+    {
+      "id": "Egoism",
+      "group": 3,
+      "address": "egoism"
+    },
+    {
+      "id": "Hobbes\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "hobbes-moral"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 3,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "Public Goods",
+      "group": 3,
+      "address": "public-goods"
+    },
+    {
+      "id": "Attention",
+      "group": 3,
+      "address": "attention"
+    },
+    {
+      "id": "Common Ground in Pragmatics",
+      "group": 3,
+      "address": "common-ground-pragmatics"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    },
+    {
+      "id": "Logic and Information",
+      "group": 3,
+      "address": "logic-information"
+    },
+    {
+      "id": "Fitch\u2019s Paradox of Knowability",
+      "group": 3,
+      "address": "fitch-paradox"
+    },
+    {
+      "id": "Preference Logic",
+      "group": 3,
+      "address": "logic-preference"
+    },
+    {
+      "id": "Modern Origins of Modal Logic",
+      "group": 3,
+      "address": "logic-modal-origins"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Coherentist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-coherence"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "Epistemology in Latin America",
+      "group": 3,
+      "address": "epistemology-latin-america"
+    },
+    {
+      "id": "Fine-Tuning",
+      "group": 3,
+      "address": "fine-tuning"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Analytic Philosophy in Latin America",
+      "group": 3,
+      "address": "latin-american-analytic"
+    },
+    {
+      "id": "Legal Probabilism",
+      "group": 3,
+      "address": "legal-probabilism"
+    },
+    {
+      "id": "Confirmation",
+      "group": 3,
+      "address": "confirmation"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 3,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Concepts",
+      "group": 3,
+      "address": "concepts"
+    },
+    {
+      "id": "The Ethics of Belief",
+      "group": 3,
+      "address": "ethics-belief"
+    },
+    {
+      "id": "Introspection",
+      "group": 3,
+      "address": "introspection"
+    },
+    {
+      "id": "The Normativity of Meaning and Content",
+      "group": 3,
+      "address": "meaning-normativity"
+    },
+    {
+      "id": "Singular Propositions",
+      "group": 3,
+      "address": "propositions-singular"
+    },
+    {
+      "id": "Propositions",
+      "group": 3,
+      "address": "propositions"
+    },
+    {
+      "id": "Arcesilaus",
+      "group": 3,
+      "address": "arcesilaus"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "Consciousness and Intentionality",
+      "group": 3,
+      "address": "consciousness-intentionality"
+    },
+    {
+      "id": "Fictionalism",
+      "group": 3,
+      "address": "fictionalism"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Faith",
+      "group": 3,
+      "address": "faith"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Implicit Bias",
+      "group": 3,
+      "address": "implicit-bias"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Self-Deception",
+      "group": 3,
+      "address": "self-deception"
+    },
+    {
+      "id": "Self-Knowledge",
+      "group": 3,
+      "address": "self-knowledge"
+    },
+    {
+      "id": "Causal Theories of Mental Content",
+      "group": 3,
+      "address": "content-causal"
+    },
+    {
+      "id": "Nonconceptual Mental Content",
+      "group": 3,
+      "address": "content-nonconceptual"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Dreams and Dreaming",
+      "group": 3,
+      "address": "dreams-dreaming"
+    },
+    {
+      "id": "Narrow Mental Content",
+      "group": 3,
+      "address": "content-narrow"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "Sextus Empiricus",
+      "group": 3,
+      "address": "sextus-empiricus"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Constructive Empiricism",
+      "group": 3,
+      "address": "constructive-empiricism"
+    },
+    {
+      "id": "Phenomenal Intentionality",
+      "group": 3,
+      "address": "phenomenal-intentionality"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Structured Propositions",
+      "group": 3,
+      "address": "propositions-structured"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Memory",
+      "group": 3,
+      "address": "memory"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Delusion",
+      "group": 3,
+      "address": "delusion"
+    },
+    {
+      "id": "Eliminative Materialism",
+      "group": 3,
+      "address": "materialism-eliminative"
+    },
+    {
+      "id": "Compositionality",
+      "group": 3,
+      "address": "compositionality"
+    },
+    {
+      "id": "Connectionism",
+      "group": 3,
+      "address": "connectionism"
+    },
+    {
+      "id": "Mental Representation",
+      "group": 3,
+      "address": "mental-representation"
+    },
+    {
+      "id": "Ruth Barcan Marcus",
+      "group": 3,
+      "address": "ruth-barcan-marcus"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Folk Psychology as a Theory",
+      "group": 3,
+      "address": "folkpsych-theory"
+    },
+    {
+      "id": "Hedonism",
+      "group": 3,
+      "address": "hedonism"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Epistemological Problems of Memory",
+      "group": 3,
+      "address": "memory-episprob"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Teleological Theories of Mental Content",
+      "group": 3,
+      "address": "content-teleological"
+    },
+    {
+      "id": "The Language of Thought Hypothesis",
+      "group": 3,
+      "address": "language-thought"
+    },
+    {
+      "id": "Consciousness",
+      "group": 3,
+      "address": "consciousness"
+    },
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 3,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Transitional Justice",
+      "group": 3,
+      "address": "justice-transitional"
+    },
+    {
+      "id": "Belief Merging and Judgment Aggregation",
+      "group": 3,
+      "address": "belief-merging"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 3,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "Voting Methods",
+      "group": 3,
+      "address": "voting-methods"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 3,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Biological Altruism",
+      "group": 3,
+      "address": "altruism-biological"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Redistribution",
+      "group": 3,
+      "address": "redistribution"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "group": 3,
+      "address": "implicature-optimality-games"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "Political Realism in International Relations",
+      "group": 3,
+      "address": "realism-intl-relations"
+    },
+    {
+      "id": "Promises",
+      "group": 3,
+      "address": "promises"
+    },
+    {
+      "id": "Many-Valued Logic",
+      "group": 3,
+      "address": "logic-manyvalued"
+    },
+    {
+      "id": "Truth",
+      "group": 3,
+      "address": "truth"
+    },
+    {
+      "id": "Deflationism About Truth",
+      "group": 3,
+      "address": "truth-deflationary"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 3,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Inconsistent Mathematics",
+      "group": 3,
+      "address": "mathematics-inconsistent"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 3,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Curry\u2019s Paradox",
+      "group": 3,
+      "address": "curry-paradox"
+    },
+    {
+      "id": "Provability Logic",
+      "group": 3,
+      "address": "logic-provability"
+    },
+    {
+      "id": "Recursive Functions",
+      "group": 3,
+      "address": "recursive-functions"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 3,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "The Early Development of Set Theory",
+      "group": 3,
+      "address": "settheory-early"
+    },
+    {
+      "id": "Turing Machines",
+      "group": 3,
+      "address": "turing-machine"
+    },
+    {
+      "id": "Dialetheism",
+      "group": 3,
+      "address": "dialetheism"
+    },
+    {
+      "id": "Quine\u2019s New Foundations",
+      "group": 3,
+      "address": "quine-nf"
+    },
+    {
+      "id": "Alan Turing",
+      "group": 3,
+      "address": "turing"
+    },
+    {
+      "id": "Type Theory",
+      "group": 3,
+      "address": "type-theory"
+    },
+    {
+      "id": "John Buridan",
+      "group": 3,
+      "address": "buridan"
+    },
+    {
+      "id": "Philosophy of Mathematics",
+      "group": 3,
+      "address": "philosophy-mathematics"
+    },
+    {
+      "id": "G\u00f6del\u2019s Incompleteness Theorems",
+      "group": 3,
+      "address": "goedel-incompleteness"
+    },
+    {
+      "id": "The Revision Theory of Truth",
+      "group": 3,
+      "address": "truth-revision"
+    },
+    {
+      "id": "Insolubles",
+      "group": 3,
+      "address": "insolubles"
+    },
+    {
+      "id": "Kurt G\u00f6del",
+      "group": 3,
+      "address": "goedel"
+    },
+    {
+      "id": "Paradoxes and Contemporary Logic",
+      "group": 3,
+      "address": "paradoxes-contemporary-logic"
+    },
+    {
+      "id": "Alternative Axiomatic Set Theories",
+      "group": 3,
+      "address": "settheory-alternative"
+    },
+    {
+      "id": "Axiomatic Theories of Truth",
+      "group": 3,
+      "address": "truth-axiomatic"
+    },
+    {
+      "id": "Impossible Worlds",
+      "group": 3,
+      "address": "impossible-worlds"
+    },
+    {
+      "id": "William Heytesbury",
+      "group": 3,
+      "address": "heytesbury"
+    },
+    {
+      "id": "Dialogical Logic",
+      "group": 3,
+      "address": "logic-dialogical"
+    },
+    {
+      "id": "Self-Locating Beliefs",
+      "group": 3,
+      "address": "self-locating-beliefs"
+    },
+    {
+      "id": "Vagueness",
+      "group": 3,
+      "address": "vagueness"
+    },
+    {
+      "id": "Atheism and Agnosticism",
+      "group": 3,
+      "address": "atheism-agnosticism"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    }
+  ],
+  "links": [
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Abduction"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Agency"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Questions"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Egoism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Attention",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Convention"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Belief"
+    },
+    {
+      "source": "Arcesilaus",
+      "target": "Belief"
+    },
+    {
+      "source": "Assertion",
+      "target": "Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Belief",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Belief",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Belief",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Belief",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Belief",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Belief",
+      "target": "Delusion"
+    },
+    {
+      "source": "Belief",
+      "target": "Desire"
+    },
+    {
+      "source": "Belief",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Belief",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Belief",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Belief",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Belief",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Belief",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "Belief",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Memory"
+    },
+    {
+      "source": "Belief",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Belief",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Belief",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Belief",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Belief"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Belief"
+    },
+    {
+      "source": "Concepts",
+      "target": "Belief"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Belief"
+    },
+    {
+      "source": "Delusion",
+      "target": "Belief"
+    },
+    {
+      "source": "Desire",
+      "target": "Belief"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Belief"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Belief"
+    },
+    {
+      "source": "Faith",
+      "target": "Belief"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Belief"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Belief"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Belief"
+    },
+    {
+      "source": "Imagination",
+      "target": "Belief"
+    },
+    {
+      "source": "Introspection",
+      "target": "Belief"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Belief"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Belief"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Belief"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Belief"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Belief"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Belief"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Belief"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Belief"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Belief"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Belief"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Belief"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Belief"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Belief"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Belief"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Belief"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Convention",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Game Theory"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Promises",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Game Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Intention",
+      "target": "Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Intention",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Intention",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Intention",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Questions",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Questions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Questions",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Questions",
+      "target": "Questions"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Agency",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Agency",
+      "target": "Intention"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Compositionality"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "David Lewis"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Abduction",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Self-Locating Beliefs"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Imagination"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Preferences"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Hedonism"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Risk"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Preferences",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Prioritarianism as a Theory of Value"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Intention"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Convention"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Indexicals"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intentionality"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Physicalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Truth"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Agency"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Desire"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Public Goods"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Egoism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Public Goods",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Public Goods"
+    },
+    {
+      "source": "Attention",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Attention",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Attention",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Attention",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Attention",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Attention",
+      "target": "Attention"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Ground in Pragmatics"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Convention",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preference Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Analytic Philosophy in Latin America"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Abduction"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Legal Probabilism"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Agent-Based Modeling in the Philosophy of Science"
+    },
+    {
+      "source": "Concepts",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Concepts",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Concepts",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Concepts",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Concepts",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "Concepts",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Concepts",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Concepts",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Concepts",
+      "target": "Concepts"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Introspection",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Introspection",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Introspection",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Introspection",
+      "target": "Delusion"
+    },
+    {
+      "source": "Introspection",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Introspection",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Introspection",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Introspection",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Introspection",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Introspection",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Introspection",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Introspection",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Introspection",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Introspection",
+      "target": "Introspection"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Convention"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Arcesilaus",
+      "target": "Sextus Empiricus"
+    },
+    {
+      "source": "Arcesilaus",
+      "target": "Arcesilaus"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Propositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Imagination"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Propositions"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Truth"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Concepts"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Faith",
+      "target": "Faith"
+    },
+    {
+      "source": "Dispositions",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Desire"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Imagination",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Imagination",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Imagination",
+      "target": "Delusion"
+    },
+    {
+      "source": "Imagination",
+      "target": "Desire"
+    },
+    {
+      "source": "Imagination",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Imagination",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Imagination",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Imagination",
+      "target": "Intention"
+    },
+    {
+      "source": "Imagination",
+      "target": "Memory"
+    },
+    {
+      "source": "Imagination",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Imagination",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Delusion"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Introspection"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Concepts"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Nonconceptual Mental Content",
+      "target": "Nonconceptual Mental Content"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Delusion"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Imagination"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Narrow Mental Content",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Truth"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Sextus Empiricus"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Assertion"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Concepts"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositions"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Assertion",
+      "target": "Convention"
+    },
+    {
+      "source": "Assertion",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Assertion",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Assertion",
+      "target": "Truth"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Desire",
+      "target": "Preferences"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Memory",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Memory",
+      "target": "Memory"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Concepts"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Memory"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Delusion",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Delusion",
+      "target": "Imagination"
+    },
+    {
+      "source": "Delusion",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Delusion",
+      "target": "Delusion"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Eliminative Materialism",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Compositionality",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositions"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Connectionism",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Connectionism",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Connectionism",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Concepts"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Ruth Barcan Marcus"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Desire"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intention"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Connectionism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Memory"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Truth"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Concepts"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Narrow Mental Content"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Concepts"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Connectionism"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Physicalism"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Eliminative Materialism"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Preferences"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Preferences"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Redistribution",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Redistribution",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Redistribution"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Risk"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Egoism"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Political Realism in International Relations"
+    },
+    {
+      "source": "Promises",
+      "target": "Convention"
+    },
+    {
+      "source": "Promises",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Promises",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Promises",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Promises",
+      "target": "Promises"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Truth",
+      "target": "Assertion"
+    },
+    {
+      "source": "Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Set Theory",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Insolubles"
+    },
+    {
+      "source": "John Buridan",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Set Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Insolubles",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Truth"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Self-Locating Beliefs"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    }
+  ]
+}

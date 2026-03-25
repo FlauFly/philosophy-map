@@ -1,0 +1,1085 @@
+{
+  "nodes": [
+    {
+      "id": "Modern Confucianism",
+      "group": 1,
+      "address": "confucianism-modern"
+    },
+    {
+      "id": "Epistemology in Chinese Philosophy",
+      "group": 2,
+      "address": "chinese-epistemology"
+    },
+    {
+      "id": "Song-Ming Confucianism",
+      "group": 2,
+      "address": "song-ming-confucianism"
+    },
+    {
+      "id": "Dai Zhen",
+      "group": 2,
+      "address": "dai-zhen"
+    },
+    {
+      "id": "Mencius",
+      "group": 2,
+      "address": "mencius"
+    },
+    {
+      "id": "Confucius",
+      "group": 3,
+      "address": "confucius"
+    },
+    {
+      "id": "Mind (Heart-Mind) in Chinese Philosophy",
+      "group": 3,
+      "address": "chinese-mind"
+    },
+    {
+      "id": "Mohism",
+      "group": 3,
+      "address": "mohism"
+    },
+    {
+      "id": "Mohist Canons",
+      "group": 3,
+      "address": "mohist-canons"
+    },
+    {
+      "id": "School of Names",
+      "group": 3,
+      "address": "school-names"
+    },
+    {
+      "id": "Daoism",
+      "group": 3,
+      "address": "daoism"
+    },
+    {
+      "id": "Xunzi",
+      "group": 3,
+      "address": "xunzi"
+    },
+    {
+      "id": "Chinese Ethics",
+      "group": 3,
+      "address": "ethics-chinese"
+    },
+    {
+      "id": "Zhuangzi",
+      "group": 3,
+      "address": "zhuangzi"
+    },
+    {
+      "id": "Tiantai Buddhism",
+      "group": 3,
+      "address": "buddhism-tiantai"
+    },
+    {
+      "id": "Laozi",
+      "group": 3,
+      "address": "laozi"
+    },
+    {
+      "id": "Comparative Philosophy: Chinese and Western",
+      "group": 3,
+      "address": "comparphil-chiwes"
+    },
+    {
+      "id": "The Emotions in Early Chinese Philosophy",
+      "group": 3,
+      "address": "emotions-chinese"
+    },
+    {
+      "id": "Metaphysics in Chinese Philosophy",
+      "group": 3,
+      "address": "chinese-metaphysics"
+    },
+    {
+      "id": "Zhu Xi",
+      "group": 3,
+      "address": "zhu-xi"
+    },
+    {
+      "id": "Neo-Daoism",
+      "group": 3,
+      "address": "neo-daoism"
+    },
+    {
+      "id": "Chan Buddhism",
+      "group": 3,
+      "address": "buddhism-chan"
+    },
+    {
+      "id": "Korean Confucianism",
+      "group": 3,
+      "address": "korean-confucianism"
+    },
+    {
+      "id": "Korean Philosophy",
+      "group": 3,
+      "address": "korean-philosophy"
+    },
+    {
+      "id": "Social and Political Thought in Chinese Philosophy",
+      "group": 3,
+      "address": "chinese-social-political"
+    },
+    {
+      "id": "Wang Yangming",
+      "group": 3,
+      "address": "wang-yangming"
+    },
+    {
+      "id": "Qing Philosophy",
+      "group": 3,
+      "address": "qing-philosophy"
+    },
+    {
+      "id": "Gender in Confucian Philosophy",
+      "group": 3,
+      "address": "confucian-gender"
+    },
+    {
+      "id": "Moral Particularism",
+      "group": 3,
+      "address": "moral-particularism"
+    },
+    {
+      "id": "Ralph Waldo Emerson",
+      "group": 3,
+      "address": "emerson"
+    },
+    {
+      "id": "Japanese Confucian Philosophy",
+      "group": 3,
+      "address": "japanese-confucian"
+    }
+  ],
+  "links": [
+    {
+      "source": "Modern Confucianism",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Modern Confucianism",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Modern Confucianism",
+      "target": "Mencius"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Modern Confucianism"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Mind (Heart-Mind) in Chinese Philosophy"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Mohism"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Laozi"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Neo-Daoism"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "School of Names"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Epistemology in Chinese Philosophy",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Mohism",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Tiantai Buddhism",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "School of Names",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Epistemology in Chinese Philosophy"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Qing Philosophy"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Social and Political Thought in Chinese Philosophy"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Mencius"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Song-Ming Confucianism",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Confucius",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Korean Philosophy",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Korean Confucianism",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Song-Ming Confucianism"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Qing Philosophy"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Mencius"
+    },
+    {
+      "source": "Dai Zhen",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Mencius"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Mohism",
+      "target": "Mencius"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "Mencius"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Mencius"
+    },
+    {
+      "source": "Gender in Confucian Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Confucius",
+      "target": "Mencius"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Mencius"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Korean Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Korean Confucianism",
+      "target": "Mencius"
+    },
+    {
+      "source": "Laozi",
+      "target": "Mencius"
+    },
+    {
+      "source": "Mencius",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Mencius",
+      "target": "Mohism"
+    },
+    {
+      "source": "Mencius",
+      "target": "Confucius"
+    },
+    {
+      "source": "Mencius",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Mencius",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Mencius",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Mencius",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Mencius"
+    },
+    {
+      "source": "School of Names",
+      "target": "Mencius"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Mencius"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Mencius"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Mencius"
+    },
+    {
+      "source": "Confucius",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Confucius",
+      "target": "Japanese Confucian Philosophy"
+    },
+    {
+      "source": "Confucius",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Confucius",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Confucius",
+      "target": "Confucius"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "The Emotions in Early Chinese Philosophy"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Mohism"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Laozi"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Mind (Heart-Mind) in Chinese Philosophy",
+      "target": "Mind (Heart-Mind) in Chinese Philosophy"
+    },
+    {
+      "source": "Mohism",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Mohism",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "Mohism",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "Mohism",
+      "target": "Social and Political Thought in Chinese Philosophy"
+    },
+    {
+      "source": "Mohism",
+      "target": "Confucius"
+    },
+    {
+      "source": "Mohism",
+      "target": "Daoism"
+    },
+    {
+      "source": "Mohism",
+      "target": "School of Names"
+    },
+    {
+      "source": "Mohism",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Mohism",
+      "target": "Mohism"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "Mohism"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "Daoism"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "School of Names"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Mohist Canons",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "School of Names",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "School of Names",
+      "target": "Mohism"
+    },
+    {
+      "source": "School of Names",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "School of Names",
+      "target": "Confucius"
+    },
+    {
+      "source": "School of Names",
+      "target": "Daoism"
+    },
+    {
+      "source": "School of Names",
+      "target": "Xunzi"
+    },
+    {
+      "source": "School of Names",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "School of Names",
+      "target": "School of Names"
+    },
+    {
+      "source": "Daoism",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Daoism",
+      "target": "Laozi"
+    },
+    {
+      "source": "Daoism",
+      "target": "Neo-Daoism"
+    },
+    {
+      "source": "Daoism",
+      "target": "School of Names"
+    },
+    {
+      "source": "Daoism",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Daoism",
+      "target": "Daoism"
+    },
+    {
+      "source": "Xunzi",
+      "target": "The Emotions in Early Chinese Philosophy"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Mind (Heart-Mind) in Chinese Philosophy"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Mohism"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Confucius"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Daoism"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Laozi"
+    },
+    {
+      "source": "Xunzi",
+      "target": "School of Names"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Mohism"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Confucius"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Daoism"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Laozi"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Chinese Ethics",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Mohism"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Mohist Canons"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Daoism"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Laozi"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Neo-Daoism"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "School of Names"
+    },
+    {
+      "source": "Zhuangzi",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Tiantai Buddhism",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "Tiantai Buddhism",
+      "target": "Tiantai Buddhism"
+    },
+    {
+      "source": "Laozi",
+      "target": "Mohism"
+    },
+    {
+      "source": "Laozi",
+      "target": "Confucius"
+    },
+    {
+      "source": "Laozi",
+      "target": "Daoism"
+    },
+    {
+      "source": "Laozi",
+      "target": "Neo-Daoism"
+    },
+    {
+      "source": "Laozi",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Laozi",
+      "target": "Laozi"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Mind (Heart-Mind) in Chinese Philosophy"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Mohism"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Confucius"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Daoism"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Mind (Heart-Mind) in Chinese Philosophy"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Mohism"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Laozi"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Xunzi"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "The Emotions in Early Chinese Philosophy"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Tiantai Buddhism"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Gender in Confucian Philosophy"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Laozi"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Neo-Daoism"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Metaphysics in Chinese Philosophy",
+      "target": "Metaphysics in Chinese Philosophy"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Confucius"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Zhu Xi",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Neo-Daoism",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Neo-Daoism",
+      "target": "Confucius"
+    },
+    {
+      "source": "Neo-Daoism",
+      "target": "Daoism"
+    },
+    {
+      "source": "Neo-Daoism",
+      "target": "Laozi"
+    },
+    {
+      "source": "Neo-Daoism",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Neo-Daoism",
+      "target": "Neo-Daoism"
+    },
+    {
+      "source": "Chan Buddhism",
+      "target": "Tiantai Buddhism"
+    },
+    {
+      "source": "Chan Buddhism",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Korean Confucianism",
+      "target": "Confucius"
+    },
+    {
+      "source": "Korean Confucianism",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Korean Confucianism",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Korean Confucianism",
+      "target": "Korean Confucianism"
+    },
+    {
+      "source": "Korean Philosophy",
+      "target": "Korean Confucianism"
+    },
+    {
+      "source": "Korean Philosophy",
+      "target": "Korean Philosophy"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Mohism"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Laozi"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Zhuangzi"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Social and Political Thought in Chinese Philosophy",
+      "target": "Social and Political Thought in Chinese Philosophy"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Chinese Ethics"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Confucius"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Daoism"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Japanese Confucian Philosophy"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Zhu Xi"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Qing Philosophy",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Qing Philosophy",
+      "target": "Qing Philosophy"
+    },
+    {
+      "source": "Gender in Confucian Philosophy",
+      "target": "Mohism"
+    },
+    {
+      "source": "Gender in Confucian Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "Gender in Confucian Philosophy",
+      "target": "Gender in Confucian Philosophy"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Ralph Waldo Emerson"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Japanese Confucian Philosophy"
+    }
+  ]
+}

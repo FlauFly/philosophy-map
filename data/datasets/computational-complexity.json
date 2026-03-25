@@ -1,0 +1,5132 @@
+{
+  "nodes": [
+    {
+      "id": "Computational Complexity Theory",
+      "group": 1,
+      "address": "computational-complexity"
+    },
+    {
+      "id": "Quantum Computing",
+      "group": 2,
+      "address": "qt-quantcomp"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 2,
+      "address": "computer-science"
+    },
+    {
+      "id": "Philosophy of Mathematics",
+      "group": 2,
+      "address": "philosophy-mathematics"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 2,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 2,
+      "address": "church-turing"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 2,
+      "address": "computability"
+    },
+    {
+      "id": "Turing Machines",
+      "group": 2,
+      "address": "turing-machine"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 2,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Recursive Functions",
+      "group": 2,
+      "address": "recursive-functions"
+    },
+    {
+      "id": "Propositional Logic",
+      "group": 2,
+      "address": "logic-propositional"
+    },
+    {
+      "id": "Computation in Physical Systems",
+      "group": 3,
+      "address": "computation-physicalsystems"
+    },
+    {
+      "id": "Quantum Mechanics",
+      "group": 3,
+      "address": "qm"
+    },
+    {
+      "id": "The Role of Decoherence in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-decoherence"
+    },
+    {
+      "id": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "group": 3,
+      "address": "qt-epr"
+    },
+    {
+      "id": "Bell\u2019s Theorem",
+      "group": 3,
+      "address": "bell-theorem"
+    },
+    {
+      "id": "Collapse Theories",
+      "group": 3,
+      "address": "qm-collapse"
+    },
+    {
+      "id": "Philosophical Issues in Quantum Theory",
+      "group": 3,
+      "address": "qt-issues"
+    },
+    {
+      "id": "Quantum Entanglement and Information",
+      "group": 3,
+      "address": "qt-entangle"
+    },
+    {
+      "id": "Many-Worlds Interpretation of Quantum Mechanics",
+      "group": 3,
+      "address": "qm-manyworlds"
+    },
+    {
+      "id": "Alan Turing",
+      "group": 3,
+      "address": "turing"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Logic-Based Artificial Intelligence",
+      "group": 3,
+      "address": "logic-ai"
+    },
+    {
+      "id": "Games, Full Abstraction and Full Completeness",
+      "group": 3,
+      "address": "games-abstraction"
+    },
+    {
+      "id": "The Lambda Calculus",
+      "group": 3,
+      "address": "lambda-calculus"
+    },
+    {
+      "id": "Computer Simulations in Science",
+      "group": 3,
+      "address": "simulations-science"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "Non-Deductive Methods in Mathematics",
+      "group": 3,
+      "address": "mathematics-nondeductive"
+    },
+    {
+      "id": "Propositional Dynamic Logic",
+      "group": 3,
+      "address": "logic-dynamic"
+    },
+    {
+      "id": "Semantic Conceptions of Information",
+      "group": 3,
+      "address": "information-semantic"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "The Frege-Hilbert Controversy",
+      "group": 3,
+      "address": "frege-hilbert"
+    },
+    {
+      "id": "Aristotle and Mathematics",
+      "group": 3,
+      "address": "aristotle-mathematics"
+    },
+    {
+      "id": "Gottlob Frege",
+      "group": 3,
+      "address": "frege"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Mathematics",
+      "group": 3,
+      "address": "arabic-islamic-phil-math"
+    },
+    {
+      "id": "Inconsistent Mathematics",
+      "group": 3,
+      "address": "mathematics-inconsistent"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 3,
+      "address": "self-reference"
+    },
+    {
+      "id": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "group": 3,
+      "address": "wittgenstein-mathematics"
+    },
+    {
+      "id": "Mathematical Style",
+      "group": 3,
+      "address": "mathematical-style"
+    },
+    {
+      "id": "Provability Logic",
+      "group": 3,
+      "address": "logic-provability"
+    },
+    {
+      "id": "Nominalism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "nominalism-mathematics"
+    },
+    {
+      "id": "Intuitionism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "intuitionism"
+    },
+    {
+      "id": "Hilbert\u2019s Program",
+      "group": 3,
+      "address": "hilbert-program"
+    },
+    {
+      "id": "The Development of Intuitionistic Logic",
+      "group": 3,
+      "address": "intuitionistic-logic-development"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "The Axiom of Choice",
+      "group": 3,
+      "address": "axiom-choice"
+    },
+    {
+      "id": "Indispensability Arguments in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "mathphil-indis"
+    },
+    {
+      "id": "Scientific Representation",
+      "group": 3,
+      "address": "scientific-representation"
+    },
+    {
+      "id": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "group": 3,
+      "address": "frege-theorem"
+    },
+    {
+      "id": "Formalism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "formalism-mathematics"
+    },
+    {
+      "id": "Fictionalism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "fictionalism-mathematics"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Alfred North Whitehead",
+      "group": 3,
+      "address": "whitehead"
+    },
+    {
+      "id": "Independence and Large Cardinals",
+      "group": 3,
+      "address": "independence-large-cardinals"
+    },
+    {
+      "id": "Infinity",
+      "group": 3,
+      "address": "infinity"
+    },
+    {
+      "id": "Constructive Mathematics",
+      "group": 3,
+      "address": "mathematics-constructive"
+    },
+    {
+      "id": "Imre Lakatos",
+      "group": 3,
+      "address": "lakatos"
+    },
+    {
+      "id": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "group": 3,
+      "address": "dedekind-foundations"
+    },
+    {
+      "id": "Platonism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "platonism-mathematics"
+    },
+    {
+      "id": "Type Theory",
+      "group": 3,
+      "address": "type-theory"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Mathematics",
+      "group": 3,
+      "address": "kant-mathematics"
+    },
+    {
+      "id": "Henri Poincar\u00e9",
+      "group": 3,
+      "address": "poincare"
+    },
+    {
+      "id": "Luitzen Egbertus Jan Brouwer",
+      "group": 3,
+      "address": "brouwer"
+    },
+    {
+      "id": "The Epsilon Calculus",
+      "group": 3,
+      "address": "epsilon-calculus"
+    },
+    {
+      "id": "G\u00f6del\u2019s Incompleteness Theorems",
+      "group": 3,
+      "address": "goedel-incompleteness"
+    },
+    {
+      "id": "Russell\u2019s Paradox",
+      "group": 3,
+      "address": "russell-paradox"
+    },
+    {
+      "id": "The Continuum Hypothesis",
+      "group": 3,
+      "address": "continuum-hypothesis"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "Kurt G\u00f6del",
+      "group": 3,
+      "address": "goedel"
+    },
+    {
+      "id": "Structuralism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "structuralism-mathematics"
+    },
+    {
+      "id": "Naturalism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "naturalism-mathematics"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Set Theory: Constructive and Intuitionistic ZF",
+      "group": 3,
+      "address": "set-theory-constructive"
+    },
+    {
+      "id": "Plural Quantification",
+      "group": 3,
+      "address": "plural-quant"
+    },
+    {
+      "id": "Mathematical Explanation",
+      "group": 3,
+      "address": "mathematics-explanation"
+    },
+    {
+      "id": "Category Theory",
+      "group": 3,
+      "address": "category-theory"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Questions",
+      "group": 3,
+      "address": "questions"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 3,
+      "address": "peirce"
+    },
+    {
+      "id": "Agency",
+      "group": 3,
+      "address": "agency"
+    },
+    {
+      "id": "Dynamic Epistemic Logic",
+      "group": 3,
+      "address": "dynamic-epistemic"
+    },
+    {
+      "id": "Combining Logics",
+      "group": 3,
+      "address": "logic-combining"
+    },
+    {
+      "id": "Two-Dimensional Semantics",
+      "group": 3,
+      "address": "two-dimensional-semantics"
+    },
+    {
+      "id": "Quantifiers and Quantification",
+      "group": 3,
+      "address": "quantification"
+    },
+    {
+      "id": "The Possibilism-Actualism Debate",
+      "group": 3,
+      "address": "possibilism-actualism"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Deontic Logic",
+      "group": 3,
+      "address": "logic-deontic"
+    },
+    {
+      "id": "Temporal Logic",
+      "group": 3,
+      "address": "logic-temporal"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 3,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Indexicals",
+      "group": 3,
+      "address": "indexicals"
+    },
+    {
+      "id": "Justification Logic",
+      "group": 3,
+      "address": "logic-justification"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Leibniz\u2019s Modal Metaphysics",
+      "group": 3,
+      "address": "leibniz-modal"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Reverse Mathematics",
+      "group": 3,
+      "address": "reverse-mathematics"
+    },
+    {
+      "id": "Cellular Automata",
+      "group": 3,
+      "address": "cellular-automata"
+    },
+    {
+      "id": "Richard Sylvan [Routley]",
+      "group": 3,
+      "address": "sylvan-routley"
+    },
+    {
+      "id": "Supertasks",
+      "group": 3,
+      "address": "spacetime-supertasks"
+    },
+    {
+      "id": "The Modern History of Computing",
+      "group": 3,
+      "address": "computing-history"
+    },
+    {
+      "id": "Ramon Llull",
+      "group": 3,
+      "address": "llull"
+    },
+    {
+      "id": "Alonzo Church",
+      "group": 3,
+      "address": "church"
+    },
+    {
+      "id": "The Language of Thought Hypothesis",
+      "group": 3,
+      "address": "language-thought"
+    },
+    {
+      "id": "The Development of Proof Theory",
+      "group": 3,
+      "address": "proof-theory-development"
+    },
+    {
+      "id": "Chance versus Randomness",
+      "group": 3,
+      "address": "chance-randomness"
+    },
+    {
+      "id": "Conservation Biology",
+      "group": 3,
+      "address": "conservation-biology"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Simplicity",
+      "group": 3,
+      "address": "simplicity"
+    },
+    {
+      "id": "Combinatory Logic",
+      "group": 3,
+      "address": "logic-combinatory"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Second-order and Higher-order Logic",
+      "group": 3,
+      "address": "logic-higher-order"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Creativity",
+      "group": 3,
+      "address": "creativity"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 3,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Empirical Approaches to Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility-empirical"
+    },
+    {
+      "id": "The Psychology of Normative Cognition",
+      "group": 3,
+      "address": "psychology-normative-cognition"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Legal Interpretation",
+      "group": 3,
+      "address": "legal-interpretation"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Neoliberalism",
+      "group": 3,
+      "address": "neoliberalism"
+    },
+    {
+      "id": "Paradoxes and Contemporary Logic",
+      "group": 3,
+      "address": "paradoxes-contemporary-logic"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Proof Theory",
+      "group": 3,
+      "address": "proof-theory"
+    },
+    {
+      "id": "Fuzzy Logic",
+      "group": 3,
+      "address": "logic-fuzzy"
+    },
+    {
+      "id": "Linear Logic",
+      "group": 3,
+      "address": "logic-linear"
+    },
+    {
+      "id": "Many-Valued Logic",
+      "group": 3,
+      "address": "logic-manyvalued"
+    },
+    {
+      "id": "Relevance Logic",
+      "group": 3,
+      "address": "logic-relevance"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 3,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "The Mathematics of Boolean Algebra",
+      "group": 3,
+      "address": "boolalg-math"
+    },
+    {
+      "id": "Connexive Logic",
+      "group": 3,
+      "address": "logic-connexive"
+    },
+    {
+      "id": "Substructural Logics",
+      "group": 3,
+      "address": "logic-substructural"
+    }
+  ],
+  "links": [
+    {
+      "source": "Bounded Rationality",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Quantum Computing"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computational Complexity Theory",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computational Complexity Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Quantum Computing"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Quantum Computing"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Quantum Computing"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Computing"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Collapse Theories"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Quantum Computing",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Quantum Computing"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Information"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Intention"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Information",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Axiom of Choice"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Infinity"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Kant\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Fictionalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Fictionalism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Abduction"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Agency"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Questions"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Ramon Llull"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Information",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Supertasks",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Modern History of Computing",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Modern History of Computing",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Creativity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "The Modern History of Computing",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Information",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Reverse Mathematics"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "Collapse Theories"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "Many-Worlds Interpretation of Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Collapse Theories"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Many-Worlds Interpretation of Quantum Mechanics"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Collapse Theories",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Collapse Theories",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Collapse Theories",
+      "target": "Collapse Theories"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Collapse Theories"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Many-Worlds Interpretation of Quantum Mechanics"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Many-Worlds Interpretation of Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Many-Worlds Interpretation of Quantum Mechanics"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Intention",
+      "target": "Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Logic-Based Artificial Intelligence",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic-Based Artificial Intelligence",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logic-Based Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Type Theory"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Information",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Information",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Information",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Information",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Information",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Information",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Information",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Information",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Information",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Naturalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Non-Deductive Methods in Mathematics"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Propositional Dynamic Logic",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Information"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Aristotle and Mathematics",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Infinity"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Arabic and Islamic Philosophy of Mathematics"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Wittgenstein\u2019s Philosophy of Mathematics",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Naturalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "The Axiom of Choice"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Set Theory",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "Category Theory"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "The Axiom of Choice",
+      "target": "The Axiom of Choice"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Abduction"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Fictionalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Formalism in the Philosophy of Mathematics",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Fictionalism in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Fictionalism in the Philosophy of Mathematics",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Fictionalism in the Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Fictionalism in the Philosophy of Mathematics",
+      "target": "Fictionalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "The Axiom of Choice"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Infinity",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Infinity",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Infinity",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Infinity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Infinity",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Infinity",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Infinity",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Infinity",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Infinity",
+      "target": "Infinity"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Non-Deductive Methods in Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Platonism in the Philosophy of Mathematics",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Platonism in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Platonism in the Philosophy of Mathematics",
+      "target": "Naturalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Platonism in the Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Mathematics",
+      "target": "Kant\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Henri Poincar\u00e9"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Kant\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Luitzen Egbertus Jan Brouwer",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Set Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Fictionalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Formalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Non-Deductive Methods in Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Wittgenstein\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Naturalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Luitzen Egbertus Jan Brouwer"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "The Axiom of Choice"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mathematical Explanation",
+      "target": "Mathematical Explanation"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Questions",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Questions",
+      "target": "Questions"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Agency",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Agency",
+      "target": "Intention"
+    },
+    {
+      "source": "Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Propositional Dynamic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Abduction",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Justification Logic",
+      "target": "Justification Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "The Axiom of Choice"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Platonism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Henri Poincar\u00e9"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Reverse Mathematics",
+      "target": "Reverse Mathematics"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Cellular Automata"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Richard Sylvan [Routley]"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Supertasks"
+    },
+    {
+      "source": "The Modern History of Computing",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Modern History of Computing",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Ramon Llull"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Language of Thought Hypothesis",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Modern History of Computing"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Language of Thought Hypothesis"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Creativity",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Creativity",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Creativity",
+      "target": "Creativity"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Empirical Approaches to Moral Responsibility"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Model Theory"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Substructural Logics"
+    }
+  ]
+}

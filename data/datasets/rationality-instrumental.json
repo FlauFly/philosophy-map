@@ -1,0 +1,8247 @@
+{
+  "nodes": [
+    {
+      "id": "Instrumental Rationality",
+      "group": 1,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "Intention",
+      "group": 2,
+      "address": "intention"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 2,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Emotion",
+      "group": 2,
+      "address": "emotion"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 2,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Hume\u2019s Moral Philosophy",
+      "group": 2,
+      "address": "hume-moral"
+    },
+    {
+      "id": "Kant\u2019s Account of Reason",
+      "group": 2,
+      "address": "kant-reason"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 2,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 2,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Metaethics",
+      "group": 2,
+      "address": "metaethics"
+    },
+    {
+      "id": "Moral Motivation",
+      "group": 2,
+      "address": "moral-motivation"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 2,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 2,
+      "address": "technology"
+    },
+    {
+      "id": "Reasons for Action: Internal vs. External",
+      "group": 2,
+      "address": "reasons-internal-external"
+    },
+    {
+      "id": "Action",
+      "group": 2,
+      "address": "action"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 2,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Desire",
+      "group": 2,
+      "address": "desire"
+    },
+    {
+      "id": "Practical Reason and the Structure of Actions",
+      "group": 2,
+      "address": "practical-reason-action"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Agency",
+      "group": 3,
+      "address": "agency"
+    },
+    {
+      "id": "Personal Autonomy",
+      "group": 3,
+      "address": "personal-autonomy"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Knowledge How",
+      "group": 3,
+      "address": "knowledge-how"
+    },
+    {
+      "id": "Self-Knowledge",
+      "group": 3,
+      "address": "self-knowledge"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Doctrine of Double Effect",
+      "group": 3,
+      "address": "double-effect"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Philosophy of Contract Law",
+      "group": 3,
+      "address": "contract-law"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Hedonism",
+      "group": 3,
+      "address": "hedonism"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Value Theory",
+      "group": 3,
+      "address": "value-theory"
+    },
+    {
+      "id": "Richard Mervyn Hare",
+      "group": 3,
+      "address": "hare"
+    },
+    {
+      "id": "Decision-Making Capacity",
+      "group": 3,
+      "address": "decision-capacity"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Incommensurable Values",
+      "group": 3,
+      "address": "value-incommensurable"
+    },
+    {
+      "id": "Constructivism in Metaethics",
+      "group": 3,
+      "address": "constructivism-metaethics"
+    },
+    {
+      "id": "Moral Particularism",
+      "group": 3,
+      "address": "moral-particularism"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Normativity in Metaethics",
+      "group": 3,
+      "address": "normativity-metaethics"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 3,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Weighing Reasons",
+      "group": 3,
+      "address": "weighing-reasons"
+    },
+    {
+      "id": "Moral Cognitivism vs. Non-Cognitivism",
+      "group": 3,
+      "address": "moral-cognitivism"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Feminist Moral Psychology",
+      "group": 3,
+      "address": "feminism-moralpsych"
+    },
+    {
+      "id": "Contractualism",
+      "group": 3,
+      "address": "contractualism"
+    },
+    {
+      "id": "Moral Psychology: Empirical Approaches",
+      "group": 3,
+      "address": "moral-psych-emp"
+    },
+    {
+      "id": "Medieval Theories of Practical Reason",
+      "group": 3,
+      "address": "practical-reason-med"
+    },
+    {
+      "id": "Michael Oakeshott",
+      "group": 3,
+      "address": "oakeshott"
+    },
+    {
+      "id": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "group": 3,
+      "address": "reasons-agent"
+    },
+    {
+      "id": "Bodily Awareness",
+      "group": 3,
+      "address": "bodily-awareness"
+    },
+    {
+      "id": "Experimental Moral Philosophy",
+      "group": 3,
+      "address": "experimental-moral"
+    },
+    {
+      "id": "Emotions in the Christian Tradition",
+      "group": 3,
+      "address": "emotion-Christian-tradition"
+    },
+    {
+      "id": "Forgiveness",
+      "group": 3,
+      "address": "forgiveness"
+    },
+    {
+      "id": "Empathy",
+      "group": 3,
+      "address": "empathy"
+    },
+    {
+      "id": "Edith Stein",
+      "group": 3,
+      "address": "stein"
+    },
+    {
+      "id": "Envy",
+      "group": 3,
+      "address": "envy"
+    },
+    {
+      "id": "Moral Sentimentalism",
+      "group": 3,
+      "address": "moral-sentimentalism"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Mental Imagery",
+      "group": 3,
+      "address": "mental-imagery"
+    },
+    {
+      "id": "17th and 18th Century Theories of Emotions",
+      "group": 3,
+      "address": "emotions-17th18th"
+    },
+    {
+      "id": "Pain",
+      "group": 3,
+      "address": "pain"
+    },
+    {
+      "id": "Evolutionary Psychology",
+      "group": 3,
+      "address": "evolutionary-psychology"
+    },
+    {
+      "id": "Self-Deception",
+      "group": 3,
+      "address": "self-deception"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Emotional Responses to Fiction",
+      "group": 3,
+      "address": "fiction-emotion-response"
+    },
+    {
+      "id": "Happiness",
+      "group": 3,
+      "address": "happiness"
+    },
+    {
+      "id": "Bernard Williams",
+      "group": 3,
+      "address": "williams-bernard"
+    },
+    {
+      "id": "Natural Kinds",
+      "group": 3,
+      "address": "natural-kinds"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "The Concept of Emotion in Classical Indian Philosophy",
+      "group": 3,
+      "address": "concept-emotion-india"
+    },
+    {
+      "id": "The Moral Status of Animals",
+      "group": 3,
+      "address": "moral-animal"
+    },
+    {
+      "id": "Phenomenal Intentionality",
+      "group": 3,
+      "address": "phenomenal-intentionality"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Aesthetics and Cognitive Science",
+      "group": 3,
+      "address": "aesthetics-cogsci"
+    },
+    {
+      "id": "Animal Communication",
+      "group": 3,
+      "address": "animal-communication"
+    },
+    {
+      "id": "Imaginative Resistance",
+      "group": 3,
+      "address": "imaginative-resistance"
+    },
+    {
+      "id": "Paradox of Tragedy",
+      "group": 3,
+      "address": "paradox-of-tragedy"
+    },
+    {
+      "id": "The Frame Problem",
+      "group": 3,
+      "address": "frame-problem"
+    },
+    {
+      "id": "Gratitude",
+      "group": 3,
+      "address": "gratitude"
+    },
+    {
+      "id": "Philosophy of Film",
+      "group": 3,
+      "address": "film"
+    },
+    {
+      "id": "The Emotions in Early Chinese Philosophy",
+      "group": 3,
+      "address": "emotions-chinese"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Pleasure",
+      "group": 3,
+      "address": "pleasure"
+    },
+    {
+      "id": "Medieval Theories of the Emotions",
+      "group": 3,
+      "address": "medieval-emotions"
+    },
+    {
+      "id": "Action-based Theories of Perception",
+      "group": 3,
+      "address": "action-perception"
+    },
+    {
+      "id": "Love",
+      "group": 3,
+      "address": "love"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "Phenomenology of Religion",
+      "group": 3,
+      "address": "phenomenology-religion"
+    },
+    {
+      "id": "Descartes and the Pineal Gland",
+      "group": 3,
+      "address": "pineal-gland"
+    },
+    {
+      "id": "Definitions",
+      "group": 3,
+      "address": "definitions"
+    },
+    {
+      "id": "The Paradox of Suspense",
+      "group": 3,
+      "address": "paradox-suspense"
+    },
+    {
+      "id": "Experimental Philosophy of Art and Aesthetics",
+      "group": 3,
+      "address": "experimental-aesthetics"
+    },
+    {
+      "id": "Fitting Attitude Theories of Value",
+      "group": 3,
+      "address": "fitting-attitude-theories"
+    },
+    {
+      "id": "Blame",
+      "group": 3,
+      "address": "blame"
+    },
+    {
+      "id": "Consciousness",
+      "group": 3,
+      "address": "consciousness"
+    },
+    {
+      "id": "The Normative Status of Logic",
+      "group": 3,
+      "address": "logic-normative"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Hume on Free Will",
+      "group": 3,
+      "address": "hume-freewill"
+    },
+    {
+      "id": "The Pure Theory of Law",
+      "group": 3,
+      "address": "lawphil-theory"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Hume\u2019s Aesthetics",
+      "group": 3,
+      "address": "hume-aesthetics"
+    },
+    {
+      "id": "Combining Logics",
+      "group": 3,
+      "address": "logic-combining"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Kant and Hume on Morality",
+      "group": 3,
+      "address": "kant-hume-morality"
+    },
+    {
+      "id": "Moral Naturalism",
+      "group": 3,
+      "address": "naturalism-moral"
+    },
+    {
+      "id": "Russell\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "russell-moral"
+    },
+    {
+      "id": "Modesty and Humility",
+      "group": 3,
+      "address": "modesty-humility"
+    },
+    {
+      "id": "Feminist Perspectives on Autonomy",
+      "group": 3,
+      "address": "feminism-autonomy"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Kant\u2019s Transcendental Arguments",
+      "group": 3,
+      "address": "kant-transcendental"
+    },
+    {
+      "id": "Kant\u2019s Social and Political Philosophy",
+      "group": 3,
+      "address": "kant-social-political"
+    },
+    {
+      "id": "Kant\u2019s Aesthetics and Teleology",
+      "group": 3,
+      "address": "kant-aesthetics"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Mathematics",
+      "group": 3,
+      "address": "kant-mathematics"
+    },
+    {
+      "id": "Kant\u2019s Critique of Metaphysics",
+      "group": 3,
+      "address": "kant-metaphysics"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Leibniz\u2019s Influence on Kant",
+      "group": 3,
+      "address": "kant-leibniz"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Science",
+      "group": 3,
+      "address": "kant-science"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Religion",
+      "group": 3,
+      "address": "kant-religion"
+    },
+    {
+      "id": "Kant and Hume on Causality",
+      "group": 3,
+      "address": "kant-hume-causality"
+    },
+    {
+      "id": "The Normativity of Meaning and Content",
+      "group": 3,
+      "address": "meaning-normativity"
+    },
+    {
+      "id": "Epistemology in Classical Indian Philosophy",
+      "group": 3,
+      "address": "epistemology-india"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "George Edward Moore",
+      "group": 3,
+      "address": "moore"
+    },
+    {
+      "id": "Implicit Bias",
+      "group": 3,
+      "address": "implicit-bias"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Moral Particularism and Moral Generalism",
+      "group": 3,
+      "address": "moral-particularism-generalism"
+    },
+    {
+      "id": "Philippa Foot",
+      "group": 3,
+      "address": "philippa-foot"
+    },
+    {
+      "id": "Moral Realism",
+      "group": 3,
+      "address": "moral-realism"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Facts",
+      "group": 3,
+      "address": "facts"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Causal Models",
+      "group": 3,
+      "address": "causal-models"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Counterfactuals",
+      "group": 3,
+      "address": "counterfactuals"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology"
+    },
+    {
+      "id": "Morality and Evolutionary Biology",
+      "group": 3,
+      "address": "morality-biology"
+    },
+    {
+      "id": "Moral Phenomenology",
+      "group": 3,
+      "address": "moral-phenomenology"
+    },
+    {
+      "id": "Supervenience in Ethics",
+      "group": 3,
+      "address": "supervenience-ethics"
+    },
+    {
+      "id": "Realism",
+      "group": 3,
+      "address": "realism"
+    },
+    {
+      "id": "Harold Arthur Prichard",
+      "group": 3,
+      "address": "prichard"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Religion and Morality in Western Philosophy",
+      "group": 3,
+      "address": "religion-morality"
+    },
+    {
+      "id": "Moral Anti-Realism",
+      "group": 3,
+      "address": "moral-anti-realism"
+    },
+    {
+      "id": "Moral Arguments for the Existence of God",
+      "group": 3,
+      "address": "moral-arguments-god"
+    },
+    {
+      "id": "Moral Relativism",
+      "group": 3,
+      "address": "moral-relativism"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 3,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "A Priorism in Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology-a-priori"
+    },
+    {
+      "id": "Metaepistemology",
+      "group": 3,
+      "address": "metaepistemology"
+    },
+    {
+      "id": "Moral Non-Naturalism",
+      "group": 3,
+      "address": "moral-non-naturalism"
+    },
+    {
+      "id": "The Nature of Law",
+      "group": 3,
+      "address": "lawphil-nature"
+    },
+    {
+      "id": "Free Will",
+      "group": 3,
+      "address": "freewill"
+    },
+    {
+      "id": "Theological Voluntarism",
+      "group": 3,
+      "address": "voluntarism-theological"
+    },
+    {
+      "id": "Moral Skepticism",
+      "group": 3,
+      "address": "skepticism-moral"
+    },
+    {
+      "id": "Charles Leslie Stevenson",
+      "group": 3,
+      "address": "stevenson"
+    },
+    {
+      "id": "The Concept of Evil",
+      "group": 3,
+      "address": "concept-evil"
+    },
+    {
+      "id": "Locke\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "locke-moral"
+    },
+    {
+      "id": "The Moral/Conventional Distinction",
+      "group": 3,
+      "address": "moral-conventional"
+    },
+    {
+      "id": "Alexander Crummell",
+      "group": 3,
+      "address": "alexander-crummell"
+    },
+    {
+      "id": "Divine Freedom",
+      "group": 3,
+      "address": "divine-freedom"
+    },
+    {
+      "id": "Epistemic Self-Doubt",
+      "group": 3,
+      "address": "epistemic-self-doubt"
+    },
+    {
+      "id": "Material Constitution",
+      "group": 3,
+      "address": "material-constitution"
+    },
+    {
+      "id": "Information Technology and Moral Values",
+      "group": 3,
+      "address": "it-moral-values"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "The Turing Test",
+      "group": 3,
+      "address": "turing-test"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Francis Bacon",
+      "group": 3,
+      "address": "francis-bacon"
+    },
+    {
+      "id": "Sortals",
+      "group": 3,
+      "address": "sortals"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 3,
+      "address": "church-turing"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Turing Machines",
+      "group": 3,
+      "address": "turing-machine"
+    },
+    {
+      "id": "Relative Identity",
+      "group": 3,
+      "address": "identity-relative"
+    },
+    {
+      "id": "Phenomenological Approaches to Ethics and Information Technology",
+      "group": 3,
+      "address": "ethics-it-phenomenology"
+    },
+    {
+      "id": "Identity Over Time",
+      "group": 3,
+      "address": "identity-time"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 3,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "The Chinese Room Argument",
+      "group": 3,
+      "address": "chinese-room"
+    },
+    {
+      "id": "Multiple Realizability",
+      "group": 3,
+      "address": "multiple-realizability"
+    },
+    {
+      "id": "Episteme and Techne",
+      "group": 3,
+      "address": "episteme-techne"
+    },
+    {
+      "id": "Climate Justice",
+      "group": 3,
+      "address": "justice-climate"
+    },
+    {
+      "id": "Search Engines and Ethics",
+      "group": 3,
+      "address": "ethics-search"
+    },
+    {
+      "id": "Social Networking and Ethics",
+      "group": 3,
+      "address": "ethics-social-networking"
+    },
+    {
+      "id": "Ethics of Artificial Intelligence and Robotics",
+      "group": 3,
+      "address": "ethics-ai"
+    },
+    {
+      "id": "Justice",
+      "group": 3,
+      "address": "justice"
+    },
+    {
+      "id": "Aristotle on Causality",
+      "group": 3,
+      "address": "aristotle-causality"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 3,
+      "address": "enhancement"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Artifact",
+      "group": 3,
+      "address": "artifact"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Abilities",
+      "group": 3,
+      "address": "abilities"
+    },
+    {
+      "id": "Anomalous Monism",
+      "group": 3,
+      "address": "anomalous-monism"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Actualism and Possibilism in Ethics",
+      "group": 3,
+      "address": "actualism-possibilism-ethics"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Robin George Collingwood",
+      "group": 3,
+      "address": "collingwood"
+    },
+    {
+      "id": "Pragmatics",
+      "group": 3,
+      "address": "pragmatics"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Collective Intentionality",
+      "group": 3,
+      "address": "collective-intentionality"
+    },
+    {
+      "id": "Daoism",
+      "group": 3,
+      "address": "daoism"
+    },
+    {
+      "id": "Positive and Negative Liberty",
+      "group": 3,
+      "address": "liberty-positive-negative"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "group": 3,
+      "address": "alternative-possibilities"
+    },
+    {
+      "id": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "group": 3,
+      "address": "incompatibilism-theories"
+    },
+    {
+      "id": "Paul Ricoeur",
+      "group": 3,
+      "address": "ricoeur"
+    },
+    {
+      "id": "Compatibilism",
+      "group": 3,
+      "address": "compatibilism"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Friendship",
+      "group": 3,
+      "address": "friendship"
+    },
+    {
+      "id": "The Textual Transmission of the Aristotelian Corpus",
+      "group": 3,
+      "address": "aristotle-text"
+    },
+    {
+      "id": "Aristotle\u2019s Political Theory",
+      "group": 3,
+      "address": "aristotle-politics"
+    },
+    {
+      "id": "Plato\u2019s Ethics and Politics in The Republic",
+      "group": 3,
+      "address": "plato-ethics-politics"
+    },
+    {
+      "id": "Moral Character",
+      "group": 3,
+      "address": "moral-character"
+    },
+    {
+      "id": "Aristotle\u2019s Psychology",
+      "group": 3,
+      "address": "aristotle-psychology"
+    },
+    {
+      "id": "Human Nature",
+      "group": 3,
+      "address": "human-nature"
+    },
+    {
+      "id": "Medieval Theories of Conscience",
+      "group": 3,
+      "address": "conscience-medieval"
+    },
+    {
+      "id": "Ancient Political Philosophy",
+      "group": 3,
+      "address": "ancient-political"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Roger Bacon",
+      "group": 3,
+      "address": "roger-bacon"
+    },
+    {
+      "id": "Albert the Great",
+      "group": 3,
+      "address": "albert-great"
+    },
+    {
+      "id": "Lorenzo Valla",
+      "group": 3,
+      "address": "lorenzo-valla"
+    },
+    {
+      "id": "Marriage and Domestic Partnership",
+      "group": 3,
+      "address": "marriage"
+    },
+    {
+      "id": "Bradley\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "bradley-moral"
+    },
+    {
+      "id": "Plato",
+      "group": 3,
+      "address": "plato"
+    },
+    {
+      "id": "Wisdom",
+      "group": 3,
+      "address": "wisdom"
+    },
+    {
+      "id": "Ancient Ethical Theory",
+      "group": 3,
+      "address": "ethics-ancient"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Egoism",
+      "group": 3,
+      "address": "egoism"
+    },
+    {
+      "id": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "group": 3,
+      "address": "al-farabi-soc-rel"
+    },
+    {
+      "id": "Moral Luck",
+      "group": 3,
+      "address": "moral-luck"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Cicero",
+      "group": 3,
+      "address": "cicero"
+    },
+    {
+      "id": "Sex and Sexuality",
+      "group": 3,
+      "address": "sex-sexuality"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Jacques Lacan",
+      "group": 3,
+      "address": "lacan"
+    }
+  ],
+  "links": [
+    {
+      "source": "Emotion",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Intention",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Action"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Desire"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Action",
+      "target": "Intention"
+    },
+    {
+      "source": "Agency",
+      "target": "Intention"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Intention"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Intention"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Intention"
+    },
+    {
+      "source": "Events",
+      "target": "Intention"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Intention"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intention"
+    },
+    {
+      "source": "Imagination",
+      "target": "Intention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Intention"
+    },
+    {
+      "source": "Intention",
+      "target": "Action"
+    },
+    {
+      "source": "Intention",
+      "target": "Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Intention",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Intention",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Intention",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Intention",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Intention",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Intention"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Intention"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Emotion",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Michael Oakeshott",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Emotion"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Emotion"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Emotion"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Emotion"
+    },
+    {
+      "source": "Blame",
+      "target": "Emotion"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Emotion"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Emotion"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Emotion"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "Emotion"
+    },
+    {
+      "source": "Desire",
+      "target": "Emotion"
+    },
+    {
+      "source": "Emotion",
+      "target": "Action-based Theories of Perception"
+    },
+    {
+      "source": "Emotion",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Emotion",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Emotion",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Emotion",
+      "target": "Definitions"
+    },
+    {
+      "source": "Emotion",
+      "target": "Desire"
+    },
+    {
+      "source": "Emotion",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Emotion",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Emotion",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "Emotion",
+      "target": "Empathy"
+    },
+    {
+      "source": "Emotion",
+      "target": "Envy"
+    },
+    {
+      "source": "Emotion",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Emotion",
+      "target": "The Frame Problem"
+    },
+    {
+      "source": "Emotion",
+      "target": "The Concept of Emotion in Classical Indian Philosophy"
+    },
+    {
+      "source": "Emotion",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Emotion",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Emotion",
+      "target": "Love"
+    },
+    {
+      "source": "Emotion",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Emotion",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Emotion",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Emotion",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Emotion",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Emotion"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "Emotion"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Emotion"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Emotion"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Emotion"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Emotion"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Emotion"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Emotion"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Emotion"
+    },
+    {
+      "source": "Happiness",
+      "target": "Emotion"
+    },
+    {
+      "source": "Imagination",
+      "target": "Emotion"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "Emotion"
+    },
+    {
+      "source": "Love",
+      "target": "Emotion"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Emotion"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Emotion"
+    },
+    {
+      "source": "Pain",
+      "target": "Emotion"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Emotion"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Emotion"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Emotion"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Emotion"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Paradox of Suspense",
+      "target": "Emotion"
+    },
+    {
+      "source": "Trust",
+      "target": "Emotion"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Emotion"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Evidence"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "The Normative Status of Logic"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Hume\u2019s Moral Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume\u2019s Moral Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant and Hume on Morality",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Pure Theory of Law",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Leibniz\u2019s Influence on Kant"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Action"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Agency"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Facts"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Free Will"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Non-Naturalism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Realism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Theological Voluntarism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Desire",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Locke\u2019s Moral Philosophy",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Moral Motivation",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Moral Motivation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Alexander Crummell",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Action"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Sortals"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Action",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Abilities",
+      "target": "Action"
+    },
+    {
+      "source": "Action",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Action",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Action",
+      "target": "Daoism"
+    },
+    {
+      "source": "Action",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Action",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Action",
+      "target": "Events"
+    },
+    {
+      "source": "Action",
+      "target": "Free Will"
+    },
+    {
+      "source": "Action",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Action",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Action",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Action",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Action"
+    },
+    {
+      "source": "Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Action"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Action"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Action"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Action"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Action"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Action"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Action"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Action"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Action"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Action"
+    },
+    {
+      "source": "Desire",
+      "target": "Action"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Action"
+    },
+    {
+      "source": "Events",
+      "target": "Action"
+    },
+    {
+      "source": "Free Will",
+      "target": "Action"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Action"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Action"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Action"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Action"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Action"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Action"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Action"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Action"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Action"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Action"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Action"
+    },
+    {
+      "source": "Paul Ricoeur",
+      "target": "Action"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Action"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Egoism"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Friendship"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Plato"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Aristotle\u2019s Political Theory",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Psychology",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Cicero",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Egoism",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Ancient Ethical Theory",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Justice",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Trust",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Belief",
+      "target": "Desire"
+    },
+    {
+      "source": "Desire",
+      "target": "Belief"
+    },
+    {
+      "source": "Desire",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Desire",
+      "target": "Preferences"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Desire",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Desire"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Desire"
+    },
+    {
+      "source": "Imagination",
+      "target": "Desire"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Desire"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Desire"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Desire"
+    },
+    {
+      "source": "The Paradox of Suspense",
+      "target": "Desire"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Agency"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Agency",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Agency",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Agency",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Agency",
+      "target": "Events"
+    },
+    {
+      "source": "Agency",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Agency",
+      "target": "Free Will"
+    },
+    {
+      "source": "Agency",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Agency"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Events",
+      "target": "Agency"
+    },
+    {
+      "source": "Events",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Events",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Events",
+      "target": "Facts"
+    },
+    {
+      "source": "Events",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Imagination",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Imagination",
+      "target": "Belief"
+    },
+    {
+      "source": "Imagination",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Imagination",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Imagination",
+      "target": "Empathy"
+    },
+    {
+      "source": "Imagination",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Imagination",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Imagination",
+      "target": "David Hume"
+    },
+    {
+      "source": "Imagination",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Imagination",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Imagination",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Imagination",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Belief"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Implicature",
+      "target": "Convention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Imagination"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Plato"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Belief"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Richard Mervyn Hare"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Risk"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Realism"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Weighing Reasons"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Realism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Charles Leslie Stevenson"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Contractualism",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Egoism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Michael Oakeshott",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Michael Oakeshott",
+      "target": "Michael Oakeshott"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Pain"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Empathy",
+      "target": "Robin George Collingwood"
+    },
+    {
+      "source": "Empathy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Empathy",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Empathy",
+      "target": "Empathy"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "Envy",
+      "target": "Envy"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Imagination"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Descartes and the Pineal Gland"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "David Hume"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Pain",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Pain",
+      "target": "Pain"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Belief"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Trust",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Trust",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Trust",
+      "target": "Friendship"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Empathy"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Imagination"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Emotional Responses to Fiction"
+    },
+    {
+      "source": "Happiness",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Happiness",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Happiness",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Happiness",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Happiness",
+      "target": "Pain"
+    },
+    {
+      "source": "Happiness",
+      "target": "Plato"
+    },
+    {
+      "source": "Happiness",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Happiness",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Happiness",
+      "target": "Happiness"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "The Emotions in Early Chinese Philosophy"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "Love"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "Pleasure"
+    },
+    {
+      "source": "The Concept of Emotion in Classical Indian Philosophy",
+      "target": "The Concept of Emotion in Classical Indian Philosophy"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Empathy"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Imagination"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Implicature"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Communication"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Experimental Philosophy of Art and Aesthetics"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Imagination"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Emotional Responses to Fiction"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Imagination"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Pain"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Paradox of Tragedy"
+    },
+    {
+      "source": "The Frame Problem",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Frame Problem",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Frame Problem",
+      "target": "The Frame Problem"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Gratitude"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "The Emotions in Early Chinese Philosophy",
+      "target": "The Emotions in Early Chinese Philosophy"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Free Will"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Plato"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "Action-based Theories of Perception",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Action-based Theories of Perception",
+      "target": "Action-based Theories of Perception"
+    },
+    {
+      "source": "Love",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Love",
+      "target": "Friendship"
+    },
+    {
+      "source": "Love",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Love",
+      "target": "Love"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Empathy"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Descartes and the Pineal Gland",
+      "target": "Descartes and the Pineal Gland"
+    },
+    {
+      "source": "Definitions",
+      "target": "Definitions"
+    },
+    {
+      "source": "The Paradox of Suspense",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "The Paradox of Suspense",
+      "target": "The Paradox of Suspense"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Emotional Responses to Fiction"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Imagination"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Experimental Philosophy of Art and Aesthetics"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Blame",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Blame",
+      "target": "Free Will"
+    },
+    {
+      "source": "Blame",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Blame",
+      "target": "Blame"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Free Will"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "The Normative Status of Logic"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "The Pure Theory of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Pure Theory of Law",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "David Hume",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "David Hume",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Convention",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Implicature"
+    },
+    {
+      "source": "Convention",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Convention",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Kant and Hume on Morality",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant and Hume on Morality",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Kant and Hume on Morality",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Kant and Hume on Morality",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Realism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Agency"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Plato"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Leibniz\u2019s Influence on Kant"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Transcendental Arguments"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Mathematics",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Mathematics",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Mathematics",
+      "target": "Kant\u2019s Transcendental Arguments"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Mathematics",
+      "target": "Kant\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Kant\u2019s Critique of Metaphysics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Kant\u2019s Critique of Metaphysics",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Leibniz\u2019s Influence on Kant"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Philosophy of Mathematics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Transcendental Arguments"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on Kant",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on Kant",
+      "target": "Leibniz\u2019s Influence on Kant"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Free Will"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "David Hume"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Belief"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Convention"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Value Theory"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Belief"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Belief"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Richard Mervyn Hare"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Moral Realism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Events"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Facts",
+      "target": "Events"
+    },
+    {
+      "source": "Facts",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Facts",
+      "target": "Facts"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Facts"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Implicature"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Belief"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Convention"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Functionalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intentionality"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Abilities"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Agency"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Paul Ricoeur"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Moral Phenomenology"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Supervenience in Ethics",
+      "target": "Supervenience in Ethics"
+    },
+    {
+      "source": "Realism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Realism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Realism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Realism",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Realism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Harold Arthur Prichard",
+      "target": "Harold Arthur Prichard"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Supervenience in Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Moral Anti-Realism",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Kant and Hume on Morality"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Abilities"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "David Hume"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Realism"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Metaepistemology"
+    },
+    {
+      "source": "Moral Non-Naturalism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Non-Naturalism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Pure Theory of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Free Will",
+      "target": "Agency"
+    },
+    {
+      "source": "Free Will",
+      "target": "Blame"
+    },
+    {
+      "source": "Free Will",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Theological Voluntarism",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Theological Voluntarism",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Skepticism",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Richard Mervyn Hare"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Moral Anti-Realism"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Charles Leslie Stevenson",
+      "target": "Charles Leslie Stevenson"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Skepticism"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Locke\u2019s Moral Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Locke\u2019s Moral Philosophy",
+      "target": "Locke\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Convention"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Empathy"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "The Moral/Conventional Distinction"
+    },
+    {
+      "source": "Alexander Crummell",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Alexander Crummell",
+      "target": "Alexander Crummell"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Free Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Moral Responsibility and the Principle of Alternative Possibilities"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Sortals"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Belief"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Convention"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "David Hume"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Sortals",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Sortals",
+      "target": "Sortals"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Sortals"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Risk",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Plato"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Justice",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Justice",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Frame Problem"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Artifact",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Artifact"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Realism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Abilities",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Abilities",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Abilities",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Abilities",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Abilities",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Abilities",
+      "target": "Abilities"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Events"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Belief"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "The Concept of Emotion in Classical Indian Philosophy"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pain"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Free Will"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "David Hume"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Realism"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Robin George Collingwood"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Free Will"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Daoism",
+      "target": "Daoism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Abilities"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Free Will"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Abilities"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Free Will"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Harold Arthur Prichard"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Abilities"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Responsibility and the Principle of Alternative Possibilities"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Agency"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Paul Ricoeur",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Paul Ricoeur",
+      "target": "Paul Ricoeur"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Friendship",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Friendship",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Friendship",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Friendship",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Love"
+    },
+    {
+      "source": "Friendship",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Friendship",
+      "target": "Friendship"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "The Textual Transmission of the Aristotelian Corpus"
+    },
+    {
+      "source": "Aristotle\u2019s Political Theory",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Plato\u2019s Ethics and Politics in The Republic",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Psychology",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Plato"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Egoism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Pain"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Cicero"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Realism"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Free Will"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Love"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Sex and Sexuality"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Bradley\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Plato",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "Plato",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Evidence"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Ancient Ethical Theory",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Ethical Theory",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Aristotle",
+      "target": "The Textual Transmission of the Aristotelian Corpus"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Happiness"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Egoism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Egoism",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Egoism",
+      "target": "Harold Arthur Prichard"
+    },
+    {
+      "source": "Egoism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Egoism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Egoism",
+      "target": "Egoism"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "Aristotle\u2019s Political Theory"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "Plato\u2019s Ethics and Politics in The Republic"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "al-Farabi\u2019s Philosophy of Society and Religion"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Cicero",
+      "target": "Ancient Ethical Theory"
+    },
+    {
+      "source": "Cicero",
+      "target": "David Hume"
+    },
+    {
+      "source": "Cicero",
+      "target": "Plato"
+    },
+    {
+      "source": "Cicero",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Cicero",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Cicero",
+      "target": "Cicero"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Sex and Sexuality"
+    },
+    {
+      "source": "Belief",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Belief",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Belief",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Belief",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Belief",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Belief",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Belief",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Belief"
+    },
+    {
+      "source": "Dispositions",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Love"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Jacques Lacan"
+    }
+  ]
+}

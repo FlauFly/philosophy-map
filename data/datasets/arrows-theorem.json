@@ -1,0 +1,3647 @@
+{
+  "nodes": [
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 1,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Voting Methods",
+      "group": 2,
+      "address": "voting-methods"
+    },
+    {
+      "id": "Belief Merging and Judgment Aggregation",
+      "group": 2,
+      "address": "belief-merging"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 2,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 2,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Truthlikeness",
+      "group": 2,
+      "address": "truthlikeness"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 2,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 2,
+      "address": "social-choice"
+    },
+    {
+      "id": "Collective Intentionality",
+      "group": 2,
+      "address": "collective-intentionality"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 2,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Preferences",
+      "group": 2,
+      "address": "preferences"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 2,
+      "address": "economics"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "The Ethics and Rationality of Voting",
+      "group": 3,
+      "address": "voting"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 3,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 3,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Philosophy of Medicine",
+      "group": 3,
+      "address": "medicine"
+    },
+    {
+      "id": "Public Reason",
+      "group": 3,
+      "address": "public-reason"
+    },
+    {
+      "id": "Contemporary Approaches to the Social Contract",
+      "group": 3,
+      "address": "contractarianism-contemporary"
+    },
+    {
+      "id": "The Free Rider Problem",
+      "group": 3,
+      "address": "free-rider"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Justice, Inequality, and Health",
+      "group": 3,
+      "address": "justice-inequality-health"
+    },
+    {
+      "id": "Philosophical Approaches to Work and Labor",
+      "group": 3,
+      "address": "work-labor"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Distributive Justice",
+      "group": 3,
+      "address": "justice-distributive"
+    },
+    {
+      "id": "Distributive Justice and Empirical Moral Psychology",
+      "group": 3,
+      "address": "justice-moral-psych"
+    },
+    {
+      "id": "Friedrich Hayek",
+      "group": 3,
+      "address": "friedrich-hayek"
+    },
+    {
+      "id": "Markets",
+      "group": 3,
+      "address": "markets"
+    },
+    {
+      "id": "Envy",
+      "group": 3,
+      "address": "envy"
+    },
+    {
+      "id": "Neoliberalism",
+      "group": 3,
+      "address": "neoliberalism"
+    },
+    {
+      "id": "Intergenerational Justice",
+      "group": 3,
+      "address": "justice-intergenerational"
+    },
+    {
+      "id": "Needs in Moral and Political Philosophy",
+      "group": 3,
+      "address": "needs"
+    },
+    {
+      "id": "Global Democracy",
+      "group": 3,
+      "address": "global-democracy"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Equality of Educational Opportunity",
+      "group": 3,
+      "address": "equal-ed-opportunity"
+    },
+    {
+      "id": "Egalitarianism",
+      "group": 3,
+      "address": "egalitarianism"
+    },
+    {
+      "id": "Global Justice",
+      "group": 3,
+      "address": "justice-global"
+    },
+    {
+      "id": "Ramsey and Intergenerational Welfare Economics",
+      "group": 3,
+      "address": "ramsey-economics"
+    },
+    {
+      "id": "Economics in Early Modern Philosophy",
+      "group": 3,
+      "address": "economics-early-modern"
+    },
+    {
+      "id": "Impartiality",
+      "group": 3,
+      "address": "impartiality"
+    },
+    {
+      "id": "Business Ethics",
+      "group": 3,
+      "address": "ethics-business"
+    },
+    {
+      "id": "Socialism",
+      "group": 3,
+      "address": "socialism"
+    },
+    {
+      "id": "Equality",
+      "group": 3,
+      "address": "equality"
+    },
+    {
+      "id": "Libertarianism",
+      "group": 3,
+      "address": "libertarianism"
+    },
+    {
+      "id": "Analytical Marxism",
+      "group": 3,
+      "address": "marxism-analytical"
+    },
+    {
+      "id": "Equality of Opportunity",
+      "group": 3,
+      "address": "equal-opportunity"
+    },
+    {
+      "id": "Exploitation",
+      "group": 3,
+      "address": "exploitation"
+    },
+    {
+      "id": "Prioritarianism as a Theory of Value",
+      "group": 3,
+      "address": "prioritarianism"
+    },
+    {
+      "id": "The Capability Approach",
+      "group": 3,
+      "address": "capability-approach"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Truth",
+      "group": 3,
+      "address": "truth"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Realism and Theory Change in Science",
+      "group": 3,
+      "address": "realism-theory-change"
+    },
+    {
+      "id": "Scientific Progress",
+      "group": 3,
+      "address": "scientific-progress"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "group": 3,
+      "address": "histfem-condorcet"
+    },
+    {
+      "id": "Political Legitimacy",
+      "group": 3,
+      "address": "legitimacy"
+    },
+    {
+      "id": "Reichenbach\u2019s Common Cause Principle",
+      "group": 3,
+      "address": "physics-Rpcc"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Preference Logic",
+      "group": 3,
+      "address": "logic-preference"
+    },
+    {
+      "id": "Pufendorf\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "pufendorf-moral"
+    },
+    {
+      "id": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "group": 3,
+      "address": "cusanus"
+    },
+    {
+      "id": "Alfred Tarski",
+      "group": 3,
+      "address": "tarski"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Animal Consciousness",
+      "group": 3,
+      "address": "consciousness-animal"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 3,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 3,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Edith Stein",
+      "group": 3,
+      "address": "stein"
+    },
+    {
+      "id": "Action",
+      "group": 3,
+      "address": "action"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "group": 3,
+      "address": "phenomenology-mg"
+    },
+    {
+      "id": "Group Rights",
+      "group": 3,
+      "address": "rights-group"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Transitional Justice",
+      "group": 3,
+      "address": "justice-transitional"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 3,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Biological Altruism",
+      "group": 3,
+      "address": "altruism-biological"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Redistribution",
+      "group": 3,
+      "address": "redistribution"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Measurement in Science",
+      "group": 3,
+      "address": "measurement-science"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 3,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Public Goods",
+      "group": 3,
+      "address": "public-goods"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Happiness",
+      "group": 3,
+      "address": "happiness"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "John Stuart Mill",
+      "group": 3,
+      "address": "mill"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "Otto Neurath",
+      "group": 3,
+      "address": "neurath"
+    },
+    {
+      "id": "Imre Lakatos",
+      "group": 3,
+      "address": "lakatos"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Jeremy Bentham",
+      "group": 3,
+      "address": "bentham"
+    },
+    {
+      "id": "Adam Smith\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "smith-moral-political"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 3,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Philosophy of Contract Law",
+      "group": 3,
+      "address": "contract-law"
+    },
+    {
+      "id": "Folk Psychology as a Theory",
+      "group": 3,
+      "address": "folkpsych-theory"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    }
+  ],
+  "links": [
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Preferences"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Preferences",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Democracy"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Preferences"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Norms"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Distributive Justice and Empirical Moral Psychology",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Envy"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Equality"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Impartiality"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Markets",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Socialism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Realism and Theory Change in Science",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Properties"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Realism and Theory Change in Science"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Truth"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Democracy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Action",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Desire",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preferences",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Preferences",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Preferences"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Action"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Socialism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Markets",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Democracy"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Democracy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Democracy",
+      "target": "Equality"
+    },
+    {
+      "source": "Democracy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Democracy",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Democracy",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Public Reason",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Public Reason",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Contemporary Approaches to the Social Contract",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Contemporary Approaches to the Social Contract",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Public Goods"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Democracy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Envy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Equality"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Impartiality"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Public Reason"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Redistribution"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Risk"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Equality"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Markets"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Philosophical Approaches to Work and Labor"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Distributive Justice and Empirical Moral Psychology",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Distributive Justice and Empirical Moral Psychology",
+      "target": "Distributive Justice and Empirical Moral Psychology"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Markets",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Markets",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Markets",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Markets",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Markets",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Markets",
+      "target": "Socialism"
+    },
+    {
+      "source": "Markets",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Markets",
+      "target": "Markets"
+    },
+    {
+      "source": "Envy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Envy",
+      "target": "Equality"
+    },
+    {
+      "source": "Envy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Envy",
+      "target": "Envy"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Socialism"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Equality"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "The Capability Approach"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Needs in Moral and Political Philosophy",
+      "target": "Needs in Moral and Political Philosophy"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Global Democracy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Equality"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Equality"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Equality of Educational Opportunity"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "The Capability Approach"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Equality"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "The Capability Approach"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Markets"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Economics in Early Modern Philosophy"
+    },
+    {
+      "source": "Impartiality",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Impartiality",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Impartiality",
+      "target": "Equality"
+    },
+    {
+      "source": "Impartiality",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Impartiality",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Impartiality",
+      "target": "Impartiality"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Markets"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Socialism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Socialism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Socialism",
+      "target": "Equality"
+    },
+    {
+      "source": "Socialism",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Socialism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Socialism",
+      "target": "Markets"
+    },
+    {
+      "source": "Socialism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Socialism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Socialism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Socialism",
+      "target": "Socialism"
+    },
+    {
+      "source": "Equality",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Equality",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Equality",
+      "target": "Impartiality"
+    },
+    {
+      "source": "Equality",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Equality",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Equality",
+      "target": "Equality"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Markets"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Markets"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Socialism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Philosophical Approaches to Work and Labor"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Equality"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Equality of Educational Opportunity"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Equality"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Equality"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Prioritarianism as a Theory of Value"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Capability Approach",
+      "target": "The Capability Approach"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Properties",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Realism and Theory Change in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Realism and Theory Change in Science",
+      "target": "Realism and Theory Change in Science"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Realism and Theory Change in Science"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "David Hume"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Public Reason"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Contemporary Approaches to the Social Contract"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preference Logic"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "Action",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Action",
+      "target": "Action"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Action"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Redistribution",
+      "target": "Equality"
+    },
+    {
+      "source": "Redistribution",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Redistribution",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Redistribution",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Desire",
+      "target": "Action"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Desire",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Public Goods",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Markets"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Public Goods"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Happiness",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Happiness",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Happiness",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Happiness",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Happiness",
+      "target": "Happiness"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Markets"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Socialism"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Risk",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "David Hume",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "Economics in Early Modern Philosophy"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Action"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    }
+  ]
+}

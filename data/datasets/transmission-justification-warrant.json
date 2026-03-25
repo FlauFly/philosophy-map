@@ -1,0 +1,4242 @@
+{
+  "nodes": [
+    {
+      "id": "Transmission of Justification and Warrant",
+      "group": 1,
+      "address": "transmission-justification-warrant"
+    },
+    {
+      "id": "Epistemic Closure",
+      "group": 2,
+      "address": "closure-epistemic"
+    },
+    {
+      "id": "Content Externalism and Skepticism",
+      "group": 2,
+      "address": "skepticism-content-externalism"
+    },
+    {
+      "id": "Evidence",
+      "group": 2,
+      "address": "evidence"
+    },
+    {
+      "id": "Skepticism",
+      "group": 2,
+      "address": "skepticism"
+    },
+    {
+      "id": "George Edward Moore",
+      "group": 2,
+      "address": "moore"
+    },
+    {
+      "id": "Epistemological Problems of Testimony",
+      "group": 2,
+      "address": "testimony-episprob"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 2,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Externalism and Self-Knowledge",
+      "group": 2,
+      "address": "self-knowledge-externalism"
+    },
+    {
+      "id": "Confirmation",
+      "group": 3,
+      "address": "confirmation"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Other Minds",
+      "group": 3,
+      "address": "other-minds"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 3,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Epistemic Contextualism",
+      "group": 3,
+      "address": "contextualism-epistemology"
+    },
+    {
+      "id": "Epistemological Problems of Perception",
+      "group": 3,
+      "address": "perception-episprob"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Sextus Empiricus",
+      "group": 3,
+      "address": "sextus-empiricus"
+    },
+    {
+      "id": "Ren\u00e9 Descartes",
+      "group": 3,
+      "address": "descartes"
+    },
+    {
+      "id": "Reference",
+      "group": 3,
+      "address": "reference"
+    },
+    {
+      "id": "Perceptual Experience and Perceptual Justification",
+      "group": 3,
+      "address": "perception-justification"
+    },
+    {
+      "id": "Challenges to Metaphysical Realism",
+      "group": 3,
+      "address": "realism-sem-challenge"
+    },
+    {
+      "id": "Dreams and Dreaming",
+      "group": 3,
+      "address": "dreams-dreaming"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Transcendental Arguments",
+      "group": 3,
+      "address": "transcendental-arguments"
+    },
+    {
+      "id": "Skepticism in Latin America",
+      "group": 3,
+      "address": "skepticism-latin-america"
+    },
+    {
+      "id": "The Ethics of Belief",
+      "group": 3,
+      "address": "ethics-belief"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "group": 3,
+      "address": "justep-intext"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 3,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "The Legal Concept of Evidence",
+      "group": 3,
+      "address": "evidence-legal"
+    },
+    {
+      "id": "Wisdom",
+      "group": 3,
+      "address": "wisdom"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Methods in Comparative Cognition",
+      "group": 3,
+      "address": "comparative-cognition"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Alfred Jules Ayer",
+      "group": 3,
+      "address": "ayer"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Epistemic Self-Doubt",
+      "group": 3,
+      "address": "epistemic-self-doubt"
+    },
+    {
+      "id": "Coherentist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-coherence"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "Epistemology in Classical Indian Philosophy",
+      "group": 3,
+      "address": "epistemology-india"
+    },
+    {
+      "id": "Madeleine de Scud\u00e9ry",
+      "group": 3,
+      "address": "madeleine-scudery"
+    },
+    {
+      "id": "Zombies",
+      "group": 3,
+      "address": "zombies"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Peter Frederick Strawson",
+      "group": 3,
+      "address": "strawson"
+    },
+    {
+      "id": "Marin Mersenne",
+      "group": 3,
+      "address": "mersenne"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "Johann Gottfried von Herder",
+      "group": 3,
+      "address": "herder"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Plutarch",
+      "group": 3,
+      "address": "plutarch"
+    },
+    {
+      "id": "The Concept of Religion",
+      "group": 3,
+      "address": "concept-religion"
+    },
+    {
+      "id": "Philo of Larissa",
+      "group": 3,
+      "address": "philo-larissa"
+    },
+    {
+      "id": "Science and Pseudo-Science",
+      "group": 3,
+      "address": "pseudo-science"
+    },
+    {
+      "id": "Ancient Skepticism",
+      "group": 3,
+      "address": "skepticism-ancient"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Weighing Reasons",
+      "group": 3,
+      "address": "weighing-reasons"
+    },
+    {
+      "id": "Hermann Lotze",
+      "group": 3,
+      "address": "hermann-lotze"
+    },
+    {
+      "id": "Descartes\u2019 Epistemology",
+      "group": 3,
+      "address": "descartes-epistemology"
+    },
+    {
+      "id": "Desiderius Erasmus",
+      "group": 3,
+      "address": "erasmus"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Medieval Skepticism",
+      "group": 3,
+      "address": "skepticism-medieval"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Voltaire",
+      "group": 3,
+      "address": "voltaire"
+    },
+    {
+      "id": "The Disjunctive Theory of Perception",
+      "group": 3,
+      "address": "perception-disjunctive"
+    },
+    {
+      "id": "Virtue Epistemology",
+      "group": 3,
+      "address": "epistemology-virtue"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Heinrich Cornelius Agrippa von Nettesheim",
+      "group": 3,
+      "address": "agrippa-nettesheim"
+    },
+    {
+      "id": "Idealism",
+      "group": 3,
+      "address": "idealism"
+    },
+    {
+      "id": "Petrus Ramus",
+      "group": 3,
+      "address": "ramus"
+    },
+    {
+      "id": "Jayar\u0101\u015bi",
+      "group": 3,
+      "address": "jayaraasi"
+    },
+    {
+      "id": "Epistemological Problems of Memory",
+      "group": 3,
+      "address": "memory-episprob"
+    },
+    {
+      "id": "Aristotle on Non-contradiction",
+      "group": 3,
+      "address": "aristotle-noncontradiction"
+    },
+    {
+      "id": "Michel de Montaigne",
+      "group": 3,
+      "address": "montaigne"
+    },
+    {
+      "id": "Logical Constructions",
+      "group": 3,
+      "address": "logical-construction"
+    },
+    {
+      "id": "Reid\u2019s Ethics",
+      "group": 3,
+      "address": "reid-ethics"
+    },
+    {
+      "id": "Francis Herbert Bradley",
+      "group": 3,
+      "address": "bradley"
+    },
+    {
+      "id": "Susan Stebbing",
+      "group": 3,
+      "address": "stebbing"
+    },
+    {
+      "id": "Propositions",
+      "group": 3,
+      "address": "propositions"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Moral Naturalism",
+      "group": 3,
+      "address": "naturalism-moral"
+    },
+    {
+      "id": "Russell\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "russell-moral"
+    },
+    {
+      "id": "The Identity Theory of Truth",
+      "group": 3,
+      "address": "truth-identity"
+    },
+    {
+      "id": "The Problem of Perception",
+      "group": 3,
+      "address": "perception-problem"
+    },
+    {
+      "id": "Isaiah Berlin",
+      "group": 3,
+      "address": "berlin"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "Analysis",
+      "group": 3,
+      "address": "analysis"
+    },
+    {
+      "id": "The History of Utilitarianism",
+      "group": 3,
+      "address": "utilitarianism-history"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "Consequentializing",
+      "group": 3,
+      "address": "consequentializing"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Metaethics",
+      "group": 3,
+      "address": "metaethics"
+    },
+    {
+      "id": "Russell\u2019s Logical Atomism",
+      "group": 3,
+      "address": "logical-atomism"
+    },
+    {
+      "id": "Primitivist Theories of Truth",
+      "group": 3,
+      "address": "truth-primitivist"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Moral Non-Naturalism",
+      "group": 3,
+      "address": "moral-non-naturalism"
+    },
+    {
+      "id": "Moral Cognitivism vs. Non-Cognitivism",
+      "group": 3,
+      "address": "moral-cognitivism"
+    },
+    {
+      "id": "Moore\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "moore-moral"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "John M. E. McTaggart",
+      "group": 3,
+      "address": "mctaggart"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 3,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Henry Sidgwick",
+      "group": 3,
+      "address": "sidgwick"
+    },
+    {
+      "id": "Ludwig Wittgenstein",
+      "group": 3,
+      "address": "wittgenstein"
+    },
+    {
+      "id": "Sense Data",
+      "group": 3,
+      "address": "sense-data"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Aesthetic Testimony",
+      "group": 3,
+      "address": "aesthetic-testimony"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "Divine Revelation",
+      "group": 3,
+      "address": "divine-revelation"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Understanding",
+      "group": 3,
+      "address": "understanding"
+    },
+    {
+      "id": "Feminist Perspectives on Argumentation",
+      "group": 3,
+      "address": "feminism-argumentation"
+    },
+    {
+      "id": "Religious Experience",
+      "group": 3,
+      "address": "religious-experience"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "The Definition of Lying and Deception",
+      "group": 3,
+      "address": "lying-definition"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "A Priorism in Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology-a-priori"
+    },
+    {
+      "id": "Reason and Religious Commitment",
+      "group": 3,
+      "address": "religious-commitment-reason"
+    },
+    {
+      "id": "Authority",
+      "group": 3,
+      "address": "authority"
+    },
+    {
+      "id": "Disagreement",
+      "group": 3,
+      "address": "disagreement"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 3,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Belief Merging and Judgment Aggregation",
+      "group": 3,
+      "address": "belief-merging"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Ludwik Fleck",
+      "group": 3,
+      "address": "fleck"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 3,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "Louis Althusser",
+      "group": 3,
+      "address": "althusser"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 3,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 3,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Self-Knowledge",
+      "group": 3,
+      "address": "self-knowledge"
+    },
+    {
+      "id": "Introspection",
+      "group": 3,
+      "address": "introspection"
+    }
+  ],
+  "links": [
+    {
+      "source": "Social Epistemology",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Evidence"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Externalism and Self-Knowledge"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Externalism and Self-Knowledge",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Reference",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Externalism and Self-Knowledge"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Evidence"
+    },
+    {
+      "source": "Assertion",
+      "target": "Evidence"
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Evidence"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Evidence"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Evidence"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Evidence"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Evidence"
+    },
+    {
+      "source": "Evidence",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Evidence"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Evidence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Evidence"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Evidence"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Evidence"
+    },
+    {
+      "source": "Abduction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Heinrich Cornelius Agrippa von Nettesheim",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Idealism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Skepticism"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Skepticism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Philo of Larissa",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Skepticism"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Analysis",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Idealism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "John M. E. McTaggart",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Analysis"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Metaethics"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Propositions"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Sense Data"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Supervenience"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Object",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Reid\u2019s Ethics",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Sense Data",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Susan Stebbing",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Aesthetic Testimony",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Assertion",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Abduction"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Assertion"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Authority"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "David Hume"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Trust"
+    },
+    {
+      "source": "Trust",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Understanding",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Relativism"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Externalism and Self-Knowledge",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Externalism and Self-Knowledge",
+      "target": "Introspection"
+    },
+    {
+      "source": "Externalism and Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism and Self-Knowledge"
+    },
+    {
+      "source": "Introspection",
+      "target": "Externalism and Self-Knowledge"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Sense Data"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Other Minds",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Zombies"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Abduction"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Sextus Empiricus"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Marin Mersenne"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Reference",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Reference",
+      "target": "Reference"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Relativism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Challenges to Metaphysical Realism",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "David Hume"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Sextus Empiricus"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Skepticism in Latin America",
+      "target": "Skepticism in Latin America"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Assertion"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Abduction"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Epistemology"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "The Legal Concept of Evidence"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Wisdom",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Abduction"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Methods in Comparative Cognition"
+    },
+    {
+      "source": "Assertion",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "David Hume"
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Understanding"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Reference"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Madeleine de Scud\u00e9ry"
+    },
+    {
+      "source": "Zombies",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Zombies",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Zombies",
+      "target": "Zombies"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Voltaire"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Reference"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Marin Mersenne"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "David Hume"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Relativism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Philo of Larissa"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Plutarch"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Philo of Larissa",
+      "target": "Philo of Larissa"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Weighing Reasons"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Analysis"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Hermann Lotze"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Idealism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Plutarch"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Desiderius Erasmus"
+    },
+    {
+      "source": "Abduction",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Voltaire"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Sense Data"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Heinrich Cornelius Agrippa von Nettesheim",
+      "target": "Heinrich Cornelius Agrippa von Nettesheim"
+    },
+    {
+      "source": "Idealism",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Idealism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Idealism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Idealism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Idealism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Idealism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Idealism",
+      "target": "John M. E. McTaggart"
+    },
+    {
+      "source": "Idealism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Idealism",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Idealism",
+      "target": "Idealism"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Petrus Ramus"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Jayar\u0101\u015bi"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Reference"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Relativism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Relativism"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Sextus Empiricus"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Reid\u2019s Ethics",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Reid\u2019s Ethics",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Reid\u2019s Ethics",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Reid\u2019s Ethics",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Reid\u2019s Ethics",
+      "target": "Reid\u2019s Ethics"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "Hermann Lotze"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "John M. E. McTaggart"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Susan Stebbing",
+      "target": "Analysis"
+    },
+    {
+      "source": "Susan Stebbing",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Susan Stebbing",
+      "target": "Susan Stebbing"
+    },
+    {
+      "source": "Propositions",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Moral Naturalism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Analysis"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Sense Data"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "David Hume"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Idealism"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Analysis",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Analysis",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Analysis",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Analysis",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Analysis",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Analysis",
+      "target": "Susan Stebbing"
+    },
+    {
+      "source": "Analysis",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Analysis",
+      "target": "Analysis"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "David Hume"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Object"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Relativism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Propositions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Primitivist Theories of Truth"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Moral Non-Naturalism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Non-Naturalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Moral Non-Naturalism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Object",
+      "target": "Propositions"
+    },
+    {
+      "source": "Object",
+      "target": "Reference"
+    },
+    {
+      "source": "Object",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Object",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Object",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "John M. E. McTaggart",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "John M. E. McTaggart",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "John M. E. McTaggart",
+      "target": "John M. E. McTaggart"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Analysis"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Alfred Jules Ayer"
+    },
+    {
+      "source": "Sense Data",
+      "target": "David Hume"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Idealism"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Sense Data",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Sense Data",
+      "target": "Sense Data"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Aesthetic Testimony",
+      "target": "Aesthetic Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Propositions"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Understanding",
+      "target": "Understanding"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Argumentation"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Trust",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "David Hume",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Analysis"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Metaethics"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Non-Naturalism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Moral Naturalism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "Authority",
+      "target": "Democracy"
+    },
+    {
+      "source": "Authority",
+      "target": "David Hume"
+    },
+    {
+      "source": "Authority",
+      "target": "Authority"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Abduction"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Relativism",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Relativism",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Relativism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Reference"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Relativism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Relativism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Democracy",
+      "target": "Authority"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Democracy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "David Hume"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Agent-Based Modeling in the Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Relativism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Introspection"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Introspection",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Introspection",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Introspection",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Introspection",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Introspection",
+      "target": "Introspection"
+    }
+  ]
+}

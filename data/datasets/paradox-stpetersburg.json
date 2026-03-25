@@ -1,0 +1,4284 @@
+{
+  "nodes": [
+    {
+      "id": "The St. Petersburg Paradox",
+      "group": 1,
+      "address": "paradox-stpetersburg"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 2,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Pascal\u2019s Wager",
+      "group": 2,
+      "address": "pascal-wager"
+    },
+    {
+      "id": "Supertasks",
+      "group": 2,
+      "address": "spacetime-supertasks"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 2,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 2,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 2,
+      "address": "statistics"
+    },
+    {
+      "id": "Hedonism",
+      "group": 2,
+      "address": "hedonism"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 2,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Infinity",
+      "group": 2,
+      "address": "infinity"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 2,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "Clarence Irving Lewis",
+      "group": 3,
+      "address": "lewis-ci"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "Causal Determinism",
+      "group": 3,
+      "address": "determinism-causal"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Chance versus Randomness",
+      "group": 3,
+      "address": "chance-randomness"
+    },
+    {
+      "id": "Carl Hempel",
+      "group": 3,
+      "address": "hempel"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "group": 3,
+      "address": "quantum-bayesian"
+    },
+    {
+      "id": "Logic and Probability",
+      "group": 3,
+      "address": "logic-probability"
+    },
+    {
+      "id": "States of Affairs",
+      "group": 3,
+      "address": "states-of-affairs"
+    },
+    {
+      "id": "Self-Locating Beliefs",
+      "group": 3,
+      "address": "self-locating-beliefs"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 3,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 3,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Imre Lakatos",
+      "group": 3,
+      "address": "lakatos"
+    },
+    {
+      "id": "The Legal Concept of Evidence",
+      "group": 3,
+      "address": "evidence-legal"
+    },
+    {
+      "id": "The Epistemology of Religion",
+      "group": 3,
+      "address": "religion-epistemology"
+    },
+    {
+      "id": "Thermodynamic Asymmetry in Time",
+      "group": 3,
+      "address": "time-thermo"
+    },
+    {
+      "id": "Probability in Medieval and Renaissance Philosophy",
+      "group": 3,
+      "address": "probability-medieval-renaissance"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Boltzmann\u2019s Work in Statistical Physics",
+      "group": 3,
+      "address": "statphys-Boltzmann"
+    },
+    {
+      "id": "Information Processing and Thermodynamic Entropy",
+      "group": 3,
+      "address": "information-entropy"
+    },
+    {
+      "id": "Knowledge by Acquaintance vs. Description",
+      "group": 3,
+      "address": "knowledge-acquaindescrip"
+    },
+    {
+      "id": "Causal Models",
+      "group": 3,
+      "address": "causal-models"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "Confirmation",
+      "group": 3,
+      "address": "confirmation"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Philosophy of Statistical Mechanics",
+      "group": 3,
+      "address": "statphys-statmech"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Wesley Salmon",
+      "group": 3,
+      "address": "wesley-salmon"
+    },
+    {
+      "id": "Probabilistic Causation",
+      "group": 3,
+      "address": "causation-probabilistic"
+    },
+    {
+      "id": "Epistemic Self-Doubt",
+      "group": 3,
+      "address": "epistemic-self-doubt"
+    },
+    {
+      "id": "Philosophical Issues in Quantum Theory",
+      "group": 3,
+      "address": "qt-issues"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Disagreement",
+      "group": 3,
+      "address": "disagreement"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "The Ethics of Belief",
+      "group": 3,
+      "address": "ethics-belief"
+    },
+    {
+      "id": "Fideism",
+      "group": 3,
+      "address": "fideism"
+    },
+    {
+      "id": "Blaise Pascal",
+      "group": 3,
+      "address": "pascal"
+    },
+    {
+      "id": "Robert Holkot",
+      "group": 3,
+      "address": "holkot"
+    },
+    {
+      "id": "Pragmatic Arguments and Belief in God",
+      "group": 3,
+      "address": "pragmatic-belief-god"
+    },
+    {
+      "id": "Computation in Physical Systems",
+      "group": 3,
+      "address": "computation-physicalsystems"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 3,
+      "address": "church-turing"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Infinite Regress Arguments",
+      "group": 3,
+      "address": "infinite-regress"
+    },
+    {
+      "id": "Finitism in Geometry",
+      "group": 3,
+      "address": "geometry-finitism"
+    },
+    {
+      "id": "Zeno\u2019s Paradoxes",
+      "group": 3,
+      "address": "paradox-zeno"
+    },
+    {
+      "id": "The Revision Theory of Truth",
+      "group": 3,
+      "address": "truth-revision"
+    },
+    {
+      "id": "Singularities and Black Holes",
+      "group": 3,
+      "address": "spacetime-singularities"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 3,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Prioritarianism as a Theory of Value",
+      "group": 3,
+      "address": "prioritarianism"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "Ramsey and Intergenerational Welfare Economics",
+      "group": 3,
+      "address": "ramsey-economics"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Analytical Marxism",
+      "group": 3,
+      "address": "marxism-analytical"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Scientific Objectivity",
+      "group": 3,
+      "address": "scientific-objectivity"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Theory and Observation in Science",
+      "group": 3,
+      "address": "science-theory-observation"
+    },
+    {
+      "id": "Simplicity",
+      "group": 3,
+      "address": "simplicity"
+    },
+    {
+      "id": "Ancient Skepticism",
+      "group": 3,
+      "address": "skepticism-ancient"
+    },
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Reichenbach\u2019s Common Cause Principle",
+      "group": 3,
+      "address": "physics-Rpcc"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Defaults in Semantics and Pragmatics",
+      "group": 3,
+      "address": "defaults-semantics-pragmatics"
+    },
+    {
+      "id": "Phylogenetic Inference",
+      "group": 3,
+      "address": "phylogenetic-inference"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Consciousness and Intentionality",
+      "group": 3,
+      "address": "consciousness-intentionality"
+    },
+    {
+      "id": "Qualia",
+      "group": 3,
+      "address": "qualia"
+    },
+    {
+      "id": "Happiness",
+      "group": 3,
+      "address": "happiness"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Beauty",
+      "group": 3,
+      "address": "beauty"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "The History of Utilitarianism",
+      "group": 3,
+      "address": "utilitarianism-history"
+    },
+    {
+      "id": "Lorenzo Valla",
+      "group": 3,
+      "address": "lorenzo-valla"
+    },
+    {
+      "id": "Empirical Approaches to Altruism",
+      "group": 3,
+      "address": "altruism-empirical"
+    },
+    {
+      "id": "Bradley\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "bradley-moral"
+    },
+    {
+      "id": "Consequentializing",
+      "group": 3,
+      "address": "consequentializing"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 3,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 3,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Paradox of Tragedy",
+      "group": 3,
+      "address": "paradox-of-tragedy"
+    },
+    {
+      "id": "Mill\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "mill-moral-political"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Moore\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "moore-moral"
+    },
+    {
+      "id": "Jeremy Bentham",
+      "group": 3,
+      "address": "bentham"
+    },
+    {
+      "id": "Epicurus",
+      "group": 3,
+      "address": "epicurus"
+    },
+    {
+      "id": "Rule Consequentialism",
+      "group": 3,
+      "address": "consequentialism-rule"
+    },
+    {
+      "id": "Pleasure",
+      "group": 3,
+      "address": "pleasure"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Voltaire",
+      "group": 3,
+      "address": "voltaire"
+    },
+    {
+      "id": "Egoism",
+      "group": 3,
+      "address": "egoism"
+    },
+    {
+      "id": "Plato\u2019s Ethics: An Overview",
+      "group": 3,
+      "address": "plato-ethics"
+    },
+    {
+      "id": "Henry Sidgwick",
+      "group": 3,
+      "address": "sidgwick"
+    },
+    {
+      "id": "Consciousness",
+      "group": 3,
+      "address": "consciousness"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 3,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Continuity and Infinitesimals",
+      "group": 3,
+      "address": "continuity"
+    },
+    {
+      "id": "Time Machines",
+      "group": 3,
+      "address": "time-machine"
+    },
+    {
+      "id": "Aristotle and Mathematics",
+      "group": 3,
+      "address": "aristotle-mathematics"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Mathematics",
+      "group": 3,
+      "address": "arabic-islamic-phil-math"
+    },
+    {
+      "id": "Skolem\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-skolem"
+    },
+    {
+      "id": "Hilbert\u2019s Program",
+      "group": 3,
+      "address": "hilbert-program"
+    },
+    {
+      "id": "Cosmology and Theology",
+      "group": 3,
+      "address": "cosmology-theology"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "The Early Development of Set Theory",
+      "group": 3,
+      "address": "settheory-early"
+    },
+    {
+      "id": "Independence and Large Cardinals",
+      "group": 3,
+      "address": "independence-large-cardinals"
+    },
+    {
+      "id": "Quine\u2019s New Foundations",
+      "group": 3,
+      "address": "quine-nf"
+    },
+    {
+      "id": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "group": 3,
+      "address": "dedekind-foundations"
+    },
+    {
+      "id": "Philosophy of Mathematics",
+      "group": 3,
+      "address": "philosophy-mathematics"
+    },
+    {
+      "id": "Large Cardinals and Determinacy",
+      "group": 3,
+      "address": "large-cardinals-determinacy"
+    },
+    {
+      "id": "The Continuum Hypothesis",
+      "group": 3,
+      "address": "continuum-hypothesis"
+    },
+    {
+      "id": "Zeno of Elea",
+      "group": 3,
+      "address": "zeno-elea"
+    },
+    {
+      "id": "Alternative Axiomatic Set Theories",
+      "group": 3,
+      "address": "settheory-alternative"
+    },
+    {
+      "id": "Set Theory: Constructive and Intuitionistic ZF",
+      "group": 3,
+      "address": "set-theory-constructive"
+    },
+    {
+      "id": "Contractualism",
+      "group": 3,
+      "address": "contractualism"
+    },
+    {
+      "id": "Deontological Ethics",
+      "group": 3,
+      "address": "ethics-deontological"
+    }
+  ],
+  "links": [
+    {
+      "source": "Infinity",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Hedonism"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Infinity"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Supertasks"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Knowledge by Acquaintance vs. Description",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Probability in Medieval and Renaissance Philosophy",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Information"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Probability in Medieval and Renaissance Philosophy"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Self-Locating Beliefs"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Fideism",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Infinity",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Blaise Pascal",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Infinity"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Infinity",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Supertasks",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Supertasks",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Infinity"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Beauty",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Epicurus",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Belief"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Desire"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intention"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Qualia"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Hedonism"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Infinity"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Infinity"
+    },
+    {
+      "source": "Infinity",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Infinity",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Infinity",
+      "target": "Cosmology and Theology"
+    },
+    {
+      "source": "Infinity",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Infinity",
+      "target": "Finitism in Geometry"
+    },
+    {
+      "source": "Infinity",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Infinity",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "Infinity",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Infinity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Infinity",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Infinity",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Infinity",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Infinity",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Infinity",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Infinity",
+      "target": "Large Cardinals and Determinacy"
+    },
+    {
+      "source": "Infinity",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Infinity",
+      "target": "Zeno of Elea"
+    },
+    {
+      "source": "Infinity",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Infinity"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Infinity"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Risk"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Qualia"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Belief"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Quantum-Bayesian and Pragmatist Views of Quantum Theory"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Self-Locating Beliefs"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Evidence"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "The Legal Concept of Evidence"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Probability in Medieval and Renaissance Philosophy",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Probability in Medieval and Renaissance Philosophy",
+      "target": "Probability in Medieval and Renaissance Philosophy"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "Knowledge by Acquaintance vs. Description",
+      "target": "Knowledge by Acquaintance vs. Description"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Information",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Information",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Information",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "Information",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Information",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Information",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Information",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Information",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Evidence"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Simplicity"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Information"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Belief"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Qualia"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Evidence"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Fideism"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Blaise Pascal"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Fideism",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Fideism",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Fideism",
+      "target": "Fideism"
+    },
+    {
+      "source": "Blaise Pascal",
+      "target": "Blaise Pascal"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Infinite Regress Arguments"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Finitism in Geometry"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Zeno of Elea"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Singularities and Black Holes"
+    },
+    {
+      "source": "Risk",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Risk",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Evidence"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Prioritarianism as a Theory of Value"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Preferences"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Evidence",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Simplicity",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Evidence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Intention",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Intention",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Qualia",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Qualia",
+      "target": "Qualia"
+    },
+    {
+      "source": "Happiness",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Happiness",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Happiness",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Happiness",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Egoism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Beauty",
+      "target": "Beauty"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Belief",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Desire"
+    },
+    {
+      "source": "Belief",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The History of Utilitarianism",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Bradley\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Egoism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Paradox of Tragedy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Happiness"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Egoism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Epicurus",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Epicurus",
+      "target": "Epicurus"
+    },
+    {
+      "source": "Rule Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Rule Consequentialism",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Desire",
+      "target": "Belief"
+    },
+    {
+      "source": "Desire",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Desire",
+      "target": "Preferences"
+    },
+    {
+      "source": "Desire",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Voltaire"
+    },
+    {
+      "source": "Egoism",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Egoism",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Egoism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Egoism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Egoism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Qualia"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Epicurus"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Finitism in Geometry"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Aristotle and Mathematics",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Mathematics",
+      "target": "Arabic and Islamic Philosophy of Mathematics"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Cosmology and Theology",
+      "target": "Cosmology and Theology"
+    },
+    {
+      "source": "Set Theory",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Set Theory",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Large Cardinals and Determinacy"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Large Cardinals and Determinacy"
+    },
+    {
+      "source": "Independence and Large Cardinals",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Dedekind\u2019s Contributions to the Foundations of Mathematics",
+      "target": "Dedekind\u2019s Contributions to the Foundations of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Aristotle and Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Large Cardinals and Determinacy",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Large Cardinals and Determinacy",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Large Cardinals and Determinacy",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Large Cardinals and Determinacy",
+      "target": "Independence and Large Cardinals"
+    },
+    {
+      "source": "Large Cardinals and Determinacy",
+      "target": "Large Cardinals and Determinacy"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "Large Cardinals and Determinacy"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Zeno of Elea",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Zeno of Elea",
+      "target": "Zeno of Elea"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "The History of Utilitarianism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Deontological Ethics"
+    }
+  ]
+}

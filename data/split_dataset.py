@@ -20,12 +20,9 @@ def extracting_graph(article):
 
     sources_df = df_links[df_links["target"] == article]
     sources = sources_df["source"].values.tolist()
-    print("Sources:")
-    # print(sources)
-
+    
     targets_df = df_links[df_links["source"] == article]
     targets = targets_df["target"].values.tolist()
-    print(targets)
 
     second_group = list(set([*sources, *targets]))
     third_group = []
@@ -106,11 +103,7 @@ links = data["links"]
 df_nodes = pd.DataFrame.from_dict(nodes)
 df_links = pd.DataFrame.from_dict(links)
 
-# articles = df_nodes['id'].to_list()
+articles = df_nodes['id'].to_list()
 
-# for article in articles:
-#    extracting_graph(article)
-
-article = "Philosophy of Biology"
-
-extracting_graph(article)
+for article in articles:
+    extracting_graph(article)

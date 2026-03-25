@@ -1,0 +1,5450 @@
+{
+  "nodes": [
+    {
+      "id": "Feminist Perspectives on the Body",
+      "group": 1,
+      "address": "feminist-body"
+    },
+    {
+      "id": "Feminist Perspectives on Trans Issues",
+      "group": 2,
+      "address": "feminism-trans"
+    },
+    {
+      "id": "Feminist Metaphysics",
+      "group": 2,
+      "address": "feminism-metaphysics"
+    },
+    {
+      "id": "Simone de Beauvoir",
+      "group": 2,
+      "address": "beauvoir"
+    },
+    {
+      "id": "Mary Wollstonecraft",
+      "group": 2,
+      "address": "wollstonecraft"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 2,
+      "address": "feminist-science"
+    },
+    {
+      "id": "Feminist Perspectives on Sex and Gender",
+      "group": 2,
+      "address": "feminism-gender"
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "group": 2,
+      "address": "merleau-ponty"
+    },
+    {
+      "id": "Identity Politics",
+      "group": 2,
+      "address": "identity-politics"
+    },
+    {
+      "id": "Psychoanalytic Feminism",
+      "group": 2,
+      "address": "feminism-psychoanalysis"
+    },
+    {
+      "id": "Feminist Perspectives on Disability",
+      "group": 2,
+      "address": "feminism-disability"
+    },
+    {
+      "id": "Continental Feminism",
+      "group": 2,
+      "address": "femapproach-continental"
+    },
+    {
+      "id": "Feminist Perspectives on Power",
+      "group": 2,
+      "address": "feminist-power"
+    },
+    {
+      "id": "Feminist Bioethics",
+      "group": 2,
+      "address": "feminist-bioethics"
+    },
+    {
+      "id": "Feminist Perspectives on Rape",
+      "group": 2,
+      "address": "feminism-rape"
+    },
+    {
+      "id": "Feminist Philosophy of Language",
+      "group": 3,
+      "address": "feminism-language"
+    },
+    {
+      "id": "Marriage and Domestic Partnership",
+      "group": 3,
+      "address": "marriage"
+    },
+    {
+      "id": "Discrimination",
+      "group": 3,
+      "address": "discrimination"
+    },
+    {
+      "id": "Sex and Sexuality",
+      "group": 3,
+      "address": "sex-sexuality"
+    },
+    {
+      "id": "Trans Philosophy",
+      "group": 3,
+      "address": "trans"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Intersections Between Analytic and Continental Feminism",
+      "group": 3,
+      "address": "femapproach-analy-cont"
+    },
+    {
+      "id": "Feminist Perspectives on the Self",
+      "group": 3,
+      "address": "feminism-self"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "Feminist Perspectives on Autonomy",
+      "group": 3,
+      "address": "feminism-autonomy"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Pragmatist Feminism",
+      "group": 3,
+      "address": "femapproach-pragmatism"
+    },
+    {
+      "id": "Feminist History of Philosophy",
+      "group": 3,
+      "address": "feminism-femhist"
+    },
+    {
+      "id": "Feminist Political Philosophy",
+      "group": 3,
+      "address": "feminism-political"
+    },
+    {
+      "id": "Feminist Philosophy of Religion",
+      "group": 3,
+      "address": "feminist-religion"
+    },
+    {
+      "id": "Feminist Perspectives on Objectification",
+      "group": 3,
+      "address": "feminism-objectification"
+    },
+    {
+      "id": "Feminist Perspectives on Globalization",
+      "group": 3,
+      "address": "feminism-globalization"
+    },
+    {
+      "id": "Feminist Aesthetics",
+      "group": 3,
+      "address": "feminism-aesthetics"
+    },
+    {
+      "id": "Race",
+      "group": 3,
+      "address": "race"
+    },
+    {
+      "id": "Feminist Philosophy",
+      "group": 3,
+      "address": "feminist-philosophy"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Feminist Perspectives on Class and Work",
+      "group": 3,
+      "address": "feminism-class"
+    },
+    {
+      "id": "Feminist Ethics",
+      "group": 3,
+      "address": "feminism-ethics"
+    },
+    {
+      "id": "Intersections Between Pragmatist and Continental Feminism",
+      "group": 3,
+      "address": "femapproach-prag-cont"
+    },
+    {
+      "id": "Liberal Feminism",
+      "group": 3,
+      "address": "feminism-liberal"
+    },
+    {
+      "id": "Feminist Environmental Philosophy",
+      "group": 3,
+      "address": "feminism-environmental"
+    },
+    {
+      "id": "Feminist Philosophy of Biology",
+      "group": 3,
+      "address": "feminist-philosophy-biology"
+    },
+    {
+      "id": "Feminist Perspectives on Sex Markets",
+      "group": 3,
+      "address": "feminist-sex-markets"
+    },
+    {
+      "id": "Feminist Moral Psychology",
+      "group": 3,
+      "address": "feminism-moralpsych"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    },
+    {
+      "id": "Feminist Perspectives on Reproduction and the Family",
+      "group": 3,
+      "address": "feminism-family"
+    },
+    {
+      "id": "Simone Weil",
+      "group": 3,
+      "address": "simone-weil"
+    },
+    {
+      "id": "Moral Phenomenology",
+      "group": 3,
+      "address": "moral-phenomenology"
+    },
+    {
+      "id": "George Eliot",
+      "group": 3,
+      "address": "george-eliot"
+    },
+    {
+      "id": "Existentialist Aesthetics",
+      "group": 3,
+      "address": "aesthetics-existentialist"
+    },
+    {
+      "id": "Existentialism",
+      "group": 3,
+      "address": "existentialism"
+    },
+    {
+      "id": "Karl Marx",
+      "group": 3,
+      "address": "marx"
+    },
+    {
+      "id": "Martin Heidegger",
+      "group": 3,
+      "address": "heidegger"
+    },
+    {
+      "id": "Mexican Existentialism",
+      "group": 3,
+      "address": "existentialism-mexican"
+    },
+    {
+      "id": "Positive and Negative Liberty",
+      "group": 3,
+      "address": "liberty-positive-negative"
+    },
+    {
+      "id": "Georg Wilhelm Friedrich Hegel",
+      "group": 3,
+      "address": "hegel"
+    },
+    {
+      "id": "Jean-Paul Sartre",
+      "group": 3,
+      "address": "sartre"
+    },
+    {
+      "id": "Phenomenology",
+      "group": 3,
+      "address": "phenomenology"
+    },
+    {
+      "id": "Ambiguity",
+      "group": 3,
+      "address": "ambiguity"
+    },
+    {
+      "id": "Authenticity",
+      "group": 3,
+      "address": "authenticity"
+    },
+    {
+      "id": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "group": 3,
+      "address": "histfem-condorcet"
+    },
+    {
+      "id": "Edmund Burke",
+      "group": 3,
+      "address": "burke"
+    },
+    {
+      "id": "William Godwin",
+      "group": 3,
+      "address": "godwin"
+    },
+    {
+      "id": "Sophie de Grouchy",
+      "group": 3,
+      "address": "sophie-de-grouchy"
+    },
+    {
+      "id": "John Locke",
+      "group": 3,
+      "address": "locke"
+    },
+    {
+      "id": "Catharine Macaulay",
+      "group": 3,
+      "address": "catharine-macaulay"
+    },
+    {
+      "id": "Richard Price",
+      "group": 3,
+      "address": "richard-price"
+    },
+    {
+      "id": "Egalitarianism",
+      "group": 3,
+      "address": "egalitarianism"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Feminist Perspectives on Argumentation",
+      "group": 3,
+      "address": "feminism-argumentation"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Theory and Observation in Science",
+      "group": 3,
+      "address": "science-theory-observation"
+    },
+    {
+      "id": "Philosophy of Science in Latin America",
+      "group": 3,
+      "address": "phil-science-latin-america"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Latin American Feminism",
+      "group": 3,
+      "address": "feminism-latin-america"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Moral Cognitivism vs. Non-Cognitivism",
+      "group": 3,
+      "address": "moral-cognitivism"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "\u00c9milie du Ch\u00e2telet",
+      "group": 3,
+      "address": "emilie-du-chatelet"
+    },
+    {
+      "id": "Justice",
+      "group": 3,
+      "address": "justice"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Disability: Definitions and Models",
+      "group": 3,
+      "address": "disability"
+    },
+    {
+      "id": "Solidarity in Social and Political Philosophy",
+      "group": 3,
+      "address": "solidarity"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Homosexuality",
+      "group": 3,
+      "address": "homosexuality"
+    },
+    {
+      "id": "Critical Disability Theory",
+      "group": 3,
+      "address": "disability-critical"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "Phenomenological Approaches to Self-Consciousness",
+      "group": 3,
+      "address": "self-consciousness-phenomenological"
+    },
+    {
+      "id": "Bodily Awareness",
+      "group": 3,
+      "address": "bodily-awareness"
+    },
+    {
+      "id": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "group": 3,
+      "address": "chinese-painting-calligraphy"
+    },
+    {
+      "id": "Michel Henry",
+      "group": 3,
+      "address": "michel-henry"
+    },
+    {
+      "id": "Consciousness and Intentionality",
+      "group": 3,
+      "address": "consciousness-intentionality"
+    },
+    {
+      "id": "Embodied Cognition",
+      "group": 3,
+      "address": "embodied-cognition"
+    },
+    {
+      "id": "Edmund Husserl",
+      "group": 3,
+      "address": "husserl"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 3,
+      "address": "dance"
+    },
+    {
+      "id": "Jos\u00e9 Ortega y Gasset",
+      "group": 3,
+      "address": "gasset"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Touch",
+      "group": 3,
+      "address": "touch"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Aesthetics of the Everyday",
+      "group": 3,
+      "address": "aesthetics-of-everyday"
+    },
+    {
+      "id": "Henri Bergson",
+      "group": 3,
+      "address": "bergson"
+    },
+    {
+      "id": "Idealism",
+      "group": 3,
+      "address": "idealism"
+    },
+    {
+      "id": "Analysis",
+      "group": 3,
+      "address": "analysis"
+    },
+    {
+      "id": "Citizenship",
+      "group": 3,
+      "address": "citizenship"
+    },
+    {
+      "id": "Secession",
+      "group": 3,
+      "address": "secession"
+    },
+    {
+      "id": "Identity",
+      "group": 3,
+      "address": "identity"
+    },
+    {
+      "id": "Latinx Philosophy",
+      "group": 3,
+      "address": "latinx"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Civil Rights",
+      "group": 3,
+      "address": "civil-rights"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Recognition",
+      "group": 3,
+      "address": "recognition"
+    },
+    {
+      "id": "Group Rights",
+      "group": 3,
+      "address": "rights-group"
+    },
+    {
+      "id": "Multiculturalism",
+      "group": 3,
+      "address": "multiculturalism"
+    },
+    {
+      "id": "Liberalism",
+      "group": 3,
+      "address": "liberalism"
+    },
+    {
+      "id": "Analytical Marxism",
+      "group": 3,
+      "address": "marxism-analytical"
+    },
+    {
+      "id": "Disability and Justice",
+      "group": 3,
+      "address": "disability-justice"
+    },
+    {
+      "id": "Federalism",
+      "group": 3,
+      "address": "federalism"
+    },
+    {
+      "id": "Jacques Lacan",
+      "group": 3,
+      "address": "lacan"
+    },
+    {
+      "id": "Social Minimum",
+      "group": 3,
+      "address": "social-minimum"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Rights",
+      "group": 3,
+      "address": "rights"
+    },
+    {
+      "id": "Disability and Health Care Rationing",
+      "group": 3,
+      "address": "disability-care-rationing"
+    },
+    {
+      "id": "Dehumanization",
+      "group": 3,
+      "address": "dehumanization"
+    },
+    {
+      "id": "Parenthood and Procreation",
+      "group": 3,
+      "address": "parenthood"
+    },
+    {
+      "id": "Phenomenological Approaches to Ethics and Information Technology",
+      "group": 3,
+      "address": "ethics-it-phenomenology"
+    },
+    {
+      "id": "Pregnancy, Birth, and Medicine",
+      "group": 3,
+      "address": "ethics-pregnancy"
+    },
+    {
+      "id": "Affirmative Action",
+      "group": 3,
+      "address": "affirmative-action"
+    },
+    {
+      "id": "Equality",
+      "group": 3,
+      "address": "equality"
+    },
+    {
+      "id": "Disability and Well-Being",
+      "group": 3,
+      "address": "disability-well-being"
+    },
+    {
+      "id": "Mental Disorder (Illness)",
+      "group": 3,
+      "address": "mental-disorder"
+    },
+    {
+      "id": "Contractarianism",
+      "group": 3,
+      "address": "contractarianism"
+    },
+    {
+      "id": "Cognitive Disability and Moral Status",
+      "group": 3,
+      "address": "cognitive-disability"
+    },
+    {
+      "id": "Eugenics",
+      "group": 3,
+      "address": "eugenics"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Cloning",
+      "group": 3,
+      "address": "cloning"
+    },
+    {
+      "id": "Jacques Derrida",
+      "group": 3,
+      "address": "derrida"
+    },
+    {
+      "id": "Postmodernism",
+      "group": 3,
+      "address": "postmodernism"
+    },
+    {
+      "id": "Anna Julia Cooper",
+      "group": 3,
+      "address": "anna-julia-cooper"
+    },
+    {
+      "id": "Critical Theory (Frankfurt School)",
+      "group": 3,
+      "address": "critical-theory"
+    },
+    {
+      "id": "N\u00e9gritude",
+      "group": 3,
+      "address": "negritude"
+    },
+    {
+      "id": "Hermeneutics",
+      "group": 3,
+      "address": "hermeneutics"
+    },
+    {
+      "id": "Colonialism",
+      "group": 3,
+      "address": "colonialism"
+    },
+    {
+      "id": "Michel Foucault",
+      "group": 3,
+      "address": "foucault"
+    },
+    {
+      "id": "Frantz Fanon",
+      "group": 3,
+      "address": "frantz-fanon"
+    },
+    {
+      "id": "Friedrich Nietzsche",
+      "group": 3,
+      "address": "nietzsche"
+    },
+    {
+      "id": "Emmanuel Levinas",
+      "group": 3,
+      "address": "levinas"
+    },
+    {
+      "id": "Africana Philosophy",
+      "group": 3,
+      "address": "africana"
+    },
+    {
+      "id": "Domination",
+      "group": 3,
+      "address": "domination"
+    },
+    {
+      "id": "Hannah Arendt",
+      "group": 3,
+      "address": "arendt"
+    },
+    {
+      "id": "Justice, Inequality, and Health",
+      "group": 3,
+      "address": "justice-inequality-health"
+    },
+    {
+      "id": "Concepts of Disease and Health",
+      "group": 3,
+      "address": "health-disease"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Paternalism",
+      "group": 3,
+      "address": "paternalism"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Public Health Ethics",
+      "group": 3,
+      "address": "publichealth-ethics"
+    },
+    {
+      "id": "Bioethics in Latin America",
+      "group": 3,
+      "address": "bioethics-latin-america"
+    },
+    {
+      "id": "Theory and Bioethics",
+      "group": 3,
+      "address": "theory-bioethics"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "War",
+      "group": 3,
+      "address": "war"
+    },
+    {
+      "id": "Personal Autonomy",
+      "group": 3,
+      "address": "personal-autonomy"
+    },
+    {
+      "id": "Terrorism",
+      "group": 3,
+      "address": "terrorism"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Respect",
+      "group": 3,
+      "address": "respect"
+    }
+  ],
+  "links": [
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Psychoanalytic Feminism",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Trans Philosophy"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Boundary",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Psychoanalytic Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Rape"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Race",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Intersections Between Analytic and Continental Feminism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Psychoanalytic Feminism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "William Godwin",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Catharine Macaulay",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Richard Price",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Sophie de Grouchy",
+      "target": "Mary Wollstonecraft"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "William Godwin"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "John Locke"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Catharine Macaulay"
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Psychoanalytic Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Justice"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Philosophy of Science in Latin America"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Intersections Between Analytic and Continental Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Reproduction and the Family",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Analysis",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Idealism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Touch"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Federalism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Identity"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Race"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Race",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Recognition",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Secession",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Psychoanalytic Feminism"
+    },
+    {
+      "source": "Psychoanalytic Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Psychoanalytic Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Psychoanalytic Feminism",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Psychoanalytic Feminism",
+      "target": "Jacques Lacan"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "Psychoanalytic Feminism"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Psychoanalytic Feminism"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Cloning"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Anna Julia Cooper"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Frantz Fanon"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Jacques Lacan"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "N\u00e9gritude"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Domination",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Bioethics in Latin America",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Public Health Ethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Trust"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Feminist Perspectives on Rape"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Rape"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Respect"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Feminist Perspectives on Rape",
+      "target": "War"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Feminist Perspectives on Rape"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Sex and Sexuality"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Equality"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Sex and Sexuality",
+      "target": "Sex and Sexuality"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Sex and Sexuality"
+    },
+    {
+      "source": "Trans Philosophy",
+      "target": "Trans Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Anna Julia Cooper"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Race"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Intersections Between Analytic and Continental Feminism",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Intersections Between Analytic and Continental Feminism",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on the Self",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Perspectives on the Self",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Perspectives on the Self",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Autonomy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Feminist Perspectives on Objectification",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Feminist Aesthetics",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Aesthetics",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Aesthetics",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Race",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Race",
+      "target": "Frantz Fanon"
+    },
+    {
+      "source": "Race",
+      "target": "N\u00e9gritude"
+    },
+    {
+      "source": "Race",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Boundary",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Boundary",
+      "target": "Race"
+    },
+    {
+      "source": "Boundary",
+      "target": "Relativism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Intersections Between Analytic and Continental Feminism"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Rights"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Feminist Perspectives on Sex Markets",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Perspectives on Sex Markets",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Feminist Perspectives on Sex Markets",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Justice"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Perspectives on Reproduction and the Family",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Reproduction and the Family",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Feminist Perspectives on Reproduction and the Family",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Simone Weil"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Moral Phenomenology"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "George Eliot",
+      "target": "George Eliot"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Authenticity"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Mexican Existentialism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Idealism"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Authenticity"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Frantz Fanon"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "N\u00e9gritude"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Authenticity",
+      "target": "Authenticity"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Liberalism"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "William Godwin",
+      "target": "William Godwin"
+    },
+    {
+      "source": "Sophie de Grouchy",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Sophie de Grouchy",
+      "target": "Sophie de Grouchy"
+    },
+    {
+      "source": "John Locke",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Locke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Catharine Macaulay",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "Catharine Macaulay",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Catharine Macaulay",
+      "target": "John Locke"
+    },
+    {
+      "source": "Catharine Macaulay",
+      "target": "Catharine Macaulay"
+    },
+    {
+      "source": "Richard Price",
+      "target": "Richard Price"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Equality"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Relativism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Argumentation"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "John Locke"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "John Locke"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Philosophy of Science in Latin America",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Philosophy of Science in Latin America",
+      "target": "Philosophy of Science in Latin America"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Race"
+    },
+    {
+      "source": "Latin American Feminism",
+      "target": "Latin American Feminism"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Relativism"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Justice",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Relativism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Health Care Rationing"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Solidarity in Social and Political Philosophy"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Race"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Homosexuality",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Homosexuality",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Homosexuality",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Race"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Race"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Aesthetics in Chinese Philosophy: Painting and Calligraphy"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Michel Henry"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Idealism"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Touch",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Touch",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Touch",
+      "target": "Touch"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "Idealism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Idealism",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Idealism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Idealism",
+      "target": "John Locke"
+    },
+    {
+      "source": "Idealism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Idealism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Idealism",
+      "target": "Idealism"
+    },
+    {
+      "source": "Analysis",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Analysis",
+      "target": "Analysis"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Secession",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Secession",
+      "target": "Federalism"
+    },
+    {
+      "source": "Secession",
+      "target": "Secession"
+    },
+    {
+      "source": "Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Race"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Science in Latin America"
+    },
+    {
+      "source": "Genetics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Race"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Recognition",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Recognition",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Recognition",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Recognition",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Recognition",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Recognition",
+      "target": "Respect"
+    },
+    {
+      "source": "Recognition",
+      "target": "Recognition"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Justice"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Domination"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Recognition"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Federalism",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Federalism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Federalism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Federalism",
+      "target": "Federalism"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Jacques Lacan"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Equality"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Rights",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Rights",
+      "target": "John Locke"
+    },
+    {
+      "source": "Rights",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Equality"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability and Health Care Rationing"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Feminist Perspectives on Objectification"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Feminist Perspectives on Sex Markets"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "War"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Cloning"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Equality"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Justice"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Rights"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Equality",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality",
+      "target": "Equality"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability and Health Care Rationing"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Contractarianism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Contractarianism",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Eugenics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Race"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Cloning",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Cloning",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Cloning",
+      "target": "Respect"
+    },
+    {
+      "source": "Cloning",
+      "target": "Cloning"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Anna Julia Cooper",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "Anna Julia Cooper",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Anna Julia Cooper",
+      "target": "Anna Julia Cooper"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Recognition"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "Colonialism"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "Existentialism"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "Identity"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "Race"
+    },
+    {
+      "source": "N\u00e9gritude",
+      "target": "N\u00e9gritude"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Domination"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Secession"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Authenticity"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Sex and Sexuality"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Frantz Fanon",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "Frantz Fanon",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Frantz Fanon",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Frantz Fanon",
+      "target": "N\u00e9gritude"
+    },
+    {
+      "source": "Frantz Fanon",
+      "target": "Race"
+    },
+    {
+      "source": "Frantz Fanon",
+      "target": "Frantz Fanon"
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Relativism"
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Africana Philosophy",
+      "target": "N\u00e9gritude"
+    },
+    {
+      "source": "Africana Philosophy",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "Domination",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Domination",
+      "target": "Domination"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Equality"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Race"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Trust",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Trust",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Trust",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Public Health Ethics"
+    },
+    {
+      "source": "Bioethics in Latin America",
+      "target": "Feminist Perspectives on Reproduction and the Family"
+    },
+    {
+      "source": "Bioethics in Latin America",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Bioethics in Latin America",
+      "target": "Public Health Ethics"
+    },
+    {
+      "source": "Bioethics in Latin America",
+      "target": "Bioethics in Latin America"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "War",
+      "target": "War"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Feminist Perspectives on Autonomy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Terrorism",
+      "target": "War"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Equality"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Respect",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Respect",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Rights"
+    },
+    {
+      "source": "Respect",
+      "target": "Respect"
+    }
+  ]
+}

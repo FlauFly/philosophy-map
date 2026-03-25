@@ -1,0 +1,4126 @@
+{
+  "nodes": [
+    {
+      "id": "Heinrich Cornelius Agrippa von Nettesheim",
+      "group": 1,
+      "address": "agrippa-nettesheim"
+    },
+    {
+      "id": "Fran\u00e7ois Poulain de la Barre",
+      "group": 2,
+      "address": "francois-barre"
+    },
+    {
+      "id": "Skepticism",
+      "group": 2,
+      "address": "skepticism"
+    },
+    {
+      "id": "Giordano Bruno",
+      "group": 2,
+      "address": "bruno"
+    },
+    {
+      "id": "Giovanni Pico della Mirandola",
+      "group": 2,
+      "address": "pico-della-mirandola"
+    },
+    {
+      "id": "Marsilio Ficino",
+      "group": 2,
+      "address": "ficino"
+    },
+    {
+      "id": "Lucrezia Marinella",
+      "group": 2,
+      "address": "lucrezia-marinella"
+    },
+    {
+      "id": "Plotinus",
+      "group": 2,
+      "address": "plotinus"
+    },
+    {
+      "id": "Natural Philosophy in the Renaissance",
+      "group": 2,
+      "address": "natphil-ren"
+    },
+    {
+      "id": "Descartes\u2019 Ethics",
+      "group": 3,
+      "address": "descartes-ethics"
+    },
+    {
+      "id": "Ren\u00e9 Descartes",
+      "group": 3,
+      "address": "descartes"
+    },
+    {
+      "id": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "group": 3,
+      "address": "histfem-condorcet"
+    },
+    {
+      "id": "Mary Astell",
+      "group": 3,
+      "address": "astell"
+    },
+    {
+      "id": "Elisabeth, Princess of Bohemia",
+      "group": 3,
+      "address": "elisabeth-bohemia"
+    },
+    {
+      "id": "Feminist History of Philosophy",
+      "group": 3,
+      "address": "feminism-femhist"
+    },
+    {
+      "id": "Coherentist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-coherence"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "Epistemology in Classical Indian Philosophy",
+      "group": 3,
+      "address": "epistemology-india"
+    },
+    {
+      "id": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "group": 3,
+      "address": "justep-intext"
+    },
+    {
+      "id": "George Edward Moore",
+      "group": 3,
+      "address": "moore"
+    },
+    {
+      "id": "Madeleine de Scud\u00e9ry",
+      "group": 3,
+      "address": "madeleine-scudery"
+    },
+    {
+      "id": "Zombies",
+      "group": 3,
+      "address": "zombies"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Peter Frederick Strawson",
+      "group": 3,
+      "address": "strawson"
+    },
+    {
+      "id": "Marin Mersenne",
+      "group": 3,
+      "address": "mersenne"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "Johann Gottfried von Herder",
+      "group": 3,
+      "address": "herder"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Plutarch",
+      "group": 3,
+      "address": "plutarch"
+    },
+    {
+      "id": "The Concept of Religion",
+      "group": 3,
+      "address": "concept-religion"
+    },
+    {
+      "id": "Philo of Larissa",
+      "group": 3,
+      "address": "philo-larissa"
+    },
+    {
+      "id": "Content Externalism and Skepticism",
+      "group": 3,
+      "address": "skepticism-content-externalism"
+    },
+    {
+      "id": "Perceptual Experience and Perceptual Justification",
+      "group": 3,
+      "address": "perception-justification"
+    },
+    {
+      "id": "Science and Pseudo-Science",
+      "group": 3,
+      "address": "pseudo-science"
+    },
+    {
+      "id": "Epistemic Contextualism",
+      "group": 3,
+      "address": "contextualism-epistemology"
+    },
+    {
+      "id": "Epistemological Problems of Perception",
+      "group": 3,
+      "address": "perception-episprob"
+    },
+    {
+      "id": "Transmission of Justification and Warrant",
+      "group": 3,
+      "address": "transmission-justification-warrant"
+    },
+    {
+      "id": "Dreams and Dreaming",
+      "group": 3,
+      "address": "dreams-dreaming"
+    },
+    {
+      "id": "Ancient Skepticism",
+      "group": 3,
+      "address": "skepticism-ancient"
+    },
+    {
+      "id": "Epistemic Closure",
+      "group": 3,
+      "address": "closure-epistemic"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Weighing Reasons",
+      "group": 3,
+      "address": "weighing-reasons"
+    },
+    {
+      "id": "Hermann Lotze",
+      "group": 3,
+      "address": "hermann-lotze"
+    },
+    {
+      "id": "Descartes\u2019 Epistemology",
+      "group": 3,
+      "address": "descartes-epistemology"
+    },
+    {
+      "id": "Desiderius Erasmus",
+      "group": 3,
+      "address": "erasmus"
+    },
+    {
+      "id": "Transcendental Arguments",
+      "group": 3,
+      "address": "transcendental-arguments"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Medieval Skepticism",
+      "group": 3,
+      "address": "skepticism-medieval"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Voltaire",
+      "group": 3,
+      "address": "voltaire"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "The Disjunctive Theory of Perception",
+      "group": 3,
+      "address": "perception-disjunctive"
+    },
+    {
+      "id": "Virtue Epistemology",
+      "group": 3,
+      "address": "epistemology-virtue"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Idealism",
+      "group": 3,
+      "address": "idealism"
+    },
+    {
+      "id": "Petrus Ramus",
+      "group": 3,
+      "address": "ramus"
+    },
+    {
+      "id": "Jayar\u0101\u015bi",
+      "group": 3,
+      "address": "jayaraasi"
+    },
+    {
+      "id": "Epistemological Problems of Memory",
+      "group": 3,
+      "address": "memory-episprob"
+    },
+    {
+      "id": "Aristotle on Non-contradiction",
+      "group": 3,
+      "address": "aristotle-noncontradiction"
+    },
+    {
+      "id": "Michel de Montaigne",
+      "group": 3,
+      "address": "montaigne"
+    },
+    {
+      "id": "Solomon Ibn Gabirol [Avicebron]",
+      "group": 3,
+      "address": "ibn-gabirol"
+    },
+    {
+      "id": "Pantheism",
+      "group": 3,
+      "address": "pantheism"
+    },
+    {
+      "id": "Pseudo-Dionysius the Areopagite",
+      "group": 3,
+      "address": "pseudo-dionysius-areopagite"
+    },
+    {
+      "id": "Pythagoras",
+      "group": 3,
+      "address": "pythagoras"
+    },
+    {
+      "id": "Condemnation of 1277",
+      "group": 3,
+      "address": "condemnation"
+    },
+    {
+      "id": "Trinity",
+      "group": 3,
+      "address": "trinity"
+    },
+    {
+      "id": "Giambattista della Porta",
+      "group": 3,
+      "address": "della-porta"
+    },
+    {
+      "id": "Heraclitus",
+      "group": 3,
+      "address": "heraclitus"
+    },
+    {
+      "id": "Pythagoreanism",
+      "group": 3,
+      "address": "pythagoreanism"
+    },
+    {
+      "id": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "group": 3,
+      "address": "lefevre-etaples"
+    },
+    {
+      "id": "Nicolaus Copernicus",
+      "group": 3,
+      "address": "copernicus"
+    },
+    {
+      "id": "Aristotelianism in the Renaissance",
+      "group": 3,
+      "address": "aristotelianism-renaissance"
+    },
+    {
+      "id": "Bernardino Telesio",
+      "group": 3,
+      "address": "telesio"
+    },
+    {
+      "id": "Thomas Aquinas",
+      "group": 3,
+      "address": "aquinas"
+    },
+    {
+      "id": "Panpsychism",
+      "group": 3,
+      "address": "panpsychism"
+    },
+    {
+      "id": "Francesco Patrizi",
+      "group": 3,
+      "address": "patrizi"
+    },
+    {
+      "id": "Gottfried Wilhelm Leibniz",
+      "group": 3,
+      "address": "leibniz"
+    },
+    {
+      "id": "Niccol\u00f2 Machiavelli",
+      "group": 3,
+      "address": "machiavelli"
+    },
+    {
+      "id": "Pietro Pomponazzi",
+      "group": 3,
+      "address": "pomponazzi"
+    },
+    {
+      "id": "Ibn Rushd [Averroes]",
+      "group": 3,
+      "address": "ibn-rushd"
+    },
+    {
+      "id": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "group": 3,
+      "address": "cusanus"
+    },
+    {
+      "id": "Plato",
+      "group": 3,
+      "address": "plato"
+    },
+    {
+      "id": "Ibn Sina [Avicenna]",
+      "group": 3,
+      "address": "ibn-sina"
+    },
+    {
+      "id": "Friedrich Heinrich Jacobi",
+      "group": 3,
+      "address": "friedrich-jacobi"
+    },
+    {
+      "id": "Nicole Oresme",
+      "group": 3,
+      "address": "nicole-oresme"
+    },
+    {
+      "id": "Parmenides",
+      "group": 3,
+      "address": "parmenides"
+    },
+    {
+      "id": "Stoicism",
+      "group": 3,
+      "address": "stoicism"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Lucretius",
+      "group": 3,
+      "address": "lucretius"
+    },
+    {
+      "id": "Philosophy and Christian Theology",
+      "group": 3,
+      "address": "christiantheology-philosophy"
+    },
+    {
+      "id": "Baruch Spinoza",
+      "group": 3,
+      "address": "spinoza"
+    },
+    {
+      "id": "Elijah Delmedigo",
+      "group": 3,
+      "address": "delmedigo"
+    },
+    {
+      "id": "Thomas More",
+      "group": 3,
+      "address": "thomas-more"
+    },
+    {
+      "id": "Hasdai Crescas",
+      "group": 3,
+      "address": "crescas"
+    },
+    {
+      "id": "Giovanni Francesco [Gianfrancesco] Pico della Mirandola",
+      "group": 3,
+      "address": "gianfrancesco-pico"
+    },
+    {
+      "id": "Tommaso Campanella",
+      "group": 3,
+      "address": "campanella"
+    },
+    {
+      "id": "Basil [Cardinal] Bessarion",
+      "group": 3,
+      "address": "bessarion"
+    },
+    {
+      "id": "Neoplatonism",
+      "group": 3,
+      "address": "neoplatonism"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "group": 3,
+      "address": "arabic-islamic-influence"
+    },
+    {
+      "id": "Judah Abrabanel",
+      "group": 3,
+      "address": "abrabanel"
+    },
+    {
+      "id": "Porphyry",
+      "group": 3,
+      "address": "porphyry"
+    },
+    {
+      "id": "Proclus",
+      "group": 3,
+      "address": "proclus"
+    },
+    {
+      "id": "Aristotle on Causality",
+      "group": 3,
+      "address": "aristotle-causality"
+    },
+    {
+      "id": "Platonism in Metaphysics",
+      "group": 3,
+      "address": "platonism"
+    },
+    {
+      "id": "Arabic and Islamic Metaphysics",
+      "group": 3,
+      "address": "arabic-islamic-metaphysics"
+    },
+    {
+      "id": "Alexander of Aphrodisias",
+      "group": 3,
+      "address": "alexander-aphrodisias"
+    },
+    {
+      "id": "\u2018Abd al-Latif al-Baghdadi",
+      "group": 3,
+      "address": "al-baghdadi"
+    },
+    {
+      "id": "The Theology of Aristotle",
+      "group": 3,
+      "address": "theology-aristotle"
+    },
+    {
+      "id": "Natural Theology and Natural Religion",
+      "group": 3,
+      "address": "natural-theology"
+    },
+    {
+      "id": "\u02bfAyn al-Qudat",
+      "group": 3,
+      "address": "al-qudat"
+    },
+    {
+      "id": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "group": 3,
+      "address": "arabic-islamic-mind"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "Plato\u2019s Parmenides",
+      "group": 3,
+      "address": "plato-parmenides"
+    },
+    {
+      "id": "Commentators on Aristotle",
+      "group": 3,
+      "address": "aristotle-commentators"
+    },
+    {
+      "id": "Ralph Waldo Emerson",
+      "group": 3,
+      "address": "emerson"
+    },
+    {
+      "id": "al-Kindi",
+      "group": 3,
+      "address": "al-kindi"
+    },
+    {
+      "id": "Ancient Political Philosophy",
+      "group": 3,
+      "address": "ancient-political"
+    },
+    {
+      "id": "Beauty",
+      "group": 3,
+      "address": "beauty"
+    },
+    {
+      "id": "Isaac Israeli",
+      "group": 3,
+      "address": "israeli"
+    },
+    {
+      "id": "Ancient Theories of Soul",
+      "group": 3,
+      "address": "ancient-soul"
+    },
+    {
+      "id": "Causation in Arabic and Islamic Thought",
+      "group": 3,
+      "address": "arabic-islamic-causation"
+    },
+    {
+      "id": "Monism",
+      "group": 3,
+      "address": "monism"
+    },
+    {
+      "id": "The Concept of Evil",
+      "group": 3,
+      "address": "concept-evil"
+    },
+    {
+      "id": "Philo of Alexandria",
+      "group": 3,
+      "address": "philo"
+    },
+    {
+      "id": "Episteme and Techne",
+      "group": 3,
+      "address": "episteme-techne"
+    },
+    {
+      "id": "John Italos",
+      "group": 3,
+      "address": "john-italos"
+    },
+    {
+      "id": "Ibn Sina\u2019s Metaphysics",
+      "group": 3,
+      "address": "ibn-sina-metaphysics"
+    },
+    {
+      "id": "Speusippus",
+      "group": 3,
+      "address": "speusippus"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Numenius",
+      "group": 3,
+      "address": "numenius"
+    },
+    {
+      "id": "John Niemeyer Findlay",
+      "group": 3,
+      "address": "findlay"
+    },
+    {
+      "id": "Mysticism",
+      "group": 3,
+      "address": "mysticism"
+    },
+    {
+      "id": "Henri Bergson",
+      "group": 3,
+      "address": "bergson"
+    },
+    {
+      "id": "Byzantine Philosophy",
+      "group": 3,
+      "address": "byzantine-philosophy"
+    },
+    {
+      "id": "Ancient Theories of Freedom and Determinism",
+      "group": 3,
+      "address": "freedom-ancient"
+    },
+    {
+      "id": "Phenomenology of Religion",
+      "group": 3,
+      "address": "phenomenology-religion"
+    },
+    {
+      "id": "Greek Sources in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-greek"
+    },
+    {
+      "id": "Iamblichus",
+      "group": 3,
+      "address": "iamblichus"
+    },
+    {
+      "id": "The Cambridge Platonists",
+      "group": 3,
+      "address": "cambridge-platonists"
+    },
+    {
+      "id": "Simplicius",
+      "group": 3,
+      "address": "simplicius"
+    },
+    {
+      "id": "Kinds and Origins of Evil",
+      "group": 3,
+      "address": "evil-kinds-origins"
+    },
+    {
+      "id": "Francis Bacon",
+      "group": 3,
+      "address": "francis-bacon"
+    },
+    {
+      "id": "Ancient Atomism",
+      "group": 3,
+      "address": "atomism-ancient"
+    },
+    {
+      "id": "Galileo Galilei",
+      "group": 3,
+      "address": "galileo"
+    },
+    {
+      "id": "Nicolaus Taurellus",
+      "group": 3,
+      "address": "taurellus"
+    },
+    {
+      "id": "Roger Bacon",
+      "group": 3,
+      "address": "roger-bacon"
+    },
+    {
+      "id": "Giacomo Zabarella",
+      "group": 3,
+      "address": "zabarella"
+    },
+    {
+      "id": "Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-philosophy"
+    }
+  ],
+  "links": [
+    {
+      "source": "Heinrich Cornelius Agrippa von Nettesheim",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Heinrich Cornelius Agrippa von Nettesheim",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Heinrich Cornelius Agrippa von Nettesheim",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Heinrich Cornelius Agrippa von Nettesheim",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Heinrich Cornelius Agrippa von Nettesheim"
+    },
+    {
+      "source": "Lucrezia Marinella",
+      "target": "Heinrich Cornelius Agrippa von Nettesheim"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Heinrich Cornelius Agrippa von Nettesheim"
+    },
+    {
+      "source": "Giovanni Pico della Mirandola",
+      "target": "Heinrich Cornelius Agrippa von Nettesheim"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Heinrich Cornelius Agrippa von Nettesheim"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Fran\u00e7ois Poulain de la Barre"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Mary Astell"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Elisabeth, Princess of Bohemia"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Fran\u00e7ois Poulain de la Barre",
+      "target": "Lucrezia Marinella"
+    },
+    {
+      "source": "Abduction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Idealism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Skepticism"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Skepticism"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Philo of Larissa",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Skepticism"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Zombies",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Nicolaus Copernicus"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Desiderius Erasmus"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Heraclitus"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Friedrich Heinrich Jacobi"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Lucretius"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Niccol\u00f2 Machiavelli"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Marin Mersenne"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Parmenides"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Plato"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Trinity"
+    },
+    {
+      "source": "Nicolaus Copernicus",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Francesco Patrizi",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Giambattista della Porta",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Trinity",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Elijah Delmedigo",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Thomas More",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Giovanni Pico della Mirandola",
+      "target": "Elijah Delmedigo"
+    },
+    {
+      "source": "Giovanni Pico della Mirandola",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Giovanni Pico della Mirandola",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Giovanni Francesco [Gianfrancesco] Pico della Mirandola",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Giovanni Pico della Mirandola"
+    },
+    {
+      "source": "Judah Abrabanel",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Plato"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Marsilio Ficino",
+      "target": "Proclus"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Lucrezia Marinella",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Francesco Patrizi",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Giovanni Francesco [Gianfrancesco] Pico della Mirandola",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Marsilio Ficino"
+    },
+    {
+      "source": "Lucrezia Marinella",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Lucrezia Marinella",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Lucrezia Marinella",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Plotinus"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Plotinus"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Beauty",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "Plotinus"
+    },
+    {
+      "source": "John Niemeyer Findlay",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Isaac Israeli",
+      "target": "Plotinus"
+    },
+    {
+      "source": "John Italos",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Monism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Numenius",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Philo of Alexandria",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Plotinus",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Porphyry",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Proclus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Simplicius",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Ancient Theories of Soul",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Plotinus"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Trinity",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Galileo Galilei",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Basil [Cardinal] Bessarion"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Tommaso Campanella"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Nicolaus Taurellus"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Giacomo Zabarella"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Elisabeth, Princess of Bohemia"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Marin Mersenne"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Voltaire"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Mary Astell",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Mary Astell",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Mary Astell",
+      "target": "Mary Astell"
+    },
+    {
+      "source": "Elisabeth, Princess of Bohemia",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Elisabeth, Princess of Bohemia",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Elisabeth, Princess of Bohemia",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Elisabeth, Princess of Bohemia",
+      "target": "Elisabeth, Princess of Bohemia"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Madeleine de Scud\u00e9ry"
+    },
+    {
+      "source": "Zombies",
+      "target": "Zombies"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Voltaire"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Marin Mersenne",
+      "target": "Marin Mersenne"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Plato"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Numenius"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Philo of Larissa"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Plato"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Plutarch",
+      "target": "Plutarch"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Philo of Larissa",
+      "target": "Philo of Larissa"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Abduction"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Weighing Reasons"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Hermann Lotze"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Idealism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Plato"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Plutarch"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Desiderius Erasmus",
+      "target": "Desiderius Erasmus"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Transcendental Arguments",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Abduction",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Voltaire",
+      "target": "Voltaire"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Disjunctive Theory of Perception",
+      "target": "The Disjunctive Theory of Perception"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Plato"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Idealism",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Idealism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Idealism",
+      "target": "Friedrich Heinrich Jacobi"
+    },
+    {
+      "source": "Idealism",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Idealism",
+      "target": "Monism"
+    },
+    {
+      "source": "Idealism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Idealism",
+      "target": "Plato"
+    },
+    {
+      "source": "Idealism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Idealism",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Idealism",
+      "target": "Idealism"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Plato"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Petrus Ramus",
+      "target": "Petrus Ramus"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Jayar\u0101\u015bi"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Transcendental Arguments"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Michel de Montaigne",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Ralph Waldo Emerson"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Idealism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Parmenides"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Proclus"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Pythagoras",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Pythagoras",
+      "target": "Heraclitus"
+    },
+    {
+      "source": "Pythagoras",
+      "target": "Plato"
+    },
+    {
+      "source": "Pythagoras",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Pythagoras",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Condemnation of 1277",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Condemnation of 1277",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Trinity",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Trinity",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Trinity",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Trinity",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Trinity",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Numenius"
+    },
+    {
+      "source": "Trinity",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Trinity",
+      "target": "Trinity"
+    },
+    {
+      "source": "Giambattista della Porta",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Giambattista della Porta",
+      "target": "Tommaso Campanella"
+    },
+    {
+      "source": "Giambattista della Porta",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Giambattista della Porta",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Giambattista della Porta",
+      "target": "Giambattista della Porta"
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Parmenides"
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Heraclitus"
+    },
+    {
+      "source": "Pythagoreanism",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "Pythagoreanism",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Pythagoreanism",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Pythagoreanism",
+      "target": "Speusippus"
+    },
+    {
+      "source": "Pythagoreanism",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Desiderius Erasmus"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Petrus Ramus"
+    },
+    {
+      "source": "Jacques Lef\u00e8vre d\u2019\u00c9taples",
+      "target": "Jacques Lef\u00e8vre d\u2019\u00c9taples"
+    },
+    {
+      "source": "Nicolaus Copernicus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Nicolaus Copernicus",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Nicolaus Copernicus",
+      "target": "Nicolaus Copernicus"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Basil [Cardinal] Bessarion"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Tommaso Campanella"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Nicolaus Copernicus"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Desiderius Erasmus"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Jacques Lef\u00e8vre d\u2019\u00c9taples"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Niccol\u00f2 Machiavelli"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Marin Mersenne"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Petrus Ramus"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Nicolaus Taurellus"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Giacomo Zabarella"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Tommaso Campanella"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Bernardino Telesio",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Monism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Francesco Patrizi",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Francesco Patrizi",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Niccol\u00f2 Machiavelli",
+      "target": "Niccol\u00f2 Machiavelli"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Proclus"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Plato",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Friedrich Heinrich Jacobi",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Friedrich Heinrich Jacobi",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Friedrich Heinrich Jacobi",
+      "target": "Friedrich Heinrich Jacobi"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Nicolaus Copernicus"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Francesco Patrizi"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Nicole Oresme"
+    },
+    {
+      "source": "Parmenides",
+      "target": "Monism"
+    },
+    {
+      "source": "Parmenides",
+      "target": "Parmenides"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Theories of Freedom and Determinism"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Philo of Larissa"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Lucretius",
+      "target": "Michel de Montaigne"
+    },
+    {
+      "source": "Lucretius",
+      "target": "Lucretius"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Trinity"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Baruch Spinoza",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Baruch Spinoza",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Baruch Spinoza",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Elijah Delmedigo",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Elijah Delmedigo",
+      "target": "Elijah Delmedigo"
+    },
+    {
+      "source": "Thomas More",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Thomas More",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Thomas More",
+      "target": "Desiderius Erasmus"
+    },
+    {
+      "source": "Thomas More",
+      "target": "Thomas More"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Giovanni Francesco [Gianfrancesco] Pico della Mirandola",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Giovanni Francesco [Gianfrancesco] Pico della Mirandola",
+      "target": "Giovanni Francesco [Gianfrancesco] Pico della Mirandola"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Niccol\u00f2 Machiavelli"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Giambattista della Porta"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Bernardino Telesio"
+    },
+    {
+      "source": "Tommaso Campanella",
+      "target": "Tommaso Campanella"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Jacques Lef\u00e8vre d\u2019\u00c9taples"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Plato"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Proclus"
+    },
+    {
+      "source": "Basil [Cardinal] Bessarion",
+      "target": "Basil [Cardinal] Bessarion"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Plutarch"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Proclus"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Simplicius"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Neoplatonism",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Judah Abrabanel",
+      "target": "Judah Abrabanel"
+    },
+    {
+      "source": "Porphyry",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Porphyry",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "Porphyry",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Porphyry",
+      "target": "Plato"
+    },
+    {
+      "source": "Porphyry",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Proclus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Proclus",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Proclus",
+      "target": "Simplicius"
+    },
+    {
+      "source": "Proclus",
+      "target": "Proclus"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Plato"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Plato"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Proclus"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Plato"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Alexander of Aphrodisias",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Plato"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "Proclus"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "\u2018Abd al-Latif al-Baghdadi",
+      "target": "\u2018Abd al-Latif al-Baghdadi"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Isaac Israeli"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Porphyry"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "Plato\u2019s Parmenides"
+    },
+    {
+      "source": "\u02bfAyn al-Qudat",
+      "target": "\u02bfAyn al-Qudat"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Plato"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Parmenides"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Plato"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Proclus"
+    },
+    {
+      "source": "Plato\u2019s Parmenides",
+      "target": "Plato\u2019s Parmenides"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Plato"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Simplicius"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Heraclitus"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Lucretius"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Ralph Waldo Emerson",
+      "target": "Ralph Waldo Emerson"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Proclus"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Ancient Political Philosophy",
+      "target": "Ancient Political Philosophy"
+    },
+    {
+      "source": "Beauty",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Beauty",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Beauty",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Beauty",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Beauty",
+      "target": "Beauty"
+    },
+    {
+      "source": "Isaac Israeli",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Isaac Israeli",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Isaac Israeli",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Isaac Israeli",
+      "target": "Isaac Israeli"
+    },
+    {
+      "source": "Ancient Theories of Soul",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Ancient Theories of Soul",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Plato"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Proclus"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Monism",
+      "target": "Baruch Spinoza"
+    },
+    {
+      "source": "Monism",
+      "target": "Monism"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Philo of Alexandria",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Philo of Alexandria",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Philo of Alexandria",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Philo of Alexandria",
+      "target": "Philo of Alexandria"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Plato"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "John Italos",
+      "target": "Plato"
+    },
+    {
+      "source": "John Italos",
+      "target": "Aristotle"
+    },
+    {
+      "source": "John Italos",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "John Italos",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "John Italos",
+      "target": "Porphyry"
+    },
+    {
+      "source": "John Italos",
+      "target": "Proclus"
+    },
+    {
+      "source": "John Italos",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "John Italos",
+      "target": "John Italos"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Proclus"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Ibn Sina\u2019s Metaphysics",
+      "target": "Ibn Sina\u2019s Metaphysics"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Plato"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Plutarch"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Proclus"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Speusippus",
+      "target": "Speusippus"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Ralph Waldo Emerson"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Numenius",
+      "target": "Plato"
+    },
+    {
+      "source": "Numenius",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Numenius",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Numenius",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Numenius",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Numenius",
+      "target": "Numenius"
+    },
+    {
+      "source": "John Niemeyer Findlay",
+      "target": "John Niemeyer Findlay"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Philo of Alexandria"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Plato"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Proclus"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Lucretius"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Ancient Theories of Freedom and Determinism",
+      "target": "Ancient Theories of Freedom and Determinism"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Alexander of Aphrodisias"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Plato"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Proclus"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Plato"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Porphyry"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Proclus"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Pythagoreanism"
+    },
+    {
+      "source": "Iamblichus",
+      "target": "Iamblichus"
+    },
+    {
+      "source": "The Cambridge Platonists",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Simplicius",
+      "target": "Neoplatonism"
+    },
+    {
+      "source": "Simplicius",
+      "target": "Proclus"
+    },
+    {
+      "source": "Simplicius",
+      "target": "Simplicius"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "Kinds and Origins of Evil"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Lucretius"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Plato"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Pythagoras"
+    },
+    {
+      "source": "Ancient Atomism",
+      "target": "Ancient Atomism"
+    },
+    {
+      "source": "Galileo Galilei",
+      "target": "Nicolaus Copernicus"
+    },
+    {
+      "source": "Galileo Galilei",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Idealism"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Monism"
+    },
+    {
+      "source": "Nicolaus Taurellus",
+      "target": "Nicolaus Taurellus"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Giacomo Zabarella"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Philosophy"
+    }
+  ]
+}

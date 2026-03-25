@@ -1,0 +1,3248 @@
+{
+  "nodes": [
+    {
+      "id": "Belief Merging and Judgment Aggregation",
+      "group": 1,
+      "address": "belief-merging"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 2,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 2,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 2,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 2,
+      "address": "social-choice"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 2,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 2,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 2,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Philosophy of Medicine",
+      "group": 2,
+      "address": "medicine"
+    },
+    {
+      "id": "Truthlikeness",
+      "group": 3,
+      "address": "truthlikeness"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Epistemology in Latin America",
+      "group": 3,
+      "address": "epistemology-latin-america"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Scientific Progress",
+      "group": 3,
+      "address": "scientific-progress"
+    },
+    {
+      "id": "Analytic Philosophy in Latin America",
+      "group": 3,
+      "address": "latin-american-analytic"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Dynamic Epistemic Logic",
+      "group": 3,
+      "address": "dynamic-epistemic"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Preference Logic",
+      "group": 3,
+      "address": "logic-preference"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Voting Methods",
+      "group": 3,
+      "address": "voting-methods"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Collective Intentionality",
+      "group": 3,
+      "address": "collective-intentionality"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "group": 3,
+      "address": "histfem-condorcet"
+    },
+    {
+      "id": "Political Legitimacy",
+      "group": 3,
+      "address": "legitimacy"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Reichenbach\u2019s Common Cause Principle",
+      "group": 3,
+      "address": "physics-Rpcc"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Pufendorf\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "pufendorf-moral"
+    },
+    {
+      "id": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "group": 3,
+      "address": "cusanus"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "The Ethics and Rationality of Voting",
+      "group": 3,
+      "address": "voting"
+    },
+    {
+      "id": "Alfred Tarski",
+      "group": 3,
+      "address": "tarski"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "Tibetan Epistemology and Philosophy of Language",
+      "group": 3,
+      "address": "epistemology-language-tibetan"
+    },
+    {
+      "id": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "group": 3,
+      "address": "justep-intext"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "The Problem of Perception",
+      "group": 3,
+      "address": "perception-problem"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "A Priori Justification and Knowledge",
+      "group": 3,
+      "address": "apriori"
+    },
+    {
+      "id": "Epistemological Problems of Perception",
+      "group": 3,
+      "address": "perception-episprob"
+    },
+    {
+      "id": "Epistemic Closure",
+      "group": 3,
+      "address": "closure-epistemic"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Intuition",
+      "group": 3,
+      "address": "intuition"
+    },
+    {
+      "id": "Wisdom",
+      "group": 3,
+      "address": "wisdom"
+    },
+    {
+      "id": "Kum\u0101rila",
+      "group": 3,
+      "address": "kumaarila"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Weighing Reasons",
+      "group": 3,
+      "address": "weighing-reasons"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Virtue Epistemology",
+      "group": 3,
+      "address": "epistemology-virtue"
+    },
+    {
+      "id": "Epistemological Problems of Memory",
+      "group": 3,
+      "address": "memory-episprob"
+    },
+    {
+      "id": "The Value of Knowledge",
+      "group": 3,
+      "address": "knowledge-value"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Transitional Justice",
+      "group": 3,
+      "address": "justice-transitional"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 3,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 3,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Biological Altruism",
+      "group": 3,
+      "address": "altruism-biological"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Redistribution",
+      "group": 3,
+      "address": "redistribution"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 3,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Ludwik Fleck",
+      "group": 3,
+      "address": "fleck"
+    },
+    {
+      "id": "Epistemological Problems of Testimony",
+      "group": 3,
+      "address": "testimony-episprob"
+    },
+    {
+      "id": "Transmission of Justification and Warrant",
+      "group": 3,
+      "address": "transmission-justification-warrant"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "A Priorism in Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology-a-priori"
+    },
+    {
+      "id": "Louis Althusser",
+      "group": 3,
+      "address": "althusser"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 3,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 3,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Disagreement",
+      "group": 3,
+      "address": "disagreement"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 3,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "Concepts of Disease and Health",
+      "group": 3,
+      "address": "health-disease"
+    },
+    {
+      "id": "Locke on Medicine",
+      "group": 3,
+      "address": "locke-on-medicine"
+    },
+    {
+      "id": "Mental Disorder (Illness)",
+      "group": 3,
+      "address": "mental-disorder"
+    },
+    {
+      "id": "Philosophy of Psychiatry",
+      "group": 3,
+      "address": "psychiatry"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "Reductionism in Biology",
+      "group": 3,
+      "address": "reduction-biology"
+    },
+    {
+      "id": "Theory and Bioethics",
+      "group": 3,
+      "address": "theory-bioethics"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "Scientific Objectivity",
+      "group": 3,
+      "address": "scientific-objectivity"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Cancer",
+      "group": 3,
+      "address": "cancer"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    }
+  ],
+  "links": [
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Belief Merging and Judgment Aggregation",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Belief Merging and Judgment Aggregation"
+    },
+    {
+      "source": "Belief",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Preferences"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Democracy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "A Priori Justification and Knowledge",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Intuition",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Kum\u0101rila",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Tibetan Epistemology and Philosophy of Language",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Evidence"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Relativism"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Cancer",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Locke on Medicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemology in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Epistemology in Latin America"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Analytic Philosophy in Latin America",
+      "target": "Analytic Philosophy in Latin America"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Belief"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Belief",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preference Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Democracy"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Preferences"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Democracy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Democracy",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Democracy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Redistribution"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Democracy"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Tibetan Epistemology and Philosophy of Language",
+      "target": "Tibetan Epistemology and Philosophy of Language"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Evidence"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "A Priori Justification and Knowledge"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Trust",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Trust",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "A Priori Justification and Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "A Priori Justification and Knowledge",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "A Priori Justification and Knowledge",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "A Priori Justification and Knowledge",
+      "target": "A Priori Justification and Knowledge"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "A Priori Justification and Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Intuition"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Intuition",
+      "target": "A Priori Justification and Knowledge"
+    },
+    {
+      "source": "Intuition",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Intuition",
+      "target": "Intuition"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Evidence"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Wisdom",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Wisdom"
+    },
+    {
+      "source": "Kum\u0101rila",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Kum\u0101rila",
+      "target": "Kum\u0101rila"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Weighing Reasons"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "The Value of Knowledge"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Epistemological Problems of Memory",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "The Value of Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Belief"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Redistribution",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Redistribution",
+      "target": "Redistribution"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Intuition"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Relativism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Relativism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Relativism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Relativism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Trust"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Evidence"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Transmission of Justification and Warrant",
+      "target": "Transmission of Justification and Warrant"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "A Priori Justification and Knowledge"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Intuition"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemological Problems of Memory"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "A Priorism in Moral Epistemology",
+      "target": "A Priorism in Moral Epistemology"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Agent-Based Modeling in the Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Relativism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Relativism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Locke on Medicine",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Locke on Medicine",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Locke on Medicine",
+      "target": "Locke on Medicine"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Cancer"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Cancer",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Cancer",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Cancer",
+      "target": "Cancer"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    }
+  ]
+}

@@ -1,0 +1,5411 @@
+{
+  "nodes": [
+    {
+      "id": "Privacy and Information Technology",
+      "group": 1,
+      "address": "it-privacy"
+    },
+    {
+      "id": "Social Networking and Ethics",
+      "group": 2,
+      "address": "ethics-social-networking"
+    },
+    {
+      "id": "Ethics of Artificial Intelligence and Robotics",
+      "group": 2,
+      "address": "ethics-ai"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 2,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Business Ethics",
+      "group": 2,
+      "address": "ethics-business"
+    },
+    {
+      "id": "Information Technology and Moral Values",
+      "group": 2,
+      "address": "it-moral-values"
+    },
+    {
+      "id": "Genetics",
+      "group": 2,
+      "address": "genetics"
+    },
+    {
+      "id": "Information",
+      "group": 2,
+      "address": "information"
+    },
+    {
+      "id": "Privacy",
+      "group": 2,
+      "address": "privacy"
+    },
+    {
+      "id": "Search Engines and Ethics",
+      "group": 2,
+      "address": "ethics-search"
+    },
+    {
+      "id": "J\u00fcrgen Habermas",
+      "group": 3,
+      "address": "habermas"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 3,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Phenomenological Approaches to Ethics and Information Technology",
+      "group": 3,
+      "address": "ethics-it-phenomenology"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Moral Character",
+      "group": 3,
+      "address": "moral-character"
+    },
+    {
+      "id": "Artifact",
+      "group": 3,
+      "address": "artifact"
+    },
+    {
+      "id": "Publicity",
+      "group": 3,
+      "address": "publicity"
+    },
+    {
+      "id": "Personal Identity and Ethics",
+      "group": 3,
+      "address": "identity-ethics"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Internet Research Ethics",
+      "group": 3,
+      "address": "ethics-internet-research"
+    },
+    {
+      "id": "The Ethics of Manipulation",
+      "group": 3,
+      "address": "ethics-manipulation"
+    },
+    {
+      "id": "Empirical Approaches to Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility-empirical"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Philosophical Approaches to Work and Labor",
+      "group": 3,
+      "address": "work-labor"
+    },
+    {
+      "id": "Perfectionism in Moral and Political Philosophy",
+      "group": 3,
+      "address": "perfectionism-moral"
+    },
+    {
+      "id": "Distributive Justice",
+      "group": 3,
+      "address": "justice-distributive"
+    },
+    {
+      "id": "Markets",
+      "group": 3,
+      "address": "markets"
+    },
+    {
+      "id": "Rights",
+      "group": 3,
+      "address": "rights"
+    },
+    {
+      "id": "The Principle of Beneficence in Applied Ethics",
+      "group": 3,
+      "address": "principle-beneficence"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Collective Intentionality",
+      "group": 3,
+      "address": "collective-intentionality"
+    },
+    {
+      "id": "Loyalty",
+      "group": 3,
+      "address": "loyalty"
+    },
+    {
+      "id": "Global Justice",
+      "group": 3,
+      "address": "justice-global"
+    },
+    {
+      "id": "Moral Relativism",
+      "group": 3,
+      "address": "moral-relativism"
+    },
+    {
+      "id": "Philanthropy",
+      "group": 3,
+      "address": "philanthropy"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Discrimination",
+      "group": 3,
+      "address": "discrimination"
+    },
+    {
+      "id": "Feminist Perspectives on Class and Work",
+      "group": 3,
+      "address": "feminism-class"
+    },
+    {
+      "id": "The Definition of Lying and Deception",
+      "group": 3,
+      "address": "lying-definition"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Corruption",
+      "group": 3,
+      "address": "corruption"
+    },
+    {
+      "id": "Human Rights",
+      "group": 3,
+      "address": "rights-human"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Exploitation",
+      "group": 3,
+      "address": "exploitation"
+    },
+    {
+      "id": "Dewey\u2019s Political Philosophy",
+      "group": 3,
+      "address": "dewey-political"
+    },
+    {
+      "id": "The Turing Test",
+      "group": 3,
+      "address": "turing-test"
+    },
+    {
+      "id": "Logic-Based Artificial Intelligence",
+      "group": 3,
+      "address": "logic-ai"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "Pornography and Censorship",
+      "group": 3,
+      "address": "pornography-censorship"
+    },
+    {
+      "id": "Intellectual Property",
+      "group": 3,
+      "address": "intellectual-property"
+    },
+    {
+      "id": "John Dewey",
+      "group": 3,
+      "address": "dewey"
+    },
+    {
+      "id": "Theory and Bioethics",
+      "group": 3,
+      "address": "theory-bioethics"
+    },
+    {
+      "id": "Life",
+      "group": 3,
+      "address": "life"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "The Structure of Scientific Theories",
+      "group": 3,
+      "address": "structure-scientific-theories"
+    },
+    {
+      "id": "Philosophy of Microbiology",
+      "group": 3,
+      "address": "microbiology"
+    },
+    {
+      "id": "Intertheory Relations in Physics",
+      "group": 3,
+      "address": "physics-interrelate"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Population Genetics",
+      "group": 3,
+      "address": "population-genetics"
+    },
+    {
+      "id": "Philosophy of Biology",
+      "group": 3,
+      "address": "biology-philosophy"
+    },
+    {
+      "id": "Scientific Progress",
+      "group": 3,
+      "address": "scientific-progress"
+    },
+    {
+      "id": "Innateness and Language",
+      "group": 3,
+      "address": "innateness-language"
+    },
+    {
+      "id": "Fitness",
+      "group": 3,
+      "address": "fitness"
+    },
+    {
+      "id": "Conservation Biology",
+      "group": 3,
+      "address": "conservation-biology"
+    },
+    {
+      "id": "Levels of Organization in Biology",
+      "group": 3,
+      "address": "levels-org-biology"
+    },
+    {
+      "id": "Gene",
+      "group": 3,
+      "address": "gene"
+    },
+    {
+      "id": "Feminist Perspectives on Disability",
+      "group": 3,
+      "address": "feminism-disability"
+    },
+    {
+      "id": "Darwinism",
+      "group": 3,
+      "address": "darwinism"
+    },
+    {
+      "id": "Heritability",
+      "group": 3,
+      "address": "heritability"
+    },
+    {
+      "id": "Inheritance Systems",
+      "group": 3,
+      "address": "inheritance-systems"
+    },
+    {
+      "id": "Adaptationism",
+      "group": 3,
+      "address": "adaptationism"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Sociobiology",
+      "group": 3,
+      "address": "sociobiology"
+    },
+    {
+      "id": "Molecular Genetics",
+      "group": 3,
+      "address": "molecular-genetics"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 3,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "The Historical Controversies Surrounding Innateness",
+      "group": 3,
+      "address": "innateness-history"
+    },
+    {
+      "id": "Parenthood and Procreation",
+      "group": 3,
+      "address": "parenthood"
+    },
+    {
+      "id": "Philosophy of Systems and Synthetic Biology",
+      "group": 3,
+      "address": "systems-synthetic-biology"
+    },
+    {
+      "id": "Units and Levels of Selection",
+      "group": 3,
+      "address": "selection-units"
+    },
+    {
+      "id": "Philosophy of Psychiatry",
+      "group": 3,
+      "address": "psychiatry"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 3,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Biological Individuals",
+      "group": 3,
+      "address": "biology-individual"
+    },
+    {
+      "id": "Cancer",
+      "group": 3,
+      "address": "cancer"
+    },
+    {
+      "id": "Race",
+      "group": 3,
+      "address": "race"
+    },
+    {
+      "id": "Pregnancy, Birth, and Medicine",
+      "group": 3,
+      "address": "ethics-pregnancy"
+    },
+    {
+      "id": "Philosophy of Science in Latin America",
+      "group": 3,
+      "address": "phil-science-latin-america"
+    },
+    {
+      "id": "Causation and Manipulability",
+      "group": 3,
+      "address": "causation-mani"
+    },
+    {
+      "id": "Biological Information",
+      "group": 3,
+      "address": "information-biological"
+    },
+    {
+      "id": "Philosophy of Biology in Latin America",
+      "group": 3,
+      "address": "phil-bio-latin-america"
+    },
+    {
+      "id": "Evolution and Development",
+      "group": 3,
+      "address": "evolution-development"
+    },
+    {
+      "id": "Evolution",
+      "group": 3,
+      "address": "evolution"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Privacy and Medicine",
+      "group": 3,
+      "address": "privacy-medicine"
+    },
+    {
+      "id": "Ecological Genetics",
+      "group": 3,
+      "address": "ecological-genetics"
+    },
+    {
+      "id": "The Distinction Between Innate and Acquired Characteristics",
+      "group": 3,
+      "address": "innate-acquired"
+    },
+    {
+      "id": "Biological Altruism",
+      "group": 3,
+      "address": "altruism-biological"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Developmental Biology",
+      "group": 3,
+      "address": "biology-developmental"
+    },
+    {
+      "id": "Biodiversity",
+      "group": 3,
+      "address": "biodiversity"
+    },
+    {
+      "id": "Feminist Philosophy of Biology",
+      "group": 3,
+      "address": "feminist-philosophy-biology"
+    },
+    {
+      "id": "The Genotype/Phenotype Distinction",
+      "group": 3,
+      "address": "genotype-phenotype"
+    },
+    {
+      "id": "Feminist Bioethics",
+      "group": 3,
+      "address": "feminist-bioethics"
+    },
+    {
+      "id": "Philosophy of Medicine",
+      "group": 3,
+      "address": "medicine"
+    },
+    {
+      "id": "Neuroethics",
+      "group": 3,
+      "address": "neuroethics"
+    },
+    {
+      "id": "Replication and Reproduction",
+      "group": 3,
+      "address": "replication"
+    },
+    {
+      "id": "Philosophy of Immunology",
+      "group": 3,
+      "address": "immunology"
+    },
+    {
+      "id": "Phylogenetic Inference",
+      "group": 3,
+      "address": "phylogenetic-inference"
+    },
+    {
+      "id": "Genomics and Postgenomics",
+      "group": 3,
+      "address": "genomics"
+    },
+    {
+      "id": "Reductionism in Biology",
+      "group": 3,
+      "address": "reduction-biology"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 3,
+      "address": "enhancement"
+    },
+    {
+      "id": "Eugenics",
+      "group": 3,
+      "address": "eugenics"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Identity Politics",
+      "group": 3,
+      "address": "identity-politics"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "Natural Selection",
+      "group": 3,
+      "address": "natural-selection"
+    },
+    {
+      "id": "Theories of Biological Development",
+      "group": 3,
+      "address": "theories-biological-development"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "The Frege-Hilbert Controversy",
+      "group": 3,
+      "address": "frege-hilbert"
+    },
+    {
+      "id": "Port Royal Logic",
+      "group": 3,
+      "address": "port-royal-logic"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "Substructural Logics",
+      "group": 3,
+      "address": "logic-substructural"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Recursive Functions",
+      "group": 3,
+      "address": "recursive-functions"
+    },
+    {
+      "id": "William of Ockham",
+      "group": 3,
+      "address": "ockham"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 3,
+      "address": "church-turing"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "group": 3,
+      "address": "frege-theorem"
+    },
+    {
+      "id": "Quantum Entanglement and Information",
+      "group": 3,
+      "address": "qt-entangle"
+    },
+    {
+      "id": "Thermodynamic Asymmetry in Time",
+      "group": 3,
+      "address": "time-thermo"
+    },
+    {
+      "id": "Philosophy of Mathematics",
+      "group": 3,
+      "address": "philosophy-mathematics"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "G\u00f6del\u2019s Incompleteness Theorems",
+      "group": 3,
+      "address": "goedel-incompleteness"
+    },
+    {
+      "id": "Russell\u2019s Paradox",
+      "group": 3,
+      "address": "russell-paradox"
+    },
+    {
+      "id": "Information Processing and Thermodynamic Entropy",
+      "group": 3,
+      "address": "information-entropy"
+    },
+    {
+      "id": "The Continuum Hypothesis",
+      "group": 3,
+      "address": "continuum-hypothesis"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Alternative Axiomatic Set Theories",
+      "group": 3,
+      "address": "settheory-alternative"
+    },
+    {
+      "id": "Logic and Information",
+      "group": 3,
+      "address": "logic-information"
+    },
+    {
+      "id": "Philosophy of Statistical Mechanics",
+      "group": 3,
+      "address": "statphys-statmech"
+    },
+    {
+      "id": "Rigid Designators",
+      "group": 3,
+      "address": "rigid-designators"
+    },
+    {
+      "id": "Aristotle on Causality",
+      "group": 3,
+      "address": "aristotle-causality"
+    },
+    {
+      "id": "The Neuroscience of Consciousness",
+      "group": 3,
+      "address": "consciousness-neuroscience"
+    },
+    {
+      "id": "Semantic Conceptions of Information",
+      "group": 3,
+      "address": "information-semantic"
+    },
+    {
+      "id": "Plato\u2019s Middle Period Metaphysics and Epistemology",
+      "group": 3,
+      "address": "plato-metaphysics"
+    },
+    {
+      "id": "Cultural Evolution",
+      "group": 3,
+      "address": "evolution-cultural"
+    },
+    {
+      "id": "Croce\u2019s Aesthetics",
+      "group": 3,
+      "address": "croce-aesthetics"
+    },
+    {
+      "id": "Legal Rights",
+      "group": 3,
+      "address": "legal-rights"
+    },
+    {
+      "id": "Informed Consent",
+      "group": 3,
+      "address": "informed-consent"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Theories of the Common Law of Torts",
+      "group": 3,
+      "address": "tort-theories"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Freedom of Association",
+      "group": 3,
+      "address": "freedom-association"
+    },
+    {
+      "id": "Positive and Negative Liberty",
+      "group": 3,
+      "address": "liberty-positive-negative"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    }
+  ],
+  "links": [
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Information"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Publicity"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Privacy",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Corruption"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Markets"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Rights"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Human Rights"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Markets",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Life"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Cancer"
+    },
+    {
+      "source": "Genetics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Evolution"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetics",
+      "target": "Gene"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Heritability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Genetics",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Genetics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetics",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Science in Latin America"
+    },
+    {
+      "source": "Genetics",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Genetics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Genetics",
+      "target": "Race"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Genetics",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Assertion",
+      "target": "Information"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Information"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Information"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Information"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Information"
+    },
+    {
+      "source": "Information",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Information",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Information",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Information",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Information",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Information",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Information",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Information",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "Information",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Information",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Information",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Information",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Information",
+      "target": "Plato\u2019s Middle Period Metaphysics and Epistemology"
+    },
+    {
+      "source": "Information",
+      "target": "Port Royal Logic"
+    },
+    {
+      "source": "Information",
+      "target": "Properties"
+    },
+    {
+      "source": "Information",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Information",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Information",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Information",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Information",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Information",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Information",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Information",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Information",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Information"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Information"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Information"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Information"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Information"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Privacy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Privacy"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Privacy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Privacy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Privacy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Privacy",
+      "target": "Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Privacy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Publicity",
+      "target": "Privacy"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Character",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Artifact",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Artifact",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Artifact"
+    },
+    {
+      "source": "Publicity",
+      "target": "Publicity"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Exploitation"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "The Ethics of Manipulation",
+      "target": "The Ethics of Manipulation"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Empirical Approaches to Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Markets"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Philosophical Approaches to Work and Labor",
+      "target": "Philosophical Approaches to Work and Labor"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Markets",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Markets",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Markets",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Markets",
+      "target": "Markets"
+    },
+    {
+      "source": "Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Corruption"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Philanthropy"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Perspectives on Class and Work",
+      "target": "Feminist Perspectives on Class and Work"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Character"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Publicity"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Human Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Corruption",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Corruption",
+      "target": "Corruption"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Human Rights",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Rights"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Logic-Based Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Rights"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "John Dewey",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Life",
+      "target": "Life"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Darwinism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Microbiology",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Evolution"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Gene"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Heritability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Evolution"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Heritability"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Population Genetics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Heritability"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Philosophy of Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Fitness",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Fitness",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Fitness",
+      "target": "Evolution"
+    },
+    {
+      "source": "Fitness",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Fitness",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Fitness",
+      "target": "Fitness"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Levels of Organization in Biology",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Gene",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Gene",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Gene",
+      "target": "Evolution"
+    },
+    {
+      "source": "Gene",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Gene",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Gene",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Gene",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Gene",
+      "target": "Heritability"
+    },
+    {
+      "source": "Gene",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Gene",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Gene",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Gene",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Gene",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Gene",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Gene",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Gene",
+      "target": "Race"
+    },
+    {
+      "source": "Gene",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Gene",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Gene",
+      "target": "Gene"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Evolution"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Fitness"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Heritability",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Heritability",
+      "target": "Evolution"
+    },
+    {
+      "source": "Heritability",
+      "target": "Gene"
+    },
+    {
+      "source": "Heritability",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Heritability",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Heritability",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Heritability",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Heritability",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Heritability",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Heritability",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Heritability",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Heritability",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Heritability",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Heritability",
+      "target": "Heritability"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Heritability"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Inheritance Systems",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolution"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Heritability"
+    },
+    {
+      "source": "Sociobiology",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Gene"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Heritability"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Plato\u2019s Middle Period Metaphysics and Epistemology"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Cancer"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Systems and Synthetic Biology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Evolution"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Gene"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Properties"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Evolution"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Gene"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Life"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Biological Individuals",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Cancer",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Cancer",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Cancer",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Cancer",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Cancer",
+      "target": "Cancer"
+    },
+    {
+      "source": "Race",
+      "target": "Heritability"
+    },
+    {
+      "source": "Race",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Race",
+      "target": "Race"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Philosophy of Science in Latin America",
+      "target": "Philosophy of Science in Latin America"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Gene"
+    },
+    {
+      "source": "Biological Information",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Biological Information",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Evolution"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Fitness"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Gene"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Heritability"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Life"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Science in Latin America"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Race"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Evolution and Development",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolution",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Fitness"
+    },
+    {
+      "source": "Evolution",
+      "target": "Gene"
+    },
+    {
+      "source": "Evolution",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Evolution",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Evolution",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Evolution",
+      "target": "Heritability"
+    },
+    {
+      "source": "Evolution",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Evolution",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Evolution",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Evolution",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Evolution",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Evolution",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Ecological Genetics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Darwinism"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Evolution"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Fitness"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Gene"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Heritability"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "The Distinction Between Innate and Acquired Characteristics",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Biological Altruism",
+      "target": "Biological Altruism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Evolution"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Feminist Philosophy of Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Gene"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Heritability"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Medicine",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Evolution"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Fitness"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Gene"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Heritability"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Life"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Evolution"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Ecological Genetics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Microbiology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Gene"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Race"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Genomics and Postgenomics",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Biological Individuals"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Gene"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Life"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Reductionism in Biology",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Eugenics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Philosophy of Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Gene"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genomics and Postgenomics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Heritability"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Biological Information"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Race"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Race"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Life"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Medicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Reductionism in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Fitness"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Population Genetics"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Evolution and Development"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Levels of Organization in Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Philosophy of Systems and Synthetic Biology"
+    },
+    {
+      "source": "Theories of Biological Development",
+      "target": "Theories of Biological Development"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Port Royal Logic"
+    },
+    {
+      "source": "Properties",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Properties",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Properties",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Properties",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Properties",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Properties"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Distinction Between Innate and Acquired Characteristics"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Set Theory",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Set Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Information Processing and Thermodynamic Entropy",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Continuum Hypothesis",
+      "target": "The Continuum Hypothesis"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Logic and Information",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Information Processing and Thermodynamic Entropy"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Properties"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Neuroscience of Consciousness",
+      "target": "The Neuroscience of Consciousness"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Logic and Information"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Plato\u2019s Middle Period Metaphysics and Epistemology",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Plato\u2019s Middle Period Metaphysics and Epistemology",
+      "target": "Properties"
+    },
+    {
+      "source": "Plato\u2019s Middle Period Metaphysics and Epistemology",
+      "target": "Plato\u2019s Middle Period Metaphysics and Epistemology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Philosophy of Biology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Biological Information"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Inheritance Systems"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Sociobiology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Informed Consent",
+      "target": "Informed Consent"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Freedom of Association"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    }
+  ]
+}

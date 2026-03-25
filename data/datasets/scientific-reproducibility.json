@@ -1,0 +1,6441 @@
+{
+  "nodes": [
+    {
+      "id": "Reproducibility of Scientific Results",
+      "group": 1,
+      "address": "scientific-reproducibility"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 2,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Theory and Observation in Science",
+      "group": 2,
+      "address": "science-theory-observation"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 2,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 2,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 2,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Measurement in Science",
+      "group": 2,
+      "address": "measurement-science"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 2,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 2,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Operationalism",
+      "group": 2,
+      "address": "operationalism"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Scientific Objectivity",
+      "group": 3,
+      "address": "scientific-objectivity"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Teleological Arguments for God\u2019s Existence",
+      "group": 3,
+      "address": "teleological-arguments"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Logic and Probability",
+      "group": 3,
+      "address": "logic-probability"
+    },
+    {
+      "id": "Miracles",
+      "group": 3,
+      "address": "miracles"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Epistemological Problems of Testimony",
+      "group": 3,
+      "address": "testimony-episprob"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Legal Probabilism",
+      "group": 3,
+      "address": "legal-probabilism"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "The Legal Concept of Evidence",
+      "group": 3,
+      "address": "evidence-legal"
+    },
+    {
+      "id": "Innateness and Contemporary Theories of Cognition",
+      "group": 3,
+      "address": "innateness-cognition"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Reason and Religious Commitment",
+      "group": 3,
+      "address": "religious-commitment-reason"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Wesley Salmon",
+      "group": 3,
+      "address": "wesley-salmon"
+    },
+    {
+      "id": "The Structure of Scientific Theories",
+      "group": 3,
+      "address": "structure-scientific-theories"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Logical Empiricism",
+      "group": 3,
+      "address": "logical-empiricism"
+    },
+    {
+      "id": "Carl Hempel",
+      "group": 3,
+      "address": "hempel"
+    },
+    {
+      "id": "Experiment in Physics",
+      "group": 3,
+      "address": "physics-experiment"
+    },
+    {
+      "id": "Adaptationism",
+      "group": 3,
+      "address": "adaptationism"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Francis Bacon",
+      "group": 3,
+      "address": "francis-bacon"
+    },
+    {
+      "id": "Perceptual Experience and Perceptual Justification",
+      "group": 3,
+      "address": "perception-justification"
+    },
+    {
+      "id": "Pierre Duhem",
+      "group": 3,
+      "address": "duhem"
+    },
+    {
+      "id": "Science and Pseudo-Science",
+      "group": 3,
+      "address": "pseudo-science"
+    },
+    {
+      "id": "Ludwik Fleck",
+      "group": 3,
+      "address": "fleck"
+    },
+    {
+      "id": "John Locke",
+      "group": 3,
+      "address": "locke"
+    },
+    {
+      "id": "Perceptual Learning",
+      "group": 3,
+      "address": "perceptual-learning"
+    },
+    {
+      "id": "Constructive Empiricism",
+      "group": 3,
+      "address": "constructive-empiricism"
+    },
+    {
+      "id": "Computer Simulations in Science",
+      "group": 3,
+      "address": "simulations-science"
+    },
+    {
+      "id": "Theoretical Terms in Science",
+      "group": 3,
+      "address": "theoretical-terms-science"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Methods in Comparative Cognition",
+      "group": 3,
+      "address": "comparative-cognition"
+    },
+    {
+      "id": "Paul Feyerabend",
+      "group": 3,
+      "address": "feyerabend"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "The Incommensurability of Scientific Theories",
+      "group": 3,
+      "address": "incommensurability"
+    },
+    {
+      "id": "Experimental Moral Philosophy",
+      "group": 3,
+      "address": "experimental-moral"
+    },
+    {
+      "id": "Embodied Cognition",
+      "group": 3,
+      "address": "embodied-cognition"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "The Psychology of Normative Cognition",
+      "group": 3,
+      "address": "psychology-normative-cognition"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Experimental Philosophy",
+      "group": 3,
+      "address": "experimental-philosophy"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Evolutionary Psychology",
+      "group": 3,
+      "address": "evolutionary-psychology"
+    },
+    {
+      "id": "Human Nature",
+      "group": 3,
+      "address": "human-nature"
+    },
+    {
+      "id": "The Historical Controversies Surrounding Innateness",
+      "group": 3,
+      "address": "innateness-history"
+    },
+    {
+      "id": "Units and Levels of Selection",
+      "group": 3,
+      "address": "selection-units"
+    },
+    {
+      "id": "Philosophy of Psychiatry",
+      "group": 3,
+      "address": "psychiatry"
+    },
+    {
+      "id": "Empirical Approaches to Altruism",
+      "group": 3,
+      "address": "altruism-empirical"
+    },
+    {
+      "id": "Japanese Philosophy",
+      "group": 3,
+      "address": "japanese-philosophy"
+    },
+    {
+      "id": "Modularity of Mind",
+      "group": 3,
+      "address": "modularity-mind"
+    },
+    {
+      "id": "Intuition",
+      "group": 3,
+      "address": "intuition"
+    },
+    {
+      "id": "Latin American Philosophy",
+      "group": 3,
+      "address": "latin-american-philosophy"
+    },
+    {
+      "id": "Comparative Philosophy: Chinese and Western",
+      "group": 3,
+      "address": "comparphil-chiwes"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Replication and Reproduction",
+      "group": 3,
+      "address": "replication"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Moral Psychology: Empirical Approaches",
+      "group": 3,
+      "address": "moral-psych-emp"
+    },
+    {
+      "id": "Connectionism",
+      "group": 3,
+      "address": "connectionism"
+    },
+    {
+      "id": "Mental Representation",
+      "group": 3,
+      "address": "mental-representation"
+    },
+    {
+      "id": "Mind in Indian Buddhist Philosophy",
+      "group": 3,
+      "address": "mind-indian-buddhism"
+    },
+    {
+      "id": "Mental Disorder (Illness)",
+      "group": 3,
+      "address": "mental-disorder"
+    },
+    {
+      "id": "Culture",
+      "group": 3,
+      "address": "culture"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Africana Philosophy",
+      "group": 3,
+      "address": "africana"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Cultural Evolution",
+      "group": 3,
+      "address": "evolution-cultural"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Coherentist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-coherence"
+    },
+    {
+      "id": "Underdetermination of Scientific Theory",
+      "group": 3,
+      "address": "scientific-underdetermination"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Prediction versus Accommodation",
+      "group": 3,
+      "address": "prediction-accommodation"
+    },
+    {
+      "id": "Chance versus Randomness",
+      "group": 3,
+      "address": "chance-randomness"
+    },
+    {
+      "id": "Understanding",
+      "group": 3,
+      "address": "understanding"
+    },
+    {
+      "id": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "group": 3,
+      "address": "quantum-bayesian"
+    },
+    {
+      "id": "Self-Locating Beliefs",
+      "group": 3,
+      "address": "self-locating-beliefs"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 3,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Skepticism",
+      "group": 3,
+      "address": "skepticism"
+    },
+    {
+      "id": "Metaepistemology",
+      "group": 3,
+      "address": "metaepistemology"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 3,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Confirmation",
+      "group": 3,
+      "address": "confirmation"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Epistemic Self-Doubt",
+      "group": 3,
+      "address": "epistemic-self-doubt"
+    },
+    {
+      "id": "Reflective Equilibrium",
+      "group": 3,
+      "address": "reflective-equilibrium"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Disagreement",
+      "group": 3,
+      "address": "disagreement"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 3,
+      "address": "peirce"
+    },
+    {
+      "id": "Scientific Revolutions",
+      "group": 3,
+      "address": "scientific-revolutions"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Mathematical Style",
+      "group": 3,
+      "address": "mathematical-style"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Trust",
+      "group": 3,
+      "address": "trust"
+    },
+    {
+      "id": "Evolutionary Epistemology",
+      "group": 3,
+      "address": "epistemology-evolutionary"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "John Stuart Mill",
+      "group": 3,
+      "address": "mill"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Scientific Pluralism",
+      "group": 3,
+      "address": "scientific-pluralism"
+    },
+    {
+      "id": "The Genotype/Phenotype Distinction",
+      "group": 3,
+      "address": "genotype-phenotype"
+    },
+    {
+      "id": "Philosophy of Immunology",
+      "group": 3,
+      "address": "immunology"
+    },
+    {
+      "id": "Naturalism",
+      "group": 3,
+      "address": "naturalism"
+    },
+    {
+      "id": "Pragmatism",
+      "group": 3,
+      "address": "pragmatism"
+    },
+    {
+      "id": "Philosophy of Macroevolution",
+      "group": 3,
+      "address": "macroevolution"
+    },
+    {
+      "id": "Willard Van Orman Quine",
+      "group": 3,
+      "address": "quine"
+    },
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 3,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Auguste Comte",
+      "group": 3,
+      "address": "comte"
+    },
+    {
+      "id": "Logical Constructions",
+      "group": 3,
+      "address": "logical-construction"
+    },
+    {
+      "id": "Hermann von Helmholtz",
+      "group": 3,
+      "address": "hermann-helmholtz"
+    },
+    {
+      "id": "Vienna Circle",
+      "group": 3,
+      "address": "vienna-circle"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Scientific Representation",
+      "group": 3,
+      "address": "scientific-representation"
+    },
+    {
+      "id": "Henri Poincar\u00e9",
+      "group": 3,
+      "address": "poincare"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Gustav Theodor Fechner",
+      "group": 3,
+      "address": "fechner"
+    },
+    {
+      "id": "Ernst Mach",
+      "group": 3,
+      "address": "ernst-mach"
+    },
+    {
+      "id": "Philosophical Issues in Quantum Theory",
+      "group": 3,
+      "address": "qt-issues"
+    },
+    {
+      "id": "The Notation in Principia Mathematica",
+      "group": 3,
+      "address": "pm-notation"
+    },
+    {
+      "id": "Robert Grosseteste",
+      "group": 3,
+      "address": "grosseteste"
+    },
+    {
+      "id": "Newton\u2019s Philosophy",
+      "group": 3,
+      "address": "newton-philosophy"
+    },
+    {
+      "id": "Moritz Schlick",
+      "group": 3,
+      "address": "schlick"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 3,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "al-Kindi",
+      "group": 3,
+      "address": "al-kindi"
+    },
+    {
+      "id": "Thomas Aquinas",
+      "group": 3,
+      "address": "aquinas"
+    },
+    {
+      "id": "Ren\u00e9 Descartes",
+      "group": 3,
+      "address": "descartes"
+    },
+    {
+      "id": "Enlightenment",
+      "group": 3,
+      "address": "enlightenment"
+    },
+    {
+      "id": "William of Ockham",
+      "group": 3,
+      "address": "ockham"
+    },
+    {
+      "id": "Gottfried Wilhelm Leibniz",
+      "group": 3,
+      "address": "leibniz"
+    },
+    {
+      "id": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "group": 3,
+      "address": "cosmology-30s"
+    },
+    {
+      "id": "Roger Bacon",
+      "group": 3,
+      "address": "roger-bacon"
+    },
+    {
+      "id": "Otto Neurath",
+      "group": 3,
+      "address": "neurath"
+    },
+    {
+      "id": "Albert the Great",
+      "group": 3,
+      "address": "albert-great"
+    },
+    {
+      "id": "Galileo Galilei",
+      "group": 3,
+      "address": "galileo"
+    },
+    {
+      "id": "Plato",
+      "group": 3,
+      "address": "plato"
+    },
+    {
+      "id": "Descartes\u2019 Method",
+      "group": 3,
+      "address": "descartes-method"
+    },
+    {
+      "id": "William Whewell",
+      "group": 3,
+      "address": "whewell"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "group": 3,
+      "address": "arabic-islamic-influence"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 3,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "Giacomo Zabarella",
+      "group": 3,
+      "address": "zabarella"
+    },
+    {
+      "id": "Robert Boyle",
+      "group": 3,
+      "address": "boyle"
+    },
+    {
+      "id": "Absolute and Relational Space and Motion: Post-Newtonian Theories",
+      "group": 3,
+      "address": "spacetime-theories"
+    },
+    {
+      "id": "George Berkeley",
+      "group": 3,
+      "address": "berkeley"
+    },
+    {
+      "id": "Sidney Hook",
+      "group": 3,
+      "address": "sidney-hook"
+    },
+    {
+      "id": "\u00c9milie du Ch\u00e2telet",
+      "group": 3,
+      "address": "emilie-du-chatelet"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Henry More",
+      "group": 3,
+      "address": "henry-more"
+    },
+    {
+      "id": "Medieval Skepticism",
+      "group": 3,
+      "address": "skepticism-medieval"
+    },
+    {
+      "id": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "group": 3,
+      "address": "hume-newton"
+    },
+    {
+      "id": "Greek Sources in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-greek"
+    },
+    {
+      "id": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "group": 3,
+      "address": "arabic-islamic-natural"
+    },
+    {
+      "id": "The Cambridge Platonists",
+      "group": 3,
+      "address": "cambridge-platonists"
+    },
+    {
+      "id": "Isaac Newton",
+      "group": 3,
+      "address": "newton"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "The Analytic/Synthetic Distinction",
+      "group": 3,
+      "address": "analytic-synthetic"
+    }
+  ],
+  "links": [
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Reproducibility of Scientific Results"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Operationalism"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Reproducibility of Scientific Results",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Reproducibility of Scientific Results"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Convention",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Miracles",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Operationalism",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "John Locke"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Culture",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Experimental Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Intuition"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Latin American Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Mind in Indian Buddhist Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Abduction",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Prediction versus Accommodation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Understanding"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Risk",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Naturalism"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Trust",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Gustav Theodor Fechner",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Operationalism"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Henri Poincar\u00e9"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Preferences",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "The Notation in Principia Mathematica",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Descartes\u2019 Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "David Hume"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Hume\u2019s Newtonianism and Anti-Newtonianism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "John Locke"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Henry More"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Newton\u2019s Philosophy"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Operationalism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Plato"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Moritz Schlick"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Giacomo Zabarella"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Evidence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Operationalism"
+    },
+    {
+      "source": "Operationalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Operationalism",
+      "target": "Cosmology: Methodological Debates in the 1930s and 1940s"
+    },
+    {
+      "source": "Operationalism",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Operationalism",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Self-Locating Beliefs"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Abduction"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "David Hume"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Abduction"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Miracles",
+      "target": "Abduction"
+    },
+    {
+      "source": "Miracles",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Miracles",
+      "target": "David Hume"
+    },
+    {
+      "source": "Miracles",
+      "target": "Miracles"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Abduction"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "David Hume"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Trust"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Abduction"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Evidence"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Convention",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Convention",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Convention",
+      "target": "John Locke"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Abduction"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "The Legal Concept of Evidence"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Legal Probabilism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Epistemology"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Legal Probabilism"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "The Legal Concept of Evidence"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Innateness and Contemporary Theories of Cognition",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Abduction"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Miracles"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Abduction"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Genetics"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Adaptationism",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Perceptual Experience and Perceptual Justification",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Henri Poincar\u00e9"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Science and Pseudo-Science",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "John Locke",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "John Locke",
+      "target": "David Hume"
+    },
+    {
+      "source": "John Locke",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "John Locke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Perceptual Learning",
+      "target": "Perceptual Learning"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Computer Simulations in Science",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Abduction"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Evidence"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Methods in Comparative Cognition"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Intuition"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Experimental Philosophy",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Experimental Philosophy",
+      "target": "Intuition"
+    },
+    {
+      "source": "Experimental Philosophy",
+      "target": "Experimental Philosophy"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "John Locke"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Plato"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Human Nature"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "John Locke"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "The Historical Controversies Surrounding Innateness",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Units and Levels of Selection",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Perceptual Experience and Perceptual Justification"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Modularity of Mind",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Intuition",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Intuition",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Intuition",
+      "target": "Intuition"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Latin American Philosophy"
+    },
+    {
+      "source": "Comparative Philosophy: Chinese and Western",
+      "target": "Comparative Philosophy: Chinese and Western"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Evidence"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Replication and Reproduction",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Experimental Philosophy"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Perceptual Learning"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Connectionism",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Connectionism",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Connectionism",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Mind in Indian Buddhist Philosophy"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Culture",
+      "target": "Culture"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Connectionism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computer Simulations in Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Africana Philosophy",
+      "target": "Africana Philosophy"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Culture"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Convention"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Evidence",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Prediction versus Accommodation"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Understanding",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Understanding",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Understanding",
+      "target": "Understanding"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Quantum-Bayesian and Pragmatist Views of Quantum Theory"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Self-Locating Beliefs",
+      "target": "Self-Locating Beliefs"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Risk"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "David Hume"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Understanding"
+    },
+    {
+      "source": "Metaepistemology",
+      "target": "Metaepistemology"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Abduction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Abduction",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Abduction",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Abduction",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Abduction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Abduction",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Evidence"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Reflective Equilibrium",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Reflective Equilibrium",
+      "target": "Reflective Equilibrium"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Disagreement",
+      "target": "Disagreement"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Genetics",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Historical Controversies Surrounding Innateness"
+    },
+    {
+      "source": "Genetics",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Genetics",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Convention"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "David Hume"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Science and Pseudo-Science"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Trust",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Trust",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Trust",
+      "target": "Trust"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Evolutionary Epistemology",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Evolutionary Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Naturalism"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Modularity of Mind"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Scientific Pluralism",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Intuition"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Sidney Hook"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Units and Levels of Selection"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Agent-Based Modeling in the Philosophy of Science"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "The Notation in Principia Mathematica"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Moritz Schlick"
+    },
+    {
+      "source": "Hermann von Helmholtz",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Moritz Schlick"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Convention"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Henri Poincar\u00e9",
+      "target": "Henri Poincar\u00e9"
+    },
+    {
+      "source": "Preferences",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Gustav Theodor Fechner",
+      "target": "Gustav Theodor Fechner"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "Gustav Theodor Fechner"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Ernst Mach",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "The Notation in Principia Mathematica",
+      "target": "The Notation in Principia Mathematica"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Newton\u2019s Philosophy",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Newton\u2019s Philosophy",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Newton\u2019s Philosophy",
+      "target": "Hume\u2019s Newtonianism and Anti-Newtonianism"
+    },
+    {
+      "source": "Newton\u2019s Philosophy",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Newton\u2019s Philosophy",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Newton\u2019s Philosophy",
+      "target": "Newton\u2019s Philosophy"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Henri Poincar\u00e9"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Moritz Schlick",
+      "target": "Moritz Schlick"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Replication and Reproduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "al-Kindi",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Henry More"
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "David Hume"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "John Locke"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Cosmology: Methodological Debates in the 1930s and 1940s",
+      "target": "Cosmology: Methodological Debates in the 1930s and 1940s"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Galileo Galilei",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Plato",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato"
+    },
+    {
+      "source": "Descartes\u2019 Method",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Descartes\u2019 Method",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Descartes\u2019 Method",
+      "target": "Descartes\u2019 Method"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Confirmation"
+    },
+    {
+      "source": "William Whewell",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "William Whewell",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "William Whewell",
+      "target": "William Whewell"
+    },
+    {
+      "source": "David Hume",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume\u2019s Newtonianism and Anti-Newtonianism"
+    },
+    {
+      "source": "David Hume",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "David Hume",
+      "target": "John Locke"
+    },
+    {
+      "source": "David Hume",
+      "target": "Miracles"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Adaptationism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Plato"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Scientific Pluralism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "William Whewell"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Miracles"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Galileo Galilei"
+    },
+    {
+      "source": "Giacomo Zabarella",
+      "target": "Giacomo Zabarella"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "David Hume"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "John Locke"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Miracles"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Plato"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Absolute and Relational Space and Motion: Post-Newtonian Theories",
+      "target": "Ernst Mach"
+    },
+    {
+      "source": "Absolute and Relational Space and Motion: Post-Newtonian Theories",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "David Hume"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "John Locke"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Sidney Hook"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Henry More",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Henry More",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Henry More",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Henry More",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Henry More",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Henry More",
+      "target": "Henry More"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "Newton\u2019s Philosophy"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Hume\u2019s Newtonianism and Anti-Newtonianism",
+      "target": "Hume\u2019s Newtonianism and Anti-Newtonianism"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Plato"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "al-Kindi"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "The Cambridge Platonists",
+      "target": "Henry More"
+    },
+    {
+      "source": "The Cambridge Platonists",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Ren\u00e9 Descartes"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Hermann von Helmholtz"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Human Nature"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Connectionism"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Innateness and Contemporary Theories of Cognition"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Epistemology"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Naturalism"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "The Analytic/Synthetic Distinction"
+    }
+  ]
+}

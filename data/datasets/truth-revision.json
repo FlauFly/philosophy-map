@@ -1,0 +1,5776 @@
+{
+  "nodes": [
+    {
+      "id": "The Revision Theory of Truth",
+      "group": 1,
+      "address": "truth-revision"
+    },
+    {
+      "id": "Supertasks",
+      "group": 2,
+      "address": "spacetime-supertasks"
+    },
+    {
+      "id": "Axiomatic Theories of Truth",
+      "group": 2,
+      "address": "truth-axiomatic"
+    },
+    {
+      "id": "Truth",
+      "group": 2,
+      "address": "truth"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 2,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "The Coherence Theory of Truth",
+      "group": 2,
+      "address": "truth-coherence"
+    },
+    {
+      "id": "Definitions",
+      "group": 2,
+      "address": "definitions"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 2,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Insolubles",
+      "group": 2,
+      "address": "insolubles"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 2,
+      "address": "self-reference"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 2,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Curry\u2019s Paradox",
+      "group": 2,
+      "address": "curry-paradox"
+    },
+    {
+      "id": "The Identity Theory of Truth",
+      "group": 2,
+      "address": "truth-identity"
+    },
+    {
+      "id": "The St. Petersburg Paradox",
+      "group": 3,
+      "address": "paradox-stpetersburg"
+    },
+    {
+      "id": "Computation in Physical Systems",
+      "group": 3,
+      "address": "computation-physicalsystems"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 3,
+      "address": "church-turing"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Infinite Regress Arguments",
+      "group": 3,
+      "address": "infinite-regress"
+    },
+    {
+      "id": "Causal Determinism",
+      "group": 3,
+      "address": "determinism-causal"
+    },
+    {
+      "id": "Finitism in Geometry",
+      "group": 3,
+      "address": "geometry-finitism"
+    },
+    {
+      "id": "Zeno\u2019s Paradoxes",
+      "group": 3,
+      "address": "paradox-zeno"
+    },
+    {
+      "id": "Singularities and Black Holes",
+      "group": 3,
+      "address": "spacetime-singularities"
+    },
+    {
+      "id": "Infinity",
+      "group": 3,
+      "address": "infinity"
+    },
+    {
+      "id": "Many-Valued Logic",
+      "group": 3,
+      "address": "logic-manyvalued"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Compositionality",
+      "group": 3,
+      "address": "compositionality"
+    },
+    {
+      "id": "Deflationism About Truth",
+      "group": 3,
+      "address": "truth-deflationary"
+    },
+    {
+      "id": "Kurt G\u00f6del",
+      "group": 3,
+      "address": "goedel"
+    },
+    {
+      "id": "G\u00f6del\u2019s Incompleteness Theorems",
+      "group": 3,
+      "address": "goedel-incompleteness"
+    },
+    {
+      "id": "Primitivist Theories of Truth",
+      "group": 3,
+      "address": "truth-primitivist"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Paradoxes and Contemporary Logic",
+      "group": 3,
+      "address": "paradoxes-contemporary-logic"
+    },
+    {
+      "id": "Substructural Logics",
+      "group": 3,
+      "address": "logic-substructural"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Epistemology in Classical Indian Philosophy",
+      "group": 3,
+      "address": "epistemology-india"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 3,
+      "address": "peirce"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Realism",
+      "group": 3,
+      "address": "realism"
+    },
+    {
+      "id": "Peter Frederick Strawson",
+      "group": 3,
+      "address": "strawson"
+    },
+    {
+      "id": "Logical Truth",
+      "group": 3,
+      "address": "logical-truth"
+    },
+    {
+      "id": "Truthmakers",
+      "group": 3,
+      "address": "truthmakers"
+    },
+    {
+      "id": "The Logic of Peter of Spain",
+      "group": 3,
+      "address": "peter-spain"
+    },
+    {
+      "id": "Truth Values",
+      "group": 3,
+      "address": "truth-values"
+    },
+    {
+      "id": "Pluralist Theories of Truth",
+      "group": 3,
+      "address": "truth-pluralist"
+    },
+    {
+      "id": "Sextus Empiricus",
+      "group": 3,
+      "address": "sextus-empiricus"
+    },
+    {
+      "id": "Truthlikeness",
+      "group": 3,
+      "address": "truthlikeness"
+    },
+    {
+      "id": "Translating and Interpreting Chinese Philosophy",
+      "group": 3,
+      "address": "chinese-translate-interpret"
+    },
+    {
+      "id": "William James",
+      "group": 3,
+      "address": "james"
+    },
+    {
+      "id": "Challenges to Metaphysical Realism",
+      "group": 3,
+      "address": "realism-sem-challenge"
+    },
+    {
+      "id": "Theodor W. Adorno",
+      "group": 3,
+      "address": "adorno"
+    },
+    {
+      "id": "Descartes\u2019 Epistemology",
+      "group": 3,
+      "address": "descartes-epistemology"
+    },
+    {
+      "id": "Alfred Tarski",
+      "group": 3,
+      "address": "tarski"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "Bonaventure",
+      "group": 3,
+      "address": "bonaventure"
+    },
+    {
+      "id": "Naturalism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "naturalism-mathematics"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Facts",
+      "group": 3,
+      "address": "facts"
+    },
+    {
+      "id": "Jayar\u0101\u015bi",
+      "group": 3,
+      "address": "jayaraasi"
+    },
+    {
+      "id": "The Pragmatic Theory of Truth",
+      "group": 3,
+      "address": "truth-pragmatic"
+    },
+    {
+      "id": "Linear Logic",
+      "group": 3,
+      "address": "logic-linear"
+    },
+    {
+      "id": "The Development of Proof Theory",
+      "group": 3,
+      "address": "proof-theory-development"
+    },
+    {
+      "id": "Logical Consequence",
+      "group": 3,
+      "address": "logical-consequence"
+    },
+    {
+      "id": "Logical Constants",
+      "group": 3,
+      "address": "logical-constants"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Logic and Games",
+      "group": 3,
+      "address": "logic-games"
+    },
+    {
+      "id": "Intuitionism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "intuitionism"
+    },
+    {
+      "id": "Hilbert\u2019s Program",
+      "group": 3,
+      "address": "hilbert-program"
+    },
+    {
+      "id": "The Development of Intuitionistic Logic",
+      "group": 3,
+      "address": "intuitionistic-logic-development"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Contradiction",
+      "group": 3,
+      "address": "contradiction"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Type Theory",
+      "group": 3,
+      "address": "type-theory"
+    },
+    {
+      "id": "Propositional Logic",
+      "group": 3,
+      "address": "logic-propositional"
+    },
+    {
+      "id": "Intuitionistic Type Theory",
+      "group": 3,
+      "address": "type-theory-intuitionistic"
+    },
+    {
+      "id": "Russell\u2019s Paradox",
+      "group": 3,
+      "address": "russell-paradox"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "Connexive Logic",
+      "group": 3,
+      "address": "logic-connexive"
+    },
+    {
+      "id": "Structuralism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "structuralism-mathematics"
+    },
+    {
+      "id": "Hate Speech",
+      "group": 3,
+      "address": "hate-speech"
+    },
+    {
+      "id": "Proof Theory",
+      "group": 3,
+      "address": "proof-theory"
+    },
+    {
+      "id": "Set Theory: Constructive and Intuitionistic ZF",
+      "group": 3,
+      "address": "set-theory-constructive"
+    },
+    {
+      "id": "Dialogical Logic",
+      "group": 3,
+      "address": "logic-dialogical"
+    },
+    {
+      "id": "Sentence Connectives in Formal Logic",
+      "group": 3,
+      "address": "connectives-logic"
+    },
+    {
+      "id": "Category Theory",
+      "group": 3,
+      "address": "category-theory"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Natural Deduction Systems in Logic",
+      "group": 3,
+      "address": "natural-deduction"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "Interpretation and Coherence in Legal Reasoning",
+      "group": 3,
+      "address": "legal-reas-interpret"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Emotion",
+      "group": 3,
+      "address": "emotion"
+    },
+    {
+      "id": "Port Royal Logic",
+      "group": 3,
+      "address": "port-royal-logic"
+    },
+    {
+      "id": "The Definition of Morality",
+      "group": 3,
+      "address": "morality-definition"
+    },
+    {
+      "id": "Stanis\u0142aw Le\u015bniewski",
+      "group": 3,
+      "address": "lesniewski"
+    },
+    {
+      "id": "The Concept of Religion",
+      "group": 3,
+      "address": "concept-religion"
+    },
+    {
+      "id": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "group": 3,
+      "address": "frege-theorem"
+    },
+    {
+      "id": "Plato\u2019s Shorter Ethical Works",
+      "group": 3,
+      "address": "plato-ethics-shorter"
+    },
+    {
+      "id": "Aristotle\u2019s Logic",
+      "group": 3,
+      "address": "aristotle-logic"
+    },
+    {
+      "id": "Descriptions",
+      "group": 3,
+      "address": "descriptions"
+    },
+    {
+      "id": "Necessary and Sufficient Conditions",
+      "group": 3,
+      "address": "necessary-sufficient"
+    },
+    {
+      "id": "Theoretical Terms in Science",
+      "group": 3,
+      "address": "theoretical-terms-science"
+    },
+    {
+      "id": "Life",
+      "group": 3,
+      "address": "life"
+    },
+    {
+      "id": "The Analytic/Synthetic Distinction",
+      "group": 3,
+      "address": "analytic-synthetic"
+    },
+    {
+      "id": "Ancient Logic",
+      "group": 3,
+      "address": "logic-ancient"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Provability Logic",
+      "group": 3,
+      "address": "logic-provability"
+    },
+    {
+      "id": "Vagueness",
+      "group": 3,
+      "address": "vagueness"
+    },
+    {
+      "id": "Dialetheism",
+      "group": 3,
+      "address": "dialetheism"
+    },
+    {
+      "id": "Aristotle on Non-contradiction",
+      "group": 3,
+      "address": "aristotle-noncontradiction"
+    },
+    {
+      "id": "John Duns Scotus",
+      "group": 3,
+      "address": "duns-scotus"
+    },
+    {
+      "id": "Walter Burley",
+      "group": 3,
+      "address": "burley"
+    },
+    {
+      "id": "Medieval Theories of Consequence",
+      "group": 3,
+      "address": "consequence-medieval"
+    },
+    {
+      "id": "Paul of Venice",
+      "group": 3,
+      "address": "paul-venice"
+    },
+    {
+      "id": "Sophismata",
+      "group": 3,
+      "address": "sophismata"
+    },
+    {
+      "id": "Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-philosophy"
+    },
+    {
+      "id": "William of Ockham",
+      "group": 3,
+      "address": "ockham"
+    },
+    {
+      "id": "Robert Alyngton",
+      "group": 3,
+      "address": "alyngton"
+    },
+    {
+      "id": "Gregory of Rimini",
+      "group": 3,
+      "address": "gregory-rimini"
+    },
+    {
+      "id": "William Heytesbury",
+      "group": 3,
+      "address": "heytesbury"
+    },
+    {
+      "id": "John Buridan",
+      "group": 3,
+      "address": "buridan"
+    },
+    {
+      "id": "Fallacies",
+      "group": 3,
+      "address": "fallacies"
+    },
+    {
+      "id": "Literary Forms of Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-literary"
+    },
+    {
+      "id": "Medieval Theories of Obligationes",
+      "group": 3,
+      "address": "obligationes"
+    },
+    {
+      "id": "John Wyclif",
+      "group": 3,
+      "address": "wyclif"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Inconsistent Mathematics",
+      "group": 3,
+      "address": "mathematics-inconsistent"
+    },
+    {
+      "id": "Fitch\u2019s Paradox of Knowability",
+      "group": 3,
+      "address": "fitch-paradox"
+    },
+    {
+      "id": "Recursive Functions",
+      "group": 3,
+      "address": "recursive-functions"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "The Early Development of Set Theory",
+      "group": 3,
+      "address": "settheory-early"
+    },
+    {
+      "id": "Turing Machines",
+      "group": 3,
+      "address": "turing-machine"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Quine\u2019s New Foundations",
+      "group": 3,
+      "address": "quine-nf"
+    },
+    {
+      "id": "Alan Turing",
+      "group": 3,
+      "address": "turing"
+    },
+    {
+      "id": "Philosophy of Mathematics",
+      "group": 3,
+      "address": "philosophy-mathematics"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 3,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Alternative Axiomatic Set Theories",
+      "group": 3,
+      "address": "settheory-alternative"
+    },
+    {
+      "id": "Infinitary Logic",
+      "group": 3,
+      "address": "logic-infinitary"
+    },
+    {
+      "id": "Many-Sorted Logic",
+      "group": 3,
+      "address": "logic-many-sorted"
+    },
+    {
+      "id": "Temporal Logic",
+      "group": 3,
+      "address": "logic-temporal"
+    },
+    {
+      "id": "Independence Friendly Logic",
+      "group": 3,
+      "address": "logic-if"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    },
+    {
+      "id": "Second-order and Higher-order Logic",
+      "group": 3,
+      "address": "logic-higher-order"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Lvov-Warsaw School",
+      "group": 3,
+      "address": "lvov-warsaw"
+    },
+    {
+      "id": "Dependence Logic",
+      "group": 3,
+      "address": "logic-dependence"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "Combinatory Logic",
+      "group": 3,
+      "address": "logic-combinatory"
+    },
+    {
+      "id": "The Lambda Calculus",
+      "group": 3,
+      "address": "lambda-calculus"
+    },
+    {
+      "id": "Alexius Meinong",
+      "group": 3,
+      "address": "meinong"
+    },
+    {
+      "id": "Francis Herbert Bradley",
+      "group": 3,
+      "address": "bradley"
+    },
+    {
+      "id": "Gottlob Frege",
+      "group": 3,
+      "address": "frege"
+    },
+    {
+      "id": "Propositions",
+      "group": 3,
+      "address": "propositions"
+    },
+    {
+      "id": "George Edward Moore",
+      "group": 3,
+      "address": "moore"
+    },
+    {
+      "id": "Structured Propositions",
+      "group": 3,
+      "address": "propositions-structured"
+    },
+    {
+      "id": "Ludwig Wittgenstein",
+      "group": 3,
+      "address": "wittgenstein"
+    }
+  ],
+  "links": [
+    {
+      "source": "Definitions",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Insolubles",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Supertasks",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Definitions"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Infinity",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Supertasks",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Truth"
+    },
+    {
+      "source": "Assertion",
+      "target": "Truth"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Truth"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Truth"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Truth"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Truth"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Truth"
+    },
+    {
+      "source": "Facts",
+      "target": "Truth"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Truth"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Truth"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Truth"
+    },
+    {
+      "source": "Object",
+      "target": "Truth"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Truth"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Truth"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Truth"
+    },
+    {
+      "source": "Realism",
+      "target": "Truth"
+    },
+    {
+      "source": "Challenges to Metaphysical Realism",
+      "target": "Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Truth"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Assertion"
+    },
+    {
+      "source": "Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Truth",
+      "target": "Facts"
+    },
+    {
+      "source": "Truth",
+      "target": "William James"
+    },
+    {
+      "source": "Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Truth",
+      "target": "Realism"
+    },
+    {
+      "source": "Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Truth",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Pluralist Theories of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth Values"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Truth"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Truth"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Negation"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Type Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "Challenges to Metaphysical Realism",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Coherence Theory of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "The Coherence Theory of Truth"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Definitions"
+    },
+    {
+      "source": "Assertion",
+      "target": "Definitions"
+    },
+    {
+      "source": "Definitions",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Definitions",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Definitions",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Definitions",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Definitions",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Definitions",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Emotion",
+      "target": "Definitions"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Definitions"
+    },
+    {
+      "source": "Life",
+      "target": "Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Definitions"
+    },
+    {
+      "source": "The Definition of Morality",
+      "target": "Definitions"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Definitions"
+    },
+    {
+      "source": "Plato\u2019s Shorter Ethical Works",
+      "target": "Definitions"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Definitions"
+    },
+    {
+      "source": "Properties",
+      "target": "Definitions"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "Definitions"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Definitions"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Definitions"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Negation"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Facts"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Infinity"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computation in Physical Systems",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computation in Physical Systems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Infinity"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Infinite Regress Arguments"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Finitism in Geometry",
+      "target": "Finitism in Geometry"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Zeno\u2019s Paradoxes",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Singularities and Black Holes"
+    },
+    {
+      "source": "Infinity",
+      "target": "Finitism in Geometry"
+    },
+    {
+      "source": "Infinity",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Infinity",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Infinity",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Infinity",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Infinity",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Infinity",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Infinity",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Infinity",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Infinity",
+      "target": "Infinity"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Properties",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Facts"
+    },
+    {
+      "source": "Properties",
+      "target": "Propositions"
+    },
+    {
+      "source": "Properties",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Properties",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Properties",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositions"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Realism"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Set Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Primitivist Theories of Truth"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Facts"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Object"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Realism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Properties"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "William James"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Facts"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Object"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Properties"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Realism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Realism",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Facts"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Properties"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Propositions"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "John Buridan"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Sophismata"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Facts"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "Realism"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Pluralist Theories of Truth",
+      "target": "Pluralist Theories of Truth"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Sextus Empiricus",
+      "target": "Sextus Empiricus"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Properties"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Translating and Interpreting Chinese Philosophy"
+    },
+    {
+      "source": "William James",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "William James",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "William James",
+      "target": "William James"
+    },
+    {
+      "source": "Challenges to Metaphysical Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Challenges to Metaphysical Realism",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Challenges to Metaphysical Realism",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Realism"
+    },
+    {
+      "source": "Descartes\u2019 Epistemology",
+      "target": "Descartes\u2019 Epistemology"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Stanis\u0142aw Le\u015bniewski"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Assertion",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Assertion",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Assertion",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Object",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Object",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Object",
+      "target": "Properties"
+    },
+    {
+      "source": "Object",
+      "target": "Propositions"
+    },
+    {
+      "source": "Object",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Object",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Object",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Object"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Realism"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Naturalism in the Philosophy of Mathematics",
+      "target": "Naturalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Facts",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Facts",
+      "target": "Properties"
+    },
+    {
+      "source": "Facts",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Facts",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Facts",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Facts",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Facts",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Facts",
+      "target": "Facts"
+    },
+    {
+      "source": "Jayar\u0101\u015bi",
+      "target": "Jayar\u0101\u015bi"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Pluralist Theories of Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "The Pragmatic Theory of Truth"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Hilbert\u2019s Program",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Negation"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Intuitionistic Type Theory"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Intuitionistic Type Theory",
+      "target": "Intuitionistic Type Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Negation",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Negation",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Negation",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Negation",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Structuralism in the Philosophy of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Hate Speech"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Intuitionistic Type Theory"
+    },
+    {
+      "source": "Set Theory: Constructive and Intuitionistic ZF",
+      "target": "Set Theory: Constructive and Intuitionistic ZF"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Category Theory",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Emotion",
+      "target": "Emotion"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Port Royal Logic"
+    },
+    {
+      "source": "The Definition of Morality",
+      "target": "The Definition of Morality"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Stanis\u0142aw Le\u015bniewski"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Plato\u2019s Shorter Ethical Works",
+      "target": "Plato\u2019s Shorter Ethical Works"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Necessary and Sufficient Conditions"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Life",
+      "target": "Life"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Propositions"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Zeno\u2019s Paradoxes"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Emotion"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Properties"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Sophismata",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Sophismata",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Sophismata"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "John Buridan",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Sophismata"
+    },
+    {
+      "source": "John Buridan",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Fallacies",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Propositions"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Realism"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Challenges to Metaphysical Realism"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Recursive Functions",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Set Theory",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Category Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "The Early Development of Set Theory",
+      "target": "The Early Development of Set Theory"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Infinity"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Alan Turing",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Hilbert\u2019s Program"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Infinity"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Structuralism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Alan Turing"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Philosophy of Mathematics",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Alternative Axiomatic Set Theories",
+      "target": "Alternative Axiomatic Set Theories"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Many-Sorted Logic",
+      "target": "Many-Sorted Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Category Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Recursive Functions"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Properties"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "Type Theory"
+    },
+    {
+      "source": "The Lambda Calculus",
+      "target": "The Lambda Calculus"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Facts"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Properties"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Francis Herbert Bradley",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Philosophy of Mathematics"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Propositions",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Propositions",
+      "target": "Properties"
+    },
+    {
+      "source": "Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Francis Herbert Bradley"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Propositions"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Ludwig Wittgenstein"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Facts"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Ludwig Wittgenstein"
+    }
+  ]
+}

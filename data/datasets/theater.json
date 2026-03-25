@@ -1,0 +1,5309 @@
+{
+  "nodes": [
+    {
+      "id": "Philosophy of Theater",
+      "group": 1,
+      "address": "theater"
+    },
+    {
+      "id": "Perfectionism in Moral and Political Philosophy",
+      "group": 2,
+      "address": "perfectionism-moral"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 2,
+      "address": "speech-acts"
+    },
+    {
+      "id": "Virtue Epistemology",
+      "group": 2,
+      "address": "epistemology-virtue"
+    },
+    {
+      "id": "Social Norms",
+      "group": 2,
+      "address": "social-norms"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 2,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 2,
+      "address": "dance"
+    },
+    {
+      "id": "The Value of Knowledge",
+      "group": 2,
+      "address": "knowledge-value"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 2,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "Assertion",
+      "group": 2,
+      "address": "assertion"
+    },
+    {
+      "id": "Leibniz\u2019s Ethics",
+      "group": 3,
+      "address": "leibniz-ethics"
+    },
+    {
+      "id": "The Meaning of Life",
+      "group": 3,
+      "address": "life-meaning"
+    },
+    {
+      "id": "Political Legitimacy",
+      "group": 3,
+      "address": "legitimacy"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "The Limits of Law",
+      "group": 3,
+      "address": "law-limits"
+    },
+    {
+      "id": "Public Justification",
+      "group": 3,
+      "address": "justification-public"
+    },
+    {
+      "id": "Paternalism",
+      "group": 3,
+      "address": "paternalism"
+    },
+    {
+      "id": "The Problem of Dirty Hands",
+      "group": 3,
+      "address": "dirty-hands"
+    },
+    {
+      "id": "Doing vs. Allowing Harm",
+      "group": 3,
+      "address": "doing-allowing"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Christian Wolff",
+      "group": 3,
+      "address": "wolff-christian"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Nietzsche\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "nietzsche-moral-political"
+    },
+    {
+      "id": "Egalitarianism",
+      "group": 3,
+      "address": "egalitarianism"
+    },
+    {
+      "id": "Philosophy of Education",
+      "group": 3,
+      "address": "education-philosophy"
+    },
+    {
+      "id": "Omnipotence",
+      "group": 3,
+      "address": "omnipotence"
+    },
+    {
+      "id": "Bradley\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "bradley-moral"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 3,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "Business Ethics",
+      "group": 3,
+      "address": "ethics-business"
+    },
+    {
+      "id": "Liberalism",
+      "group": 3,
+      "address": "liberalism"
+    },
+    {
+      "id": "Mill\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "mill-moral-political"
+    },
+    {
+      "id": "Thomas Hill Green",
+      "group": 3,
+      "address": "green"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Postmodernism",
+      "group": 3,
+      "address": "postmodernism"
+    },
+    {
+      "id": "Gottlob Frege",
+      "group": 3,
+      "address": "frege"
+    },
+    {
+      "id": "Adolf Reinach",
+      "group": 3,
+      "address": "reinach"
+    },
+    {
+      "id": "Propositions",
+      "group": 3,
+      "address": "propositions"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Pragmatics",
+      "group": 3,
+      "address": "pragmatics"
+    },
+    {
+      "id": "Vagueness",
+      "group": 3,
+      "address": "vagueness"
+    },
+    {
+      "id": "Anaphora",
+      "group": 3,
+      "address": "anaphora"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Animal Communication",
+      "group": 3,
+      "address": "animal-communication"
+    },
+    {
+      "id": "Inner Speech",
+      "group": 3,
+      "address": "inner-speech"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Hate Speech",
+      "group": 3,
+      "address": "hate-speech"
+    },
+    {
+      "id": "Defaults in Semantics and Pragmatics",
+      "group": 3,
+      "address": "defaults-semantics-pragmatics"
+    },
+    {
+      "id": "Presupposition",
+      "group": 3,
+      "address": "presupposition"
+    },
+    {
+      "id": "Paul Grice",
+      "group": 3,
+      "address": "grice"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Feminist Perspectives on Sex and Gender",
+      "group": 3,
+      "address": "feminism-gender"
+    },
+    {
+      "id": "Metaphor",
+      "group": 3,
+      "address": "metaphor"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "group": 3,
+      "address": "phenomenology-mg"
+    },
+    {
+      "id": "Promises",
+      "group": 3,
+      "address": "promises"
+    },
+    {
+      "id": "Jean Fran\u00e7ois Lyotard",
+      "group": 3,
+      "address": "lyotard"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "Coherentist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-coherence"
+    },
+    {
+      "id": "Foundationalist Theories of Epistemic Justification",
+      "group": 3,
+      "address": "justep-foundational"
+    },
+    {
+      "id": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "group": 3,
+      "address": "justep-intext"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Understanding",
+      "group": 3,
+      "address": "understanding"
+    },
+    {
+      "id": "Feminist Perspectives on Argumentation",
+      "group": 3,
+      "address": "feminism-argumentation"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Knowledge How",
+      "group": 3,
+      "address": "knowledge-how"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Epistemic Contextualism",
+      "group": 3,
+      "address": "contextualism-epistemology"
+    },
+    {
+      "id": "Reliabilist Epistemology",
+      "group": 3,
+      "address": "reliabilism"
+    },
+    {
+      "id": "Doxastic Voluntarism",
+      "group": 3,
+      "address": "doxastic-voluntarism"
+    },
+    {
+      "id": "Skepticism",
+      "group": 3,
+      "address": "skepticism"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Episteme and Techne",
+      "group": 3,
+      "address": "episteme-techne"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Creativity",
+      "group": 3,
+      "address": "creativity"
+    },
+    {
+      "id": "Modesty and Humility",
+      "group": 3,
+      "address": "modesty-humility"
+    },
+    {
+      "id": "Maria Montessori",
+      "group": 3,
+      "address": "montessori-maria"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Critical Thinking",
+      "group": 3,
+      "address": "critical-thinking"
+    },
+    {
+      "id": "Morality and Evolutionary Biology",
+      "group": 3,
+      "address": "morality-biology"
+    },
+    {
+      "id": "Ideology",
+      "group": 3,
+      "address": "ideology"
+    },
+    {
+      "id": "The Psychology of Normative Cognition",
+      "group": 3,
+      "address": "psychology-normative-cognition"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Public Goods",
+      "group": 3,
+      "address": "public-goods"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Concepts of Disease and Health",
+      "group": 3,
+      "address": "health-disease"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 3,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Altruism",
+      "group": 3,
+      "address": "altruism"
+    },
+    {
+      "id": "Empirical Approaches to Altruism",
+      "group": 3,
+      "address": "altruism-empirical"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Evolution",
+      "group": 3,
+      "address": "evolution"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "The Moral/Conventional Distinction",
+      "group": 3,
+      "address": "moral-conventional"
+    },
+    {
+      "id": "Ayn Rand",
+      "group": 3,
+      "address": "ayn-rand"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "John Anderson",
+      "group": 3,
+      "address": "anderson-john"
+    },
+    {
+      "id": "Experimental Moral Philosophy",
+      "group": 3,
+      "address": "experimental-moral"
+    },
+    {
+      "id": "Friendship",
+      "group": 3,
+      "address": "friendship"
+    },
+    {
+      "id": "Moral Phenomenology",
+      "group": 3,
+      "address": "moral-phenomenology"
+    },
+    {
+      "id": "Madeleine de Scud\u00e9ry",
+      "group": 3,
+      "address": "madeleine-scudery"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Moral Character",
+      "group": 3,
+      "address": "moral-character"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "African Ethics",
+      "group": 3,
+      "address": "african-ethics"
+    },
+    {
+      "id": "Deontological Ethics",
+      "group": 3,
+      "address": "ethics-deontological"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Descartes\u2019 Ethics",
+      "group": 3,
+      "address": "descartes-ethics"
+    },
+    {
+      "id": "Empirical Approaches to Moral Character",
+      "group": 3,
+      "address": "moral-character-empirical"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Human Nature",
+      "group": 3,
+      "address": "human-nature"
+    },
+    {
+      "id": "Integrity",
+      "group": 3,
+      "address": "integrity"
+    },
+    {
+      "id": "Happiness",
+      "group": 3,
+      "address": "happiness"
+    },
+    {
+      "id": "Civic Education",
+      "group": 3,
+      "address": "civic-education"
+    },
+    {
+      "id": "Loyalty",
+      "group": 3,
+      "address": "loyalty"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Justice as a Virtue",
+      "group": 3,
+      "address": "justice-virtue"
+    },
+    {
+      "id": "Moral Dilemmas",
+      "group": 3,
+      "address": "moral-dilemmas"
+    },
+    {
+      "id": "Philanthropy",
+      "group": 3,
+      "address": "philanthropy"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Ethics in Indian Buddhism",
+      "group": 3,
+      "address": "ethics-indian-buddhism"
+    },
+    {
+      "id": "Moral Particularism and Moral Generalism",
+      "group": 3,
+      "address": "moral-particularism-generalism"
+    },
+    {
+      "id": "Iris Murdoch",
+      "group": 3,
+      "address": "murdoch"
+    },
+    {
+      "id": "Normativity in Metaethics",
+      "group": 3,
+      "address": "normativity-metaethics"
+    },
+    {
+      "id": "Gratitude",
+      "group": 3,
+      "address": "gratitude"
+    },
+    {
+      "id": "Philippa Foot",
+      "group": 3,
+      "address": "philippa-foot"
+    },
+    {
+      "id": "Corruption",
+      "group": 3,
+      "address": "corruption"
+    },
+    {
+      "id": "Feminist Environmental Philosophy",
+      "group": 3,
+      "address": "feminism-environmental"
+    },
+    {
+      "id": "Moral Theory",
+      "group": 3,
+      "address": "moral-theory"
+    },
+    {
+      "id": "Feminist Bioethics",
+      "group": 3,
+      "address": "feminist-bioethics"
+    },
+    {
+      "id": "Respect",
+      "group": 3,
+      "address": "respect"
+    },
+    {
+      "id": "Social Networking and Ethics",
+      "group": 3,
+      "address": "ethics-social-networking"
+    },
+    {
+      "id": "Supererogation",
+      "group": 3,
+      "address": "supererogation"
+    },
+    {
+      "id": "Moral Psychology: Empirical Approaches",
+      "group": 3,
+      "address": "moral-psych-emp"
+    },
+    {
+      "id": "Sikh Philosophy",
+      "group": 3,
+      "address": "sikh-philosophy"
+    },
+    {
+      "id": "Plato\u2019s Ethics: An Overview",
+      "group": 3,
+      "address": "plato-ethics"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 3,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Goodman\u2019s Aesthetics",
+      "group": 3,
+      "address": "goodman-aesthetics"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "Philosophy of Sport",
+      "group": 3,
+      "address": "sport"
+    },
+    {
+      "id": "Philosophy of Film",
+      "group": 3,
+      "address": "film"
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "group": 3,
+      "address": "merleau-ponty"
+    },
+    {
+      "id": "Dewey\u2019s Aesthetics",
+      "group": 3,
+      "address": "dewey-aesthetics"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "The Ethics of Belief",
+      "group": 3,
+      "address": "ethics-belief"
+    },
+    {
+      "id": "Plato",
+      "group": 3,
+      "address": "plato"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Categories",
+      "group": 3,
+      "address": "categories"
+    },
+    {
+      "id": "Clarence Irving Lewis",
+      "group": 3,
+      "address": "lewis-ci"
+    },
+    {
+      "id": "Material Constitution",
+      "group": 3,
+      "address": "material-constitution"
+    },
+    {
+      "id": "Philosophy of Architecture",
+      "group": 3,
+      "address": "architecture"
+    },
+    {
+      "id": "Croce\u2019s Aesthetics",
+      "group": 3,
+      "address": "croce-aesthetics"
+    },
+    {
+      "id": "Realism",
+      "group": 3,
+      "address": "realism"
+    },
+    {
+      "id": "Substance",
+      "group": 3,
+      "address": "substance"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "Collingwood\u2019s Aesthetics",
+      "group": 3,
+      "address": "collingwood-aesthetics"
+    },
+    {
+      "id": "Psychologism",
+      "group": 3,
+      "address": "psychologism"
+    },
+    {
+      "id": "Existentialist Aesthetics",
+      "group": 3,
+      "address": "aesthetics-existentialist"
+    },
+    {
+      "id": "18th Century German Aesthetics",
+      "group": 3,
+      "address": "aesthetics-18th-german"
+    },
+    {
+      "id": "Kant\u2019s Aesthetics and Teleology",
+      "group": 3,
+      "address": "kant-aesthetics"
+    },
+    {
+      "id": "Aristotle\u2019s Metaphysics",
+      "group": 3,
+      "address": "aristotle-metaphysics"
+    },
+    {
+      "id": "Fictional Entities",
+      "group": 3,
+      "address": "fictional-entities"
+    },
+    {
+      "id": "Artifact",
+      "group": 3,
+      "address": "artifact"
+    },
+    {
+      "id": "History of Western Philosophy of Music: since 1800",
+      "group": 3,
+      "address": "hist-westphilmusic-since-1800"
+    },
+    {
+      "id": "Alexius Meinong",
+      "group": 3,
+      "address": "meinong"
+    },
+    {
+      "id": "18th Century British Aesthetics",
+      "group": 3,
+      "address": "aesthetics-18th-british"
+    },
+    {
+      "id": "Samuel Alexander",
+      "group": 3,
+      "address": "alexander"
+    },
+    {
+      "id": "Types and Tokens",
+      "group": 3,
+      "address": "types-tokens"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Jean-Paul Sartre",
+      "group": 3,
+      "address": "sartre"
+    },
+    {
+      "id": "Conceptual Art",
+      "group": 3,
+      "address": "conceptual-art"
+    },
+    {
+      "id": "The Philosophy of Digital Art",
+      "group": 3,
+      "address": "digital-art"
+    },
+    {
+      "id": "Roman Ingarden",
+      "group": 3,
+      "address": "ingarden"
+    },
+    {
+      "id": "Phenomenology",
+      "group": 3,
+      "address": "phenomenology"
+    },
+    {
+      "id": "18th Century French Aesthetics",
+      "group": 3,
+      "address": "aesthetics-18th-french"
+    },
+    {
+      "id": "John Dewey",
+      "group": 3,
+      "address": "dewey"
+    },
+    {
+      "id": "Walter Benjamin",
+      "group": 3,
+      "address": "benjamin"
+    },
+    {
+      "id": "Experimental Philosophy of Art and Aesthetics",
+      "group": 3,
+      "address": "experimental-aesthetics"
+    },
+    {
+      "id": "The Normativity of Meaning and Content",
+      "group": 3,
+      "address": "meaning-normativity"
+    },
+    {
+      "id": "Truth",
+      "group": 3,
+      "address": "truth"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 3,
+      "address": "peirce"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Philosophy of Linguistics",
+      "group": 3,
+      "address": "linguistics"
+    },
+    {
+      "id": "Epistemological Problems of Testimony",
+      "group": 3,
+      "address": "testimony-episprob"
+    },
+    {
+      "id": "Legal Interpretation",
+      "group": 3,
+      "address": "legal-interpretation"
+    },
+    {
+      "id": "The Definition of Lying and Deception",
+      "group": 3,
+      "address": "lying-definition"
+    },
+    {
+      "id": "Common Ground in Pragmatics",
+      "group": 3,
+      "address": "common-ground-pragmatics"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "Definitions",
+      "group": 3,
+      "address": "definitions"
+    },
+    {
+      "id": "Brentano\u2019s Theory of Judgement",
+      "group": 3,
+      "address": "brentano-judgement"
+    }
+  ],
+  "links": [
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Philosophy of Theater"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Assertion"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "The Value of Knowledge"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Philosophy of Theater",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "The Problem of Dirty Hands",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Leibniz\u2019s Ethics",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Omnipotence",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Nietzsche\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Assertion",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Implicature",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Promises",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Assertion"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Propositions"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Creativity",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Critical Thinking",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Doxastic Voluntarism",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "The Value of Knowledge"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Virtue Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Maria Montessori",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "Virtue Epistemology"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Ideology",
+      "target": "Social Norms"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Social Norms"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Altruism"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Belief"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolution"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Social Norms",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "African Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Corruption",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Creativity",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Integrity",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Nietzsche\u2019s Moral and Political Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Sikh Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Philosophy of Sport",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Value of Knowledge"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Plato"
+    },
+    {
+      "source": "The Value of Knowledge",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "The Value of Knowledge"
+    },
+    {
+      "source": "Samuel Alexander",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "John Dewey",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Categories"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Imagination"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Psychologism"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Realism"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Substance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Assertion",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Assertion",
+      "target": "Belief"
+    },
+    {
+      "source": "Assertion",
+      "target": "Convention"
+    },
+    {
+      "source": "Assertion",
+      "target": "Definitions"
+    },
+    {
+      "source": "Assertion",
+      "target": "Evidence"
+    },
+    {
+      "source": "Assertion",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Assertion",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Assertion",
+      "target": "Implicature"
+    },
+    {
+      "source": "Assertion",
+      "target": "Information"
+    },
+    {
+      "source": "Assertion",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Assertion",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Assertion",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Assertion",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Assertion",
+      "target": "Truth"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "Assertion"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Assertion"
+    },
+    {
+      "source": "Implicature",
+      "target": "Assertion"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Assertion"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Assertion"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Assertion"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Assertion"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Assertion"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Assertion"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Assertion"
+    },
+    {
+      "source": "Truth",
+      "target": "Assertion"
+    },
+    {
+      "source": "Leibniz\u2019s Ethics",
+      "target": "Leibniz\u2019s Ethics"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Friendship"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "The Meaning of Life"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Political Legitimacy",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Public Justification"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Liberalism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Paternalism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Public Justification",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Paternalism",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Paternalism"
+    },
+    {
+      "source": "The Problem of Dirty Hands",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Problem of Dirty Hands",
+      "target": "The Problem of Dirty Hands"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Altruism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "Leibniz\u2019s Ethics"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Nietzsche\u2019s Moral and Political Philosophy",
+      "target": "Nietzsche\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Civic Education"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Critical Thinking"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Omnipotence",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Bradley\u2019s Moral Philosophy",
+      "target": "Bradley\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Corruption"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Liberalism",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Public Justification"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Political Legitimacy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Happiness"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Thomas Hill Green",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Happiness"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Substance"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Jean Fran\u00e7ois Lyotard"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Plato"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Promises"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Propositions",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Implicature"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Communication"
+    },
+    {
+      "source": "Inner Speech",
+      "target": "Inner Speech"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Artifact"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Belief"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Implicature"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositions"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Implicature"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Implicature",
+      "target": "Convention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Implicature",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Implicature",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Respect"
+    },
+    {
+      "source": "Hate Speech",
+      "target": "Hate Speech"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Implicature"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Truth"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Implicature"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Promises",
+      "target": "Convention"
+    },
+    {
+      "source": "Promises",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Promises",
+      "target": "Promises"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Jean Fran\u00e7ois Lyotard"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Coherentist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Foundationalist Theories of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Doxastic Voluntarism"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Evidence"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Internalist vs. Externalist Conceptions of Epistemic Justification",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Understanding",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Understanding",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Understanding",
+      "target": "Understanding"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Critical Thinking"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Plato"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Argumentation"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Critical Thinking"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Feminist Perspectives on Argumentation"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Hate Speech"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Reliabilist Epistemology",
+      "target": "Reliabilist Epistemology"
+    },
+    {
+      "source": "Doxastic Voluntarism",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Doxastic Voluntarism",
+      "target": "Doxastic Voluntarism"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Plato"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Friendship"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Integrity"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Coherentist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Internalist vs. Externalist Conceptions of Epistemic Justification"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Creativity",
+      "target": "Imagination"
+    },
+    {
+      "source": "Creativity",
+      "target": "Creativity"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Ethics in Indian Buddhism"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Maria Montessori",
+      "target": "Critical Thinking"
+    },
+    {
+      "source": "Maria Montessori",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Maria Montessori",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Maria Montessori",
+      "target": "Maria Montessori"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Critical Thinking",
+      "target": "Civic Education"
+    },
+    {
+      "source": "Critical Thinking",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Critical Thinking",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Critical Thinking",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Critical Thinking",
+      "target": "Critical Thinking"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Morality and Evolutionary Biology",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Ideology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Ideology",
+      "target": "Ideology"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Evolution"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "The Psychology of Normative Cognition",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Belief"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Public Goods"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolution"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Belief",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Belief",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Belief",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Belief",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Convention",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Convention",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Implicature"
+    },
+    {
+      "source": "Convention",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Altruism",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Altruism",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Altruism",
+      "target": "Philanthropy"
+    },
+    {
+      "source": "Altruism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Altruism",
+      "target": "Altruism"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Altruism"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Empirical Approaches to Altruism",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Nietzsche\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Evolution",
+      "target": "Altruism"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolution",
+      "target": "Evolution"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Convention"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Convention"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "The Psychology of Normative Cognition"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "The Moral/Conventional Distinction"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Substance"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Ayn Rand"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Belief"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Convention"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Truth"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "John Anderson",
+      "target": "John Anderson"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Experimental Moral Philosophy",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Friendship",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Friendship",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Friendship",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Friendship",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Friendship",
+      "target": "Respect"
+    },
+    {
+      "source": "Friendship",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Friendship",
+      "target": "Friendship"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Moral Phenomenology",
+      "target": "Moral Phenomenology"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Madeleine de Scud\u00e9ry",
+      "target": "Madeleine de Scud\u00e9ry"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Belief"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "African Ethics",
+      "target": "African Ethics"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Respect"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Descartes\u2019 Ethics",
+      "target": "Descartes\u2019 Ethics"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Happiness"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Empirical Approaches to Moral Character",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Respect"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Evolution"
+    },
+    {
+      "source": "Human Nature",
+      "target": "Human Nature"
+    },
+    {
+      "source": "Integrity",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Integrity",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Integrity",
+      "target": "Integrity"
+    },
+    {
+      "source": "Happiness",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Happiness",
+      "target": "Empirical Approaches to Moral Character"
+    },
+    {
+      "source": "Happiness",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Happiness",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Plato"
+    },
+    {
+      "source": "Happiness",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Happiness",
+      "target": "Happiness"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Civic Education",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Civic Education",
+      "target": "Civic Education"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Friendship"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Loyalty"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Bradley\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "The Problem of Dirty Hands"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Plato"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Supererogation"
+    },
+    {
+      "source": "Philanthropy",
+      "target": "Philanthropy"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Ethics in Indian Buddhism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Moral Particularism and Moral Generalism",
+      "target": "Moral Particularism and Moral Generalism"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Iris Murdoch",
+      "target": "Iris Murdoch"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Morality and Evolutionary Biology"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Gratitude"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Corruption",
+      "target": "Integrity"
+    },
+    {
+      "source": "Corruption",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Corruption",
+      "target": "Corruption"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Theory",
+      "target": "Moral Theory"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Respect",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Respect",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Respect",
+      "target": "Respect"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Supererogation",
+      "target": "Supererogation"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Empirical Approaches to Altruism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Sikh Philosophy",
+      "target": "Sikh Philosophy"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Plato"
+    },
+    {
+      "source": "Plato\u2019s Ethics: An Overview",
+      "target": "Plato\u2019s Ethics: An Overview"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Friendship"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Plato"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Philippa Foot"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Iris Murdoch"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Convention"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Philosophy of Sport",
+      "target": "Philosophy of Sport"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Imagination",
+      "target": "Belief"
+    },
+    {
+      "source": "Imagination",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Imagination",
+      "target": "Creativity"
+    },
+    {
+      "source": "Imagination",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Imagination",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Imagination",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Imagination",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Evidence"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "Plato",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Plato",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Plato",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Plato",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Plato",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Plato",
+      "target": "Plato"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Categories",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Categories",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Categories",
+      "target": "Categories"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Foundationalist Theories of Epistemic Justification"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Substance"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Realism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Realism",
+      "target": "Truth"
+    },
+    {
+      "source": "Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Substance",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Substance",
+      "target": "Categories"
+    },
+    {
+      "source": "Substance",
+      "target": "Substance"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Psychologism"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Fictional Entities",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "Artifact",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Brentano\u2019s Theory of Judgement"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Fictional Entities"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Psychologism"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Samuel Alexander",
+      "target": "John Anderson"
+    },
+    {
+      "source": "Samuel Alexander",
+      "target": "Samuel Alexander"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Realism"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Categories"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Substance"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "Creativity"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Categories"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Realism"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Civic Education"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Critical Thinking"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Thomas Hill Green"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "John Dewey",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Realism"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Experimental Moral Philosophy"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Imagination"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Experimental Philosophy of Art and Aesthetics"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Belief"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Convention"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Truth",
+      "target": "Realism"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Epistemological Problems of Testimony",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Epistemological Problems of Testimony"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Belief"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Ground in Pragmatics"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "Definitions",
+      "target": "Definitions"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "Propositions"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "Brentano\u2019s Theory of Judgement"
+    }
+  ]
+}

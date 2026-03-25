@@ -1,0 +1,4562 @@
+{
+  "nodes": [
+    {
+      "id": "Environmental Aesthetics",
+      "group": 1,
+      "address": "environmental-aesthetics"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 2,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "18th Century British Aesthetics",
+      "group": 2,
+      "address": "aesthetics-18th-british"
+    },
+    {
+      "id": "19th Century Romantic Aesthetics",
+      "group": 2,
+      "address": "aesthetics-19th-romantic"
+    },
+    {
+      "id": "Kant\u2019s Aesthetics and Teleology",
+      "group": 2,
+      "address": "kant-aesthetics"
+    },
+    {
+      "id": "Philosophy of Architecture",
+      "group": 2,
+      "address": "architecture"
+    },
+    {
+      "id": "Hume\u2019s Aesthetics",
+      "group": 2,
+      "address": "hume-aesthetics"
+    },
+    {
+      "id": "Aesthetic Judgment",
+      "group": 2,
+      "address": "aesthetic-judgment"
+    },
+    {
+      "id": "Aesthetics in Critical Theory",
+      "group": 2,
+      "address": "aesthetics-critical-theory"
+    },
+    {
+      "id": "The Concept of the Aesthetic",
+      "group": 2,
+      "address": "aesthetic-concept"
+    },
+    {
+      "id": "Aesthetics of the Everyday",
+      "group": 2,
+      "address": "aesthetics-of-everyday"
+    },
+    {
+      "id": "Artifact",
+      "group": 2,
+      "address": "artifact"
+    },
+    {
+      "id": "Imagination",
+      "group": 2,
+      "address": "imagination"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Critical Theory (Frankfurt School)",
+      "group": 3,
+      "address": "critical-theory"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Conservation Biology",
+      "group": 3,
+      "address": "conservation-biology"
+    },
+    {
+      "id": "Intergenerational Justice",
+      "group": 3,
+      "address": "justice-intergenerational"
+    },
+    {
+      "id": "Panpsychism",
+      "group": 3,
+      "address": "panpsychism"
+    },
+    {
+      "id": "Richard Sylvan [Routley]",
+      "group": 3,
+      "address": "sylvan-routley"
+    },
+    {
+      "id": "The Moral Status of Animals",
+      "group": 3,
+      "address": "moral-animal"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Metaethics",
+      "group": 3,
+      "address": "metaethics"
+    },
+    {
+      "id": "Feminist Ethics",
+      "group": 3,
+      "address": "feminism-ethics"
+    },
+    {
+      "id": "Globalization",
+      "group": 3,
+      "address": "globalization"
+    },
+    {
+      "id": "Gratitude",
+      "group": 3,
+      "address": "gratitude"
+    },
+    {
+      "id": "The Grounds of Moral Status",
+      "group": 3,
+      "address": "grounds-moral-status"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Feminist Environmental Philosophy",
+      "group": 3,
+      "address": "feminism-environmental"
+    },
+    {
+      "id": "Climate Justice",
+      "group": 3,
+      "address": "justice-climate"
+    },
+    {
+      "id": "Biodiversity",
+      "group": 3,
+      "address": "biodiversity"
+    },
+    {
+      "id": "Human Rights",
+      "group": 3,
+      "address": "rights-human"
+    },
+    {
+      "id": "Respect",
+      "group": 3,
+      "address": "respect"
+    },
+    {
+      "id": "Communitarianism",
+      "group": 3,
+      "address": "communitarianism"
+    },
+    {
+      "id": "Ecology",
+      "group": 3,
+      "address": "ecology"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Scottish Philosophy in the 18th Century",
+      "group": 3,
+      "address": "scottish-18th"
+    },
+    {
+      "id": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "group": 3,
+      "address": "shaftesbury"
+    },
+    {
+      "id": "Edmund Burke",
+      "group": 3,
+      "address": "burke"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "17th and 18th Century Theories of Emotions",
+      "group": 3,
+      "address": "emotions-17th18th"
+    },
+    {
+      "id": "Enlightenment",
+      "group": 3,
+      "address": "enlightenment"
+    },
+    {
+      "id": "Jean-Baptiste Du Bos",
+      "group": 3,
+      "address": "du-bos"
+    },
+    {
+      "id": "18th Century German Aesthetics",
+      "group": 3,
+      "address": "aesthetics-18th-german"
+    },
+    {
+      "id": "Beauty",
+      "group": 3,
+      "address": "beauty"
+    },
+    {
+      "id": "Francis Hutcheson",
+      "group": 3,
+      "address": "hutcheson"
+    },
+    {
+      "id": "History of Western Philosophy of Music: Antiquity to 1800",
+      "group": 3,
+      "address": "hist-westphilmusic-to-1800"
+    },
+    {
+      "id": "Aesthetics and Cognitive Science",
+      "group": 3,
+      "address": "aesthetics-cogsci"
+    },
+    {
+      "id": "Aesthetic Experience",
+      "group": 3,
+      "address": "aesthetic-experience"
+    },
+    {
+      "id": "18th Century French Aesthetics",
+      "group": 3,
+      "address": "aesthetics-18th-french"
+    },
+    {
+      "id": "History of Western Philosophy of Music: since 1800",
+      "group": 3,
+      "address": "hist-westphilmusic-since-1800"
+    },
+    {
+      "id": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "group": 3,
+      "address": "novalis"
+    },
+    {
+      "id": "Friedrich Schlegel",
+      "group": 3,
+      "address": "schlegel"
+    },
+    {
+      "id": "Friedrich Daniel Ernst Schleiermacher",
+      "group": 3,
+      "address": "schleiermacher"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "George Eliot",
+      "group": 3,
+      "address": "george-eliot"
+    },
+    {
+      "id": "Nietzsche\u2019s Aesthetics",
+      "group": 3,
+      "address": "nietzsche-aesthetics"
+    },
+    {
+      "id": "Friedrich Schiller",
+      "group": 3,
+      "address": "schiller"
+    },
+    {
+      "id": "Georg [Gy\u00f6rgy] Luk\u00e1cs",
+      "group": 3,
+      "address": "lukacs"
+    },
+    {
+      "id": "Kant\u2019s Philosophical Development",
+      "group": 3,
+      "address": "kant-development"
+    },
+    {
+      "id": "The Definition of Art",
+      "group": 3,
+      "address": "art-definition"
+    },
+    {
+      "id": "Johann Gottfried von Herder",
+      "group": 3,
+      "address": "herder"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Teleological Notions in Biology",
+      "group": 3,
+      "address": "teleology-biology"
+    },
+    {
+      "id": "Kant\u2019s Transcendental Arguments",
+      "group": 3,
+      "address": "kant-transcendental"
+    },
+    {
+      "id": "Kant\u2019s Account of Reason",
+      "group": 3,
+      "address": "kant-reason"
+    },
+    {
+      "id": "Kant\u2019s Critique of Metaphysics",
+      "group": 3,
+      "address": "kant-metaphysics"
+    },
+    {
+      "id": "Hermann Lotze",
+      "group": 3,
+      "address": "hermann-lotze"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Science",
+      "group": 3,
+      "address": "kant-science"
+    },
+    {
+      "id": "Conceptual Art",
+      "group": 3,
+      "address": "conceptual-art"
+    },
+    {
+      "id": "Schopenhauer\u2019s Aesthetics",
+      "group": 3,
+      "address": "schopenhauer-aesthetics"
+    },
+    {
+      "id": "Hegel\u2019s Aesthetics",
+      "group": 3,
+      "address": "hegel-aesthetics"
+    },
+    {
+      "id": "Kant\u2019s Theory of Judgment",
+      "group": 3,
+      "address": "kant-judgment"
+    },
+    {
+      "id": "Erotic Art",
+      "group": 3,
+      "address": "erotic-art"
+    },
+    {
+      "id": "Goodman\u2019s Aesthetics",
+      "group": 3,
+      "address": "goodman-aesthetics"
+    },
+    {
+      "id": "Roman Ingarden",
+      "group": 3,
+      "address": "ingarden"
+    },
+    {
+      "id": "Phenomenology of Religion",
+      "group": 3,
+      "address": "phenomenology-religion"
+    },
+    {
+      "id": "Christian Wolff",
+      "group": 3,
+      "address": "wolff-christian"
+    },
+    {
+      "id": "Aristotle\u2019s Aesthetics",
+      "group": 3,
+      "address": "aristotle-aesthetics"
+    },
+    {
+      "id": "Hume\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "hume-moral"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Moral Sentimentalism",
+      "group": 3,
+      "address": "moral-sentimentalism"
+    },
+    {
+      "id": "Aesthetic Testimony",
+      "group": 3,
+      "address": "aesthetic-testimony"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Mathematical Style",
+      "group": 3,
+      "address": "mathematical-style"
+    },
+    {
+      "id": "Dewey\u2019s Aesthetics",
+      "group": 3,
+      "address": "dewey-aesthetics"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "Edith Landmann-Kalischer",
+      "group": 3,
+      "address": "landmann-kalischer"
+    },
+    {
+      "id": "Philosophy of Film",
+      "group": 3,
+      "address": "film"
+    },
+    {
+      "id": "Pleasure",
+      "group": 3,
+      "address": "pleasure"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "Experimental Philosophy of Art and Aesthetics",
+      "group": 3,
+      "address": "experimental-aesthetics"
+    },
+    {
+      "id": "J\u00fcrgen Habermas",
+      "group": 3,
+      "address": "habermas"
+    },
+    {
+      "id": "Karl Marx",
+      "group": 3,
+      "address": "marx"
+    },
+    {
+      "id": "Max Horkheimer",
+      "group": 3,
+      "address": "horkheimer"
+    },
+    {
+      "id": "Theodor W. Adorno",
+      "group": 3,
+      "address": "adorno"
+    },
+    {
+      "id": "Herbert Marcuse",
+      "group": 3,
+      "address": "marcuse"
+    },
+    {
+      "id": "Walter Benjamin",
+      "group": 3,
+      "address": "benjamin"
+    },
+    {
+      "id": "Ernst Bloch",
+      "group": 3,
+      "address": "bloch"
+    },
+    {
+      "id": "Croce\u2019s Aesthetics",
+      "group": 3,
+      "address": "croce-aesthetics"
+    },
+    {
+      "id": "Japanese Aesthetics",
+      "group": 3,
+      "address": "japanese-aesthetics"
+    },
+    {
+      "id": "Collingwood\u2019s Aesthetics",
+      "group": 3,
+      "address": "collingwood-aesthetics"
+    },
+    {
+      "id": "Plato\u2019s Aesthetics",
+      "group": 3,
+      "address": "plato-aesthetics"
+    },
+    {
+      "id": "Existentialist Aesthetics",
+      "group": 3,
+      "address": "aesthetics-existentialist"
+    },
+    {
+      "id": "Feminist Aesthetics",
+      "group": 3,
+      "address": "feminism-aesthetics"
+    },
+    {
+      "id": "Wittgenstein\u2019s Aesthetics",
+      "group": 3,
+      "address": "wittgenstein-aesthetics"
+    },
+    {
+      "id": "Heidegger\u2019s Aesthetics",
+      "group": 3,
+      "address": "heidegger-aesthetics"
+    },
+    {
+      "id": "Gadamer\u2019s Aesthetics",
+      "group": 3,
+      "address": "gadamer-aesthetics"
+    },
+    {
+      "id": "Jean Baudrillard",
+      "group": 3,
+      "address": "baudrillard"
+    },
+    {
+      "id": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "group": 3,
+      "address": "chinese-painting-calligraphy"
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "group": 3,
+      "address": "merleau-ponty"
+    },
+    {
+      "id": "Michel Foucault",
+      "group": 3,
+      "address": "foucault"
+    },
+    {
+      "id": "Chan Buddhism",
+      "group": 3,
+      "address": "buddhism-chan"
+    },
+    {
+      "id": "John Dewey",
+      "group": 3,
+      "address": "dewey"
+    },
+    {
+      "id": "Social Networking and Ethics",
+      "group": 3,
+      "address": "ethics-social-networking"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Ordinary Objects",
+      "group": 3,
+      "address": "ordinary-objects"
+    },
+    {
+      "id": "Mereology",
+      "group": 3,
+      "address": "mereology"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 3,
+      "address": "enhancement"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Phenomenological Approaches to Ethics and Information Technology",
+      "group": 3,
+      "address": "ethics-it-phenomenology"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "Emotion",
+      "group": 3,
+      "address": "emotion"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Thought Experiments",
+      "group": 3,
+      "address": "thought-experiment"
+    },
+    {
+      "id": "Fictionalism",
+      "group": 3,
+      "address": "fictionalism"
+    },
+    {
+      "id": "Depiction",
+      "group": 3,
+      "address": "depiction"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Empathy",
+      "group": 3,
+      "address": "empathy"
+    },
+    {
+      "id": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "group": 3,
+      "address": "arabic-islamic-mind"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 3,
+      "address": "dance"
+    },
+    {
+      "id": "Fiction",
+      "group": 3,
+      "address": "fiction"
+    },
+    {
+      "id": "Implicit Bias",
+      "group": 3,
+      "address": "implicit-bias"
+    },
+    {
+      "id": "Thomas Hobbes",
+      "group": 3,
+      "address": "hobbes"
+    },
+    {
+      "id": "Mental Imagery",
+      "group": 3,
+      "address": "mental-imagery"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Aristotle\u2019s Psychology",
+      "group": 3,
+      "address": "aristotle-psychology"
+    },
+    {
+      "id": "Emotional Responses to Fiction",
+      "group": 3,
+      "address": "fiction-emotion-response"
+    },
+    {
+      "id": "Dualism",
+      "group": 3,
+      "address": "dualism"
+    },
+    {
+      "id": "Epistemological Problems of Perception",
+      "group": 3,
+      "address": "perception-episprob"
+    },
+    {
+      "id": "The Epistemology of Modality",
+      "group": 3,
+      "address": "modality-epistemology"
+    },
+    {
+      "id": "Scientific Representation",
+      "group": 3,
+      "address": "scientific-representation"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Dreams and Dreaming",
+      "group": 3,
+      "address": "dreams-dreaming"
+    },
+    {
+      "id": "Other Minds",
+      "group": 3,
+      "address": "other-minds"
+    },
+    {
+      "id": "Imaginative Resistance",
+      "group": 3,
+      "address": "imaginative-resistance"
+    },
+    {
+      "id": "Paradox of Tragedy",
+      "group": 3,
+      "address": "paradox-of-tragedy"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Folk Psychology as Mental Simulation",
+      "group": 3,
+      "address": "folkpsych-simulation"
+    },
+    {
+      "id": "Memory",
+      "group": 3,
+      "address": "memory"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Creativity",
+      "group": 3,
+      "address": "creativity"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "The Contents of Perception",
+      "group": 3,
+      "address": "perception-contents"
+    },
+    {
+      "id": "Jean-Paul Sartre",
+      "group": 3,
+      "address": "sartre"
+    },
+    {
+      "id": "Gilbert Ryle",
+      "group": 3,
+      "address": "ryle"
+    },
+    {
+      "id": "Delusion",
+      "group": 3,
+      "address": "delusion"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Folk Psychology as a Theory",
+      "group": 3,
+      "address": "folkpsych-theory"
+    },
+    {
+      "id": "Metaphor",
+      "group": 3,
+      "address": "metaphor"
+    },
+    {
+      "id": "Girolamo [Geronimo] Cardano",
+      "group": 3,
+      "address": "cardano"
+    }
+  ],
+  "links": [
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Imagination",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Ecology"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Globalization"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Respect"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "18th Century British Aesthetics",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "target": "18th Century British Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "19th Century Romantic Aesthetics",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "19th Century Romantic Aesthetics",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "19th Century Romantic Aesthetics",
+      "target": "Georg Friedrich Philipp von Hardenberg [Novalis]"
+    },
+    {
+      "source": "19th Century Romantic Aesthetics",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "19th Century Romantic Aesthetics",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "George Eliot",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "19th Century Romantic Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Beauty",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Imagination",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Philosophical Development"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Kant\u2019s Aesthetics and Teleology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Georg [Gy\u00f6rgy] Luk\u00e1cs",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Friedrich Schlegel",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Kant\u2019s Aesthetics and Teleology"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Beauty"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Beauty"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Hume\u2019s Aesthetics",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Imagination",
+      "target": "Hume\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Aesthetic Judgment",
+      "target": "Relativism"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Aesthetic Testimony",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Aesthetic Judgment"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Ernst Bloch"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Aesthetics in Critical Theory",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Plato\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Wittgenstein\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Testimony",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Jean Baudrillard"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Beauty"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Friedrich Schiller"
+    },
+    {
+      "source": "Artifact",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Imagination",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Artifact",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Artifact",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Artifact",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Artifact",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Boundary",
+      "target": "Artifact"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Artifact"
+    },
+    {
+      "source": "Mereology",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Imagination"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Imagination"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Imagination"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "Imagination"
+    },
+    {
+      "source": "Creativity",
+      "target": "Imagination"
+    },
+    {
+      "source": "Delusion",
+      "target": "Imagination"
+    },
+    {
+      "source": "Depiction",
+      "target": "Imagination"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Imagination"
+    },
+    {
+      "source": "Fiction",
+      "target": "Imagination"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Imagination"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Imagination"
+    },
+    {
+      "source": "Folk Psychology as Mental Simulation",
+      "target": "Imagination"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Imagination"
+    },
+    {
+      "source": "Imagination",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Imagination",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Imagination",
+      "target": "Belief"
+    },
+    {
+      "source": "Imagination",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Imagination",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Imagination",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Imagination",
+      "target": "Creativity"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Imagination",
+      "target": "Delusion"
+    },
+    {
+      "source": "Imagination",
+      "target": "Desire"
+    },
+    {
+      "source": "Imagination",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Imagination",
+      "target": "Dualism"
+    },
+    {
+      "source": "Imagination",
+      "target": "Emotion"
+    },
+    {
+      "source": "Imagination",
+      "target": "Empathy"
+    },
+    {
+      "source": "Imagination",
+      "target": "Fiction"
+    },
+    {
+      "source": "Imagination",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Imagination",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Imagination",
+      "target": "Folk Psychology as Mental Simulation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Imagination",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "Imagination",
+      "target": "David Hume"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Imagination",
+      "target": "Intention"
+    },
+    {
+      "source": "Imagination",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Imagination",
+      "target": "Memory"
+    },
+    {
+      "source": "Imagination",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Imagination",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Imagination",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Imagination",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Imagination",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Imagination",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Imagination",
+      "target": "Gilbert Ryle"
+    },
+    {
+      "source": "Imagination",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Imagination",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Imagination",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Imagination"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Imagination"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Imagination"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Imagination"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Imagination"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Imagination"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Imagination"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Critical Theory (Frankfurt School)",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Ecology"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Conservation Biology",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Mereology"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Fiction"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Richard Sylvan [Routley]"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Globalization",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Globalization",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Globalization",
+      "target": "Globalization"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Emotion"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Gratitude"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Respect"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Environmental Philosophy",
+      "target": "Feminist Environmental Philosophy"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Ecology"
+    },
+    {
+      "source": "Biodiversity",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Globalization"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Rights",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Respect"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Respect",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Respect",
+      "target": "Respect"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Globalization"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Ecology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Ecology",
+      "target": "Conservation Biology"
+    },
+    {
+      "source": "Ecology",
+      "target": "Biodiversity"
+    },
+    {
+      "source": "Ecology",
+      "target": "Ecology"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "David Hume"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "Francis Hutcheson"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "target": "David Hume"
+    },
+    {
+      "source": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "David Hume"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Emotion"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "David Hume"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "17th and 18th Century Theories of Emotions",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "David Hume"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Enlightenment",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "David Hume"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Jean-Baptiste Du Bos",
+      "target": "Jean-Baptiste Du Bos"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "18th Century German Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "Edmund Burke"
+    },
+    {
+      "source": "Beauty",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Beauty",
+      "target": "Plato\u2019s Aesthetics"
+    },
+    {
+      "source": "Beauty",
+      "target": "Friedrich Schiller"
+    },
+    {
+      "source": "Beauty",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Beauty",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Beauty",
+      "target": "Beauty"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Francis Hutcheson"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Jean-Baptiste Du Bos"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "Plato\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: Antiquity to 1800",
+      "target": "History of Western Philosophy of Music: Antiquity to 1800"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Emotion"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Empathy"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Aesthetics and Cognitive Science",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Nietzsche\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Plato\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Wittgenstein\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "18th Century French Aesthetics",
+      "target": "18th Century French Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of Western Philosophy of Music: Antiquity to 1800"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Nietzsche\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "Wittgenstein\u2019s Aesthetics"
+    },
+    {
+      "source": "History of Western Philosophy of Music: since 1800",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "target": "Friedrich Schiller"
+    },
+    {
+      "source": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Georg Friedrich Philipp von Hardenberg [Novalis]",
+      "target": "Georg Friedrich Philipp von Hardenberg [Novalis]"
+    },
+    {
+      "source": "Friedrich Schlegel",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Friedrich Schlegel",
+      "target": "Georg Friedrich Philipp von Hardenberg [Novalis]"
+    },
+    {
+      "source": "Friedrich Schlegel",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Friedrich Schlegel",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Philosophical Development"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Transcendental Arguments"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "George Eliot",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "George Eliot",
+      "target": "George Eliot"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Paradox of Tragedy"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Friedrich Schiller"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Nietzsche\u2019s Aesthetics",
+      "target": "Nietzsche\u2019s Aesthetics"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "Beauty"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "Georg Friedrich Philipp von Hardenberg [Novalis]"
+    },
+    {
+      "source": "Friedrich Schiller",
+      "target": "Friedrich Schiller"
+    },
+    {
+      "source": "Georg [Gy\u00f6rgy] Luk\u00e1cs",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Georg [Gy\u00f6rgy] Luk\u00e1cs",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Georg [Gy\u00f6rgy] Luk\u00e1cs",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Kant\u2019s Philosophical Development",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Philosophical Development",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Philosophical Development",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Philosophical Development",
+      "target": "Kant\u2019s Transcendental Arguments"
+    },
+    {
+      "source": "Kant\u2019s Philosophical Development",
+      "target": "Kant\u2019s Philosophical Development"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Dualism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Relativism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Philosophical Development"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Respect"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Teleological Notions in Biology",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Philosophical Development"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Kant\u2019s Transcendental Arguments",
+      "target": "Kant\u2019s Transcendental Arguments"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Critique of Metaphysics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Kant\u2019s Critique of Metaphysics",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Hermann Lotze"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Kant\u2019s Philosophical Development"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Wittgenstein\u2019s Aesthetics"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Schopenhauer\u2019s Aesthetics",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Nietzsche\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Hegel\u2019s Aesthetics",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "Beauty"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "Lord Shaftesbury [Anthony Ashley Cooper, 3rd Earl of Shaftesbury]"
+    },
+    {
+      "source": "Erotic Art",
+      "target": "Erotic Art"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Relativism"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Emotion"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Empathy"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Gilbert Ryle"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "18th Century German Aesthetics"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "Kant\u2019s Critique of Metaphysics"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Christian Wolff",
+      "target": "Christian Wolff"
+    },
+    {
+      "source": "Aristotle\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Hume\u2019s Moral Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume\u2019s Moral Philosophy",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "David Hume",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "David Hume",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Emotion"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Hume\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Sentimentalism",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Aesthetic Testimony",
+      "target": "Aesthetic Testimony"
+    },
+    {
+      "source": "Relativism",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Mathematical Style",
+      "target": "Mathematical Style"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Intention"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "Beauty"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "Friedrich Schiller"
+    },
+    {
+      "source": "Edith Landmann-Kalischer",
+      "target": "Edith Landmann-Kalischer"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Emotion"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Emotion"
+    },
+    {
+      "source": "Pleasure",
+      "target": "Pleasure"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of Western Philosophy of Music: since 1800"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Schopenhauer\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Aesthetic Testimony"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Beauty"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Emotion"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Emotional Responses to Fiction"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Experimental Philosophy of Art and Aesthetics",
+      "target": "Experimental Philosophy of Art and Aesthetics"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Max Horkheimer",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Enlightenment"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Theodor W. Adorno",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Herbert Marcuse",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Theodor W. Adorno"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Max Horkheimer"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Georg Friedrich Philipp von Hardenberg [Novalis]"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Friedrich Schlegel"
+    },
+    {
+      "source": "Walter Benjamin",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Ernst Bloch",
+      "target": "Walter Benjamin"
+    },
+    {
+      "source": "Ernst Bloch",
+      "target": "Georg [Gy\u00f6rgy] Luk\u00e1cs"
+    },
+    {
+      "source": "Ernst Bloch",
+      "target": "Ernst Bloch"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Hegel\u2019s Aesthetics"
+    },
+    {
+      "source": "Croce\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Japanese Aesthetics",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Japanese Aesthetics",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Croce\u2019s Aesthetics"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Wittgenstein\u2019s Aesthetics"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Plato\u2019s Aesthetics",
+      "target": "Beauty"
+    },
+    {
+      "source": "Plato\u2019s Aesthetics",
+      "target": "Plato\u2019s Aesthetics"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Feminist Aesthetics",
+      "target": "Aristotle\u2019s Aesthetics"
+    },
+    {
+      "source": "Feminist Aesthetics",
+      "target": "Feminist Aesthetics"
+    },
+    {
+      "source": "Wittgenstein\u2019s Aesthetics",
+      "target": "Wittgenstein\u2019s Aesthetics"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Gadamer\u2019s Aesthetics",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Herbert Marcuse"
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Jean Baudrillard"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Aesthetics in Chinese Philosophy: Painting and Calligraphy",
+      "target": "Aesthetics in Chinese Philosophy: Painting and Calligraphy"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Chan Buddhism",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Critical Theory (Frankfurt School)"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Globalization"
+    },
+    {
+      "source": "John Dewey",
+      "target": "David Hume"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "John Dewey",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "John Dewey",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Boundary",
+      "target": "Mereology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Boundary",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Boundary",
+      "target": "Relativism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Mereology",
+      "target": "Boundary"
+    },
+    {
+      "source": "Mereology",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Mereology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Belief"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Teleological Notions in Biology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Emotion",
+      "target": "Desire"
+    },
+    {
+      "source": "Emotion",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Emotion",
+      "target": "Empathy"
+    },
+    {
+      "source": "Emotion",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Emotion",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Emotion",
+      "target": "Emotion"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Thought Experiments",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Depiction",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Depiction",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Depiction",
+      "target": "Plato\u2019s Aesthetics"
+    },
+    {
+      "source": "Depiction",
+      "target": "Depiction"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Belief"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Empathy",
+      "target": "Folk Psychology as Mental Simulation"
+    },
+    {
+      "source": "Empathy",
+      "target": "Moral Sentimentalism"
+    },
+    {
+      "source": "Empathy",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Empathy",
+      "target": "Empathy"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Memory"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Fiction",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Fiction",
+      "target": "Fiction"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Belief"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "17th and 18th Century Theories of Emotions"
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "David Hume"
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Thomas Hobbes"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Desire"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Emotion"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Memory"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Thought Experiments"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Aristotle\u2019s Psychology",
+      "target": "Aristotle\u2019s Psychology"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Emotion"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Empathy"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Fiction"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Emotional Responses to Fiction",
+      "target": "Emotional Responses to Fiction"
+    },
+    {
+      "source": "Dualism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Dualism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Dualism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Epistemological Problems of Perception",
+      "target": "Epistemological Problems of Perception"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Belief",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Belief",
+      "target": "Delusion"
+    },
+    {
+      "source": "Belief",
+      "target": "Desire"
+    },
+    {
+      "source": "Belief",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Belief",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Memory"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Belief"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Delusion"
+    },
+    {
+      "source": "Dreams and Dreaming",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Empathy"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Folk Psychology as Mental Simulation"
+    },
+    {
+      "source": "Other Minds",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Experimental Philosophy of Art and Aesthetics"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Emotion"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Fiction"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Imaginative Resistance",
+      "target": "Imaginative Resistance"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Aesthetics and Cognitive Science"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Emotion"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Emotional Responses to Fiction"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Paradox of Tragedy",
+      "target": "Paradox of Tragedy"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Folk Psychology as Mental Simulation",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Folk Psychology as Mental Simulation",
+      "target": "Folk Psychology as Mental Simulation"
+    },
+    {
+      "source": "Memory",
+      "target": "Memory"
+    },
+    {
+      "source": "Desire",
+      "target": "Belief"
+    },
+    {
+      "source": "Desire",
+      "target": "Emotion"
+    },
+    {
+      "source": "Desire",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Creativity",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Creativity",
+      "target": "Creativity"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Dualism"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Other Minds"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Pleasure"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Gilbert Ryle"
+    },
+    {
+      "source": "Delusion",
+      "target": "Belief"
+    },
+    {
+      "source": "Delusion",
+      "target": "Dreams and Dreaming"
+    },
+    {
+      "source": "Delusion",
+      "target": "Delusion"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Intention"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Belief"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Folk Psychology as Mental Simulation"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "Girolamo [Geronimo] Cardano"
+    }
+  ]
+}

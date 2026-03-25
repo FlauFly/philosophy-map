@@ -1,0 +1,2884 @@
+{
+  "nodes": [
+    {
+      "id": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "group": 1,
+      "address": "implicature-optimality-games"
+    },
+    {
+      "id": "Logic and Games",
+      "group": 2,
+      "address": "logic-games"
+    },
+    {
+      "id": "Paul Grice",
+      "group": 2,
+      "address": "grice"
+    },
+    {
+      "id": "Pragmatics",
+      "group": 2,
+      "address": "pragmatics"
+    },
+    {
+      "id": "Game Theory",
+      "group": 2,
+      "address": "game-theory"
+    },
+    {
+      "id": "Implicature",
+      "group": 2,
+      "address": "implicature"
+    },
+    {
+      "id": "Defaults in Semantics and Pragmatics",
+      "group": 2,
+      "address": "defaults-semantics-pragmatics"
+    },
+    {
+      "id": "Linear Logic",
+      "group": 3,
+      "address": "logic-linear"
+    },
+    {
+      "id": "Infinitary Logic",
+      "group": 3,
+      "address": "logic-infinitary"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 3,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 3,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Independence Friendly Logic",
+      "group": 3,
+      "address": "logic-if"
+    },
+    {
+      "id": "Games, Full Abstraction and Full Completeness",
+      "group": 3,
+      "address": "games-abstraction"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 3,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Medieval Theories of Obligationes",
+      "group": 3,
+      "address": "obligationes"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Generalized Quantifiers",
+      "group": 3,
+      "address": "generalized-quantifiers"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Dependence Logic",
+      "group": 3,
+      "address": "logic-dependence"
+    },
+    {
+      "id": "Dialogical Logic",
+      "group": 3,
+      "address": "logic-dialogical"
+    },
+    {
+      "id": "Informal Logic",
+      "group": 3,
+      "address": "logic-informal"
+    },
+    {
+      "id": "Henry Habberley Price",
+      "group": 3,
+      "address": "price"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Depiction",
+      "group": 3,
+      "address": "depiction"
+    },
+    {
+      "id": "Peter Frederick Strawson",
+      "group": 3,
+      "address": "strawson"
+    },
+    {
+      "id": "Disjunction",
+      "group": 3,
+      "address": "disjunction"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Feminist Philosophy of Language",
+      "group": 3,
+      "address": "feminism-language"
+    },
+    {
+      "id": "Legal Interpretation",
+      "group": 3,
+      "address": "legal-interpretation"
+    },
+    {
+      "id": "The Definition of Lying and Deception",
+      "group": 3,
+      "address": "lying-definition"
+    },
+    {
+      "id": "Descriptions",
+      "group": 3,
+      "address": "descriptions"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Idiolects",
+      "group": 3,
+      "address": "idiolects"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "Metaphor",
+      "group": 3,
+      "address": "metaphor"
+    },
+    {
+      "id": "The Analytic/Synthetic Distinction",
+      "group": 3,
+      "address": "analytic-synthetic"
+    },
+    {
+      "id": "Philosophy of Humor",
+      "group": 3,
+      "address": "humor"
+    },
+    {
+      "id": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "group": 3,
+      "address": "literal-nonliteral-india"
+    },
+    {
+      "id": "Adolf Reinach",
+      "group": 3,
+      "address": "reinach"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Fiction",
+      "group": 3,
+      "address": "fiction"
+    },
+    {
+      "id": "Two-Dimensional Semantics",
+      "group": 3,
+      "address": "two-dimensional-semantics"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Philosophy of Linguistics",
+      "group": 3,
+      "address": "linguistics"
+    },
+    {
+      "id": "Action",
+      "group": 3,
+      "address": "action"
+    },
+    {
+      "id": "Category Mistakes",
+      "group": 3,
+      "address": "category-mistakes"
+    },
+    {
+      "id": "Animal Communication",
+      "group": 3,
+      "address": "animal-communication"
+    },
+    {
+      "id": "Reference",
+      "group": 3,
+      "address": "reference"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    },
+    {
+      "id": "Presupposition",
+      "group": 3,
+      "address": "presupposition"
+    },
+    {
+      "id": "Indexicals",
+      "group": 3,
+      "address": "indexicals"
+    },
+    {
+      "id": "Ambiguity",
+      "group": 3,
+      "address": "ambiguity"
+    },
+    {
+      "id": "Compositionality",
+      "group": 3,
+      "address": "compositionality"
+    },
+    {
+      "id": "Law and Language",
+      "group": 3,
+      "address": "law-language"
+    },
+    {
+      "id": "Quotation",
+      "group": 3,
+      "address": "quotation"
+    },
+    {
+      "id": "Promises",
+      "group": 3,
+      "address": "promises"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Social Norms",
+      "group": 3,
+      "address": "social-norms"
+    },
+    {
+      "id": "Public Goods",
+      "group": 3,
+      "address": "public-goods"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 3,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Hobbes\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "hobbes-moral"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "Political Realism in International Relations",
+      "group": 3,
+      "address": "realism-intl-relations"
+    },
+    {
+      "id": "Agent-Based Modeling in the Philosophy of Science",
+      "group": 3,
+      "address": "agent-modeling-philscience"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "Situations in Natural Language Semantics",
+      "group": 3,
+      "address": "situations-semantics"
+    },
+    {
+      "id": "Computational Linguistics",
+      "group": 3,
+      "address": "computational-linguistics"
+    },
+    {
+      "id": "Logical Form",
+      "group": 3,
+      "address": "logical-form"
+    },
+    {
+      "id": "Discourse Representation Theory",
+      "group": 3,
+      "address": "discourse-representation-theory"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    }
+  ],
+  "links": [
+    {
+      "source": "Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Negation",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Assertion",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Depiction",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Assertion"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Implicature"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Philosophy of Humor",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Negation",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Henry Habberley Price",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Fiction",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Negation",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Action"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Quotation"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Reference"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Game Theory"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Promises",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Game Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Implicature"
+    },
+    {
+      "source": "Assertion",
+      "target": "Implicature"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Implicature"
+    },
+    {
+      "source": "Convention",
+      "target": "Implicature"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Implicature"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Implicature"
+    },
+    {
+      "source": "Implicature",
+      "target": "Assertion"
+    },
+    {
+      "source": "Implicature",
+      "target": "Convention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Implicature",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Implicature",
+      "target": "Intention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Implicature",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Implicature",
+      "target": "Negation"
+    },
+    {
+      "source": "Implicature",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Implicature",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Implicature"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Implicature"
+    },
+    {
+      "source": "Negation",
+      "target": "Implicature"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Implicature"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Computational Linguistics"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Negation"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Negation",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Henry Habberley Price",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Henry Habberley Price",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Henry Habberley Price",
+      "target": "Henry Habberley Price"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Convention"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Indexicals"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Reference"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Depiction",
+      "target": "Depiction"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Reference"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Negation"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Action"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Reference"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Assertion"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Reference"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Assertion",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Assertion",
+      "target": "Convention"
+    },
+    {
+      "source": "Assertion",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Assertion",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Convention"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Reference"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Idiolects"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Action"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Assertion"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Metaphor"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Philosophy of Humor",
+      "target": "Philosophy of Humor"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Metaphor"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "The Literal-Nonliteral Distinction in Classical Indian Philosophy"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Promises"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Action"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Fiction",
+      "target": "Fiction"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Reference"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Idiolects"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Computational Linguistics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Reference"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Action",
+      "target": "Intention"
+    },
+    {
+      "source": "Action",
+      "target": "Action"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Category Mistakes"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Communication"
+    },
+    {
+      "source": "Reference",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Reference",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Reference",
+      "target": "Reference"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Assertion"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Reference"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Reference"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Reference"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Assertion"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Reference"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Reference"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Reference"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Reference"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Quotation",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Quotation",
+      "target": "Reference"
+    },
+    {
+      "source": "Quotation",
+      "target": "Quotation"
+    },
+    {
+      "source": "Promises",
+      "target": "Convention"
+    },
+    {
+      "source": "Promises",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Promises",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Promises",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Promises",
+      "target": "Promises"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Social Norms",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Public Goods"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Convention",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Convention",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Convention",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Action"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Risk"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Convention"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Social Norms"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Political Realism in International Relations",
+      "target": "Political Realism in International Relations"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Agent-Based Modeling in the Philosophy of Science",
+      "target": "Agent-Based Modeling in the Philosophy of Science"
+    },
+    {
+      "source": "Intention",
+      "target": "Action"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Computational Linguistics",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Computational Linguistics",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Computational Linguistics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Computational Linguistics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Computational Linguistics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Computational Linguistics",
+      "target": "Computational Linguistics"
+    },
+    {
+      "source": "Logical Form",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Reference"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    }
+  ]
+}

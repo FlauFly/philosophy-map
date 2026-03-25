@@ -1,0 +1,4715 @@
+{
+  "nodes": [
+    {
+      "id": "The Normative Status of Logic",
+      "group": 1,
+      "address": "logic-normative"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 2,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Relevance Logic",
+      "group": 2,
+      "address": "logic-relevance"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 2,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Epistemic Paradoxes",
+      "group": 2,
+      "address": "epistemic-paradoxes"
+    },
+    {
+      "id": "Logical Consequence",
+      "group": 2,
+      "address": "logical-consequence"
+    },
+    {
+      "id": "Deontic Logic",
+      "group": 2,
+      "address": "logic-deontic"
+    },
+    {
+      "id": "Logical Constants",
+      "group": 2,
+      "address": "logical-constants"
+    },
+    {
+      "id": "Dialetheism",
+      "group": 2,
+      "address": "dialetheism"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 2,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 3,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 3,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 3,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Reasons for Action: Internal vs. External",
+      "group": 3,
+      "address": "reasons-internal-external"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Many-Valued Logic",
+      "group": 3,
+      "address": "logic-manyvalued"
+    },
+    {
+      "id": "Medieval Theories of Consequence",
+      "group": 3,
+      "address": "consequence-medieval"
+    },
+    {
+      "id": "Ancient Logic",
+      "group": 3,
+      "address": "logic-ancient"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "Inconsistent Mathematics",
+      "group": 3,
+      "address": "mathematics-inconsistent"
+    },
+    {
+      "id": "Substructural Logics",
+      "group": 3,
+      "address": "logic-substructural"
+    },
+    {
+      "id": "Disjunction",
+      "group": 3,
+      "address": "disjunction"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Provability Logic",
+      "group": 3,
+      "address": "logic-provability"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "The Development of Intuitionistic Logic",
+      "group": 3,
+      "address": "intuitionistic-logic-development"
+    },
+    {
+      "id": "Impossible Worlds",
+      "group": 3,
+      "address": "impossible-worlds"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Richard Sylvan [Routley]",
+      "group": 3,
+      "address": "sylvan-routley"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Combinatory Logic",
+      "group": 3,
+      "address": "logic-combinatory"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Typelogical Grammar",
+      "group": 3,
+      "address": "typelogical-grammar"
+    },
+    {
+      "id": "Propositional Logic",
+      "group": 3,
+      "address": "logic-propositional"
+    },
+    {
+      "id": "Aristotle\u2019s Logic",
+      "group": 3,
+      "address": "aristotle-logic"
+    },
+    {
+      "id": "Necessary and Sufficient Conditions",
+      "group": 3,
+      "address": "necessary-sufficient"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "Mally\u2019s Deontic Logic",
+      "group": 3,
+      "address": "mally-deontic"
+    },
+    {
+      "id": "Connexive Logic",
+      "group": 3,
+      "address": "logic-connexive"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Natural Deduction Systems in Logic",
+      "group": 3,
+      "address": "natural-deduction"
+    },
+    {
+      "id": "Modern Origins of Modal Logic",
+      "group": 3,
+      "address": "logic-modal-origins"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Truthlikeness",
+      "group": 3,
+      "address": "truthlikeness"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Epistemology",
+      "group": 3,
+      "address": "epistemology"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 3,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Dynamic Epistemic Logic",
+      "group": 3,
+      "address": "dynamic-epistemic"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 3,
+      "address": "self-reference"
+    },
+    {
+      "id": "Fitch\u2019s Paradox of Knowability",
+      "group": 3,
+      "address": "fitch-paradox"
+    },
+    {
+      "id": "Vagueness",
+      "group": 3,
+      "address": "vagueness"
+    },
+    {
+      "id": "Fatalism",
+      "group": 3,
+      "address": "fatalism"
+    },
+    {
+      "id": "Epistemic Contextualism",
+      "group": 3,
+      "address": "contextualism-epistemology"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Skepticism",
+      "group": 3,
+      "address": "skepticism"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "Paradoxes and Contemporary Logic",
+      "group": 3,
+      "address": "paradoxes-contemporary-logic"
+    },
+    {
+      "id": "Modesty and Humility",
+      "group": 3,
+      "address": "modesty-humility"
+    },
+    {
+      "id": "Logic of Belief Revision",
+      "group": 3,
+      "address": "logic-belief-revision"
+    },
+    {
+      "id": "Epistemic Self-Doubt",
+      "group": 3,
+      "address": "epistemic-self-doubt"
+    },
+    {
+      "id": "The Paradox of Suspense",
+      "group": 3,
+      "address": "paradox-suspense"
+    },
+    {
+      "id": "Prophecy",
+      "group": 3,
+      "address": "prophecy"
+    },
+    {
+      "id": "Logic and Ontology",
+      "group": 3,
+      "address": "logic-ontology"
+    },
+    {
+      "id": "Clarence Irving Lewis",
+      "group": 3,
+      "address": "lewis-ci"
+    },
+    {
+      "id": "Combining Logics",
+      "group": 3,
+      "address": "logic-combining"
+    },
+    {
+      "id": "Non-monotonic Logic",
+      "group": 3,
+      "address": "logic-nonmonotonic"
+    },
+    {
+      "id": "Logical Truth",
+      "group": 3,
+      "address": "logical-truth"
+    },
+    {
+      "id": "Bernard Bolzano",
+      "group": 3,
+      "address": "bolzano"
+    },
+    {
+      "id": "Logical Form",
+      "group": 3,
+      "address": "logical-form"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 3,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "group": 3,
+      "address": "frege-theorem"
+    },
+    {
+      "id": "William Heytesbury",
+      "group": 3,
+      "address": "heytesbury"
+    },
+    {
+      "id": "Ontological Arguments",
+      "group": 3,
+      "address": "ontological-arguments"
+    },
+    {
+      "id": "Alfred Tarski",
+      "group": 3,
+      "address": "tarski"
+    },
+    {
+      "id": "Ontological Commitment",
+      "group": 3,
+      "address": "ontological-commitment"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Proof Theory",
+      "group": 3,
+      "address": "proof-theory"
+    },
+    {
+      "id": "Informal Logic",
+      "group": 3,
+      "address": "logic-informal"
+    },
+    {
+      "id": "Schema",
+      "group": 3,
+      "address": "schema"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Incommensurable Values",
+      "group": 3,
+      "address": "value-incommensurable"
+    },
+    {
+      "id": "Ernst Mally",
+      "group": 3,
+      "address": "mally"
+    },
+    {
+      "id": "Actualism and Possibilism in Ethics",
+      "group": 3,
+      "address": "actualism-possibilism-ethics"
+    },
+    {
+      "id": "Roderick Chisholm",
+      "group": 3,
+      "address": "chisholm"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "The Traditional Square of Opposition",
+      "group": 3,
+      "address": "square"
+    },
+    {
+      "id": "Moral Dilemmas",
+      "group": 3,
+      "address": "moral-dilemmas"
+    },
+    {
+      "id": "The Logic of Action",
+      "group": 3,
+      "address": "logic-action"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 3,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Ruth Barcan Marcus",
+      "group": 3,
+      "address": "ruth-barcan-marcus"
+    },
+    {
+      "id": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "group": 3,
+      "address": "al-farabi-logic"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 3,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Temporal Logic",
+      "group": 3,
+      "address": "logic-temporal"
+    },
+    {
+      "id": "Definitions",
+      "group": 3,
+      "address": "definitions"
+    },
+    {
+      "id": "Sentence Connectives in Formal Logic",
+      "group": 3,
+      "address": "connectives-logic"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "The Analytic/Synthetic Distinction",
+      "group": 3,
+      "address": "analytic-synthetic"
+    },
+    {
+      "id": "Deflationism About Truth",
+      "group": 3,
+      "address": "truth-deflationary"
+    },
+    {
+      "id": "Trinity",
+      "group": 3,
+      "address": "trinity"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 3,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Curry\u2019s Paradox",
+      "group": 3,
+      "address": "curry-paradox"
+    },
+    {
+      "id": "Contradiction",
+      "group": 3,
+      "address": "contradiction"
+    },
+    {
+      "id": "Aristotle\u2019s Metaphysics",
+      "group": 3,
+      "address": "aristotle-metaphysics"
+    },
+    {
+      "id": "Nishida Kitar\u014d",
+      "group": 3,
+      "address": "nishida-kitaro"
+    },
+    {
+      "id": "Infinite Regress Arguments",
+      "group": 3,
+      "address": "infinite-regress"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "Russell\u2019s Paradox",
+      "group": 3,
+      "address": "russell-paradox"
+    },
+    {
+      "id": "Insolubles",
+      "group": 3,
+      "address": "insolubles"
+    },
+    {
+      "id": "Georg Wilhelm Friedrich Hegel",
+      "group": 3,
+      "address": "hegel"
+    },
+    {
+      "id": "The Problem of the Many",
+      "group": 3,
+      "address": "problem-of-many"
+    },
+    {
+      "id": "Aristotle on Non-contradiction",
+      "group": 3,
+      "address": "aristotle-noncontradiction"
+    },
+    {
+      "id": "Hybrid Logic",
+      "group": 3,
+      "address": "logic-hybrid"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Religious Diversity (Pluralism)",
+      "group": 3,
+      "address": "religious-pluralism"
+    },
+    {
+      "id": "The Emergence of First-Order Logic",
+      "group": 3,
+      "address": "logic-firstorder-emergence"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Bolzano\u2019s Logic",
+      "group": 3,
+      "address": "bolzano-logic"
+    },
+    {
+      "id": "Free Logic",
+      "group": 3,
+      "address": "logic-free"
+    },
+    {
+      "id": "Constructive Mathematics",
+      "group": 3,
+      "address": "mathematics-constructive"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 3,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "Wittgenstein\u2019s Logical Atomism",
+      "group": 3,
+      "address": "wittgenstein-atomism"
+    },
+    {
+      "id": "Defaults in Semantics and Pragmatics",
+      "group": 3,
+      "address": "defaults-semantics-pragmatics"
+    },
+    {
+      "id": "Toleration",
+      "group": 3,
+      "address": "toleration"
+    },
+    {
+      "id": "Alonzo Church",
+      "group": 3,
+      "address": "church"
+    },
+    {
+      "id": "Semantic Conceptions of Information",
+      "group": 3,
+      "address": "information-semantic"
+    },
+    {
+      "id": "Willard Van Orman Quine",
+      "group": 3,
+      "address": "quine"
+    },
+    {
+      "id": "Dialogical Logic",
+      "group": 3,
+      "address": "logic-dialogical"
+    }
+  ],
+  "links": [
+    {
+      "source": "Deontic Logic",
+      "target": "The Normative Status of Logic"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "The Normative Status of Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "The Normative Status of Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "The Normative Status of Logic"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "The Normative Status of Logic"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Evidence"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Mally\u2019s Deontic Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "The Paradox of Suspense"
+    },
+    {
+      "source": "Epistemic Paradoxes",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Information",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Paradoxes"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Schema"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Mally\u2019s Deontic Logic"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Ernst Mally",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Mally\u2019s Deontic Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Definitions",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Schema",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Richard Sylvan [Routley]"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Negation",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Toleration"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Intention",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Intention",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Intention",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Intention"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Schema"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Information"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Inconsistent Mathematics",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Negation"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Development of Intuitionistic Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Impossible Worlds",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Richard Sylvan [Routley]",
+      "target": "Richard Sylvan [Routley]"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Typelogical Grammar",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Definitions"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Necessary and Sufficient Conditions",
+      "target": "Necessary and Sufficient Conditions"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Negation",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Negation",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "Mally\u2019s Deontic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Mally\u2019s Deontic Logic",
+      "target": "Mally\u2019s Deontic Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Natural Deduction Systems in Logic",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Information"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Truthlikeness",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Toleration"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Dynamic Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Inconsistent Mathematics"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Fitch\u2019s Paradox of Knowability",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Fatalism",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Fatalism",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Epistemic Contextualism",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Impossible Worlds"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Skepticism",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Information",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Information",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Information",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Fitch\u2019s Paradox of Knowability"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Paradoxes and Contemporary Logic",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Modesty and Humility",
+      "target": "Modesty and Humility"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logic of Belief Revision",
+      "target": "Logic of Belief Revision"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "The Paradox of Suspense",
+      "target": "The Paradox of Suspense"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Roderick Chisholm"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Non-monotonic Logic",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Logical Form",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Negation"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Model Theory",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Schema",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Schema",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Schema",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Schema",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Schema",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Schema",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Schema",
+      "target": "Schema"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Ernst Mally",
+      "target": "Mally\u2019s Deontic Logic"
+    },
+    {
+      "source": "Ernst Mally",
+      "target": "Ernst Mally"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Epistemology"
+    },
+    {
+      "source": "Roderick Chisholm",
+      "target": "Roderick Chisholm"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "The Emergence of First-Order Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "Contradiction"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "The Logic of Action",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dynamic Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Natural Deduction Systems in Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Ruth Barcan Marcus"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Logic and Language",
+      "target": "al-Farabi\u2019s Philosophy of Logic and Language"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "The Logic of Action"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Definitions",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Definitions",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Definitions",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Definitions",
+      "target": "Definitions"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Definitions"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Epistemology"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Trinity",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Trinity",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Trinity",
+      "target": "Trinity"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Negation"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paradoxes and Contemporary Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Negation"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Metaphysics",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Nishida Kitar\u014d"
+    },
+    {
+      "source": "Infinite Regress Arguments",
+      "target": "Infinite Regress Arguments"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Relativism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Vagueness"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle\u2019s Metaphysics"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Relativism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Skepticism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Hybrid Logic",
+      "target": "Hybrid Logic"
+    },
+    {
+      "source": "Relativism",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Toleration"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "The Emergence of First-Order Logic"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Epistemic Contextualism"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Relativism"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Truthlikeness"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bolzano\u2019s Logic",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Bolzano\u2019s Logic",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Bolzano\u2019s Logic",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "The Development of Intuitionistic Logic"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Constructive Mathematics",
+      "target": "Constructive Mathematics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Non-monotonic Logic"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Toleration",
+      "target": "Toleration"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Typelogical Grammar"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Information"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Semantic Conceptions of Information",
+      "target": "Semantic Conceptions of Information"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Dialogical Logic"
+    }
+  ]
+}

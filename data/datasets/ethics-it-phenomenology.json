@@ -1,0 +1,4568 @@
+{
+  "nodes": [
+    {
+      "id": "Phenomenological Approaches to Ethics and Information Technology",
+      "group": 1,
+      "address": "ethics-it-phenomenology"
+    },
+    {
+      "id": "Social Networking and Ethics",
+      "group": 2,
+      "address": "ethics-social-networking"
+    },
+    {
+      "id": "Phenomenology",
+      "group": 2,
+      "address": "phenomenology"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 2,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "Information Technology and Moral Values",
+      "group": 2,
+      "address": "it-moral-values"
+    },
+    {
+      "id": "Heidegger\u2019s Aesthetics",
+      "group": 2,
+      "address": "heidegger-aesthetics"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 2,
+      "address": "technology"
+    },
+    {
+      "id": "Artifact",
+      "group": 2,
+      "address": "artifact"
+    },
+    {
+      "id": "Feminist Perspectives on Disability",
+      "group": 2,
+      "address": "feminism-disability"
+    },
+    {
+      "id": "Search Engines and Ethics",
+      "group": 2,
+      "address": "ethics-search"
+    },
+    {
+      "id": "J\u00fcrgen Habermas",
+      "group": 3,
+      "address": "habermas"
+    },
+    {
+      "id": "Ethics of Artificial Intelligence and Robotics",
+      "group": 3,
+      "address": "ethics-ai"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 3,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Privacy and Information Technology",
+      "group": 3,
+      "address": "it-privacy"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Moral Character",
+      "group": 3,
+      "address": "moral-character"
+    },
+    {
+      "id": "Publicity",
+      "group": 3,
+      "address": "publicity"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "Personal Identity and Ethics",
+      "group": 3,
+      "address": "identity-ethics"
+    },
+    {
+      "id": "Jacques Derrida",
+      "group": 3,
+      "address": "derrida"
+    },
+    {
+      "id": "Max Scheler",
+      "group": 3,
+      "address": "scheler"
+    },
+    {
+      "id": "Bodily Awareness",
+      "group": 3,
+      "address": "bodily-awareness"
+    },
+    {
+      "id": "Introspection",
+      "group": 3,
+      "address": "introspection"
+    },
+    {
+      "id": "Michel Henry",
+      "group": 3,
+      "address": "michel-henry"
+    },
+    {
+      "id": "Adolf Reinach",
+      "group": 3,
+      "address": "reinach"
+    },
+    {
+      "id": "Albert Camus",
+      "group": 3,
+      "address": "camus"
+    },
+    {
+      "id": "Embodied Cognition",
+      "group": 3,
+      "address": "embodied-cognition"
+    },
+    {
+      "id": "Philosophy in Mexico",
+      "group": 3,
+      "address": "philosophy-mexico"
+    },
+    {
+      "id": "Edmund Husserl",
+      "group": 3,
+      "address": "husserl"
+    },
+    {
+      "id": "Franz Brentano",
+      "group": 3,
+      "address": "brentano"
+    },
+    {
+      "id": "Empathy",
+      "group": 3,
+      "address": "empathy"
+    },
+    {
+      "id": "Hermeneutics",
+      "group": 3,
+      "address": "hermeneutics"
+    },
+    {
+      "id": "Hannah Arendt",
+      "group": 3,
+      "address": "arendt"
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "group": 3,
+      "address": "merleau-ponty"
+    },
+    {
+      "id": "Personalism",
+      "group": 3,
+      "address": "personalism"
+    },
+    {
+      "id": "Alfred Schutz",
+      "group": 3,
+      "address": "schutz"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "Edith Stein",
+      "group": 3,
+      "address": "stein"
+    },
+    {
+      "id": "Continental Feminism",
+      "group": 3,
+      "address": "femapproach-continental"
+    },
+    {
+      "id": "Feminist Perspectives on Power",
+      "group": 3,
+      "address": "feminist-power"
+    },
+    {
+      "id": "Critical Philosophy of Race",
+      "group": 3,
+      "address": "critical-phil-race"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "The Problem of Perception",
+      "group": 3,
+      "address": "perception-problem"
+    },
+    {
+      "id": "Intuitionism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "intuitionism"
+    },
+    {
+      "id": "Consciousness and Intentionality",
+      "group": 3,
+      "address": "consciousness-intentionality"
+    },
+    {
+      "id": "Bernard Bolzano",
+      "group": 3,
+      "address": "bolzano"
+    },
+    {
+      "id": "Psychologism",
+      "group": 3,
+      "address": "psychologism"
+    },
+    {
+      "id": "Existentialist Aesthetics",
+      "group": 3,
+      "address": "aesthetics-existentialist"
+    },
+    {
+      "id": "Existentialism",
+      "group": 3,
+      "address": "existentialism"
+    },
+    {
+      "id": "Jos\u00e9 Ortega y Gasset",
+      "group": 3,
+      "address": "gasset"
+    },
+    {
+      "id": "Philosophy of Biomedicine",
+      "group": 3,
+      "address": "biomedicine"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "group": 3,
+      "address": "phenomenology-mg"
+    },
+    {
+      "id": "Martin Heidegger",
+      "group": 3,
+      "address": "heidegger"
+    },
+    {
+      "id": "Mexican Existentialism",
+      "group": 3,
+      "address": "existentialism-mexican"
+    },
+    {
+      "id": "Phenomenal Intentionality",
+      "group": 3,
+      "address": "phenomenal-intentionality"
+    },
+    {
+      "id": "Simone de Beauvoir",
+      "group": 3,
+      "address": "beauvoir"
+    },
+    {
+      "id": "Latin American Philosophy",
+      "group": 3,
+      "address": "latin-american-philosophy"
+    },
+    {
+      "id": "Carl Stumpf",
+      "group": 3,
+      "address": "stumpf"
+    },
+    {
+      "id": "Kurt G\u00f6del",
+      "group": 3,
+      "address": "goedel"
+    },
+    {
+      "id": "The Contents of Perception",
+      "group": 3,
+      "address": "perception-contents"
+    },
+    {
+      "id": "Jean-Paul Sartre",
+      "group": 3,
+      "address": "sartre"
+    },
+    {
+      "id": "Critical Disability Theory",
+      "group": 3,
+      "address": "disability-critical"
+    },
+    {
+      "id": "Action-based Theories of Perception",
+      "group": 3,
+      "address": "action-perception"
+    },
+    {
+      "id": "Roman Ingarden",
+      "group": 3,
+      "address": "ingarden"
+    },
+    {
+      "id": "Henri Bergson",
+      "group": 3,
+      "address": "bergson"
+    },
+    {
+      "id": "The Kyoto School",
+      "group": 3,
+      "address": "kyoto-school"
+    },
+    {
+      "id": "Consciousness",
+      "group": 3,
+      "address": "consciousness"
+    },
+    {
+      "id": "Phenomenology of Religion",
+      "group": 3,
+      "address": "phenomenology-religion"
+    },
+    {
+      "id": "Emmanuel Levinas",
+      "group": 3,
+      "address": "levinas"
+    },
+    {
+      "id": "Hans-Georg Gadamer",
+      "group": 3,
+      "address": "gadamer"
+    },
+    {
+      "id": "Wilhelm Maximilian Wundt",
+      "group": 3,
+      "address": "wilhelm-wundt"
+    },
+    {
+      "id": "The Analytic/Synthetic Distinction",
+      "group": 3,
+      "address": "analytic-synthetic"
+    },
+    {
+      "id": "Gadamer\u2019s Aesthetics",
+      "group": 3,
+      "address": "gadamer-aesthetics"
+    },
+    {
+      "id": "Phenomenological Approaches to Self-Consciousness",
+      "group": 3,
+      "address": "self-consciousness-phenomenological"
+    },
+    {
+      "id": "Jean Fran\u00e7ois Lyotard",
+      "group": 3,
+      "address": "lyotard"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Empirical Approaches to Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility-empirical"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Dewey\u2019s Political Philosophy",
+      "group": 3,
+      "address": "dewey-political"
+    },
+    {
+      "id": "The Turing Test",
+      "group": 3,
+      "address": "turing-test"
+    },
+    {
+      "id": "Logic-Based Artificial Intelligence",
+      "group": 3,
+      "address": "logic-ai"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "Pornography and Censorship",
+      "group": 3,
+      "address": "pornography-censorship"
+    },
+    {
+      "id": "Intellectual Property",
+      "group": 3,
+      "address": "intellectual-property"
+    },
+    {
+      "id": "John Dewey",
+      "group": 3,
+      "address": "dewey"
+    },
+    {
+      "id": "Theory and Bioethics",
+      "group": 3,
+      "address": "theory-bioethics"
+    },
+    {
+      "id": "Life",
+      "group": 3,
+      "address": "life"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Postmodernism",
+      "group": 3,
+      "address": "postmodernism"
+    },
+    {
+      "id": "Friedrich Nietzsche",
+      "group": 3,
+      "address": "nietzsche"
+    },
+    {
+      "id": "Aesthetic Experience",
+      "group": 3,
+      "address": "aesthetic-experience"
+    },
+    {
+      "id": "The Concept of the Aesthetic",
+      "group": 3,
+      "address": "aesthetic-concept"
+    },
+    {
+      "id": "Aesthetics of the Everyday",
+      "group": 3,
+      "address": "aesthetics-of-everyday"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "Material Constitution",
+      "group": 3,
+      "address": "material-constitution"
+    },
+    {
+      "id": "Functionalism",
+      "group": 3,
+      "address": "functionalism"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Knowledge How",
+      "group": 3,
+      "address": "knowledge-how"
+    },
+    {
+      "id": "Francis Bacon",
+      "group": 3,
+      "address": "francis-bacon"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Sortals",
+      "group": 3,
+      "address": "sortals"
+    },
+    {
+      "id": "The Church-Turing Thesis",
+      "group": 3,
+      "address": "church-turing"
+    },
+    {
+      "id": "Computability and Complexity",
+      "group": 3,
+      "address": "computability"
+    },
+    {
+      "id": "Turing Machines",
+      "group": 3,
+      "address": "turing-machine"
+    },
+    {
+      "id": "Relative Identity",
+      "group": 3,
+      "address": "identity-relative"
+    },
+    {
+      "id": "Identity Over Time",
+      "group": 3,
+      "address": "identity-time"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "The Chinese Room Argument",
+      "group": 3,
+      "address": "chinese-room"
+    },
+    {
+      "id": "Multiple Realizability",
+      "group": 3,
+      "address": "multiple-realizability"
+    },
+    {
+      "id": "Episteme and Techne",
+      "group": 3,
+      "address": "episteme-techne"
+    },
+    {
+      "id": "Climate Justice",
+      "group": 3,
+      "address": "justice-climate"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Justice",
+      "group": 3,
+      "address": "justice"
+    },
+    {
+      "id": "Aristotle on Causality",
+      "group": 3,
+      "address": "aristotle-causality"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "Human Enhancement",
+      "group": 3,
+      "address": "enhancement"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Philosophy of Architecture",
+      "group": 3,
+      "address": "architecture"
+    },
+    {
+      "id": "Ordinary Objects",
+      "group": 3,
+      "address": "ordinary-objects"
+    },
+    {
+      "id": "Environmental Aesthetics",
+      "group": 3,
+      "address": "environmental-aesthetics"
+    },
+    {
+      "id": "Mereology",
+      "group": 3,
+      "address": "mereology"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 3,
+      "address": "social-ontology"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "Social Minimum",
+      "group": 3,
+      "address": "social-minimum"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Feminist Social Epistemology",
+      "group": 3,
+      "address": "feminist-social-epistemology"
+    },
+    {
+      "id": "Disability: Definitions and Models",
+      "group": 3,
+      "address": "disability"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Rights",
+      "group": 3,
+      "address": "rights"
+    },
+    {
+      "id": "Feminist Political Philosophy",
+      "group": 3,
+      "address": "feminism-political"
+    },
+    {
+      "id": "Civil Rights",
+      "group": 3,
+      "address": "civil-rights"
+    },
+    {
+      "id": "Disability and Health Care Rationing",
+      "group": 3,
+      "address": "disability-care-rationing"
+    },
+    {
+      "id": "Dehumanization",
+      "group": 3,
+      "address": "dehumanization"
+    },
+    {
+      "id": "Parenthood and Procreation",
+      "group": 3,
+      "address": "parenthood"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Pregnancy, Birth, and Medicine",
+      "group": 3,
+      "address": "ethics-pregnancy"
+    },
+    {
+      "id": "Feminist Philosophy",
+      "group": 3,
+      "address": "feminist-philosophy"
+    },
+    {
+      "id": "Affirmative Action",
+      "group": 3,
+      "address": "affirmative-action"
+    },
+    {
+      "id": "Feminist Metaphysics",
+      "group": 3,
+      "address": "feminism-metaphysics"
+    },
+    {
+      "id": "Feminist Ethics",
+      "group": 3,
+      "address": "feminism-ethics"
+    },
+    {
+      "id": "Feminist Perspectives on the Body",
+      "group": 3,
+      "address": "feminist-body"
+    },
+    {
+      "id": "Equality",
+      "group": 3,
+      "address": "equality"
+    },
+    {
+      "id": "Disability and Well-Being",
+      "group": 3,
+      "address": "disability-well-being"
+    },
+    {
+      "id": "Feminist Bioethics",
+      "group": 3,
+      "address": "feminist-bioethics"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Mental Disorder (Illness)",
+      "group": 3,
+      "address": "mental-disorder"
+    },
+    {
+      "id": "Contractarianism",
+      "group": 3,
+      "address": "contractarianism"
+    },
+    {
+      "id": "Cognitive Disability and Moral Status",
+      "group": 3,
+      "address": "cognitive-disability"
+    },
+    {
+      "id": "Eugenics",
+      "group": 3,
+      "address": "eugenics"
+    },
+    {
+      "id": "Disability and Justice",
+      "group": 3,
+      "address": "disability-justice"
+    },
+    {
+      "id": "The Human Genome Project",
+      "group": 3,
+      "address": "human-genome"
+    },
+    {
+      "id": "Identity Politics",
+      "group": 3,
+      "address": "identity-politics"
+    },
+    {
+      "id": "Cloning",
+      "group": 3,
+      "address": "cloning"
+    },
+    {
+      "id": "Internet Research Ethics",
+      "group": 3,
+      "address": "ethics-internet-research"
+    }
+  ],
+  "links": [
+    {
+      "source": "Artifact",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Phenomenological Approaches to Ethics and Information Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Phenomenological Approaches to Ethics and Information Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Social Networking and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Publicity"
+    },
+    {
+      "source": "Social Networking and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Action-based Theories of Perception",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Empathy",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Hans-Georg Gadamer",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Gadamer\u2019s Aesthetics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Introspection",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Personalism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Alfred Schutz"
+    },
+    {
+      "source": "Phenomenology",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Carl Stumpf",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Wilhelm Maximilian Wundt",
+      "target": "Phenomenology"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Life"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Heidegger\u2019s Aesthetics"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Heidegger\u2019s Aesthetics",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Sortals"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Artifact"
+    },
+    {
+      "source": "Artifact",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Artifact",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Boundary",
+      "target": "Artifact"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Artifact"
+    },
+    {
+      "source": "Mereology",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Cloning"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Search Engines and Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Search Engines and Ethics"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Internet Research Ethics"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Ethics of Artificial Intelligence and Robotics",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy and Information Technology",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Publicity",
+      "target": "Privacy"
+    },
+    {
+      "source": "Publicity",
+      "target": "Publicity"
+    },
+    {
+      "source": "Privacy",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Privacy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Privacy",
+      "target": "Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Personal Identity and Ethics",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Personalism"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "Max Scheler",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Bodily Awareness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Introspection",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Introspection",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Introspection",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Introspection",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Introspection",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Introspection",
+      "target": "Wilhelm Maximilian Wundt"
+    },
+    {
+      "source": "Introspection",
+      "target": "Introspection"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Michel Henry",
+      "target": "Michel Henry"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Albert Camus"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Embodied Cognition",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Latin American Philosophy"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Philosophy in Mexico",
+      "target": "Philosophy in Mexico"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Psychologism"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Mereology"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Carl Stumpf"
+    },
+    {
+      "source": "Franz Brentano",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Empathy",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Empathy",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Empathy",
+      "target": "Empathy"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Hans-Georg Gadamer"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Hermeneutics",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Personalism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Personalism",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Personalism",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Personalism",
+      "target": "Personalism"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "Alfred Schutz",
+      "target": "Alfred Schutz"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Psychologism"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Personalism"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Latin American Philosophy"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "The Problem of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Intuitionism in the Philosophy of Mathematics",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Consciousness and Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Wilhelm Maximilian Wundt"
+    },
+    {
+      "source": "Psychologism",
+      "target": "Psychologism"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Albert Camus"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialist Aesthetics",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Existentialism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Alfred Schutz"
+    },
+    {
+      "source": "Jos\u00e9 Ortega y Gasset",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Philosophy of Biomedicine",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Empathy"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Carl Stumpf"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Hans-Georg Gadamer"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Philosophy in Mexico"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Mexican Existentialism",
+      "target": "Mexican Existentialism"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Philosophy in Mexico"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Jos\u00e9 Ortega y Gasset"
+    },
+    {
+      "source": "Latin American Philosophy",
+      "target": "Latin American Philosophy"
+    },
+    {
+      "source": "Carl Stumpf",
+      "target": "Franz Brentano"
+    },
+    {
+      "source": "Carl Stumpf",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Carl Stumpf",
+      "target": "Carl Stumpf"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Intuitionism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "Consciousness"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "The Problem of Perception"
+    },
+    {
+      "source": "The Contents of Perception",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Albert Camus"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Action-based Theories of Perception",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Action-based Theories of Perception",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Action-based Theories of Perception",
+      "target": "Action-based Theories of Perception"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Roman Ingarden",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Life"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Henri Bergson"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Existentialism"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Empathy"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Max Scheler"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Hans-Georg Gadamer",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Hans-Georg Gadamer",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Hans-Georg Gadamer",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Hans-Georg Gadamer",
+      "target": "Hans-Georg Gadamer"
+    },
+    {
+      "source": "Wilhelm Maximilian Wundt",
+      "target": "Introspection"
+    },
+    {
+      "source": "Wilhelm Maximilian Wundt",
+      "target": "Psychologism"
+    },
+    {
+      "source": "Wilhelm Maximilian Wundt",
+      "target": "Wilhelm Maximilian Wundt"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Gadamer\u2019s Aesthetics",
+      "target": "Hans-Georg Gadamer"
+    },
+    {
+      "source": "Gadamer\u2019s Aesthetics",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Gadamer\u2019s Aesthetics",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Gadamer\u2019s Aesthetics",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Bodily Awareness"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Consciousness"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Jean-Paul Sartre"
+    },
+    {
+      "source": "Phenomenological Approaches to Self-Consciousness",
+      "target": "Phenomenological Approaches to Self-Consciousness"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Edmund Husserl"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Jean Fran\u00e7ois Lyotard",
+      "target": "Jean Fran\u00e7ois Lyotard"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Ethics of Artificial Intelligence and Robotics"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Empirical Approaches to Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Privacy"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Turing Test",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Logic-Based Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Privacy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Rights"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Introspection"
+    },
+    {
+      "source": "John Dewey",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Wilhelm Maximilian Wundt"
+    },
+    {
+      "source": "John Dewey",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Theory and Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Life",
+      "target": "Life"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Jacques Derrida"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Hermeneutics"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Jean Fran\u00e7ois Lyotard"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Postmodernism",
+      "target": "Postmodernism"
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Existentialism"
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Friedrich Nietzsche"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Gadamer\u2019s Aesthetics"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Existentialist Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Maurice Merleau-Ponty"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Logic-Based Artificial Intelligence"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Mereology"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Sortals"
+    },
+    {
+      "source": "Material Constitution",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Functionalism",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Functionalism",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Francis Bacon"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Sortals",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Sortals",
+      "target": "Sortals"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Church-Turing Thesis",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Computability and Complexity",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "Turing Machines",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Mereology"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Sortals"
+    },
+    {
+      "source": "Identity Over Time",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Risk",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Consciousness and Intentionality"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "The Chinese Room Argument",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Functionalism"
+    },
+    {
+      "source": "Multiple Realizability",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "Episteme and Techne",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Justice",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Justice",
+      "target": "Justice"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Episteme and Techne"
+    },
+    {
+      "source": "Aristotle on Causality",
+      "target": "Aristotle on Causality"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Personal Identity and Ethics"
+    },
+    {
+      "source": "Human Enhancement",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Chinese Room Argument"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Church-Turing Thesis"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Computability and Complexity"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Functionalism"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Multiple Realizability"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Turing Machines"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Turing Test"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Boundary",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Boundary",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Boundary",
+      "target": "Life"
+    },
+    {
+      "source": "Boundary",
+      "target": "Mereology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Boundary",
+      "target": "The Contents of Perception"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Roman Ingarden"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Philosophy of Architecture",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Mereology"
+    },
+    {
+      "source": "Ordinary Objects",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Philosophy of Architecture"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Environmental Aesthetics",
+      "target": "Environmental Aesthetics"
+    },
+    {
+      "source": "Mereology",
+      "target": "Boundary"
+    },
+    {
+      "source": "Mereology",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Mereology",
+      "target": "Material Constitution"
+    },
+    {
+      "source": "Mereology",
+      "target": "Ordinary Objects"
+    },
+    {
+      "source": "Mereology",
+      "target": "Mereology"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Embodied Cognition"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Equality"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Social Epistemology",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Health Care Rationing"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biomedicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Genetics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Information Technology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Genetics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Hannah Arendt"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Equality"
+    },
+    {
+      "source": "Disability and Health Care Rationing",
+      "target": "Disability and Health Care Rationing"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Cloning"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Parenthood and Procreation",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Pregnancy, Birth, and Medicine",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Equality"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Justice"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Rights"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Metaphysics",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Ethics",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Simone de Beauvoir"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Equality",
+      "target": "Equality"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability and Health Care Rationing"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Well-Being",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Theory and Bioethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Bioethics",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Justice"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Privacy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Ethics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Metaphysics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Feminist Social Epistemology"
+    },
+    {
+      "source": "Mental Disorder (Illness)",
+      "target": "Mental Disorder (Illness)"
+    },
+    {
+      "source": "Contractarianism",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Cognitive Disability and Moral Status",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Disability and Well-Being"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Eugenics",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Pregnancy, Birth, and Medicine"
+    },
+    {
+      "source": "Eugenics",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Cognitive Disability and Moral Status"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Identity Over Time"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Eugenics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Feminist Bioethics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Human Enhancement"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "Parenthood and Procreation"
+    },
+    {
+      "source": "The Human Genome Project",
+      "target": "The Human Genome Project"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Cloning",
+      "target": "Eugenics"
+    },
+    {
+      "source": "Cloning",
+      "target": "Cloning"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Internet Research Ethics",
+      "target": "Internet Research Ethics"
+    }
+  ]
+}

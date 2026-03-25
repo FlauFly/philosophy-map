@@ -1,0 +1,5850 @@
+{
+  "nodes": [
+    {
+      "id": "Quotation",
+      "group": 1,
+      "address": "quotation"
+    },
+    {
+      "id": "Pragmatics",
+      "group": 2,
+      "address": "pragmatics"
+    },
+    {
+      "id": "Reference",
+      "group": 2,
+      "address": "reference"
+    },
+    {
+      "id": "Descriptions",
+      "group": 2,
+      "address": "descriptions"
+    },
+    {
+      "id": "Willard Van Orman Quine",
+      "group": 2,
+      "address": "quine"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 2,
+      "address": "davidson"
+    },
+    {
+      "id": "Alfred Tarski",
+      "group": 2,
+      "address": "tarski"
+    },
+    {
+      "id": "Sign Language Semantics",
+      "group": 2,
+      "address": "sign-language-semantics"
+    },
+    {
+      "id": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "group": 3,
+      "address": "literal-nonliteral-india"
+    },
+    {
+      "id": "Adolf Reinach",
+      "group": 3,
+      "address": "reinach"
+    },
+    {
+      "id": "Animal Cognition",
+      "group": 3,
+      "address": "cognition-animal"
+    },
+    {
+      "id": "Peter Frederick Strawson",
+      "group": 3,
+      "address": "strawson"
+    },
+    {
+      "id": "Fiction",
+      "group": 3,
+      "address": "fiction"
+    },
+    {
+      "id": "Disjunction",
+      "group": 3,
+      "address": "disjunction"
+    },
+    {
+      "id": "Two-Dimensional Semantics",
+      "group": 3,
+      "address": "two-dimensional-semantics"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Philosophy of Linguistics",
+      "group": 3,
+      "address": "linguistics"
+    },
+    {
+      "id": "Action",
+      "group": 3,
+      "address": "action"
+    },
+    {
+      "id": "Legal Interpretation",
+      "group": 3,
+      "address": "legal-interpretation"
+    },
+    {
+      "id": "Category Mistakes",
+      "group": 3,
+      "address": "category-mistakes"
+    },
+    {
+      "id": "Animal Communication",
+      "group": 3,
+      "address": "animal-communication"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Dynamic Semantics",
+      "group": 3,
+      "address": "dynamic-semantics"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Defaults in Semantics and Pragmatics",
+      "group": 3,
+      "address": "defaults-semantics-pragmatics"
+    },
+    {
+      "id": "Idiolects",
+      "group": 3,
+      "address": "idiolects"
+    },
+    {
+      "id": "Presupposition",
+      "group": 3,
+      "address": "presupposition"
+    },
+    {
+      "id": "Indexicals",
+      "group": 3,
+      "address": "indexicals"
+    },
+    {
+      "id": "Paul Grice",
+      "group": 3,
+      "address": "grice"
+    },
+    {
+      "id": "Ambiguity",
+      "group": 3,
+      "address": "ambiguity"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "Compositionality",
+      "group": 3,
+      "address": "compositionality"
+    },
+    {
+      "id": "Law and Language",
+      "group": 3,
+      "address": "law-language"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "group": 3,
+      "address": "implicature-optimality-games"
+    },
+    {
+      "id": "Metaphor",
+      "group": 3,
+      "address": "metaphor"
+    },
+    {
+      "id": "Promises",
+      "group": 3,
+      "address": "promises"
+    },
+    {
+      "id": "Goodman\u2019s Aesthetics",
+      "group": 3,
+      "address": "goodman-aesthetics"
+    },
+    {
+      "id": "Nonexistent Objects",
+      "group": 3,
+      "address": "nonexistent-objects"
+    },
+    {
+      "id": "Ayn Rand",
+      "group": 3,
+      "address": "ayn-rand"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Gottlob Frege",
+      "group": 3,
+      "address": "frege"
+    },
+    {
+      "id": "Epistemology in Classical Indian Philosophy",
+      "group": 3,
+      "address": "epistemology-india"
+    },
+    {
+      "id": "Presentism",
+      "group": 3,
+      "address": "presentism"
+    },
+    {
+      "id": "Singular Propositions",
+      "group": 3,
+      "address": "propositions-singular"
+    },
+    {
+      "id": "Feminist Philosophy of Language",
+      "group": 3,
+      "address": "feminism-language"
+    },
+    {
+      "id": "Logical Form",
+      "group": 3,
+      "address": "logical-form"
+    },
+    {
+      "id": "Causal Theories of Mental Content",
+      "group": 3,
+      "address": "content-causal"
+    },
+    {
+      "id": "Content Externalism and Skepticism",
+      "group": 3,
+      "address": "skepticism-content-externalism"
+    },
+    {
+      "id": "Natural Kinds",
+      "group": 3,
+      "address": "natural-kinds"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Scientific Representation",
+      "group": 3,
+      "address": "scientific-representation"
+    },
+    {
+      "id": "Alexius Meinong",
+      "group": 3,
+      "address": "meinong"
+    },
+    {
+      "id": "Montague Semantics",
+      "group": 3,
+      "address": "montague-semantics"
+    },
+    {
+      "id": "Phenomenal Intentionality",
+      "group": 3,
+      "address": "phenomenal-intentionality"
+    },
+    {
+      "id": "Names",
+      "group": 3,
+      "address": "names"
+    },
+    {
+      "id": "Theoretical Terms in Science",
+      "group": 3,
+      "address": "theoretical-terms-science"
+    },
+    {
+      "id": "Dharmak\u012brti",
+      "group": 3,
+      "address": "dharmakiirti"
+    },
+    {
+      "id": "Structured Propositions",
+      "group": 3,
+      "address": "propositions-structured"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "Mental Representation",
+      "group": 3,
+      "address": "mental-representation"
+    },
+    {
+      "id": "Rigid Designators",
+      "group": 3,
+      "address": "rigid-designators"
+    },
+    {
+      "id": "The Problem of the Many",
+      "group": 3,
+      "address": "problem-of-many"
+    },
+    {
+      "id": "Kant\u2019s Theory of Judgment",
+      "group": 3,
+      "address": "kant-judgment"
+    },
+    {
+      "id": "Teleological Theories of Mental Content",
+      "group": 3,
+      "address": "content-teleological"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Aristotle on Non-contradiction",
+      "group": 3,
+      "address": "aristotle-noncontradiction"
+    },
+    {
+      "id": "Logical Constructions",
+      "group": 3,
+      "address": "logical-construction"
+    },
+    {
+      "id": "Russell\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "russell-moral"
+    },
+    {
+      "id": "Principia Mathematica",
+      "group": 3,
+      "address": "principia-mathematica"
+    },
+    {
+      "id": "Existence",
+      "group": 3,
+      "address": "existence"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "Free Logic",
+      "group": 3,
+      "address": "logic-free"
+    },
+    {
+      "id": "Anaphora",
+      "group": 3,
+      "address": "anaphora"
+    },
+    {
+      "id": "Discourse Representation Theory",
+      "group": 3,
+      "address": "discourse-representation-theory"
+    },
+    {
+      "id": "Wittgenstein\u2019s Logical Atomism",
+      "group": 3,
+      "address": "wittgenstein-atomism"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Properties",
+      "group": 3,
+      "address": "intrinsic-extrinsic"
+    },
+    {
+      "id": "Russell\u2019s Logical Atomism",
+      "group": 3,
+      "address": "logical-atomism"
+    },
+    {
+      "id": "Common Ground in Pragmatics",
+      "group": 3,
+      "address": "common-ground-pragmatics"
+    },
+    {
+      "id": "Situations in Natural Language Semantics",
+      "group": 3,
+      "address": "situations-semantics"
+    },
+    {
+      "id": "Definitions",
+      "group": 3,
+      "address": "definitions"
+    },
+    {
+      "id": "Analysis",
+      "group": 3,
+      "address": "analysis"
+    },
+    {
+      "id": "Logic and Ontology",
+      "group": 3,
+      "address": "logic-ontology"
+    },
+    {
+      "id": "Clarence Irving Lewis",
+      "group": 3,
+      "address": "lewis-ci"
+    },
+    {
+      "id": "Underdetermination of Scientific Theory",
+      "group": 3,
+      "address": "scientific-underdetermination"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Logical Empiricism",
+      "group": 3,
+      "address": "logical-empiricism"
+    },
+    {
+      "id": "Anomalous Monism",
+      "group": 3,
+      "address": "anomalous-monism"
+    },
+    {
+      "id": "Carl Hempel",
+      "group": 3,
+      "address": "hempel"
+    },
+    {
+      "id": "Feminist Perspectives on Argumentation",
+      "group": 3,
+      "address": "feminism-argumentation"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Provability Logic",
+      "group": 3,
+      "address": "logic-provability"
+    },
+    {
+      "id": "Nominalism in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "nominalism-mathematics"
+    },
+    {
+      "id": "Vienna Circle",
+      "group": 3,
+      "address": "vienna-circle"
+    },
+    {
+      "id": "Pierre Duhem",
+      "group": 3,
+      "address": "duhem"
+    },
+    {
+      "id": "Meaning Holism",
+      "group": 3,
+      "address": "meaning-holism"
+    },
+    {
+      "id": "Indispensability Arguments in the Philosophy of Mathematics",
+      "group": 3,
+      "address": "mathphil-indis"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Combinatory Logic",
+      "group": 3,
+      "address": "logic-combinatory"
+    },
+    {
+      "id": "Quine\u2019s New Foundations",
+      "group": 3,
+      "address": "quine-nf"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Second-order and Higher-order Logic",
+      "group": 3,
+      "address": "logic-higher-order"
+    },
+    {
+      "id": "Ontological Commitment",
+      "group": 3,
+      "address": "ontological-commitment"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Naturalism",
+      "group": 3,
+      "address": "naturalism"
+    },
+    {
+      "id": "Ruth Barcan Marcus",
+      "group": 3,
+      "address": "ruth-barcan-marcus"
+    },
+    {
+      "id": "Nelson Goodman",
+      "group": 3,
+      "address": "goodman"
+    },
+    {
+      "id": "Schema",
+      "group": 3,
+      "address": "schema"
+    },
+    {
+      "id": "The Analytic/Synthetic Distinction",
+      "group": 3,
+      "address": "analytic-synthetic"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Sounds",
+      "group": 3,
+      "address": "sounds"
+    },
+    {
+      "id": "Truth",
+      "group": 3,
+      "address": "truth"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Agency",
+      "group": 3,
+      "address": "agency"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Logical Constants",
+      "group": 3,
+      "address": "logical-constants"
+    },
+    {
+      "id": "Self-Deception",
+      "group": 3,
+      "address": "self-deception"
+    },
+    {
+      "id": "Collingwood\u2019s Aesthetics",
+      "group": 3,
+      "address": "collingwood-aesthetics"
+    },
+    {
+      "id": "Robin George Collingwood",
+      "group": 3,
+      "address": "collingwood"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Richard Rorty",
+      "group": 3,
+      "address": "rorty"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Translating and Interpreting Chinese Philosophy",
+      "group": 3,
+      "address": "chinese-translate-interpret"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 3,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Primitivist Theories of Truth",
+      "group": 3,
+      "address": "truth-primitivist"
+    },
+    {
+      "id": "The Analysis of Knowledge",
+      "group": 3,
+      "address": "knowledge-analysis"
+    },
+    {
+      "id": "Practical Reason and the Structure of Actions",
+      "group": 3,
+      "address": "practical-reason-action"
+    },
+    {
+      "id": "Axiomatic Theories of Truth",
+      "group": 3,
+      "address": "truth-axiomatic"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 3,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Natural Language Ontology",
+      "group": 3,
+      "address": "natural-language-ontology"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Gertrude Elizabeth Margaret Anscombe",
+      "group": 3,
+      "address": "anscombe"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "Medieval Theories of Consequence",
+      "group": 3,
+      "address": "consequence-medieval"
+    },
+    {
+      "id": "Logical Consequence",
+      "group": 3,
+      "address": "logical-consequence"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 3,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 3,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Stanis\u0142aw Le\u015bniewski",
+      "group": 3,
+      "address": "lesniewski"
+    },
+    {
+      "id": "Algebra",
+      "group": 3,
+      "address": "algebra"
+    },
+    {
+      "id": "Logical Truth",
+      "group": 3,
+      "address": "logical-truth"
+    },
+    {
+      "id": "The Possibilism-Actualism Debate",
+      "group": 3,
+      "address": "possibilism-actualism"
+    },
+    {
+      "id": "Bolzano\u2019s Logic",
+      "group": 3,
+      "address": "bolzano-logic"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Alfred North Whitehead",
+      "group": 3,
+      "address": "whitehead"
+    },
+    {
+      "id": "Type Theory",
+      "group": 3,
+      "address": "type-theory"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "Kurt G\u00f6del",
+      "group": 3,
+      "address": "goedel"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Lvov-Warsaw School",
+      "group": 3,
+      "address": "lvov-warsaw"
+    },
+    {
+      "id": "Plural Quantification",
+      "group": 3,
+      "address": "plural-quant"
+    },
+    {
+      "id": "Innateness and Language",
+      "group": 3,
+      "address": "innateness-language"
+    },
+    {
+      "id": "Tense and Aspect",
+      "group": 3,
+      "address": "tense-aspect"
+    }
+  ],
+  "links": [
+    {
+      "source": "Pragmatics",
+      "target": "Quotation"
+    },
+    {
+      "source": "Quotation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Quotation",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Quotation",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Quotation",
+      "target": "Reference"
+    },
+    {
+      "source": "Quotation",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Quotation"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Fiction",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Negation",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Action"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Reference"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Pragmatics",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Pragmatics"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Reference"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Reference"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Reference"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Reference"
+    },
+    {
+      "source": "Dharmak\u012brti",
+      "target": "Reference"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Reference"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Reference"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Reference"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Reference"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Reference"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Reference"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Reference"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Reference"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Reference"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Reference"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Reference"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Reference"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Reference"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Reference"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Reference"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Reference"
+    },
+    {
+      "source": "Names",
+      "target": "Reference"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Reference"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Reference"
+    },
+    {
+      "source": "Object",
+      "target": "Reference"
+    },
+    {
+      "source": "Presentism",
+      "target": "Reference"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Reference"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Reference"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Reference"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Reference"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Reference"
+    },
+    {
+      "source": "Reference",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Reference",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Reference",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Reference",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Reference",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Reference",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Reference",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Reference",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Reference",
+      "target": "Names"
+    },
+    {
+      "source": "Reference",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Reference",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Reference",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Reference",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Reference"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Reference"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Reference"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Reference"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Reference"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Reference"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Reference"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Reference"
+    },
+    {
+      "source": "Analysis",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Definitions",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Names"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Descriptions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Existence",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Implicature",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Descriptions"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Descriptions"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Meaning Holism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Object",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Schema",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Action",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Agency",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Belief",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Action"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Events"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Meaning Holism"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Truth"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Events",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Relativism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Sounds",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Bolzano\u2019s Logic",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Schema",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Algebra"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Stanis\u0142aw Le\u015bniewski"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Natural Language Ontology"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Sign Language Semantics",
+      "target": "Tense and Aspect"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Dharmak\u012brti"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "Metaphor"
+    },
+    {
+      "source": "The Literal-Nonliteral Distinction in Classical Indian Philosophy",
+      "target": "The Literal-Nonliteral Distinction in Classical Indian Philosophy"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Promises"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Action"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Belief"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Dharmak\u012brti"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Animal Cognition",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Truth"
+    },
+    {
+      "source": "Peter Frederick Strawson",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Fiction",
+      "target": "Fiction"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Implicature"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Negation"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Montague Semantics"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Names"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Action"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Meaning Holism"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Names"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Relativism"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Tense and Aspect"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Analysis"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Idiolects"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Relativism"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Philosophy of Linguistics",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Action",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Action",
+      "target": "Events"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Action",
+      "target": "Action"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Assertion"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Legal Interpretation",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Category Mistakes",
+      "target": "Category Mistakes"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Implicature"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Animal Communication",
+      "target": "Animal Communication"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Negation",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Negation",
+      "target": "Implicature"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Negation",
+      "target": "Montague Semantics"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Assertion"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Belief"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Implicature"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Names"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Implicature"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Dynamic Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Assertion",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Assertion",
+      "target": "Belief"
+    },
+    {
+      "source": "Assertion",
+      "target": "Definitions"
+    },
+    {
+      "source": "Assertion",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Assertion",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Assertion",
+      "target": "Implicature"
+    },
+    {
+      "source": "Assertion",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Assertion",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Assertion",
+      "target": "Truth"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Implicature",
+      "target": "Assertion"
+    },
+    {
+      "source": "Implicature",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Implicature",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Implicature",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Implicature",
+      "target": "Negation"
+    },
+    {
+      "source": "Implicature",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Implicature",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Idiolects",
+      "target": "Idiolects"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Assertion"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Presupposition",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Names"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Indexicals",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Assertion"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Implicature"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Ambiguity",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Action"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Truth"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Ambiguity"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Montague Semantics"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Legal Interpretation"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Assertion"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Implicature"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Metaphor",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Promises",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Promises",
+      "target": "Promises"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Metaphor"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Relativism"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Existence"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Nonexistent Objects",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Ayn Rand"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Belief"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Indexicals"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intentionality"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Physicalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Set Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Supervenience"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Truth"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Dharmak\u012brti"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Truth"
+    },
+    {
+      "source": "Epistemology in Classical Indian Philosophy",
+      "target": "Epistemology in Classical Indian Philosophy"
+    },
+    {
+      "source": "Presentism",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Presentism",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Presentism",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Presentism",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Presentism",
+      "target": "Presentism"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Existence"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Names"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Paul Grice"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Implicature"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Feminist Philosophy of Language",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Analysis"
+    },
+    {
+      "source": "Logical Form",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Names"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Causal Theories of Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Content Externalism and Skepticism",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Names"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Relativism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Existence"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Scientific Representation",
+      "target": "Scientific Representation"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Existence"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Alexius Meinong",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Montague Semantics",
+      "target": "Montague Semantics"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Phenomenal Intentionality",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Names",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Names",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Names",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Names",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Names",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Names",
+      "target": "Names"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Definitions"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Theoretical Terms in Science",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Dharmak\u012brti",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Dharmak\u012brti",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Dharmak\u012brti",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Dharmak\u012brti",
+      "target": "Dharmak\u012brti"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Belief"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Object",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Object",
+      "target": "Existence"
+    },
+    {
+      "source": "Object",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Object",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Object",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Object",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Object",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Object",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Object",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Object",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Object",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Object",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Object",
+      "target": "Truth"
+    },
+    {
+      "source": "Object",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Mental Representation",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Names"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Rigid Designators",
+      "target": "Rigid Designators"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Indexicals"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "The Problem of the Many",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Teleological Theories of Mental Content",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Relativism"
+    },
+    {
+      "source": "Aristotle on Non-contradiction",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Analysis"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Existence",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Existence",
+      "target": "Names"
+    },
+    {
+      "source": "Existence",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Existence",
+      "target": "Object"
+    },
+    {
+      "source": "Existence",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Existence",
+      "target": "Existence"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Montague Semantics"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Free Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Anaphora",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Events"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Discourse Representation Theory",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Names"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Events"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Assertion"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Belief"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Presupposition"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Promises"
+    },
+    {
+      "source": "Common Ground in Pragmatics",
+      "target": "Common Ground in Pragmatics"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Events"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Indexicals"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "The Problem of the Many"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Tense and Aspect"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Definitions",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Definitions",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Definitions",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Definitions",
+      "target": "Definitions"
+    },
+    {
+      "source": "Analysis",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Analysis",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Analysis",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Analysis",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Analysis",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Analysis",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Analysis",
+      "target": "Analysis"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Object"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Logic and Ontology",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Nelson Goodman"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Naturalism"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Action"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Events"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Nelson Goodman"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Feminist Perspectives on Argumentation",
+      "target": "Feminist Perspectives on Argumentation"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Provability Logic",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Nominalism in the Philosophy of Mathematics",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Meaning Holism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Meaning Holism",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Meaning Holism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Meaning Holism",
+      "target": "Meaning Holism"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Meaning Holism"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Indispensability Arguments in the Philosophy of Mathematics",
+      "target": "Indispensability Arguments in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Aristotle on Non-contradiction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Algebra"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Combinatory Logic",
+      "target": "Combinatory Logic"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Quine\u2019s New Foundations",
+      "target": "Quine\u2019s New Foundations"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Existence"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Existence"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Language"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Naturalism",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Belief"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Existence"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Names"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Ruth Barcan Marcus",
+      "target": "Ruth Barcan Marcus"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Stanis\u0142aw Le\u015bniewski"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Nominalism in the Philosophy of Mathematics"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Relativism"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Nelson Goodman",
+      "target": "Nelson Goodman"
+    },
+    {
+      "source": "Schema",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Schema",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Schema",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Schema",
+      "target": "Schema"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Analysis"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Definitions"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Naturalism"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Analytic/Synthetic Distinction",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Theoretical Terms in Science"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Sounds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Sounds",
+      "target": "Events"
+    },
+    {
+      "source": "Sounds",
+      "target": "Sounds"
+    },
+    {
+      "source": "Truth",
+      "target": "Assertion"
+    },
+    {
+      "source": "Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Relativism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Relativism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Agency",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Agency",
+      "target": "Events"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Events",
+      "target": "Action"
+    },
+    {
+      "source": "Events",
+      "target": "Agency"
+    },
+    {
+      "source": "Events",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Events",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Existence"
+    },
+    {
+      "source": "Events",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Events",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Object"
+    },
+    {
+      "source": "Events",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Events",
+      "target": "Natural Language Ontology"
+    },
+    {
+      "source": "Events",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Events",
+      "target": "Sounds"
+    },
+    {
+      "source": "Events",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Events",
+      "target": "Tense and Aspect"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Action"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Belief"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Robin George Collingwood"
+    },
+    {
+      "source": "Collingwood\u2019s Aesthetics",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Action"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Collingwood\u2019s Aesthetics"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Robin George Collingwood",
+      "target": "Robin George Collingwood"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Action"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Naturalism"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Relativism"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Belief",
+      "target": "Animal Cognition"
+    },
+    {
+      "source": "Belief",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Belief",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Phenomenal Intentionality"
+    },
+    {
+      "source": "Belief",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Belief",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Belief",
+      "target": "Causal Theories of Mental Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Teleological Theories of Mental Content"
+    },
+    {
+      "source": "Belief",
+      "target": "Mental Representation"
+    },
+    {
+      "source": "Belief",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Belief",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Relativism"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Truth"
+    },
+    {
+      "source": "Translating and Interpreting Chinese Philosophy",
+      "target": "Translating and Interpreting Chinese Philosophy"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Action"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Definitions"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Primitivist Theories of Truth"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "Content Externalism and Skepticism"
+    },
+    {
+      "source": "The Analysis of Knowledge",
+      "target": "The Analysis of Knowledge"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Action"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Agency"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Anaphora"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Category Mistakes"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Events"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Existence"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Philosophy of Linguistics"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Object"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Dynamic Semantics"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Montague Semantics"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Peter Frederick Strawson"
+    },
+    {
+      "source": "Natural Language Ontology",
+      "target": "Natural Language Ontology"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Action"
+    },
+    {
+      "source": "Gertrude Elizabeth Margaret Anscombe",
+      "target": "Gertrude Elizabeth Margaret Anscombe"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Schema"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Schema"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Provability Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Definitions"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Stanis\u0142aw Le\u015bniewski"
+    },
+    {
+      "source": "Algebra",
+      "target": "Algebra"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "The Analytic/Synthetic Distinction"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Compositionality"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "David Lewis"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Free Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Nonexistent Objects"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Bolzano\u2019s Logic",
+      "target": "Bolzano\u2019s Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebra"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Free Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Belief"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alexius Meinong"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Object"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Relativism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Kurt G\u00f6del",
+      "target": "Kurt G\u00f6del"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Logic and Ontology"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Plural Quantification",
+      "target": "Plural Quantification"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Idiolects"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Innateness and Language",
+      "target": "Innateness and Language"
+    },
+    {
+      "source": "Tense and Aspect",
+      "target": "Discourse Representation Theory"
+    },
+    {
+      "source": "Tense and Aspect",
+      "target": "Events"
+    },
+    {
+      "source": "Tense and Aspect",
+      "target": "Tense and Aspect"
+    }
+  ]
+}

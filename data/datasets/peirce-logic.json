@@ -1,0 +1,4120 @@
+{
+  "nodes": [
+    {
+      "id": "Peirce\u2019s Deductive Logic",
+      "group": 1,
+      "address": "peirce-logic"
+    },
+    {
+      "id": "Benjamin Peirce",
+      "group": 2,
+      "address": "peirce-benjamin"
+    },
+    {
+      "id": "The Emergence of First-Order Logic",
+      "group": 2,
+      "address": "logic-firstorder-emergence"
+    },
+    {
+      "id": "Many-Valued Logic",
+      "group": 2,
+      "address": "logic-manyvalued"
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "group": 2,
+      "address": "peirce"
+    },
+    {
+      "id": "Pragmatism",
+      "group": 2,
+      "address": "pragmatism"
+    },
+    {
+      "id": "Propositional Function",
+      "group": 2,
+      "address": "propositional-function"
+    },
+    {
+      "id": "The Algebra of Logic Tradition",
+      "group": 2,
+      "address": "algebra-logic-tradition"
+    },
+    {
+      "id": "Frege\u2019s Logic",
+      "group": 2,
+      "address": "frege-logic"
+    },
+    {
+      "id": "Peirce\u2019s Theory of Signs",
+      "group": 2,
+      "address": "peirce-semiotics"
+    },
+    {
+      "id": "George Boole",
+      "group": 2,
+      "address": "boole"
+    },
+    {
+      "id": "Types and Tokens",
+      "group": 2,
+      "address": "types-tokens"
+    },
+    {
+      "id": "Diagrams and Diagrammatical Reasoning",
+      "group": 2,
+      "address": "diagrams"
+    },
+    {
+      "id": "Zermelo\u2019s Axiomatization of Set Theory",
+      "group": 3,
+      "address": "zermelo-set-theory"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Alfred North Whitehead",
+      "group": 3,
+      "address": "whitehead"
+    },
+    {
+      "id": "The Development of Proof Theory",
+      "group": 3,
+      "address": "proof-theory-development"
+    },
+    {
+      "id": "Gottlob Frege",
+      "group": 3,
+      "address": "frege"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "G\u00f6del\u2019s Incompleteness Theorems",
+      "group": 3,
+      "address": "goedel-incompleteness"
+    },
+    {
+      "id": "The Epsilon Calculus",
+      "group": 3,
+      "address": "epsilon-calculus"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "Russell\u2019s Paradox",
+      "group": 3,
+      "address": "russell-paradox"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "Skolem\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-skolem"
+    },
+    {
+      "id": "Second-order and Higher-order Logic",
+      "group": 3,
+      "address": "logic-higher-order"
+    },
+    {
+      "id": "Type Theory",
+      "group": 3,
+      "address": "type-theory"
+    },
+    {
+      "id": "Relevance Logic",
+      "group": 3,
+      "address": "logic-relevance"
+    },
+    {
+      "id": "Combining Logics",
+      "group": 3,
+      "address": "logic-combining"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 3,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 3,
+      "address": "self-reference"
+    },
+    {
+      "id": "Substructural Logics",
+      "group": 3,
+      "address": "logic-substructural"
+    },
+    {
+      "id": "Disjunction",
+      "group": 3,
+      "address": "disjunction"
+    },
+    {
+      "id": "Quantifiers and Quantification",
+      "group": 3,
+      "address": "quantification"
+    },
+    {
+      "id": "Fuzzy Logic",
+      "group": 3,
+      "address": "logic-fuzzy"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "Vagueness",
+      "group": 3,
+      "address": "vagueness"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Contradiction",
+      "group": 3,
+      "address": "contradiction"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Truth Values",
+      "group": 3,
+      "address": "truth-values"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Propositional Logic",
+      "group": 3,
+      "address": "logic-propositional"
+    },
+    {
+      "id": "Future Contingents",
+      "group": 3,
+      "address": "future-contingents"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "Connexive Logic",
+      "group": 3,
+      "address": "logic-connexive"
+    },
+    {
+      "id": "Jan \u0141ukasiewicz",
+      "group": 3,
+      "address": "lukasiewicz"
+    },
+    {
+      "id": "Axiomatic Theories of Truth",
+      "group": 3,
+      "address": "truth-axiomatic"
+    },
+    {
+      "id": "Compositionality",
+      "group": 3,
+      "address": "compositionality"
+    },
+    {
+      "id": "Proof Theory",
+      "group": 3,
+      "address": "proof-theory"
+    },
+    {
+      "id": "Generalized Quantifiers",
+      "group": 3,
+      "address": "generalized-quantifiers"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Lvov-Warsaw School",
+      "group": 3,
+      "address": "lvov-warsaw"
+    },
+    {
+      "id": "Sentence Connectives in Formal Logic",
+      "group": 3,
+      "address": "connectives-logic"
+    },
+    {
+      "id": "Modern Origins of Modal Logic",
+      "group": 3,
+      "address": "logic-modal-origins"
+    },
+    {
+      "id": "Continuity and Infinitesimals",
+      "group": 3,
+      "address": "continuity"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Truth",
+      "group": 3,
+      "address": "truth"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Argument and Argumentation",
+      "group": 3,
+      "address": "argument"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "The Medieval Problem of Universals",
+      "group": 3,
+      "address": "universals-medieval"
+    },
+    {
+      "id": "Josiah Royce",
+      "group": 3,
+      "address": "royce"
+    },
+    {
+      "id": "Panpsychism",
+      "group": 3,
+      "address": "panpsychism"
+    },
+    {
+      "id": "Thomas of Erfurt",
+      "group": 3,
+      "address": "erfurt"
+    },
+    {
+      "id": "Charles Hartshorne",
+      "group": 3,
+      "address": "hartshorne"
+    },
+    {
+      "id": "James Ward",
+      "group": 3,
+      "address": "james-ward"
+    },
+    {
+      "id": "William James",
+      "group": 3,
+      "address": "james"
+    },
+    {
+      "id": "William Whewell",
+      "group": 3,
+      "address": "whewell"
+    },
+    {
+      "id": "Aristotle\u2019s Logic",
+      "group": 3,
+      "address": "aristotle-logic"
+    },
+    {
+      "id": "Intersections Between Pragmatist and Continental Feminism",
+      "group": 3,
+      "address": "femapproach-prag-cont"
+    },
+    {
+      "id": "Primitivist Theories of Truth",
+      "group": 3,
+      "address": "truth-primitivist"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Jane Addams",
+      "group": 3,
+      "address": "addams-jane"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Georg Wilhelm Friedrich Hegel",
+      "group": 3,
+      "address": "hegel"
+    },
+    {
+      "id": "George Santayana",
+      "group": 3,
+      "address": "santayana"
+    },
+    {
+      "id": "John Dewey",
+      "group": 3,
+      "address": "dewey"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Idealism",
+      "group": 3,
+      "address": "idealism"
+    },
+    {
+      "id": "George Herbert Mead",
+      "group": 3,
+      "address": "mead"
+    },
+    {
+      "id": "Medieval Semiotics",
+      "group": 3,
+      "address": "semiotics-medieval"
+    },
+    {
+      "id": "Chauncey Wright",
+      "group": 3,
+      "address": "wright"
+    },
+    {
+      "id": "The Pragmatic Theory of Truth",
+      "group": 3,
+      "address": "truth-pragmatic"
+    },
+    {
+      "id": "The Structure of Scientific Theories",
+      "group": 3,
+      "address": "structure-scientific-theories"
+    },
+    {
+      "id": "The Ethics of Belief",
+      "group": 3,
+      "address": "ethics-belief"
+    },
+    {
+      "id": "J\u00fcrgen Habermas",
+      "group": 3,
+      "address": "habermas"
+    },
+    {
+      "id": "Clarence Irving Lewis",
+      "group": 3,
+      "address": "lewis-ci"
+    },
+    {
+      "id": "W.E.B. Du Bois",
+      "group": 3,
+      "address": "dubois"
+    },
+    {
+      "id": "Latinx Philosophy",
+      "group": 3,
+      "address": "latinx"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Pragmatist Feminism",
+      "group": 3,
+      "address": "femapproach-pragmatism"
+    },
+    {
+      "id": "Dewey\u2019s Political Philosophy",
+      "group": 3,
+      "address": "dewey-political"
+    },
+    {
+      "id": "Dewey\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "dewey-moral"
+    },
+    {
+      "id": "Philosophy for Children",
+      "group": 3,
+      "address": "children"
+    },
+    {
+      "id": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "group": 3,
+      "address": "quantum-bayesian"
+    },
+    {
+      "id": "Richard Rorty",
+      "group": 3,
+      "address": "rorty"
+    },
+    {
+      "id": "Hans Vaihinger",
+      "group": 3,
+      "address": "vaihinger"
+    },
+    {
+      "id": "Dewey\u2019s Aesthetics",
+      "group": 3,
+      "address": "dewey-aesthetics"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "Philosophy of Education",
+      "group": 3,
+      "address": "education-philosophy"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "The Genotype/Phenotype Distinction",
+      "group": 3,
+      "address": "genotype-phenotype"
+    },
+    {
+      "id": "Pragmatic Arguments and Belief in God",
+      "group": 3,
+      "address": "pragmatic-belief-god"
+    },
+    {
+      "id": "Sidney Hook",
+      "group": 3,
+      "address": "sidney-hook"
+    },
+    {
+      "id": "Alain LeRoy Locke",
+      "group": 3,
+      "address": "alain-locke"
+    },
+    {
+      "id": "Logical Constructions",
+      "group": 3,
+      "address": "logical-construction"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Russell\u2019s Logical Atomism",
+      "group": 3,
+      "address": "logical-atomism"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "group": 3,
+      "address": "frege-theorem"
+    },
+    {
+      "id": "Principia Mathematica",
+      "group": 3,
+      "address": "principia-mathematica"
+    },
+    {
+      "id": "Emily Elizabeth Constance Jones",
+      "group": 3,
+      "address": "emily-elizabeth-constance-jones"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Leibniz\u2019s Influence on 19th Century Logic",
+      "group": 3,
+      "address": "leibniz-logic-influence"
+    },
+    {
+      "id": "The Mathematics of Boolean Algebra",
+      "group": 3,
+      "address": "boolalg-math"
+    },
+    {
+      "id": "Algebra",
+      "group": 3,
+      "address": "algebra"
+    },
+    {
+      "id": "The Frege-Hilbert Controversy",
+      "group": 3,
+      "address": "frege-hilbert"
+    },
+    {
+      "id": "Logicism and Neologicism",
+      "group": 3,
+      "address": "logicism"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "The Definition of Lying and Deception",
+      "group": 3,
+      "address": "lying-definition"
+    },
+    {
+      "id": "William Stanley Jevons",
+      "group": 3,
+      "address": "william-jevons"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "Nominalism in Metaphysics",
+      "group": 3,
+      "address": "nominalism-metaphysics"
+    },
+    {
+      "id": "Realism",
+      "group": 3,
+      "address": "realism"
+    },
+    {
+      "id": "Wilfrid Sellars",
+      "group": 3,
+      "address": "sellars"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "The Mind/Brain Identity Theory",
+      "group": 3,
+      "address": "mind-identity"
+    },
+    {
+      "id": "Stanis\u0142aw Le\u015bniewski",
+      "group": 3,
+      "address": "lesniewski"
+    },
+    {
+      "id": "Goodman\u2019s Aesthetics",
+      "group": 3,
+      "address": "goodman-aesthetics"
+    },
+    {
+      "id": "The Epistemology of Visual Thinking in Mathematics",
+      "group": 3,
+      "address": "epistemology-visual-thinking"
+    },
+    {
+      "id": "Epistemology of Geometry",
+      "group": 3,
+      "address": "epistemology-geometry"
+    },
+    {
+      "id": "Non-Deductive Methods in Mathematics",
+      "group": 3,
+      "address": "mathematics-nondeductive"
+    },
+    {
+      "id": "Cognitive Science",
+      "group": 3,
+      "address": "cognitive-science"
+    },
+    {
+      "id": "Mental Imagery",
+      "group": 3,
+      "address": "mental-imagery"
+    }
+  ],
+  "links": [
+    {
+      "source": "Diagrams and Diagrammatical Reasoning",
+      "target": "Peirce\u2019s Deductive Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Peirce\u2019s Deductive Logic"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Peirce\u2019s Deductive Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Peirce\u2019s Deductive Logic"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "George Boole"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Diagrams and Diagrammatical Reasoning"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Frege\u2019s Logic"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Benjamin Peirce"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Peirce\u2019s Theory of Signs"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Peirce\u2019s Theory of Signs",
+      "target": "Peirce\u2019s Deductive Logic"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Peirce\u2019s Deductive Logic"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Benjamin Peirce"
+    },
+    {
+      "source": "Benjamin Peirce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Benjamin Peirce"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Zermelo\u2019s Axiomatization of Set Theory"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "The Emergence of First-Order Logic",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "The Emergence of First-Order Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Future Contingents"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Jan \u0141ukasiewicz"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Many-Valued Logic",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Jan \u0141ukasiewicz",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Many-Valued Logic"
+    },
+    {
+      "source": "Abduction",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Assertion",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Charles Hartshorne",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Idealism",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "William James"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Peirce\u2019s Theory of Signs",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "George Santayana",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Medieval Semiotics",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Thomas of Erfurt",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "James Ward",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "Chauncey Wright",
+      "target": "Charles Sanders Peirce"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Dewey\u2019s Moral Philosophy",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "William James",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Alain LeRoy Locke",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Peirce\u2019s Theory of Signs",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Jane Addams"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Philosophy for Children"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Dewey\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "W.E.B. Du Bois"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Sidney Hook"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "William James"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Alain LeRoy Locke"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Peirce\u2019s Theory of Signs"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "George Santayana"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "The Pragmatic Theory of Truth"
+    },
+    {
+      "source": "Pragmatism",
+      "target": "Chauncey Wright"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Pragmatism"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Properties",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Function",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Propositional Function"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "Algebra"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "George Boole"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "Leibniz\u2019s Influence on 19th Century Logic"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "Model Theory"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "George Boole",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Frege\u2019s Logic"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frege\u2019s Logic",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Frege\u2019s Logic"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Peirce\u2019s Theory of Signs"
+    },
+    {
+      "source": "Peirce\u2019s Theory of Signs",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Peirce\u2019s Theory of Signs",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Peirce\u2019s Theory of Signs"
+    },
+    {
+      "source": "George Boole",
+      "target": "Algebra"
+    },
+    {
+      "source": "George Boole",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "George Boole"
+    },
+    {
+      "source": "William Stanley Jevons",
+      "target": "George Boole"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "George Boole"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "George Boole"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "George Boole"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Nominalism in Metaphysics",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Properties",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Wilfrid Sellars",
+      "target": "Types and Tokens"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Properties"
+    },
+    {
+      "source": "Types and Tokens",
+      "target": "Realism"
+    },
+    {
+      "source": "Diagrams and Diagrammatical Reasoning",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Diagrams and Diagrammatical Reasoning",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Diagrams and Diagrammatical Reasoning",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Epistemology of Geometry",
+      "target": "Diagrams and Diagrammatical Reasoning"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Diagrams and Diagrammatical Reasoning"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Diagrams and Diagrammatical Reasoning"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Diagrams and Diagrammatical Reasoning"
+    },
+    {
+      "source": "The Epistemology of Visual Thinking in Mathematics",
+      "target": "Diagrams and Diagrammatical Reasoning"
+    },
+    {
+      "source": "Zermelo\u2019s Axiomatization of Set Theory",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Zermelo\u2019s Axiomatization of Set Theory",
+      "target": "Zermelo\u2019s Axiomatization of Set Theory"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Alfred North Whitehead",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "G\u00f6del\u2019s Incompleteness Theorems",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "The Epsilon Calculus",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Emily Elizabeth Constance Jones"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Russell\u2019s Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Zermelo\u2019s Axiomatization of Set Theory"
+    },
+    {
+      "source": "Skolem\u2019s Paradox",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Second-order and Higher-order Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Type Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Combining Logics",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Jan \u0141ukasiewicz"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Substructural Logics",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Negation"
+    },
+    {
+      "source": "Disjunction",
+      "target": "Disjunction"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Quantifiers and Quantification",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Fuzzy Logic",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebra"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Properties"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Vagueness",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Second-order and Higher-order Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Negation"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Contradiction",
+      "target": "Contradiction"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Truth Values",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Truth Values",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Fuzzy Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Logic",
+      "target": "Propositional Logic"
+    },
+    {
+      "source": "Future Contingents",
+      "target": "Future Contingents"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Contradiction"
+    },
+    {
+      "source": "Negation",
+      "target": "Future Contingents"
+    },
+    {
+      "source": "Negation",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Negation",
+      "target": "Vagueness"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Connexive Logic",
+      "target": "Connexive Logic"
+    },
+    {
+      "source": "Jan \u0141ukasiewicz",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Jan \u0141ukasiewicz",
+      "target": "Jan \u0141ukasiewicz"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "G\u00f6del\u2019s Incompleteness Theorems"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Substructural Logics"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Axiomatic Theories of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Proof Theory",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Lvov-Warsaw School",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Algebra"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Sentence Connectives in Formal Logic",
+      "target": "Sentence Connectives in Formal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Jan \u0141ukasiewicz"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Abduction"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Combining Logics"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Truth",
+      "target": "Assertion"
+    },
+    {
+      "source": "Truth",
+      "target": "William James"
+    },
+    {
+      "source": "Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Truth",
+      "target": "Realism"
+    },
+    {
+      "source": "Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth Values"
+    },
+    {
+      "source": "Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Abduction"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Argument and Argumentation",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Properties"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Idealism"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "William James"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Realism"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Charles Hartshorne"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "William James"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Panpsychism",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Thomas of Erfurt",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Thomas of Erfurt",
+      "target": "Thomas of Erfurt"
+    },
+    {
+      "source": "Charles Hartshorne",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "Charles Hartshorne",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Charles Hartshorne",
+      "target": "Charles Hartshorne"
+    },
+    {
+      "source": "James Ward",
+      "target": "Charles Hartshorne"
+    },
+    {
+      "source": "James Ward",
+      "target": "Panpsychism"
+    },
+    {
+      "source": "James Ward",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "James Ward",
+      "target": "James Ward"
+    },
+    {
+      "source": "William James",
+      "target": "John Dewey"
+    },
+    {
+      "source": "William James",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "William James",
+      "target": "William James"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "William Whewell",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Future Contingents"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "William James"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Primitivist Theories of Truth",
+      "target": "Primitivist Theories of Truth"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "William James"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "William James"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Jane Addams",
+      "target": "Jane Addams"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Assertion",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Assertion",
+      "target": "Truth"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "William James"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Idealism"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "George Santayana",
+      "target": "John Dewey"
+    },
+    {
+      "source": "George Santayana",
+      "target": "William James"
+    },
+    {
+      "source": "George Santayana",
+      "target": "George Santayana"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Jane Addams"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Moral Philosophy"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Sidney Hook"
+    },
+    {
+      "source": "John Dewey",
+      "target": "William James"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "John Dewey",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "John Dewey",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "John Dewey",
+      "target": "Wilfrid Sellars"
+    },
+    {
+      "source": "John Dewey",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Idealism",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Idealism",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "Idealism",
+      "target": "William James"
+    },
+    {
+      "source": "Idealism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Idealism",
+      "target": "Realism"
+    },
+    {
+      "source": "Idealism",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Idealism",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Idealism",
+      "target": "Wilfrid Sellars"
+    },
+    {
+      "source": "Idealism",
+      "target": "Idealism"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Jane Addams"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "John Dewey"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "William James"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "George Herbert Mead",
+      "target": "George Herbert Mead"
+    },
+    {
+      "source": "Medieval Semiotics",
+      "target": "Thomas of Erfurt"
+    },
+    {
+      "source": "Medieval Semiotics",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Chauncey Wright",
+      "target": "William James"
+    },
+    {
+      "source": "Chauncey Wright",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Chauncey Wright",
+      "target": "Chauncey Wright"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The Pragmatic Theory of Truth",
+      "target": "The Pragmatic Theory of Truth"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Model Theory"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Skolem\u2019s Paradox"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "The Ethics of Belief",
+      "target": "The Ethics of Belief"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "Argument and Argumentation"
+    },
+    {
+      "source": "J\u00fcrgen Habermas",
+      "target": "J\u00fcrgen Habermas"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Clarence Irving Lewis",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "W.E.B. Du Bois",
+      "target": "Georg Wilhelm Friedrich Hegel"
+    },
+    {
+      "source": "W.E.B. Du Bois",
+      "target": "William James"
+    },
+    {
+      "source": "W.E.B. Du Bois",
+      "target": "Alain LeRoy Locke"
+    },
+    {
+      "source": "W.E.B. Du Bois",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "W.E.B. Du Bois",
+      "target": "W.E.B. Du Bois"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Properties"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Truth"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Jane Addams"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Pragmatist Feminism",
+      "target": "Pragmatist Feminism"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Jane Addams"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Dewey\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Dewey\u2019s Political Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Dewey\u2019s Moral Philosophy",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Moral Philosophy",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Moral Philosophy",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Dewey\u2019s Moral Philosophy",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Dewey\u2019s Moral Philosophy",
+      "target": "Dewey\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philosophy for Children",
+      "target": "Philosophy for Children"
+    },
+    {
+      "source": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "target": "Quantum-Bayesian and Pragmatist Views of Quantum Theory"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Wilfrid Sellars"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "The Pragmatic Theory of Truth"
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Hans Vaihinger",
+      "target": "Hans Vaihinger"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Dewey\u2019s Aesthetics",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Realism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Axiomatic Theories of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Philosophy for Children"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Philosophy of Education",
+      "target": "Philosophy of Education"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "William James"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Dewey\u2019s Political Philosophy"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Sidney Hook",
+      "target": "Sidney Hook"
+    },
+    {
+      "source": "Alain LeRoy Locke",
+      "target": "John Dewey"
+    },
+    {
+      "source": "Alain LeRoy Locke",
+      "target": "W.E.B. Du Bois"
+    },
+    {
+      "source": "Alain LeRoy Locke",
+      "target": "William James"
+    },
+    {
+      "source": "Alain LeRoy Locke",
+      "target": "Alain LeRoy Locke"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Properties",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Properties",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Properties",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Properties",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Properties",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Frege\u2019s Theorem and Foundations for Arithmetic",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Alfred North Whitehead"
+    },
+    {
+      "source": "Principia Mathematica",
+      "target": "Principia Mathematica"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "William Stanley Jevons"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Emily Elizabeth Constance Jones"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "Leibniz\u2019s Influence on 19th Century Logic"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Algebra"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Model Theory"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebra",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebra",
+      "target": "Algebra"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "The Frege-Hilbert Controversy",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Logicism and Neologicism",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Logicism and Neologicism",
+      "target": "Frege\u2019s Theorem and Foundations for Arithmetic"
+    },
+    {
+      "source": "Logicism and Neologicism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Logicism and Neologicism",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Logicism and Neologicism",
+      "target": "Type Theory"
+    },
+    {
+      "source": "Logicism and Neologicism",
+      "target": "Logicism and Neologicism"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "The Epsilon Calculus"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Definition of Lying and Deception",
+      "target": "The Definition of Lying and Deception"
+    },
+    {
+      "source": "William Stanley Jevons",
+      "target": "William Stanley Jevons"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Nominalism in Metaphysics",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Nominalism in Metaphysics",
+      "target": "Russell\u2019s Paradox"
+    },
+    {
+      "source": "Nominalism in Metaphysics",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Nominalism in Metaphysics",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Realism",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Realism",
+      "target": "Truth"
+    },
+    {
+      "source": "Realism",
+      "target": "Realism"
+    },
+    {
+      "source": "Wilfrid Sellars",
+      "target": "Richard Rorty"
+    },
+    {
+      "source": "Wilfrid Sellars",
+      "target": "Wilfrid Sellars"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Dewey\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Clarence Irving Lewis"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Realism"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "The Mind/Brain Identity Theory",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Lvov-Warsaw School"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "Stanis\u0142aw Le\u015bniewski",
+      "target": "Stanis\u0142aw Le\u015bniewski"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Nominalism in Metaphysics"
+    },
+    {
+      "source": "Goodman\u2019s Aesthetics",
+      "target": "Goodman\u2019s Aesthetics"
+    },
+    {
+      "source": "The Epistemology of Visual Thinking in Mathematics",
+      "target": "Proof Theory"
+    },
+    {
+      "source": "The Epistemology of Visual Thinking in Mathematics",
+      "target": "Quantifiers and Quantification"
+    },
+    {
+      "source": "The Epistemology of Visual Thinking in Mathematics",
+      "target": "The Epistemology of Visual Thinking in Mathematics"
+    },
+    {
+      "source": "Epistemology of Geometry",
+      "target": "The Frege-Hilbert Controversy"
+    },
+    {
+      "source": "Epistemology of Geometry",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Epistemology of Geometry",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Epistemology of Geometry",
+      "target": "The Epistemology of Visual Thinking in Mathematics"
+    },
+    {
+      "source": "Epistemology of Geometry",
+      "target": "Epistemology of Geometry"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Non-Deductive Methods in Mathematics",
+      "target": "Non-Deductive Methods in Mathematics"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Mental Imagery"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "The Mind/Brain Identity Theory"
+    },
+    {
+      "source": "Cognitive Science",
+      "target": "Cognitive Science"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Mental Imagery",
+      "target": "Mental Imagery"
+    }
+  ]
+}

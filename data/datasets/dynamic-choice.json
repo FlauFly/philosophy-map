@@ -1,0 +1,5451 @@
+{
+  "nodes": [
+    {
+      "id": "Dynamic Choice",
+      "group": 1,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Intention",
+      "group": 2,
+      "address": "intention"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 2,
+      "address": "practical-reason"
+    },
+    {
+      "id": "Voting Methods",
+      "group": 2,
+      "address": "voting-methods"
+    },
+    {
+      "id": "The Free Rider Problem",
+      "group": 2,
+      "address": "free-rider"
+    },
+    {
+      "id": "Value Pluralism",
+      "group": 2,
+      "address": "value-pluralism"
+    },
+    {
+      "id": "Preferences",
+      "group": 2,
+      "address": "preferences"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 2,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Weakness of Will",
+      "group": 2,
+      "address": "weakness-will"
+    },
+    {
+      "id": "Dutch Book Arguments",
+      "group": 2,
+      "address": "dutch-book"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 2,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Scientific Revolutions",
+      "group": 2,
+      "address": "scientific-revolutions"
+    },
+    {
+      "id": "Incommensurable Values",
+      "group": 2,
+      "address": "value-incommensurable"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 2,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 2,
+      "address": "economics"
+    },
+    {
+      "id": "Actualism and Possibilism in Ethics",
+      "group": 2,
+      "address": "actualism-possibilism-ethics"
+    },
+    {
+      "id": "The Philosophy of Computer Science",
+      "group": 3,
+      "address": "computer-science"
+    },
+    {
+      "id": "Philosophical Aspects of Multi-Modal Logic",
+      "group": 3,
+      "address": "phil-multimodallogic"
+    },
+    {
+      "id": "Agency",
+      "group": 3,
+      "address": "agency"
+    },
+    {
+      "id": "Personal Autonomy",
+      "group": 3,
+      "address": "personal-autonomy"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Knowledge How",
+      "group": 3,
+      "address": "knowledge-how"
+    },
+    {
+      "id": "Self-Knowledge",
+      "group": 3,
+      "address": "self-knowledge"
+    },
+    {
+      "id": "Structural Rationality",
+      "group": 3,
+      "address": "rationality-structural"
+    },
+    {
+      "id": "Action",
+      "group": 3,
+      "address": "action"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 3,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Doctrine of Double Effect",
+      "group": 3,
+      "address": "double-effect"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "Philosophy of Contract Law",
+      "group": 3,
+      "address": "contract-law"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Hedonism",
+      "group": 3,
+      "address": "hedonism"
+    },
+    {
+      "id": "Emotion",
+      "group": 3,
+      "address": "emotion"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Value Theory",
+      "group": 3,
+      "address": "value-theory"
+    },
+    {
+      "id": "Richard Mervyn Hare",
+      "group": 3,
+      "address": "hare"
+    },
+    {
+      "id": "Decision-Making Capacity",
+      "group": 3,
+      "address": "decision-capacity"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Constructivism in Metaethics",
+      "group": 3,
+      "address": "constructivism-metaethics"
+    },
+    {
+      "id": "Moral Particularism",
+      "group": 3,
+      "address": "moral-particularism"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Kant\u2019s Account of Reason",
+      "group": 3,
+      "address": "kant-reason"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 3,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Reasons for Action: Internal vs. External",
+      "group": 3,
+      "address": "reasons-internal-external"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Normativity in Metaethics",
+      "group": 3,
+      "address": "normativity-metaethics"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 3,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Weighing Reasons",
+      "group": 3,
+      "address": "weighing-reasons"
+    },
+    {
+      "id": "Moral Cognitivism vs. Non-Cognitivism",
+      "group": 3,
+      "address": "moral-cognitivism"
+    },
+    {
+      "id": "Formal Approaches to Social Procedures",
+      "group": 3,
+      "address": "social-procedures"
+    },
+    {
+      "id": "Feminist Moral Psychology",
+      "group": 3,
+      "address": "feminism-moralpsych"
+    },
+    {
+      "id": "Contractualism",
+      "group": 3,
+      "address": "contractualism"
+    },
+    {
+      "id": "Practical Reason and the Structure of Actions",
+      "group": 3,
+      "address": "practical-reason-action"
+    },
+    {
+      "id": "Moral Psychology: Empirical Approaches",
+      "group": 3,
+      "address": "moral-psych-emp"
+    },
+    {
+      "id": "Medieval Theories of Practical Reason",
+      "group": 3,
+      "address": "practical-reason-med"
+    },
+    {
+      "id": "Michael Oakeshott",
+      "group": 3,
+      "address": "oakeshott"
+    },
+    {
+      "id": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "group": 3,
+      "address": "reasons-agent"
+    },
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 3,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 3,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "The Ethics and Rationality of Voting",
+      "group": 3,
+      "address": "voting"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Authority",
+      "group": 3,
+      "address": "authority"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Evolutionary Game Theory",
+      "group": 3,
+      "address": "game-evolutionary"
+    },
+    {
+      "id": "Hobbes\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "hobbes-moral"
+    },
+    {
+      "id": "Public Health Ethics",
+      "group": 3,
+      "address": "publichealth-ethics"
+    },
+    {
+      "id": "Legal Obligation and Authority",
+      "group": 3,
+      "address": "legal-obligation"
+    },
+    {
+      "id": "Political Obligation",
+      "group": 3,
+      "address": "political-obligation"
+    },
+    {
+      "id": "Public Goods",
+      "group": 3,
+      "address": "public-goods"
+    },
+    {
+      "id": "Callicles and Thrasymachus",
+      "group": 3,
+      "address": "callicles-thrasymachus"
+    },
+    {
+      "id": "Moral Epistemology",
+      "group": 3,
+      "address": "moral-epistemology"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Perfectionism in Moral and Political Philosophy",
+      "group": 3,
+      "address": "perfectionism-moral"
+    },
+    {
+      "id": "Isaiah Berlin",
+      "group": 3,
+      "address": "berlin"
+    },
+    {
+      "id": "Bernard Williams",
+      "group": 3,
+      "address": "williams-bernard"
+    },
+    {
+      "id": "John Stuart Mill",
+      "group": 3,
+      "address": "mill"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Moral Dilemmas",
+      "group": 3,
+      "address": "moral-dilemmas"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Metaethics",
+      "group": 3,
+      "address": "metaethics"
+    },
+    {
+      "id": "Liberalism",
+      "group": 3,
+      "address": "liberalism"
+    },
+    {
+      "id": "Moore\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "moore-moral"
+    },
+    {
+      "id": "The Nonidentity Problem",
+      "group": 3,
+      "address": "nonidentity-problem"
+    },
+    {
+      "id": "Virtue Ethics",
+      "group": 3,
+      "address": "ethics-virtue"
+    },
+    {
+      "id": "Fitting Attitude Theories of Value",
+      "group": 3,
+      "address": "fitting-attitude-theories"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Sorites Paradox",
+      "group": 3,
+      "address": "sorites-paradox"
+    },
+    {
+      "id": "Measurement in Science",
+      "group": 3,
+      "address": "measurement-science"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Preference Logic",
+      "group": 3,
+      "address": "logic-preference"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 3,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Desire",
+      "group": 3,
+      "address": "desire"
+    },
+    {
+      "id": "Normative Economics and Economic Justice",
+      "group": 3,
+      "address": "economic-justice"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Pascal\u2019s Wager",
+      "group": 3,
+      "address": "pascal-wager"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "The St. Petersburg Paradox",
+      "group": 3,
+      "address": "paradox-stpetersburg"
+    },
+    {
+      "id": "Higher-Order Evidence",
+      "group": 3,
+      "address": "higher-order-evidence"
+    },
+    {
+      "id": "Church\u2019s Type Theory",
+      "group": 3,
+      "address": "type-theory-church"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 3,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Ramsey and Intergenerational Welfare Economics",
+      "group": 3,
+      "address": "ramsey-economics"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Causal Models",
+      "group": 3,
+      "address": "causal-models"
+    },
+    {
+      "id": "Analytical Marxism",
+      "group": 3,
+      "address": "marxism-analytical"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Prioritarianism as a Theory of Value",
+      "group": 3,
+      "address": "prioritarianism"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Self-Deception",
+      "group": 3,
+      "address": "self-deception"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Alexander Crummell",
+      "group": 3,
+      "address": "alexander-crummell"
+    },
+    {
+      "id": "Divine Freedom",
+      "group": 3,
+      "address": "divine-freedom"
+    },
+    {
+      "id": "Epistemic Self-Doubt",
+      "group": 3,
+      "address": "epistemic-self-doubt"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 3,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Many-Worlds Interpretation of Quantum Mechanics",
+      "group": 3,
+      "address": "qm-manyworlds"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "Evolutionary Psychology",
+      "group": 3,
+      "address": "evolutionary-psychology"
+    },
+    {
+      "id": "Egoism",
+      "group": 3,
+      "address": "egoism"
+    },
+    {
+      "id": "Common Knowledge",
+      "group": 3,
+      "address": "common-knowledge"
+    },
+    {
+      "id": "Computational Philosophy",
+      "group": 3,
+      "address": "computational-philosophy"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "Intertheory Relations in Physics",
+      "group": 3,
+      "address": "physics-interrelate"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Relativism",
+      "group": 3,
+      "address": "relativism"
+    },
+    {
+      "id": "Logical Empiricism",
+      "group": 3,
+      "address": "logical-empiricism"
+    },
+    {
+      "id": "Scientific Progress",
+      "group": 3,
+      "address": "scientific-progress"
+    },
+    {
+      "id": "Structuralism in Physics",
+      "group": 3,
+      "address": "physics-structuralism"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Thomas Kuhn",
+      "group": 3,
+      "address": "thomas-kuhn"
+    },
+    {
+      "id": "Ludwik Fleck",
+      "group": 3,
+      "address": "fleck"
+    },
+    {
+      "id": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "group": 3,
+      "address": "newton-principia"
+    },
+    {
+      "id": "The Incommensurability of Scientific Theories",
+      "group": 3,
+      "address": "incommensurability"
+    },
+    {
+      "id": "Imre Lakatos",
+      "group": 3,
+      "address": "lakatos"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Michel Foucault",
+      "group": 3,
+      "address": "foucault"
+    },
+    {
+      "id": "Louis Althusser",
+      "group": 3,
+      "address": "althusser"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Paul Feyerabend",
+      "group": 3,
+      "address": "feyerabend"
+    },
+    {
+      "id": "\u00c9milie du Ch\u00e2telet",
+      "group": 3,
+      "address": "emilie-du-chatelet"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Isaac Newton",
+      "group": 3,
+      "address": "newton"
+    },
+    {
+      "id": "Deontic Logic",
+      "group": 3,
+      "address": "logic-deontic"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "Friedrich Hayek",
+      "group": 3,
+      "address": "friedrich-hayek"
+    },
+    {
+      "id": "Markets",
+      "group": 3,
+      "address": "markets"
+    },
+    {
+      "id": "Neoliberalism",
+      "group": 3,
+      "address": "neoliberalism"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Happiness",
+      "group": 3,
+      "address": "happiness"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Otto Neurath",
+      "group": 3,
+      "address": "neurath"
+    },
+    {
+      "id": "Economics in Early Modern Philosophy",
+      "group": 3,
+      "address": "economics-early-modern"
+    },
+    {
+      "id": "Socialism",
+      "group": 3,
+      "address": "socialism"
+    },
+    {
+      "id": "Jeremy Bentham",
+      "group": 3,
+      "address": "bentham"
+    },
+    {
+      "id": "Adam Smith\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "smith-moral-political"
+    },
+    {
+      "id": "Reasons for Action: Justification, Motivation, Explanation",
+      "group": 3,
+      "address": "reasons-just-vs-expl"
+    },
+    {
+      "id": "Folk Psychology as a Theory",
+      "group": 3,
+      "address": "folkpsych-theory"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "Consequentializing",
+      "group": 3,
+      "address": "consequentializing"
+    },
+    {
+      "id": "Rule Consequentialism",
+      "group": 3,
+      "address": "consequentialism-rule"
+    }
+  ],
+  "links": [
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Intention",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Action",
+      "target": "Intention"
+    },
+    {
+      "source": "Agency",
+      "target": "Intention"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Intention"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Intention"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Intention"
+    },
+    {
+      "source": "Events",
+      "target": "Intention"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Intention"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intention"
+    },
+    {
+      "source": "Imagination",
+      "target": "Intention"
+    },
+    {
+      "source": "Implicature",
+      "target": "Intention"
+    },
+    {
+      "source": "Intention",
+      "target": "Action"
+    },
+    {
+      "source": "Intention",
+      "target": "Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Intention",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Intention",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Intention",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Intention",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Intention",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Intention"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Intention"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Intention"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Intention"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Intention"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Emotion",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Michael Oakeshott",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Preferences",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Voting Methods"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Democracy"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Preferences"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Voting Methods",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Authority",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Callicles and Thrasymachus"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Political Obligation"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "The Free Rider Problem",
+      "target": "Public Goods"
+    },
+    {
+      "source": "David Hume",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Public Goods",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "The Free Rider Problem"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Value Pluralism",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Value Pluralism"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Preferences"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Desire",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Preferences"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preferences"
+    },
+    {
+      "source": "Preferences",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Preferences",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Preferences",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Preferences",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Preferences"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Alexander Crummell",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Weakness of Will"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Action"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Weakness of Will",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Dutch Book Arguments",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Dutch Book Arguments"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Egoism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Revolutions"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Structuralism in Physics"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Relativism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Revolutions",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Incommensurable Values",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Incommensurable Values"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Action"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Socialism"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Markets",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Action"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Actualism and Possibilism in Ethics",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Actualism and Possibilism in Ethics"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "The Philosophy of Computer Science",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Agency"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Philosophical Aspects of Multi-Modal Logic",
+      "target": "Philosophical Aspects of Multi-Modal Logic"
+    },
+    {
+      "source": "Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Agency",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Agency",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Agency",
+      "target": "Events"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Action"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Agency"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Authority"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Events",
+      "target": "Action"
+    },
+    {
+      "source": "Events",
+      "target": "Agency"
+    },
+    {
+      "source": "Events",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "Imagination",
+      "target": "Desire"
+    },
+    {
+      "source": "Imagination",
+      "target": "Emotion"
+    },
+    {
+      "source": "Imagination",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Imagination",
+      "target": "David Hume"
+    },
+    {
+      "source": "Imagination",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Imagination",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Action"
+    },
+    {
+      "source": "Knowledge How",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Self-Knowledge",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Structural Rationality",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Action",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Action",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Action",
+      "target": "Events"
+    },
+    {
+      "source": "Action",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Action",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Action",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Action",
+      "target": "Action"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Action"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Action"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Desire"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Imagination"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Desire"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Hedonism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Emotion",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Emotion",
+      "target": "Desire"
+    },
+    {
+      "source": "Emotion",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Emotion",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Emotion",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Emotion",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Emotion",
+      "target": "Emotion"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Value Theory",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Richard Mervyn Hare",
+      "target": "Richard Mervyn Hare"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Emotion"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Risk"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Philosophy of Computer Science"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Knowledge How"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Constructivism in Metaethics",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Kant\u2019s Account of Reason",
+      "target": "Kant\u2019s Account of Reason"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Reasons for Action: Internal vs. External",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Constructivism in Metaethics"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Normativity in Metaethics",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Weighing Reasons",
+      "target": "Weighing Reasons"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Formal Approaches to Social Procedures",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Emotion"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Feminist Moral Psychology",
+      "target": "Feminist Moral Psychology"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Action"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Political Obligation"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Contractualism",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Egoism"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Psychology: Empirical Approaches",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Michael Oakeshott",
+      "target": "Michael Oakeshott"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Democracy"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Democracy"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "The Ethics and Rationality of Voting",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Democracy",
+      "target": "Authority"
+    },
+    {
+      "source": "Democracy",
+      "target": "Political Obligation"
+    },
+    {
+      "source": "Democracy",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Authority",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Authority",
+      "target": "Democracy"
+    },
+    {
+      "source": "Authority",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Authority",
+      "target": "David Hume"
+    },
+    {
+      "source": "Authority",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Authority",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Authority",
+      "target": "Political Obligation"
+    },
+    {
+      "source": "Authority",
+      "target": "Authority"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Evolutionary Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Egoism"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Authority"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Democracy"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Public Health Ethics"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Authority"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Political Obligation"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Political Obligation",
+      "target": "Authority"
+    },
+    {
+      "source": "Political Obligation",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Political Obligation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Political Obligation",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Political Obligation",
+      "target": "Political Obligation"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Markets"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Public Goods",
+      "target": "Public Goods"
+    },
+    {
+      "source": "Callicles and Thrasymachus",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Callicles and Thrasymachus",
+      "target": "Callicles and Thrasymachus"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Moral Epistemology",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intentionality"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Perfectionism in Moral and Political Philosophy",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "David Hume"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Emotion"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Moral Dilemmas",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Metaethics",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Markets"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Egoism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Virtue Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Emotion"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Fitting Attitude Theories of Value",
+      "target": "Fitting Attitude Theories of Value"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Imagination"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Sorites Paradox",
+      "target": "Sorites Paradox"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Measurement in Science",
+      "target": "Measurement in Science"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Egoism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Happiness"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Perfectionism in Moral and Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preference Logic",
+      "target": "Preference Logic"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Desire",
+      "target": "Action"
+    },
+    {
+      "source": "Desire",
+      "target": "Emotion"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Desire",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Desire",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Desire",
+      "target": "Desire"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Normative Economics and Economic Justice",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Hedonism"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Structural Rationality"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Higher-Order Evidence",
+      "target": "Higher-Order Evidence"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Church\u2019s Type Theory",
+      "target": "Church\u2019s Type Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Contractualism"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Risk"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Ramsey and Intergenerational Welfare Economics",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Markets"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Socialism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Prioritarianism as a Theory of Value",
+      "target": "Prioritarianism as a Theory of Value"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Action"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Knowledge"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Metaethics"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Alexander Crummell",
+      "target": "Moral Epistemology"
+    },
+    {
+      "source": "Alexander Crummell",
+      "target": "Alexander Crummell"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Self-Doubt",
+      "target": "Epistemic Self-Doubt"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Action"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Events"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Egoism"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Ramsey and Intergenerational Welfare Economics"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Many-Worlds Interpretation of Quantum Mechanics",
+      "target": "Many-Worlds Interpretation of Quantum Mechanics"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Emotion"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Evolutionary Psychology",
+      "target": "Evolutionary Psychology"
+    },
+    {
+      "source": "Egoism",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Egoism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Egoism",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Egoism",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Egoism",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Egoism",
+      "target": "Egoism"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Common Knowledge",
+      "target": "Common Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Computational Philosophy",
+      "target": "Computational Philosophy"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Relativism",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Relativism",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Relativism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Relativism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Relativism",
+      "target": "Relativism"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Logical Empiricism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Progress",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Structuralism in Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Structuralism in Physics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Structuralism in Physics",
+      "target": "Structuralism in Physics"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "David Hume"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Relativism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Relativism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Ludwik Fleck",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Newton\u2019s Philosophiae Naturalis Principia Mathematica",
+      "target": "Newton\u2019s Philosophiae Naturalis Principia Mathematica"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Ludwik Fleck"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Structuralism in Physics"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "The Incommensurability of Scientific Theories",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Imre Lakatos",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Louis Althusser",
+      "target": "Louis Althusser"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Relativism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "\u00c9milie du Ch\u00e2telet",
+      "target": "\u00c9milie du Ch\u00e2telet"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Logical Empiricism"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Incommensurability of Scientific Theories"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Thomas Kuhn"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Imre Lakatos"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Relativism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Progress"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Structuralism in Physics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Newton\u2019s Philosophiae Naturalis Principia Mathematica"
+    },
+    {
+      "source": "Isaac Newton",
+      "target": "Isaac Newton"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Dilemmas"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Deontic Logic",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Markets"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Evolutionary Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Deontic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Approaches to Social Procedures"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Markets",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Markets",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Markets",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Markets",
+      "target": "Socialism"
+    },
+    {
+      "source": "Markets",
+      "target": "The Ethics and Rationality of Voting"
+    },
+    {
+      "source": "Markets",
+      "target": "Markets"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Socialism"
+    },
+    {
+      "source": "Neoliberalism",
+      "target": "Neoliberalism"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Happiness",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Happiness",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Emotion"
+    },
+    {
+      "source": "Happiness",
+      "target": "Virtue Ethics"
+    },
+    {
+      "source": "Happiness",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Happiness",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Happiness",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Happiness",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Happiness",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Happiness",
+      "target": "Happiness"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Socialism"
+    },
+    {
+      "source": "Otto Neurath",
+      "target": "Otto Neurath"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Markets"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Moral Psychology: Empirical Approaches"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Economics in Early Modern Philosophy",
+      "target": "Economics in Early Modern Philosophy"
+    },
+    {
+      "source": "Socialism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Socialism",
+      "target": "Normative Economics and Economic Justice"
+    },
+    {
+      "source": "Socialism",
+      "target": "Markets"
+    },
+    {
+      "source": "Socialism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Socialism",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Socialism",
+      "target": "Socialism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "Economics in Early Modern Philosophy"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "David Hume"
+    },
+    {
+      "source": "Adam Smith\u2019s Moral and Political Philosophy",
+      "target": "Adam Smith\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Action"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Agency"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Normativity in Metaethics"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Internal vs. External"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Value Theory"
+    },
+    {
+      "source": "Reasons for Action: Justification, Motivation, Explanation",
+      "target": "Reasons for Action: Justification, Motivation, Explanation"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Folk Psychology as a Theory",
+      "target": "Folk Psychology as a Theory"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Rule Consequentialism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Egoism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Hedonism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "John Stuart Mill"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Rule Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Rule Consequentialism",
+      "target": "Rule Consequentialism"
+    }
+  ]
+}

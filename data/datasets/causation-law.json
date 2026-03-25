@@ -1,0 +1,4052 @@
+{
+  "nodes": [
+    {
+      "id": "Causation in the Law",
+      "group": 1,
+      "address": "causation-law"
+    },
+    {
+      "id": "Theories of the Common Law of Torts",
+      "group": 2,
+      "address": "tort-theories"
+    },
+    {
+      "id": "Self-Defense",
+      "group": 2,
+      "address": "self-defense"
+    },
+    {
+      "id": "Risk",
+      "group": 2,
+      "address": "risk"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 2,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "Regularity and Inferential Theories of Causation",
+      "group": 2,
+      "address": "causation-regularity"
+    },
+    {
+      "id": "Experimental Jurisprudence",
+      "group": 2,
+      "address": "experimental-jurisprudence"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 2,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Moral Luck",
+      "group": 2,
+      "address": "moral-luck"
+    },
+    {
+      "id": "Probabilistic Causation",
+      "group": 2,
+      "address": "causation-probabilistic"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 2,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Theories of Criminal Law",
+      "group": 2,
+      "address": "criminal-law"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Philosophy of Contract Law",
+      "group": 3,
+      "address": "contract-law"
+    },
+    {
+      "id": "Legal Obligation and Authority",
+      "group": 3,
+      "address": "legal-obligation"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "The Nature of Law",
+      "group": 3,
+      "address": "lawphil-nature"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "Legal Rights",
+      "group": 3,
+      "address": "legal-rights"
+    },
+    {
+      "id": "Legal Punishment",
+      "group": 3,
+      "address": "legal-punishment"
+    },
+    {
+      "id": "War",
+      "group": 3,
+      "address": "war"
+    },
+    {
+      "id": "Paternalism",
+      "group": 3,
+      "address": "paternalism"
+    },
+    {
+      "id": "The Ethics of Abortion",
+      "group": 3,
+      "address": "abortion"
+    },
+    {
+      "id": "Doing vs. Allowing Harm",
+      "group": 3,
+      "address": "doing-allowing"
+    },
+    {
+      "id": "Doctrine of Double Effect",
+      "group": 3,
+      "address": "double-effect"
+    },
+    {
+      "id": "Deontological Ethics",
+      "group": 3,
+      "address": "ethics-deontological"
+    },
+    {
+      "id": "Justice and Bad Luck",
+      "group": 3,
+      "address": "justice-bad-luck"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Decision-Making Capacity",
+      "group": 3,
+      "address": "decision-capacity"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "The Ethics of Clinical Research",
+      "group": 3,
+      "address": "clinical-research"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Contractarianism",
+      "group": 3,
+      "address": "contractarianism"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Philosophy of Economics",
+      "group": 3,
+      "address": "economics"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 3,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "John Anderson",
+      "group": 3,
+      "address": "anderson-john"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "Causal Determinism",
+      "group": 3,
+      "address": "determinism-causal"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Metaphysical Explanation",
+      "group": 3,
+      "address": "metaphysical-explanation"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 3,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 3,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Thermodynamic Asymmetry in Time",
+      "group": 3,
+      "address": "time-thermo"
+    },
+    {
+      "id": "Causation and Manipulability",
+      "group": 3,
+      "address": "causation-mani"
+    },
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 3,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Properties",
+      "group": 3,
+      "address": "intrinsic-extrinsic"
+    },
+    {
+      "id": "Causation in Physics",
+      "group": 3,
+      "address": "causation-physics"
+    },
+    {
+      "id": "Causal Models",
+      "group": 3,
+      "address": "causal-models"
+    },
+    {
+      "id": "Counterfactuals",
+      "group": 3,
+      "address": "counterfactuals"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "Facts",
+      "group": 3,
+      "address": "facts"
+    },
+    {
+      "id": "Backward Causation",
+      "group": 3,
+      "address": "causation-backwards"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Retrocausality in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-retrocausality"
+    },
+    {
+      "id": "Concepts",
+      "group": 3,
+      "address": "concepts"
+    },
+    {
+      "id": "Law and Language",
+      "group": 3,
+      "address": "law-language"
+    },
+    {
+      "id": "Thick Ethical Concepts",
+      "group": 3,
+      "address": "thick-ethical-concepts"
+    },
+    {
+      "id": "Legal Positivism",
+      "group": 3,
+      "address": "legal-positivism"
+    },
+    {
+      "id": "Naturalism in Legal Philosophy",
+      "group": 3,
+      "address": "lawphil-naturalism"
+    },
+    {
+      "id": "Experimental Philosophy",
+      "group": 3,
+      "address": "experimental-philosophy"
+    },
+    {
+      "id": "Natural Law Theories",
+      "group": 3,
+      "address": "natural-law-theories"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Sounds",
+      "group": 3,
+      "address": "sounds"
+    },
+    {
+      "id": "Personal Autonomy",
+      "group": 3,
+      "address": "personal-autonomy"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Thomas Reid",
+      "group": 3,
+      "address": "reid"
+    },
+    {
+      "id": "Occasionalism",
+      "group": 3,
+      "address": "occasionalism"
+    },
+    {
+      "id": "Isaiah Berlin",
+      "group": 3,
+      "address": "berlin"
+    },
+    {
+      "id": "Tropes",
+      "group": 3,
+      "address": "tropes"
+    },
+    {
+      "id": "Natural Kinds",
+      "group": 3,
+      "address": "natural-kinds"
+    },
+    {
+      "id": "\u015ar\u012bhar\u1e63a",
+      "group": 3,
+      "address": "sriharsa"
+    },
+    {
+      "id": "Analytic Philosophy in Early Modern India",
+      "group": 3,
+      "address": "early-modern-india"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Kant and Hume on Causality",
+      "group": 3,
+      "address": "kant-hume-causality"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "Free Will",
+      "group": 3,
+      "address": "freewill"
+    },
+    {
+      "id": "Philosophy of Immunology",
+      "group": 3,
+      "address": "immunology"
+    },
+    {
+      "id": "Metaphysical Grounding",
+      "group": 3,
+      "address": "grounding"
+    },
+    {
+      "id": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "group": 3,
+      "address": "incompatibilism-theories"
+    },
+    {
+      "id": "The Computational Theory of Mind",
+      "group": 3,
+      "address": "computational-mind"
+    },
+    {
+      "id": "Wesley Salmon",
+      "group": 3,
+      "address": "wesley-salmon"
+    },
+    {
+      "id": "Donald Davidson",
+      "group": 3,
+      "address": "davidson"
+    },
+    {
+      "id": "Compatibilism",
+      "group": 3,
+      "address": "compatibilism"
+    },
+    {
+      "id": "Girolamo [Geronimo] Cardano",
+      "group": 3,
+      "address": "cardano"
+    },
+    {
+      "id": "Skepticism About Moral Responsibility",
+      "group": 3,
+      "address": "skepticism-moral-responsibility"
+    },
+    {
+      "id": "Hume on Free Will",
+      "group": 3,
+      "address": "hume-freewill"
+    },
+    {
+      "id": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "group": 3,
+      "address": "alternative-possibilities"
+    },
+    {
+      "id": "Moral Character",
+      "group": 3,
+      "address": "moral-character"
+    },
+    {
+      "id": "Bernard Williams",
+      "group": 3,
+      "address": "williams-bernard"
+    },
+    {
+      "id": "Egalitarianism",
+      "group": 3,
+      "address": "egalitarianism"
+    },
+    {
+      "id": "Aristotle\u2019s Ethics",
+      "group": 3,
+      "address": "aristotle-ethics"
+    },
+    {
+      "id": "Blame",
+      "group": 3,
+      "address": "blame"
+    },
+    {
+      "id": "Action at a Distance in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-action-distance"
+    },
+    {
+      "id": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "group": 3,
+      "address": "qt-epr"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Fitness",
+      "group": 3,
+      "address": "fitness"
+    },
+    {
+      "id": "Reichenbach\u2019s Common Cause Principle",
+      "group": 3,
+      "address": "physics-Rpcc"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Foreknowledge and Free Will",
+      "group": 3,
+      "address": "free-will-foreknowledge"
+    },
+    {
+      "id": "Forgiveness",
+      "group": 3,
+      "address": "forgiveness"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "Atonement",
+      "group": 3,
+      "address": "atonement"
+    },
+    {
+      "id": "Implicit Bias",
+      "group": 3,
+      "address": "implicit-bias"
+    },
+    {
+      "id": "Moral Particularism",
+      "group": 3,
+      "address": "moral-particularism"
+    },
+    {
+      "id": "Self-Deception",
+      "group": 3,
+      "address": "self-deception"
+    },
+    {
+      "id": "Fatalism",
+      "group": 3,
+      "address": "fatalism"
+    },
+    {
+      "id": "Computing and Moral Responsibility",
+      "group": 3,
+      "address": "computing-responsibility"
+    },
+    {
+      "id": "The Concept of Evil",
+      "group": 3,
+      "address": "concept-evil"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Sin in Christian Thought",
+      "group": 3,
+      "address": "sin-christian"
+    },
+    {
+      "id": "Empirical Approaches to Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility-empirical"
+    },
+    {
+      "id": "Gratitude",
+      "group": 3,
+      "address": "gratitude"
+    },
+    {
+      "id": "The Epistemic Condition for Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility-epistemic"
+    },
+    {
+      "id": "Neuroethics",
+      "group": 3,
+      "address": "neuroethics"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 3,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "John Langshaw Austin",
+      "group": 3,
+      "address": "austin-jl"
+    },
+    {
+      "id": "The Moral/Conventional Distinction",
+      "group": 3,
+      "address": "moral-conventional"
+    },
+    {
+      "id": "The Legal Concept of Evidence",
+      "group": 3,
+      "address": "evidence-legal"
+    },
+    {
+      "id": "Retributive Justice",
+      "group": 3,
+      "address": "justice-retributive"
+    },
+    {
+      "id": "Kant\u2019s Social and Political Philosophy",
+      "group": 3,
+      "address": "kant-social-political"
+    },
+    {
+      "id": "The Rule of Law",
+      "group": 3,
+      "address": "rule-of-law"
+    },
+    {
+      "id": "The Limits of Law",
+      "group": 3,
+      "address": "law-limits"
+    }
+  ],
+  "links": [
+    {
+      "source": "Causation in the Law",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Risk"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Risk",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Privacy",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Self-Defense"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Paternalism"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "War"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Risk"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Risk"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Risk"
+    },
+    {
+      "source": "Risk",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Risk",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Risk",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "Risk",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Risk",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Risk"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Facts"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Implicature"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Concepts"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Experimental Philosophy"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Naturalism in Legal Philosophy"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Experimental Jurisprudence"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Analytic Philosophy in Early Modern India",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Free Will",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Object",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Sounds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "\u015ar\u012bhar\u1e63a",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Tropes",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Events"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Facts"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Fitness",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Atonement",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Fatalism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "The Epistemic Condition for Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Epistemic Condition for Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "The Legal Concept of Evidence"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "The Rule of Law"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Theories of Criminal Law"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Theories of Criminal Law"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Philosophy of Contract Law",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Game Theory"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Concepts"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Law and Language"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Naturalism in Legal Philosophy"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Rule of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Privacy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "War",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "War",
+      "target": "War"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Paternalism",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "Paternalism",
+      "target": "Paternalism"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "The Ethics of Abortion",
+      "target": "The Ethics of Abortion"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Doctrine of Double Effect",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Doctrine of Double Effect"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Decision-Making Capacity",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Character"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Game Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "John Rawls",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "John Rawls",
+      "target": "War"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Philosophy of Contract Law"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "Paternalism"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Ethics of Clinical Research",
+      "target": "The Ethics of Clinical Research"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Contractarianism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Contractarianism",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "David Hume"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Economics",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Facts"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "John Anderson",
+      "target": "John Anderson"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Events",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Events",
+      "target": "Facts"
+    },
+    {
+      "source": "Events",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Object"
+    },
+    {
+      "source": "Events",
+      "target": "Properties"
+    },
+    {
+      "source": "Events",
+      "target": "Sounds"
+    },
+    {
+      "source": "Events",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Events",
+      "target": "Tropes"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Concepts"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Imagination",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Imagination",
+      "target": "David Hume"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Free Will"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Tropes"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Hume"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Properties"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "David Hume",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Events"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Philosophy of Economics"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Facts",
+      "target": "Events"
+    },
+    {
+      "source": "Facts",
+      "target": "Properties"
+    },
+    {
+      "source": "Facts",
+      "target": "Facts"
+    },
+    {
+      "source": "Backward Causation",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Backward Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Supervenience"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Properties"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Concepts",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Concepts",
+      "target": "Concepts"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Naturalism in Legal Philosophy"
+    },
+    {
+      "source": "Law and Language",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Law and Language",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Implicature"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Concepts"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Thick Ethical Concepts",
+      "target": "Thick Ethical Concepts"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Law and Language"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Naturalism in Legal Philosophy"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Naturalism in Legal Philosophy",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Naturalism in Legal Philosophy",
+      "target": "Naturalism in Legal Philosophy"
+    },
+    {
+      "source": "Experimental Philosophy",
+      "target": "Experimental Philosophy"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Properties",
+      "target": "Concepts"
+    },
+    {
+      "source": "Properties",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Properties",
+      "target": "Facts"
+    },
+    {
+      "source": "Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Properties",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Properties",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Properties",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Properties",
+      "target": "Tropes"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Sounds",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Sounds",
+      "target": "Events"
+    },
+    {
+      "source": "Sounds",
+      "target": "Sounds"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Personal Autonomy",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Properties"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Free Will"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "David Hume"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Thomas Reid",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Free Will"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "David Hume"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Tropes",
+      "target": "Events"
+    },
+    {
+      "source": "Tropes",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Tropes",
+      "target": "Object"
+    },
+    {
+      "source": "Tropes",
+      "target": "Properties"
+    },
+    {
+      "source": "Tropes",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Tropes",
+      "target": "Tropes"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Properties"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "\u015ar\u012bhar\u1e63a",
+      "target": "Analytic Philosophy in Early Modern India"
+    },
+    {
+      "source": "\u015ar\u012bhar\u1e63a",
+      "target": "\u015ar\u012bhar\u1e63a"
+    },
+    {
+      "source": "Analytic Philosophy in Early Modern India",
+      "target": "Properties"
+    },
+    {
+      "source": "Analytic Philosophy in Early Modern India",
+      "target": "Analytic Philosophy in Early Modern India"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Free Will"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "David Hume"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Object",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Object",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Object",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Object",
+      "target": "Properties"
+    },
+    {
+      "source": "Object",
+      "target": "Tropes"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "Free Will",
+      "target": "Blame"
+    },
+    {
+      "source": "Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Facts"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "The Computational Theory of Mind",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Events"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "Imagination"
+    },
+    {
+      "source": "Girolamo [Geronimo] Cardano",
+      "target": "Girolamo [Geronimo] Cardano"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Thomas Reid"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility and the Principle of Alternative Possibilities",
+      "target": "Moral Responsibility and the Principle of Alternative Possibilities"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Moral Character",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Moral Character",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Bernard Williams"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Aristotle\u2019s Ethics",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Blame",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Blame",
+      "target": "Free Will"
+    },
+    {
+      "source": "Blame",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Blame",
+      "target": "Blame"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Fitness",
+      "target": "Fitness"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "The Computational Theory of Mind"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Aristotle\u2019s Ethics"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Atonement"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Free Will"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Atonement",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Atonement",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Atonement",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Atonement",
+      "target": "Sin in Christian Thought"
+    },
+    {
+      "source": "Atonement",
+      "target": "Atonement"
+    },
+    {
+      "source": "Implicit Bias",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Moral Particularism",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Donald Davidson"
+    },
+    {
+      "source": "Self-Deception",
+      "target": "Self-Deception"
+    },
+    {
+      "source": "Fatalism",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Fatalism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Fatalism",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Fatalism",
+      "target": "Fatalism"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Computing and Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Particularism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Atonement"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Sin in Christian Thought"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Computing and Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "The Epistemic Condition for Moral Responsibility"
+    },
+    {
+      "source": "Empirical Approaches to Moral Responsibility",
+      "target": "Empirical Approaches to Moral Responsibility"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Moral Character"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Gratitude"
+    },
+    {
+      "source": "The Epistemic Condition for Moral Responsibility",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "The Epistemic Condition for Moral Responsibility",
+      "target": "The Epistemic Condition for Moral Responsibility"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Personal Autonomy"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Implicit Bias"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Decision-Making Capacity"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "The Ethics of Clinical Research"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Free Will"
+    },
+    {
+      "source": "Neuroethics",
+      "target": "Neuroethics"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Free Will"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Tropes"
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Langshaw Austin"
+    },
+    {
+      "source": "The Moral/Conventional Distinction",
+      "target": "The Moral/Conventional Distinction"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Legal Concept of Evidence",
+      "target": "The Legal Concept of Evidence"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Contractarianism"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "The Rule of Law",
+      "target": "The Limits of Law"
+    },
+    {
+      "source": "The Rule of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Rule of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Rule of Law",
+      "target": "The Rule of Law"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "Paternalism"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "The Rule of Law"
+    },
+    {
+      "source": "The Limits of Law",
+      "target": "The Limits of Law"
+    }
+  ]
+}

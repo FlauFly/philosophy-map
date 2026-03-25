@@ -1,0 +1,3631 @@
+{
+  "nodes": [
+    {
+      "id": "Simpson\u2019s Paradox",
+      "group": 1,
+      "address": "paradox-simpson"
+    },
+    {
+      "id": "Causation and Manipulability",
+      "group": 2,
+      "address": "causation-mani"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 2,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 2,
+      "address": "statistics"
+    },
+    {
+      "id": "Causal Decision Theory",
+      "group": 2,
+      "address": "decision-causal"
+    },
+    {
+      "id": "Probabilistic Causation",
+      "group": 2,
+      "address": "causation-probabilistic"
+    },
+    {
+      "id": "Reichenbach\u2019s Common Cause Principle",
+      "group": 2,
+      "address": "physics-Rpcc"
+    },
+    {
+      "id": "Causal Models",
+      "group": 2,
+      "address": "causal-models"
+    },
+    {
+      "id": "Decision Theory",
+      "group": 2,
+      "address": "decision-theory"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "Retrocausality in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-retrocausality"
+    },
+    {
+      "id": "Causal Approaches to Scientific Explanation",
+      "group": 3,
+      "address": "causal-explanation-science"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Molecular Genetics",
+      "group": 3,
+      "address": "molecular-genetics"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 3,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "Concepts of Disease and Health",
+      "group": 3,
+      "address": "health-disease"
+    },
+    {
+      "id": "Metaphysical Explanation",
+      "group": 3,
+      "address": "metaphysical-explanation"
+    },
+    {
+      "id": "Philosophy of Psychiatry",
+      "group": 3,
+      "address": "psychiatry"
+    },
+    {
+      "id": "Regularity and Inferential Theories of Causation",
+      "group": 3,
+      "address": "causation-regularity"
+    },
+    {
+      "id": "Causation in Physics",
+      "group": 3,
+      "address": "causation-physics"
+    },
+    {
+      "id": "The Genotype/Phenotype Distinction",
+      "group": 3,
+      "address": "genotype-phenotype"
+    },
+    {
+      "id": "Developmental Biology",
+      "group": 3,
+      "address": "biology-developmental"
+    },
+    {
+      "id": "Wesley Salmon",
+      "group": 3,
+      "address": "wesley-salmon"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "John Anderson",
+      "group": 3,
+      "address": "anderson-john"
+    },
+    {
+      "id": "Causal Determinism",
+      "group": 3,
+      "address": "determinism-causal"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Rationalism vs. Empiricism",
+      "group": 3,
+      "address": "rationalism-empiricism"
+    },
+    {
+      "id": "Imagination",
+      "group": 3,
+      "address": "imagination"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "Doing vs. Allowing Harm",
+      "group": 3,
+      "address": "doing-allowing"
+    },
+    {
+      "id": "Mental Causation",
+      "group": 3,
+      "address": "mental-causation"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 3,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Thermodynamic Asymmetry in Time",
+      "group": 3,
+      "address": "time-thermo"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Properties",
+      "group": 3,
+      "address": "intrinsic-extrinsic"
+    },
+    {
+      "id": "Counterfactuals",
+      "group": 3,
+      "address": "counterfactuals"
+    },
+    {
+      "id": "Causation in the Law",
+      "group": 3,
+      "address": "causation-law"
+    },
+    {
+      "id": "Implicature",
+      "group": 3,
+      "address": "implicature"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Facts",
+      "group": 3,
+      "address": "facts"
+    },
+    {
+      "id": "Backward Causation",
+      "group": 3,
+      "address": "causation-backwards"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Defeasible Reasoning",
+      "group": 3,
+      "address": "reasoning-defeasible"
+    },
+    {
+      "id": "Scientific Objectivity",
+      "group": 3,
+      "address": "scientific-objectivity"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Logic and Probability",
+      "group": 3,
+      "address": "logic-probability"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Theory and Observation in Science",
+      "group": 3,
+      "address": "science-theory-observation"
+    },
+    {
+      "id": "The St. Petersburg Paradox",
+      "group": 3,
+      "address": "paradox-stpetersburg"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Simplicity",
+      "group": 3,
+      "address": "simplicity"
+    },
+    {
+      "id": "Ancient Skepticism",
+      "group": 3,
+      "address": "skepticism-ancient"
+    },
+    {
+      "id": "Scientific Research and Big Data",
+      "group": 3,
+      "address": "science-big-data"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "Defaults in Semantics and Pragmatics",
+      "group": 3,
+      "address": "defaults-semantics-pragmatics"
+    },
+    {
+      "id": "Confirmation",
+      "group": 3,
+      "address": "confirmation"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Phylogenetic Inference",
+      "group": 3,
+      "address": "phylogenetic-inference"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Artificial Intelligence",
+      "group": 3,
+      "address": "artificial-intelligence"
+    },
+    {
+      "id": "Imprecise Probabilities",
+      "group": 3,
+      "address": "imprecise-probabilities"
+    },
+    {
+      "id": "Formal Representations of Belief",
+      "group": 3,
+      "address": "formal-belief"
+    },
+    {
+      "id": "Practical Reason",
+      "group": 3,
+      "address": "practical-reason"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-utility"
+    },
+    {
+      "id": "Epistemic Foundations of Game Theory",
+      "group": 3,
+      "address": "epistemic-game"
+    },
+    {
+      "id": "Instrumental Rationality",
+      "group": 3,
+      "address": "rationality-instrumental"
+    },
+    {
+      "id": "Prisoner\u2019s Dilemma",
+      "group": 3,
+      "address": "prisoner-dilemma"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Action at a Distance in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-action-distance"
+    },
+    {
+      "id": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "group": 3,
+      "address": "qt-epr"
+    },
+    {
+      "id": "Fitness",
+      "group": 3,
+      "address": "fitness"
+    },
+    {
+      "id": "Risk",
+      "group": 3,
+      "address": "risk"
+    },
+    {
+      "id": "Kant and Hume on Causality",
+      "group": 3,
+      "address": "kant-hume-causality"
+    },
+    {
+      "id": "Philosophy of Immunology",
+      "group": 3,
+      "address": "immunology"
+    },
+    {
+      "id": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "group": 3,
+      "address": "incompatibilism-theories"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Compatibilism",
+      "group": 3,
+      "address": "compatibilism"
+    },
+    {
+      "id": "Quantum Theory and Mathematical Rigor",
+      "group": 3,
+      "address": "qt-nvd"
+    },
+    {
+      "id": "Quantum Entanglement and Information",
+      "group": 3,
+      "address": "qt-entangle"
+    },
+    {
+      "id": "Quantum Mechanics",
+      "group": 3,
+      "address": "qm"
+    },
+    {
+      "id": "Jury Theorems",
+      "group": 3,
+      "address": "jury-theorems"
+    },
+    {
+      "id": "Bell\u2019s Theorem",
+      "group": 3,
+      "address": "bell-theorem"
+    },
+    {
+      "id": "Quantum Field Theory",
+      "group": 3,
+      "address": "quantum-field-theory"
+    },
+    {
+      "id": "Holism and Nonseparability in Physics",
+      "group": 3,
+      "address": "physics-holism"
+    },
+    {
+      "id": "Quantum Logic and Probability Theory",
+      "group": 3,
+      "address": "qt-quantlog"
+    },
+    {
+      "id": "Philosophical Issues in Quantum Theory",
+      "group": 3,
+      "address": "qt-issues"
+    },
+    {
+      "id": "The Logic of Conditionals",
+      "group": 3,
+      "address": "logic-conditionals"
+    },
+    {
+      "id": "Pascal\u2019s Wager",
+      "group": 3,
+      "address": "pascal-wager"
+    },
+    {
+      "id": "Transformative Experience",
+      "group": 3,
+      "address": "transformative-experience"
+    },
+    {
+      "id": "Descriptive Decision Theory",
+      "group": 3,
+      "address": "decision-theory-descriptive"
+    },
+    {
+      "id": "Social Choice Theory",
+      "group": 3,
+      "address": "social-choice"
+    },
+    {
+      "id": "Dynamic Choice",
+      "group": 3,
+      "address": "dynamic-choice"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Bounded Rationality",
+      "group": 3,
+      "address": "bounded-rationality"
+    },
+    {
+      "id": "Game Theory and Ethics",
+      "group": 3,
+      "address": "game-ethics"
+    },
+    {
+      "id": "Epistemic Utility Arguments for Epistemic Norms",
+      "group": 3,
+      "address": "epistemic-utility"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Moral Decision-Making Under Uncertainty",
+      "group": 3,
+      "address": "moral-decision-uncertainty"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 3,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Preferences",
+      "group": 3,
+      "address": "preferences"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "group": 3,
+      "address": "rationality-normative-nonutility"
+    },
+    {
+      "id": "Historicist Theories of Scientific Rationality",
+      "group": 3,
+      "address": "rationality-historicist"
+    }
+  ],
+  "links": [
+    {
+      "source": "Probabilistic Causation",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Simpson\u2019s Paradox"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Simpson\u2019s Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Causation and Manipulability",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causation and Manipulability"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Facts"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Implicature"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Imagination",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Causal Decision Theory"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Events"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Facts"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Fitness",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Risk",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Quantum Theory and Mathematical Rigor"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Models",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Causal Models",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causal Models"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causal Models"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Models"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Decision Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Decision Theory"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Causal Approaches to Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Genetics",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Fitness"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetics",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Molecular Genetics",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Concepts of Disease and Health",
+      "target": "Concepts of Disease and Health"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Psychiatry",
+      "target": "Philosophy of Psychiatry"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Genotype/Phenotype Distinction",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "The Genotype/Phenotype Distinction"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Developmental Biology",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Events"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "John Anderson",
+      "target": "Facts"
+    },
+    {
+      "source": "John Anderson",
+      "target": "John Anderson"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Events",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Facts"
+    },
+    {
+      "source": "Events",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Events",
+      "target": "Properties"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Rationalism vs. Empiricism",
+      "target": "Rationalism vs. Empiricism"
+    },
+    {
+      "source": "Imagination",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Imagination",
+      "target": "David Hume"
+    },
+    {
+      "source": "Imagination",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Imagination",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Imagination",
+      "target": "Imagination"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Mental Causation",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Hume"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Properties"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "David Hume",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "David Hume",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Events"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Risk"
+    },
+    {
+      "source": "Causation in the Law",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Implicature",
+      "target": "Implicature"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Facts",
+      "target": "Events"
+    },
+    {
+      "source": "Facts",
+      "target": "Properties"
+    },
+    {
+      "source": "Facts",
+      "target": "Facts"
+    },
+    {
+      "source": "Backward Causation",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Backward Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Defeasible Reasoning",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Preferences"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Risk"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Logic and Probability",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Theory and Observation in Science",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "The St. Petersburg Paradox",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Simplicity",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Ancient Skepticism",
+      "target": "Ancient Skepticism"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Evidence"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Causal Approaches to Scientific Explanation"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Research and Big Data",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Implicature"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Defaults in Semantics and Pragmatics",
+      "target": "Defaults in Semantics and Pragmatics"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Evidence"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Simplicity"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Developmental Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Scientific Research and Big Data"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "David Hume"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Historicist Theories of Scientific Rationality"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Theory and Observation in Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Defeasible Reasoning"
+    },
+    {
+      "source": "Artificial Intelligence",
+      "target": "Artificial Intelligence"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Imprecise Probabilities",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Representations of Belief",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Practical Reason",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Preferences"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Epistemic Foundations of Game Theory",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Instrumental Rationality",
+      "target": "Instrumental Rationality"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Prisoner\u2019s Dilemma",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Properties",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Facts"
+    },
+    {
+      "source": "Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Properties",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Properties",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Action at a Distance in Quantum Mechanics",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "The Einstein-Podolsky-Rosen Argument in Quantum Theory",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Genetics"
+    },
+    {
+      "source": "Fitness",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Fitness",
+      "target": "Fitness"
+    },
+    {
+      "source": "Risk",
+      "target": "Causation in the Law"
+    },
+    {
+      "source": "Risk",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Risk",
+      "target": "Risk"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "David Hume"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Immunology",
+      "target": "Philosophy of Immunology"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Quantum Theory and Mathematical Rigor",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Theory and Mathematical Rigor",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Quantum Theory and Mathematical Rigor",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Quantum Theory and Mathematical Rigor",
+      "target": "Quantum Theory and Mathematical Rigor"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Quantum Entanglement and Information",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Jury Theorems",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Bell\u2019s Theorem",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Quantum Field Theory",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Field Theory",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Holism and Nonseparability in Physics",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Quantum Logic and Probability Theory",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Quantum Logic and Probability Theory",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Logic and Probability Theory",
+      "target": "Quantum Theory and Mathematical Rigor"
+    },
+    {
+      "source": "Quantum Logic and Probability Theory",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Bell\u2019s Theorem"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Holism and Nonseparability in Physics"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Action at a Distance in Quantum Mechanics"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Theory and Mathematical Rigor"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Entanglement and Information"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Quantum Logic and Probability Theory"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "The Einstein-Podolsky-Rosen Argument in Quantum Theory"
+    },
+    {
+      "source": "Philosophical Issues in Quantum Theory",
+      "target": "Philosophical Issues in Quantum Theory"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Logic of Conditionals",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Pascal\u2019s Wager",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Imagination"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Preferences"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Transformative Experience",
+      "target": "Transformative Experience"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Preferences"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Descriptive Decision Theory",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Jury Theorems"
+    },
+    {
+      "source": "Social Choice Theory",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Preferences"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Dynamic Choice",
+      "target": "Dynamic Choice"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Facts"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Properties"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Risk"
+    },
+    {
+      "source": "Bounded Rationality",
+      "target": "Bounded Rationality"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Prisoner\u2019s Dilemma"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Game Theory and Ethics",
+      "target": "Game Theory and Ethics"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Formal Representations of Belief"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Epistemic Utility Arguments for Epistemic Norms",
+      "target": "Epistemic Utility Arguments for Epistemic Norms"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Risk"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Moral Decision-Making Under Uncertainty",
+      "target": "Moral Decision-Making Under Uncertainty"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Preferences"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Preferences",
+      "target": "Practical Reason"
+    },
+    {
+      "source": "Preferences",
+      "target": "Social Choice Theory"
+    },
+    {
+      "source": "Preferences",
+      "target": "Preferences"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Foundations of Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "The Logic of Conditionals"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Descriptive Decision Theory"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Pascal\u2019s Wager"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Imprecise Probabilities"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Expected Utility"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Risk"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "The St. Petersburg Paradox"
+    },
+    {
+      "source": "Normative Theories of Rational Choice: Rivals to Expected Utility",
+      "target": "Normative Theories of Rational Choice: Rivals to Expected Utility"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Mental Causation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Historicist Theories of Scientific Rationality",
+      "target": "Historicist Theories of Scientific Rationality"
+    }
+  ]
+}

@@ -1,0 +1,4562 @@
+{
+  "nodes": [
+    {
+      "id": "Heaven and Hell in Christian Thought",
+      "group": 1,
+      "address": "heaven-hell"
+    },
+    {
+      "id": "Jonathan Edwards",
+      "group": 2,
+      "address": "edwards"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 2,
+      "address": "evil"
+    },
+    {
+      "id": "Legal Punishment",
+      "group": 2,
+      "address": "legal-punishment"
+    },
+    {
+      "id": "Afterlife",
+      "group": 2,
+      "address": "afterlife"
+    },
+    {
+      "id": "Desert",
+      "group": 2,
+      "address": "desert"
+    },
+    {
+      "id": "Philosophy and Christian Theology",
+      "group": 2,
+      "address": "christiantheology-philosophy"
+    },
+    {
+      "id": "Sin in Christian Thought",
+      "group": 2,
+      "address": "sin-christian"
+    },
+    {
+      "id": "Theodicies",
+      "group": 2,
+      "address": "theodicies"
+    },
+    {
+      "id": "Philosophy of Religion",
+      "group": 2,
+      "address": "philosophy-religion"
+    },
+    {
+      "id": "Dante Alighieri",
+      "group": 2,
+      "address": "dante"
+    },
+    {
+      "id": "Scottish Philosophy in the 18th Century",
+      "group": 3,
+      "address": "scottish-18th"
+    },
+    {
+      "id": "Pantheism",
+      "group": 3,
+      "address": "pantheism"
+    },
+    {
+      "id": "George Berkeley",
+      "group": 3,
+      "address": "berkeley"
+    },
+    {
+      "id": "Nicolas Malebranche",
+      "group": 3,
+      "address": "malebranche"
+    },
+    {
+      "id": "Emotions in the Christian Tradition",
+      "group": 3,
+      "address": "emotion-Christian-tradition"
+    },
+    {
+      "id": "Phenomenology of Religion",
+      "group": 3,
+      "address": "phenomenology-religion"
+    },
+    {
+      "id": "Trinity",
+      "group": 3,
+      "address": "trinity"
+    },
+    {
+      "id": "Occasionalism",
+      "group": 3,
+      "address": "occasionalism"
+    },
+    {
+      "id": "Free Will",
+      "group": 3,
+      "address": "freewill"
+    },
+    {
+      "id": "John Locke",
+      "group": 3,
+      "address": "locke"
+    },
+    {
+      "id": "The Cambridge Platonists",
+      "group": 3,
+      "address": "cambridge-platonists"
+    },
+    {
+      "id": "Omniscience",
+      "group": 3,
+      "address": "omniscience"
+    },
+    {
+      "id": "Religious Experience",
+      "group": 3,
+      "address": "religious-experience"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Bayes\u2019 Theorem",
+      "group": 3,
+      "address": "bayes-theorem"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Natural Theology and Natural Religion",
+      "group": 3,
+      "address": "natural-theology"
+    },
+    {
+      "id": "Information Technology and Moral Values",
+      "group": 3,
+      "address": "it-moral-values"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Religion",
+      "group": 3,
+      "address": "arabic-islamic-religion"
+    },
+    {
+      "id": "Hiddenness of God",
+      "group": 3,
+      "address": "divine-hiddenness"
+    },
+    {
+      "id": "Deontological Ethics",
+      "group": 3,
+      "address": "ethics-deontological"
+    },
+    {
+      "id": "Josiah Royce",
+      "group": 3,
+      "address": "royce"
+    },
+    {
+      "id": "Leibniz on the Problem of Evil",
+      "group": 3,
+      "address": "leibniz-evil"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "Divine Providence",
+      "group": 3,
+      "address": "providence-divine"
+    },
+    {
+      "id": "Atheism and Agnosticism",
+      "group": 3,
+      "address": "atheism-agnosticism"
+    },
+    {
+      "id": "Skeptical Theism",
+      "group": 3,
+      "address": "skeptical-theism"
+    },
+    {
+      "id": "Hume on Religion",
+      "group": 3,
+      "address": "hume-religion"
+    },
+    {
+      "id": "Omnipotence",
+      "group": 3,
+      "address": "omnipotence"
+    },
+    {
+      "id": "The Concept of Evil",
+      "group": 3,
+      "address": "concept-evil"
+    },
+    {
+      "id": "Ontological Arguments",
+      "group": 3,
+      "address": "ontological-arguments"
+    },
+    {
+      "id": "God and Other Ultimates",
+      "group": 3,
+      "address": "god-ultimates"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Religion",
+      "group": 3,
+      "address": "kant-religion"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Origen",
+      "group": 3,
+      "address": "origen"
+    },
+    {
+      "id": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "group": 3,
+      "address": "incompatibilism-theories"
+    },
+    {
+      "id": "Leibniz\u2019s Modal Metaphysics",
+      "group": 3,
+      "address": "leibniz-modal"
+    },
+    {
+      "id": "Pierre Bayle",
+      "group": 3,
+      "address": "bayle"
+    },
+    {
+      "id": "Joseph Albo",
+      "group": 3,
+      "address": "albo-joseph"
+    },
+    {
+      "id": "Divine Freedom",
+      "group": 3,
+      "address": "divine-freedom"
+    },
+    {
+      "id": "Perfect Goodness",
+      "group": 3,
+      "address": "perfect-goodness"
+    },
+    {
+      "id": "Kinds and Origins of Evil",
+      "group": 3,
+      "address": "evil-kinds-origins"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Interpretation and Coherence in Legal Reasoning",
+      "group": 3,
+      "address": "legal-reas-interpret"
+    },
+    {
+      "id": "Precedent and Analogy in Legal Reasoning",
+      "group": 3,
+      "address": "legal-reas-prec"
+    },
+    {
+      "id": "Atonement",
+      "group": 3,
+      "address": "atonement"
+    },
+    {
+      "id": "Retributive Justice",
+      "group": 3,
+      "address": "justice-retributive"
+    },
+    {
+      "id": "Skepticism About Moral Responsibility",
+      "group": 3,
+      "address": "skepticism-moral-responsibility"
+    },
+    {
+      "id": "Kant\u2019s Social and Political Philosophy",
+      "group": 3,
+      "address": "kant-social-political"
+    },
+    {
+      "id": "Experimental Jurisprudence",
+      "group": 3,
+      "address": "experimental-jurisprudence"
+    },
+    {
+      "id": "Reconciliation",
+      "group": 3,
+      "address": "reconciliation"
+    },
+    {
+      "id": "Ethics in Indian Buddhism",
+      "group": 3,
+      "address": "ethics-indian-buddhism"
+    },
+    {
+      "id": "Michel Foucault",
+      "group": 3,
+      "address": "foucault"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Coercion",
+      "group": 3,
+      "address": "coercion"
+    },
+    {
+      "id": "Jeremy Bentham",
+      "group": 3,
+      "address": "bentham"
+    },
+    {
+      "id": "Self-Defense",
+      "group": 3,
+      "address": "self-defense"
+    },
+    {
+      "id": "Hume on Free Will",
+      "group": 3,
+      "address": "hume-freewill"
+    },
+    {
+      "id": "Civil Disobedience",
+      "group": 3,
+      "address": "civil-disobedience"
+    },
+    {
+      "id": "Legal Obligation and Authority",
+      "group": 3,
+      "address": "legal-obligation"
+    },
+    {
+      "id": "Moral Luck",
+      "group": 3,
+      "address": "moral-luck"
+    },
+    {
+      "id": "Theories of Criminal Law",
+      "group": 3,
+      "address": "criminal-law"
+    },
+    {
+      "id": "Blame",
+      "group": 3,
+      "address": "blame"
+    },
+    {
+      "id": "The Meaning of Life",
+      "group": 3,
+      "address": "life-meaning"
+    },
+    {
+      "id": "Ludwig Andreas Feuerbach",
+      "group": 3,
+      "address": "ludwig-feuerbach"
+    },
+    {
+      "id": "The Definition of Death",
+      "group": 3,
+      "address": "death-definition"
+    },
+    {
+      "id": "Byzantine Philosophy",
+      "group": 3,
+      "address": "byzantine-philosophy"
+    },
+    {
+      "id": "Mind in Indian Buddhist Philosophy",
+      "group": 3,
+      "address": "mind-indian-buddhism"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Dualism",
+      "group": 3,
+      "address": "dualism"
+    },
+    {
+      "id": "Death",
+      "group": 3,
+      "address": "death"
+    },
+    {
+      "id": "Ancient Theories of Soul",
+      "group": 3,
+      "address": "ancient-soul"
+    },
+    {
+      "id": "Robert Boyle",
+      "group": 3,
+      "address": "boyle"
+    },
+    {
+      "id": "Samuel Ibn Tibbon",
+      "group": 3,
+      "address": "tibbon"
+    },
+    {
+      "id": "Meritocracy",
+      "group": 3,
+      "address": "meritocracy"
+    },
+    {
+      "id": "Justice and Bad Luck",
+      "group": 3,
+      "address": "justice-bad-luck"
+    },
+    {
+      "id": "Intellectual Property",
+      "group": 3,
+      "address": "intellectual-property"
+    },
+    {
+      "id": "The Repugnant Conclusion",
+      "group": 3,
+      "address": "repugnant-conclusion"
+    },
+    {
+      "id": "Distributive Justice",
+      "group": 3,
+      "address": "justice-distributive"
+    },
+    {
+      "id": "Friedrich Hayek",
+      "group": 3,
+      "address": "friedrich-hayek"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Value",
+      "group": 3,
+      "address": "value-intrinsic-extrinsic"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Markets",
+      "group": 3,
+      "address": "markets"
+    },
+    {
+      "id": "Moore\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "moore-moral"
+    },
+    {
+      "id": "Justice as a Virtue",
+      "group": 3,
+      "address": "justice-virtue"
+    },
+    {
+      "id": "Egalitarianism",
+      "group": 3,
+      "address": "egalitarianism"
+    },
+    {
+      "id": "Divine Revelation",
+      "group": 3,
+      "address": "divine-revelation"
+    },
+    {
+      "id": "Forgiveness",
+      "group": 3,
+      "address": "forgiveness"
+    },
+    {
+      "id": "Eugen Rosenstock-Huessy",
+      "group": 3,
+      "address": "rosenstock-huessy"
+    },
+    {
+      "id": "Faith",
+      "group": 3,
+      "address": "faith"
+    },
+    {
+      "id": "Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-philosophy"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "Anselm of Canterbury",
+      "group": 3,
+      "address": "anselm"
+    },
+    {
+      "id": "Thomas Aquinas",
+      "group": 3,
+      "address": "aquinas"
+    },
+    {
+      "id": "Martin Luther",
+      "group": 3,
+      "address": "luther"
+    },
+    {
+      "id": "Relative Identity",
+      "group": 3,
+      "address": "identity-relative"
+    },
+    {
+      "id": "The Epistemology of Religion",
+      "group": 3,
+      "address": "religion-epistemology"
+    },
+    {
+      "id": "John Scottus Eriugena",
+      "group": 3,
+      "address": "scottus-eriugena"
+    },
+    {
+      "id": "Giordano Bruno",
+      "group": 3,
+      "address": "bruno"
+    },
+    {
+      "id": "Gabriel (-Honor\u00e9) Marcel",
+      "group": 3,
+      "address": "marcel"
+    },
+    {
+      "id": "S\u00f8ren Kierkegaard",
+      "group": 3,
+      "address": "kierkegaard"
+    },
+    {
+      "id": "Prophecy",
+      "group": 3,
+      "address": "prophecy"
+    },
+    {
+      "id": "Theological Voluntarism",
+      "group": 3,
+      "address": "voluntarism-theological"
+    },
+    {
+      "id": "Creation and Conservation",
+      "group": 3,
+      "address": "creation-conservation"
+    },
+    {
+      "id": "Foreknowledge and Free Will",
+      "group": 3,
+      "address": "free-will-foreknowledge"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 3,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Compatibilism",
+      "group": 3,
+      "address": "compatibilism"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Monotheism",
+      "group": 3,
+      "address": "monotheism"
+    },
+    {
+      "id": "Simone Weil",
+      "group": 3,
+      "address": "simone-weil"
+    },
+    {
+      "id": "Lady Anne Conway",
+      "group": 3,
+      "address": "conway"
+    },
+    {
+      "id": "Process Theism",
+      "group": 3,
+      "address": "process-theism"
+    },
+    {
+      "id": "Feminist Philosophy of Religion",
+      "group": 3,
+      "address": "feminist-religion"
+    },
+    {
+      "id": "Religious Diversity (Pluralism)",
+      "group": 3,
+      "address": "religious-pluralism"
+    },
+    {
+      "id": "Johann Gottfried von Herder",
+      "group": 3,
+      "address": "herder"
+    },
+    {
+      "id": "Divine Illumination",
+      "group": 3,
+      "address": "illumination"
+    },
+    {
+      "id": "Heinrich Scholz",
+      "group": 3,
+      "address": "scholz"
+    },
+    {
+      "id": "The Concept of Religion",
+      "group": 3,
+      "address": "concept-religion"
+    },
+    {
+      "id": "Charlie Dunbar Broad",
+      "group": 3,
+      "address": "broad"
+    },
+    {
+      "id": "Watsuji Tetsur\u014d",
+      "group": 3,
+      "address": "watsuji-tetsuro"
+    },
+    {
+      "id": "Religion and Morality in Western Philosophy",
+      "group": 3,
+      "address": "religion-morality"
+    },
+    {
+      "id": "Panentheism",
+      "group": 3,
+      "address": "panentheism"
+    },
+    {
+      "id": "Religion and Science",
+      "group": 3,
+      "address": "religion-science"
+    },
+    {
+      "id": "Religion and Political Theory",
+      "group": 3,
+      "address": "religion-politics"
+    },
+    {
+      "id": "Margaret Lucas Cavendish",
+      "group": 3,
+      "address": "margaret-cavendish"
+    },
+    {
+      "id": "Fideism",
+      "group": 3,
+      "address": "fideism"
+    },
+    {
+      "id": "God and Other Necessary Beings",
+      "group": 3,
+      "address": "god-necessary-being"
+    },
+    {
+      "id": "Jacques Maritain",
+      "group": 3,
+      "address": "maritain"
+    },
+    {
+      "id": "Pragmatic Arguments and Belief in God",
+      "group": 3,
+      "address": "pragmatic-belief-god"
+    },
+    {
+      "id": "Henricus Regius",
+      "group": 3,
+      "address": "henricus-regius"
+    },
+    {
+      "id": "Reason and Religious Commitment",
+      "group": 3,
+      "address": "religious-commitment-reason"
+    },
+    {
+      "id": "Emmanuel Levinas",
+      "group": 3,
+      "address": "levinas"
+    },
+    {
+      "id": "Friedrich Daniel Ernst Schleiermacher",
+      "group": 3,
+      "address": "schleiermacher"
+    },
+    {
+      "id": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "group": 3,
+      "address": "al-farabi-soc-rel"
+    },
+    {
+      "id": "Religious Language",
+      "group": 3,
+      "address": "religious-language"
+    },
+    {
+      "id": "Auguste Comte",
+      "group": 3,
+      "address": "comte"
+    },
+    {
+      "id": "Comparative Philosophy of Religion",
+      "group": 3,
+      "address": "religion-comparative"
+    },
+    {
+      "id": "Religious Daoism",
+      "group": 3,
+      "address": "daoism-religion"
+    },
+    {
+      "id": "Franz Rosenzweig",
+      "group": 3,
+      "address": "rosenzweig"
+    },
+    {
+      "id": "Marsilius of Padua",
+      "group": 3,
+      "address": "marsilius-padua"
+    },
+    {
+      "id": "Sovereignty",
+      "group": 3,
+      "address": "sovereignty"
+    },
+    {
+      "id": "Anicius Manlius Severinus Boethius",
+      "group": 3,
+      "address": "boethius"
+    },
+    {
+      "id": "Ibn Sina [Avicenna]",
+      "group": 3,
+      "address": "ibn-sina"
+    },
+    {
+      "id": "Pseudo-Dionysius the Areopagite",
+      "group": 3,
+      "address": "pseudo-dionysius-areopagite"
+    },
+    {
+      "id": "The Theology of Aristotle",
+      "group": 3,
+      "address": "theology-aristotle"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "group": 3,
+      "address": "arabic-islamic-influence"
+    },
+    {
+      "id": "Peter John Olivi",
+      "group": 3,
+      "address": "olivi"
+    },
+    {
+      "id": "World Government",
+      "group": 3,
+      "address": "world-government"
+    },
+    {
+      "id": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "group": 3,
+      "address": "arabic-islamic-mind"
+    },
+    {
+      "id": "Medieval Political Philosophy",
+      "group": 3,
+      "address": "medieval-political"
+    },
+    {
+      "id": "Ibn Rushd [Averroes]",
+      "group": 3,
+      "address": "ibn-rushd"
+    },
+    {
+      "id": "Albert the Great",
+      "group": 3,
+      "address": "albert-great"
+    },
+    {
+      "id": "Literary Forms of Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-literary"
+    }
+  ],
+  "links": [
+    {
+      "source": "Afterlife",
+      "target": "Heaven and Hell in Christian Thought"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Heaven and Hell in Christian Thought"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Heaven and Hell in Christian Thought"
+    },
+    {
+      "source": "Heaven and Hell in Christian Thought",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Heaven and Hell in Christian Thought",
+      "target": "Desert"
+    },
+    {
+      "source": "Heaven and Hell in Christian Thought",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "Heaven and Hell in Christian Thought",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Heaven and Hell in Christian Thought",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Heaven and Hell in Christian Thought"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Heaven and Hell in Christian Thought"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Heaven and Hell in Christian Thought"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Free Will"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "John Locke"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Jonathan Edwards",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "Trinity",
+      "target": "Jonathan Edwards"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Pierre Bayle",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Abduction"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Leibniz on the Problem of Evil"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Hiddenness of God",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Leibniz on the Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Omnipotence",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Origen",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Pantheism",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Skeptical Theism",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Theodicies",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Atonement",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Blame",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Coercion",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Theories of Criminal Law"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Legal Punishment",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Reconciliation",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Legal Punishment"
+    },
+    {
+      "source": "Afterlife",
+      "target": "Death"
+    },
+    {
+      "source": "Afterlife",
+      "target": "Dualism"
+    },
+    {
+      "source": "Afterlife",
+      "target": "Mind in Indian Buddhist Philosophy"
+    },
+    {
+      "source": "Afterlife",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Afterlife",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Afterlife",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Afterlife"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Afterlife"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Afterlife"
+    },
+    {
+      "source": "Blame",
+      "target": "Desert"
+    },
+    {
+      "source": "Desert",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Desert",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Desert",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Desert",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Desert",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Desert"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Desert"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Desert"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Desert"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Desert"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Desert"
+    },
+    {
+      "source": "Markets",
+      "target": "Desert"
+    },
+    {
+      "source": "Meritocracy",
+      "target": "Desert"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Desert"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Desert"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Desert"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Desert"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Desert"
+    },
+    {
+      "source": "Atonement",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Faith"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Martin Luther"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Sin in Christian Thought"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Trinity"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Faith",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Gabriel (-Honor\u00e9) Marcel",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Origen",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Eugen Rosenstock-Huessy",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Atonement",
+      "target": "Sin in Christian Thought"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Atonement"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Creation and Conservation"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Sin in Christian Thought",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Leibniz on the Problem of Evil",
+      "target": "Theodicies"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Free Will"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Leibniz on the Problem of Evil"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Theodicies",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Faith",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Jacques Maritain",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Comparative Philosophy of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "al-Farabi\u2019s Philosophy of Society and Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Margaret Lucas Cavendish"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Lady Anne Conway"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religious Daoism"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Faith"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religious Language"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Franz Rosenzweig",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Heinrich Scholz",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Trinity",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "World Government"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "World Government",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Scottish Philosophy in the 18th Century",
+      "target": "Scottish Philosophy in the 18th Century"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Pantheism",
+      "target": "John Scottus Eriugena"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "John Locke"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Leibniz on the Problem of Evil"
+    },
+    {
+      "source": "Nicolas Malebranche",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Emotions in the Christian Tradition",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Creation and Conservation"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Phenomenology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "Trinity",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Trinity",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Trinity",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Trinity",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Trinity",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Trinity",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Trinity",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Trinity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Trinity",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Trinity",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Trinity",
+      "target": "Origen"
+    },
+    {
+      "source": "Trinity",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Trinity",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Trinity",
+      "target": "Religious Language"
+    },
+    {
+      "source": "Trinity",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Trinity",
+      "target": "Trinity"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "Creation and Conservation"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Occasionalism",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Blame"
+    },
+    {
+      "source": "Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Free Will",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "John Locke",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "John Locke",
+      "target": "John Locke"
+    },
+    {
+      "source": "The Cambridge Platonists",
+      "target": "Lady Anne Conway"
+    },
+    {
+      "source": "The Cambridge Platonists",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Religious Experience",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayes\u2019 Theorem",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Physicalism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "John Locke"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "Information Technology and Moral Values",
+      "target": "Information Technology and Moral Values"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Religion",
+      "target": "Arabic and Islamic Philosophy of Religion"
+    },
+    {
+      "source": "Hiddenness of God",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Hiddenness of God",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Hiddenness of God",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Hiddenness of God",
+      "target": "Skeptical Theism"
+    },
+    {
+      "source": "Hiddenness of God",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Josiah Royce",
+      "target": "Josiah Royce"
+    },
+    {
+      "source": "Leibniz on the Problem of Evil",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Leibniz on the Problem of Evil",
+      "target": "Leibniz on the Problem of Evil"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "Free Will"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "Skeptical Theism"
+    },
+    {
+      "source": "Divine Providence",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Fideism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Skeptical Theism",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Skeptical Theism",
+      "target": "Perfect Goodness"
+    },
+    {
+      "source": "Skeptical Theism",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Skeptical Theism",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Skeptical Theism",
+      "target": "Skeptical Theism"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Omnipotence",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Religious Daoism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Monotheism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Panentheism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Pantheism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Process Theism"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "Religious Language"
+    },
+    {
+      "source": "God and Other Ultimates",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Free Will"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Origen",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Origen",
+      "target": "Trinity"
+    },
+    {
+      "source": "Origen",
+      "target": "Origen"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Leibniz on the Problem of Evil"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Pierre Bayle",
+      "target": "Fideism"
+    },
+    {
+      "source": "Pierre Bayle",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Joseph Albo",
+      "target": "Joseph Albo"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Creation and Conservation"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Free Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Perfect Goodness"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Divine Freedom",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Perfect Goodness",
+      "target": "Perfect Goodness"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "Leibniz on the Problem of Evil"
+    },
+    {
+      "source": "Kinds and Origins of Evil",
+      "target": "Kinds and Origins of Evil"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Interpretation and Coherence in Legal Reasoning",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Interpretation and Coherence in Legal Reasoning"
+    },
+    {
+      "source": "Precedent and Analogy in Legal Reasoning",
+      "target": "Precedent and Analogy in Legal Reasoning"
+    },
+    {
+      "source": "Atonement",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Atonement",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Atonement",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Atonement",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Atonement",
+      "target": "Reconciliation"
+    },
+    {
+      "source": "Atonement",
+      "target": "Atonement"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Retributive Justice",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Skepticism About Moral Responsibility",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "John Locke"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Experimental Jurisprudence",
+      "target": "Experimental Jurisprudence"
+    },
+    {
+      "source": "Reconciliation",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Reconciliation",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Reconciliation",
+      "target": "Reconciliation"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Ethics in Indian Buddhism",
+      "target": "Ethics in Indian Buddhism"
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Civil Disobedience"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "John Rawls",
+      "target": "World Government"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Coercion",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Coercion",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Coercion",
+      "target": "Coercion"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Michel Foucault"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Self-Defense",
+      "target": "Self-Defense"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Hume on Free Will",
+      "target": "Hume on Free Will"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Civil Disobedience"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Legal Obligation and Authority",
+      "target": "Legal Obligation and Authority"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Moral Luck",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Theories of Criminal Law"
+    },
+    {
+      "source": "Blame",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Blame",
+      "target": "Free Will"
+    },
+    {
+      "source": "Blame",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Blame",
+      "target": "Blame"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Death"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Meaning of Life",
+      "target": "The Meaning of Life"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Death"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Faith"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Ludwig Andreas Feuerbach",
+      "target": "Ludwig Andreas Feuerbach"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "Death"
+    },
+    {
+      "source": "The Definition of Death",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Mind in Indian Buddhist Philosophy",
+      "target": "Mind in Indian Buddhist Philosophy"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Dualism",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Dualism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Dualism",
+      "target": "Dualism"
+    },
+    {
+      "source": "Death",
+      "target": "The Definition of Death"
+    },
+    {
+      "source": "Death",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Death",
+      "target": "Death"
+    },
+    {
+      "source": "Ancient Theories of Soul",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Pierre Bayle"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "John Locke"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Samuel Ibn Tibbon"
+    },
+    {
+      "source": "Meritocracy",
+      "target": "al-Farabi\u2019s Philosophy of Society and Religion"
+    },
+    {
+      "source": "Meritocracy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Meritocracy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Meritocracy",
+      "target": "Meritocracy"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Justice and Bad Luck",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "John Locke"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Repugnant Conclusion",
+      "target": "The Repugnant Conclusion"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "John Locke"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Friedrich Hayek",
+      "target": "Friedrich Hayek"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Value",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Jeremy Bentham"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Markets",
+      "target": "Markets"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Intrinsic vs. Extrinsic Value"
+    },
+    {
+      "source": "Moore\u2019s Moral Philosophy",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Justice as a Virtue",
+      "target": "Justice as a Virtue"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Justice and Bad Luck"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Faith"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Atonement"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Retributive Justice"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Forgiveness",
+      "target": "Forgiveness"
+    },
+    {
+      "source": "Eugen Rosenstock-Huessy",
+      "target": "Franz Rosenzweig"
+    },
+    {
+      "source": "Eugen Rosenstock-Huessy",
+      "target": "Eugen Rosenstock-Huessy"
+    },
+    {
+      "source": "Faith",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Faith",
+      "target": "Fideism"
+    },
+    {
+      "source": "Faith",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Faith",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Faith",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Faith",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Faith",
+      "target": "Faith"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Free Will"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Free Will"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Creation and Conservation"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Faith"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Martin Luther"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Trinity"
+    },
+    {
+      "source": "Relative Identity",
+      "target": "Relative Identity"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Phenomenology of Religion"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "John Scottus Eriugena",
+      "target": "John Scottus Eriugena"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Trinity"
+    },
+    {
+      "source": "Giordano Bruno",
+      "target": "Giordano Bruno"
+    },
+    {
+      "source": "Gabriel (-Honor\u00e9) Marcel",
+      "target": "Gabriel (-Honor\u00e9) Marcel"
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Emotions in the Christian Tradition"
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Faith"
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Fideism"
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Free Will"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Divine Providence"
+    },
+    {
+      "source": "Prophecy",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Theological Voluntarism",
+      "target": "Perfect Goodness"
+    },
+    {
+      "source": "Theological Voluntarism",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Theological Voluntarism",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Creation and Conservation",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Creation and Conservation",
+      "target": "Creation and Conservation"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Free Will"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Divine Freedom"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Compatibilism",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Compatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Incompatibilist (Nondeterministic) Theories of Free Will"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Luck"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Skepticism About Moral Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Monotheism",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Monotheism",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Omnipotence"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Trinity"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Simone Weil",
+      "target": "Simone Weil"
+    },
+    {
+      "source": "Lady Anne Conway",
+      "target": "The Cambridge Platonists"
+    },
+    {
+      "source": "Lady Anne Conway",
+      "target": "Lady Anne Conway"
+    },
+    {
+      "source": "Process Theism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Process Theism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Process Theism",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Feminist Philosophy of Religion",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Fideism"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Dualism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Heinrich Scholz",
+      "target": "Heinrich Scholz"
+    },
+    {
+      "source": "The Concept of Religion",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Charlie Dunbar Broad",
+      "target": "Charlie Dunbar Broad"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Watsuji Tetsur\u014d"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Moore\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Theological Voluntarism"
+    },
+    {
+      "source": "Religion and Morality in Western Philosophy",
+      "target": "Religion and Morality in Western Philosophy"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Feminist Philosophy of Religion"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Panentheism",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Margaret Lucas Cavendish",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Margaret Lucas Cavendish",
+      "target": "Occasionalism"
+    },
+    {
+      "source": "Margaret Lucas Cavendish",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Margaret Lucas Cavendish",
+      "target": "Margaret Lucas Cavendish"
+    },
+    {
+      "source": "Fideism",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Fideism",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Fideism",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Fideism",
+      "target": "Fideism"
+    },
+    {
+      "source": "God and Other Necessary Beings",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "God and Other Necessary Beings",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "God and Other Necessary Beings",
+      "target": "David Lewis"
+    },
+    {
+      "source": "God and Other Necessary Beings",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Jacques Maritain",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Jacques Maritain",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Jacques Maritain",
+      "target": "Jacques Maritain"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "The Meaning of Life"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "God and Other Necessary Beings"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "John Locke"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Nicolas Malebranche"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Henricus Regius",
+      "target": "Henricus Regius"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Bayes\u2019 Theorem"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Hiddenness of God"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Panentheism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Process Theism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Religious Experience"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Franz Rosenzweig"
+    },
+    {
+      "source": "Emmanuel Levinas",
+      "target": "Emmanuel Levinas"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Friedrich Daniel Ernst Schleiermacher",
+      "target": "Friedrich Daniel Ernst Schleiermacher"
+    },
+    {
+      "source": "al-Farabi\u2019s Philosophy of Society and Religion",
+      "target": "al-Farabi\u2019s Philosophy of Society and Religion"
+    },
+    {
+      "source": "Religious Language",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Religious Language",
+      "target": "Religious Language"
+    },
+    {
+      "source": "Auguste Comte",
+      "target": "Auguste Comte"
+    },
+    {
+      "source": "Comparative Philosophy of Religion",
+      "target": "God and Other Ultimates"
+    },
+    {
+      "source": "Comparative Philosophy of Religion",
+      "target": "S\u00f8ren Kierkegaard"
+    },
+    {
+      "source": "Comparative Philosophy of Religion",
+      "target": "The Concept of Religion"
+    },
+    {
+      "source": "Comparative Philosophy of Religion",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Comparative Philosophy of Religion",
+      "target": "Comparative Philosophy of Religion"
+    },
+    {
+      "source": "Religious Daoism",
+      "target": "Religious Daoism"
+    },
+    {
+      "source": "Franz Rosenzweig",
+      "target": "Eugen Rosenstock-Huessy"
+    },
+    {
+      "source": "Franz Rosenzweig",
+      "target": "Franz Rosenzweig"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Marsilius of Padua"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Jacques Maritain"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "World Government"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Free Will"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "John Scottus Eriugena"
+    },
+    {
+      "source": "Pseudo-Dionysius the Areopagite",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "The Theology of Aristotle",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Free Will"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "World Government",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "World Government",
+      "target": "World Government"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ancient Theories of Soul"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "al-Farabi\u2019s Philosophy of Society and Religion"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ibn Rushd [Averroes]",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Ibn Rushd [Averroes]"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "The Theology of Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    }
+  ]
+}

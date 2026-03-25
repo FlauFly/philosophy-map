@@ -1,0 +1,7612 @@
+{
+  "nodes": [
+    {
+      "id": "Medieval Theories of Obligationes",
+      "group": 1,
+      "address": "obligationes"
+    },
+    {
+      "id": "Logic and Games",
+      "group": 2,
+      "address": "logic-games"
+    },
+    {
+      "id": "William of Ockham",
+      "group": 2,
+      "address": "ockham"
+    },
+    {
+      "id": "Walter Burley",
+      "group": 2,
+      "address": "burley"
+    },
+    {
+      "id": "Medieval Theories of Consequence",
+      "group": 2,
+      "address": "consequence-medieval"
+    },
+    {
+      "id": "Propositions",
+      "group": 2,
+      "address": "propositions"
+    },
+    {
+      "id": "Medieval Theories of Modality",
+      "group": 2,
+      "address": "modality-medieval"
+    },
+    {
+      "id": "William of Sherwood",
+      "group": 2,
+      "address": "william-sherwood"
+    },
+    {
+      "id": "Paul of Venice",
+      "group": 2,
+      "address": "paul-venice"
+    },
+    {
+      "id": "Richard the Sophister",
+      "group": 2,
+      "address": "richard-sophister"
+    },
+    {
+      "id": "Sophismata",
+      "group": 2,
+      "address": "sophismata"
+    },
+    {
+      "id": "Insolubles",
+      "group": 2,
+      "address": "insolubles"
+    },
+    {
+      "id": "Medieval Philosophy",
+      "group": 2,
+      "address": "medieval-philosophy"
+    },
+    {
+      "id": "Marsilius of Inghen",
+      "group": 2,
+      "address": "marsilius-inghen"
+    },
+    {
+      "id": "Literary Forms of Medieval Philosophy",
+      "group": 2,
+      "address": "medieval-literary"
+    },
+    {
+      "id": "William Heytesbury",
+      "group": 2,
+      "address": "heytesbury"
+    },
+    {
+      "id": "Linear Logic",
+      "group": 3,
+      "address": "logic-linear"
+    },
+    {
+      "id": "Infinitary Logic",
+      "group": 3,
+      "address": "logic-infinitary"
+    },
+    {
+      "id": "Tarski\u2019s Truth Definitions",
+      "group": 3,
+      "address": "tarski-truth"
+    },
+    {
+      "id": "Proof-Theoretic Semantics",
+      "group": 3,
+      "address": "proof-theoretic-semantics"
+    },
+    {
+      "id": "Set Theory",
+      "group": 3,
+      "address": "set-theory"
+    },
+    {
+      "id": "Classical Logic",
+      "group": 3,
+      "address": "logic-classical"
+    },
+    {
+      "id": "Game Theory",
+      "group": 3,
+      "address": "game-theory"
+    },
+    {
+      "id": "Intuitionistic Logic",
+      "group": 3,
+      "address": "logic-intuitionistic"
+    },
+    {
+      "id": "Epistemic Logic",
+      "group": 3,
+      "address": "logic-epistemic"
+    },
+    {
+      "id": "Independence Friendly Logic",
+      "group": 3,
+      "address": "logic-if"
+    },
+    {
+      "id": "Games, Full Abstraction and Full Completeness",
+      "group": 3,
+      "address": "games-abstraction"
+    },
+    {
+      "id": "Reasoning About Power in Games",
+      "group": 3,
+      "address": "logic-power-games"
+    },
+    {
+      "id": "Negation",
+      "group": 3,
+      "address": "negation"
+    },
+    {
+      "id": "First-order Model Theory",
+      "group": 3,
+      "address": "modeltheory-fo"
+    },
+    {
+      "id": "Model Theory",
+      "group": 3,
+      "address": "model-theory"
+    },
+    {
+      "id": "Logics for Analyzing Games",
+      "group": 3,
+      "address": "logics-for-games"
+    },
+    {
+      "id": "Generalized Quantifiers",
+      "group": 3,
+      "address": "generalized-quantifiers"
+    },
+    {
+      "id": "Modal Logic",
+      "group": 3,
+      "address": "logic-modal"
+    },
+    {
+      "id": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "group": 3,
+      "address": "implicature-optimality-games"
+    },
+    {
+      "id": "Dependence Logic",
+      "group": 3,
+      "address": "logic-dependence"
+    },
+    {
+      "id": "Dialogical Logic",
+      "group": 3,
+      "address": "logic-dialogical"
+    },
+    {
+      "id": "Informal Logic",
+      "group": 3,
+      "address": "logic-informal"
+    },
+    {
+      "id": "Abner of Burgos",
+      "group": 3,
+      "address": "abner-burgos"
+    },
+    {
+      "id": "Continuity and Infinitesimals",
+      "group": 3,
+      "address": "continuity"
+    },
+    {
+      "id": "John Duns Scotus",
+      "group": 3,
+      "address": "duns-scotus"
+    },
+    {
+      "id": "Nicholas of Autrecourt",
+      "group": 3,
+      "address": "autrecourt"
+    },
+    {
+      "id": "School of Salamanca",
+      "group": 3,
+      "address": "school-salamanca"
+    },
+    {
+      "id": "Hasdai Crescas",
+      "group": 3,
+      "address": "crescas"
+    },
+    {
+      "id": "Foreknowledge and Free Will",
+      "group": 3,
+      "address": "free-will-foreknowledge"
+    },
+    {
+      "id": "Medieval Theories: Properties of Terms",
+      "group": 3,
+      "address": "medieval-terms"
+    },
+    {
+      "id": "Albert of Saxony",
+      "group": 3,
+      "address": "albert-saxony"
+    },
+    {
+      "id": "The Medieval Problem of Universals",
+      "group": 3,
+      "address": "universals-medieval"
+    },
+    {
+      "id": "Adam de Wodeham",
+      "group": 3,
+      "address": "wodeham"
+    },
+    {
+      "id": "Medieval Theories of Causation",
+      "group": 3,
+      "address": "causation-medieval"
+    },
+    {
+      "id": "Medieval Theories of Demonstration",
+      "group": 3,
+      "address": "demonstration-medieval"
+    },
+    {
+      "id": "The Possibilism-Actualism Debate",
+      "group": 3,
+      "address": "possibilism-actualism"
+    },
+    {
+      "id": "Thomas Aquinas",
+      "group": 3,
+      "address": "aquinas"
+    },
+    {
+      "id": "Martin Luther",
+      "group": 3,
+      "address": "luther"
+    },
+    {
+      "id": "Metaphysical Explanation",
+      "group": 3,
+      "address": "metaphysical-explanation"
+    },
+    {
+      "id": "Monotheism",
+      "group": 3,
+      "address": "monotheism"
+    },
+    {
+      "id": "Medieval Theories of Conscience",
+      "group": 3,
+      "address": "conscience-medieval"
+    },
+    {
+      "id": "Roger Bacon",
+      "group": 3,
+      "address": "roger-bacon"
+    },
+    {
+      "id": "Gregory of Rimini",
+      "group": 3,
+      "address": "gregory-rimini"
+    },
+    {
+      "id": "Peter Auriol",
+      "group": 3,
+      "address": "auriol"
+    },
+    {
+      "id": "Simplicity",
+      "group": 3,
+      "address": "simplicity"
+    },
+    {
+      "id": "Richard Kilvington",
+      "group": 3,
+      "address": "kilvington"
+    },
+    {
+      "id": "Temporal Logic",
+      "group": 3,
+      "address": "logic-temporal"
+    },
+    {
+      "id": "John Buridan",
+      "group": 3,
+      "address": "buridan"
+    },
+    {
+      "id": "Walter Chatton",
+      "group": 3,
+      "address": "walter-chatton"
+    },
+    {
+      "id": "William Crathorn",
+      "group": 3,
+      "address": "crathorn"
+    },
+    {
+      "id": "Richard FitzRalph",
+      "group": 3,
+      "address": "fitzralph"
+    },
+    {
+      "id": "Russell\u2019s Logical Atomism",
+      "group": 3,
+      "address": "logical-atomism"
+    },
+    {
+      "id": "Nicole Oresme",
+      "group": 3,
+      "address": "nicole-oresme"
+    },
+    {
+      "id": "Omniscience",
+      "group": 3,
+      "address": "omniscience"
+    },
+    {
+      "id": "Robert Holkot",
+      "group": 3,
+      "address": "holkot"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "Medieval Theories of the Emotions",
+      "group": 3,
+      "address": "medieval-emotions"
+    },
+    {
+      "id": "Medieval Skepticism",
+      "group": 3,
+      "address": "skepticism-medieval"
+    },
+    {
+      "id": "Medieval Theories of the Syllogism",
+      "group": 3,
+      "address": "medieval-syllogism"
+    },
+    {
+      "id": "Mental Representation in Medieval Philosophy",
+      "group": 3,
+      "address": "representation-medieval"
+    },
+    {
+      "id": "Medieval Theories of Future Contingents",
+      "group": 3,
+      "address": "medieval-futcont"
+    },
+    {
+      "id": "Medieval Theories of Practical Reason",
+      "group": 3,
+      "address": "practical-reason-med"
+    },
+    {
+      "id": "Medieval Mereology",
+      "group": 3,
+      "address": "mereology-medieval"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Medieval Semiotics",
+      "group": 3,
+      "address": "semiotics-medieval"
+    },
+    {
+      "id": "Medieval Theories of Relations",
+      "group": 3,
+      "address": "relations-medieval"
+    },
+    {
+      "id": "Medieval Political Philosophy",
+      "group": 3,
+      "address": "medieval-political"
+    },
+    {
+      "id": "Prophecy",
+      "group": 3,
+      "address": "prophecy"
+    },
+    {
+      "id": "Analysis",
+      "group": 3,
+      "address": "analysis"
+    },
+    {
+      "id": "William Penbygull",
+      "group": 3,
+      "address": "penbygull"
+    },
+    {
+      "id": "Medieval Theories of the Categories",
+      "group": 3,
+      "address": "medieval-categories"
+    },
+    {
+      "id": "Robert Alyngton",
+      "group": 3,
+      "address": "alyngton"
+    },
+    {
+      "id": "John Wyclif",
+      "group": 3,
+      "address": "wyclif"
+    },
+    {
+      "id": "Johannes Sharpe",
+      "group": 3,
+      "address": "sharpe"
+    },
+    {
+      "id": "Relevance Logic",
+      "group": 3,
+      "address": "logic-relevance"
+    },
+    {
+      "id": "Ancient Logic",
+      "group": 3,
+      "address": "logic-ancient"
+    },
+    {
+      "id": "Logical Consequence",
+      "group": 3,
+      "address": "logical-consequence"
+    },
+    {
+      "id": "Peter Abelard",
+      "group": 3,
+      "address": "abelard"
+    },
+    {
+      "id": "Logical Constants",
+      "group": 3,
+      "address": "logical-constants"
+    },
+    {
+      "id": "Commentators on Aristotle",
+      "group": 3,
+      "address": "aristotle-commentators"
+    },
+    {
+      "id": "Logical Truth",
+      "group": 3,
+      "address": "logical-truth"
+    },
+    {
+      "id": "Alberic of Paris",
+      "group": 3,
+      "address": "alberic-paris"
+    },
+    {
+      "id": "Logical Pluralism",
+      "group": 3,
+      "address": "logical-pluralism"
+    },
+    {
+      "id": "Anicius Manlius Severinus Boethius",
+      "group": 3,
+      "address": "boethius"
+    },
+    {
+      "id": "Aristotle\u2019s Logic",
+      "group": 3,
+      "address": "aristotle-logic"
+    },
+    {
+      "id": "Alfred Tarski",
+      "group": 3,
+      "address": "tarski"
+    },
+    {
+      "id": "Schema",
+      "group": 3,
+      "address": "schema"
+    },
+    {
+      "id": "Logical Constructions",
+      "group": 3,
+      "address": "logical-construction"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Questions",
+      "group": 3,
+      "address": "questions"
+    },
+    {
+      "id": "Divine Revelation",
+      "group": 3,
+      "address": "divine-revelation"
+    },
+    {
+      "id": "Presentism",
+      "group": 3,
+      "address": "presentism"
+    },
+    {
+      "id": "Fictionalism",
+      "group": 3,
+      "address": "fictionalism"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "George Edward Moore",
+      "group": 3,
+      "address": "moore"
+    },
+    {
+      "id": "Deflationism About Truth",
+      "group": 3,
+      "address": "truth-deflationary"
+    },
+    {
+      "id": "Events",
+      "group": 3,
+      "address": "events"
+    },
+    {
+      "id": "Singular Propositions",
+      "group": 3,
+      "address": "propositions-singular"
+    },
+    {
+      "id": "Abstract Objects",
+      "group": 3,
+      "address": "abstract-objects"
+    },
+    {
+      "id": "Platonism in Metaphysics",
+      "group": 3,
+      "address": "platonism"
+    },
+    {
+      "id": "Two-Dimensional Semantics",
+      "group": 3,
+      "address": "two-dimensional-semantics"
+    },
+    {
+      "id": "The Identity Theory of Truth",
+      "group": 3,
+      "address": "truth-identity"
+    },
+    {
+      "id": "States of Affairs",
+      "group": 3,
+      "address": "states-of-affairs"
+    },
+    {
+      "id": "Bernard Bolzano",
+      "group": 3,
+      "address": "bolzano"
+    },
+    {
+      "id": "Logical Form",
+      "group": 3,
+      "address": "logical-form"
+    },
+    {
+      "id": "Existence",
+      "group": 3,
+      "address": "existence"
+    },
+    {
+      "id": "Truthmakers",
+      "group": 3,
+      "address": "truthmakers"
+    },
+    {
+      "id": "Belief",
+      "group": 3,
+      "address": "belief"
+    },
+    {
+      "id": "Intentionality in Ancient Philosophy",
+      "group": 3,
+      "address": "intentionality-ancient"
+    },
+    {
+      "id": "The Correspondence Theory of Truth",
+      "group": 3,
+      "address": "truth-correspondence"
+    },
+    {
+      "id": "Wittgenstein\u2019s Logical Atomism",
+      "group": 3,
+      "address": "wittgenstein-atomism"
+    },
+    {
+      "id": "Intrinsic vs. Extrinsic Properties",
+      "group": 3,
+      "address": "intrinsic-extrinsic"
+    },
+    {
+      "id": "Word Meaning",
+      "group": 3,
+      "address": "word-meaning"
+    },
+    {
+      "id": "Structured Propositions",
+      "group": 3,
+      "address": "propositions-structured"
+    },
+    {
+      "id": "Moral Cognitivism vs. Non-Cognitivism",
+      "group": 3,
+      "address": "moral-cognitivism"
+    },
+    {
+      "id": "Propositional Attitude Reports",
+      "group": 3,
+      "address": "prop-attitude-reports"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "Situations in Natural Language Semantics",
+      "group": 3,
+      "address": "situations-semantics"
+    },
+    {
+      "id": "Ontological Commitment",
+      "group": 3,
+      "address": "ontological-commitment"
+    },
+    {
+      "id": "Gilbert Ryle",
+      "group": 3,
+      "address": "ryle"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "Compositionality",
+      "group": 3,
+      "address": "compositionality"
+    },
+    {
+      "id": "Alonzo Church",
+      "group": 3,
+      "address": "church"
+    },
+    {
+      "id": "Metaphysical Grounding",
+      "group": 3,
+      "address": "grounding"
+    },
+    {
+      "id": "Brentano\u2019s Theory of Judgement",
+      "group": 3,
+      "address": "brentano-judgement"
+    },
+    {
+      "id": "Kant\u2019s Theory of Judgment",
+      "group": 3,
+      "address": "kant-judgment"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Robert Grosseteste",
+      "group": 3,
+      "address": "grosseteste"
+    },
+    {
+      "id": "Ibn Sina\u2019s Logic",
+      "group": 3,
+      "address": "ibn-sina-logic"
+    },
+    {
+      "id": "Peter Damian",
+      "group": 3,
+      "address": "peter-damian"
+    },
+    {
+      "id": "al-Ghazali",
+      "group": 3,
+      "address": "al-ghazali"
+    },
+    {
+      "id": "The Epistemology of Modality",
+      "group": 3,
+      "address": "modality-epistemology"
+    },
+    {
+      "id": "Ibn Sina [Avicenna]",
+      "group": 3,
+      "address": "ibn-sina"
+    },
+    {
+      "id": "Robert Kilwardby",
+      "group": 3,
+      "address": "robert-kilwardby"
+    },
+    {
+      "id": "Stoicism",
+      "group": 3,
+      "address": "stoicism"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Descartes\u2019 Modal Metaphysics",
+      "group": 3,
+      "address": "descartes-modal"
+    },
+    {
+      "id": "Leibniz\u2019s Modal Metaphysics",
+      "group": 3,
+      "address": "leibniz-modal"
+    },
+    {
+      "id": "Hans Reichenbach",
+      "group": 3,
+      "address": "reichenbach"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Possible Objects",
+      "group": 3,
+      "address": "possible-objects"
+    },
+    {
+      "id": "Modern Origins of Modal Logic",
+      "group": 3,
+      "address": "logic-modal-origins"
+    },
+    {
+      "id": "The Logic of Peter of Spain",
+      "group": 3,
+      "address": "peter-spain"
+    },
+    {
+      "id": "Lambert of Auxerre",
+      "group": 3,
+      "address": "lambert-auxerre"
+    },
+    {
+      "id": "The Traditional Square of Opposition",
+      "group": 3,
+      "address": "square"
+    },
+    {
+      "id": "Giles of Rome",
+      "group": 3,
+      "address": "giles"
+    },
+    {
+      "id": "Aristotelianism in the Renaissance",
+      "group": 3,
+      "address": "aristotelianism-renaissance"
+    },
+    {
+      "id": "Albert the Great",
+      "group": 3,
+      "address": "albert-great"
+    },
+    {
+      "id": "Divine Illumination",
+      "group": 3,
+      "address": "illumination"
+    },
+    {
+      "id": "Simon of Faversham",
+      "group": 3,
+      "address": "simon-faversham"
+    },
+    {
+      "id": "Juan Luis Vives [Joannes Ludovicus Vives]",
+      "group": 3,
+      "address": "vives"
+    },
+    {
+      "id": "Lorenzo Valla",
+      "group": 3,
+      "address": "lorenzo-valla"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 3,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 3,
+      "address": "self-reference"
+    },
+    {
+      "id": "Curry\u2019s Paradox",
+      "group": 3,
+      "address": "curry-paradox"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Dialetheism",
+      "group": 3,
+      "address": "dialetheism"
+    },
+    {
+      "id": "Fallacies",
+      "group": 3,
+      "address": "fallacies"
+    },
+    {
+      "id": "The Revision Theory of Truth",
+      "group": 3,
+      "address": "truth-revision"
+    },
+    {
+      "id": "Arabic and Islamic Metaphysics",
+      "group": 3,
+      "address": "arabic-islamic-metaphysics"
+    },
+    {
+      "id": "Condemnation of 1277",
+      "group": 3,
+      "address": "condemnation"
+    },
+    {
+      "id": "Binarium Famosissimum",
+      "group": 3,
+      "address": "binarium"
+    },
+    {
+      "id": "The Textual Transmission of the Aristotelian Corpus",
+      "group": 3,
+      "address": "aristotle-text"
+    },
+    {
+      "id": "Trinity",
+      "group": 3,
+      "address": "trinity"
+    },
+    {
+      "id": "Peter John Olivi",
+      "group": 3,
+      "address": "olivi"
+    },
+    {
+      "id": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "group": 3,
+      "address": "arabic-islamic-mind"
+    },
+    {
+      "id": "Feminist History of Philosophy",
+      "group": 3,
+      "address": "feminism-femhist"
+    },
+    {
+      "id": "Mysticism in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-mysticism"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "Dante Alighieri",
+      "group": 3,
+      "address": "dante"
+    },
+    {
+      "id": "Natural Philosophy in the Renaissance",
+      "group": 3,
+      "address": "natphil-ren"
+    },
+    {
+      "id": "Anselm of Canterbury",
+      "group": 3,
+      "address": "anselm"
+    },
+    {
+      "id": "Beauty",
+      "group": 3,
+      "address": "beauty"
+    },
+    {
+      "id": "Medieval Theories of Haecceity",
+      "group": 3,
+      "address": "medieval-haecceity"
+    },
+    {
+      "id": "Causation in Arabic and Islamic Thought",
+      "group": 3,
+      "address": "arabic-islamic-causation"
+    },
+    {
+      "id": "Sovereignty",
+      "group": 3,
+      "address": "sovereignty"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "group": 3,
+      "address": "arabic-islamic-judaic"
+    },
+    {
+      "id": "Ontological Arguments",
+      "group": 3,
+      "address": "ontological-arguments"
+    },
+    {
+      "id": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "group": 3,
+      "address": "arabic-islamic-influence"
+    },
+    {
+      "id": "Meister Eckhart",
+      "group": 3,
+      "address": "meister-eckhart"
+    },
+    {
+      "id": "Ancient and Medieval Empiricism",
+      "group": 3,
+      "address": "empiricism-ancient-medieval"
+    },
+    {
+      "id": "Ramon Llull",
+      "group": 3,
+      "address": "llull"
+    },
+    {
+      "id": "Arabic and Islamic Philosophy of Language and Logic",
+      "group": 3,
+      "address": "arabic-islamic-language"
+    },
+    {
+      "id": "Marsilius of Padua",
+      "group": 3,
+      "address": "marsilius-padua"
+    },
+    {
+      "id": "Byzantine Philosophy",
+      "group": 3,
+      "address": "byzantine-philosophy"
+    },
+    {
+      "id": "Philosophy and Christian Theology",
+      "group": 3,
+      "address": "christiantheology-philosophy"
+    },
+    {
+      "id": "Greek Sources in Arabic and Islamic Philosophy",
+      "group": 3,
+      "address": "arabic-islamic-greek"
+    },
+    {
+      "id": "Dietrich of Freiberg",
+      "group": 3,
+      "address": "dietrich-freiberg"
+    },
+    {
+      "id": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "group": 3,
+      "address": "arabic-islamic-natural"
+    },
+    {
+      "id": "Medieval Theories of Transcendentals",
+      "group": 3,
+      "address": "transcendentals-medieval"
+    },
+    {
+      "id": "Medieval Theories of Singular Terms",
+      "group": 3,
+      "address": "singular-terms-medieval"
+    },
+    {
+      "id": "Solomon Ibn Gabirol [Avicebron]",
+      "group": 3,
+      "address": "ibn-gabirol"
+    },
+    {
+      "id": "Maimonides",
+      "group": 3,
+      "address": "maimonides"
+    },
+    {
+      "id": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "group": 3,
+      "address": "cusanus"
+    },
+    {
+      "id": "Bonaventure",
+      "group": 3,
+      "address": "bonaventure"
+    },
+    {
+      "id": "Judah Halevi",
+      "group": 3,
+      "address": "halevi"
+    },
+    {
+      "id": "Samuel Ibn Tibbon",
+      "group": 3,
+      "address": "tibbon"
+    },
+    {
+      "id": "Pietro Pomponazzi",
+      "group": 3,
+      "address": "pomponazzi"
+    }
+  ],
+  "links": [
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Marsilius of Inghen"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Propositions"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Richard the Sophister"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William of Sherwood"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William of Sherwood",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logic and Games",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Negation",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Logic and Games"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Analysis",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Peter Auriol",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "John Buridan",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Information",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Marsilius of Inghen",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Mental Representation in Medieval Philosophy",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Monotheism",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Omniscience",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Prophecy",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Semiotics",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Simplicity",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Schema"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositions"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Propositions"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "Propositions"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositions"
+    },
+    {
+      "source": "Events",
+      "target": "Propositions"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Propositions"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Propositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Propositions"
+    },
+    {
+      "source": "Intentionality in Ancient Philosophy",
+      "target": "Propositions"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Propositions"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Propositions"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Propositions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Propositions"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Propositions"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositions"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Propositions"
+    },
+    {
+      "source": "Object",
+      "target": "Propositions"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Propositions"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Propositions"
+    },
+    {
+      "source": "Presentism",
+      "target": "Propositions"
+    },
+    {
+      "source": "Properties",
+      "target": "Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Propositions",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Propositions",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Propositions",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Propositions",
+      "target": "Existence"
+    },
+    {
+      "source": "Propositions",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Propositions",
+      "target": "Properties"
+    },
+    {
+      "source": "Propositions",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositions",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Questions",
+      "target": "Propositions"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Propositions"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Propositions"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Propositions"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Propositions"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Propositions"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Propositions"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Peter Damian",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Robert Kilwardby"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Medieval Theories of Modality",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Medieval Theories of Modality"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "William of Sherwood"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "William of Sherwood"
+    },
+    {
+      "source": "William of Sherwood",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "William of Sherwood",
+      "target": "Lambert of Auxerre"
+    },
+    {
+      "source": "William of Sherwood",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "William of Sherwood",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "William of Sherwood",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Marsilius of Inghen"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Richard the Sophister"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Simon of Faversham"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Richard the Sophister"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Sophismata"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Sophismata"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Sophismata",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Sophismata",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Juan Luis Vives [Joannes Ludovicus Vives]",
+      "target": "Sophismata"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Insolubles",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Beauty",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Binarium Famosissimum",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Binarium Famosissimum"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Ancient and Medieval Empiricism"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "School of Salamanca"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Transcendentals"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "Marsilius of Inghen"
+    },
+    {
+      "source": "Marsilius of Inghen",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Marsilius of Inghen",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "Marsilius of Inghen",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Marsilius of Inghen",
+      "target": "Medieval Theories of Singular Terms"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "Marsilius of Inghen"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Linear Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Infinitary Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Tarski\u2019s Truth Definitions",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Negation"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Proof-Theoretic Semantics",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Set Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Classical Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Game Theory",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Intuitionistic Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Epistemic Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Independence Friendly Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Games, Full Abstraction and Full Completeness",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Reasoning About Power in Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Negation",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Negation",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Negation",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Negation",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Negation",
+      "target": "Negation"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Infinitary Logic"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Set Theory"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "First-order Model Theory",
+      "target": "First-order Model Theory"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Model Theory",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Model Theory",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Games, Full Abstraction and Full Completeness"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Reasoning About Power in Games"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logics for Analyzing Games",
+      "target": "Logics for Analyzing Games"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Generalized Quantifiers",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Game Theory"
+    },
+    {
+      "source": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature",
+      "target": "Optimality-Theoretic and Game-Theoretic Approaches to Implicature"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dependence Logic",
+      "target": "Dependence Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Independence Friendly Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Dialogical Logic",
+      "target": "Dialogical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Informal Logic",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Trinity"
+    },
+    {
+      "source": "Abner of Burgos",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Continuity and Infinitesimals",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "Nicholas of Autrecourt"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Aristotle"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "School of Salamanca"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Hasdai Crescas",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Foreknowledge and Free Will",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Mental Representation in Medieval Philosophy"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Properties"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "William Crathorn"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Nicholas of Autrecourt"
+    },
+    {
+      "source": "Adam de Wodeham",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "Nicole Oresme"
+    },
+    {
+      "source": "Medieval Theories of Causation",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Compositionality"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Possibilism-Actualism Debate",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Mental Representation in Medieval Philosophy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Transcendentals"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Martin Luther"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Analysis"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Metaphysical Explanation",
+      "target": "Metaphysical Explanation"
+    },
+    {
+      "source": "Monotheism",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Monotheism",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Trinity"
+    },
+    {
+      "source": "Monotheism",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Medieval Theories of Conscience",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Robert Kilwardby"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Properties"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Roger Bacon",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Richard FitzRalph"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Peter Auriol",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Peter Auriol",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Peter Auriol",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Peter Auriol",
+      "target": "Peter Auriol"
+    },
+    {
+      "source": "Simplicity",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Temporal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Nicholas of Autrecourt"
+    },
+    {
+      "source": "John Buridan",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "John Buridan",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Buridan",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Peter Auriol"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "William Crathorn"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "Aristotle"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "John Buridan"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "William Crathorn",
+      "target": "William Crathorn"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "William Crathorn"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Richard FitzRalph"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Russell\u2019s Logical Atomism",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "William Crathorn"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Nicole Oresme",
+      "target": "Nicole Oresme"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Omniscience",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of Conscience"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Robert Holkot",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Information",
+      "target": "Properties"
+    },
+    {
+      "source": "Information",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Medieval Theories of the Emotions",
+      "target": "Medieval Theories of the Emotions"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Peter Auriol"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Nicholas of Autrecourt"
+    },
+    {
+      "source": "Medieval Skepticism",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Medieval Theories of the Syllogism",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Mental Representation in Medieval Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Mental Representation in Medieval Philosophy",
+      "target": "Peter Auriol"
+    },
+    {
+      "source": "Mental Representation in Medieval Philosophy",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Mental Representation in Medieval Philosophy",
+      "target": "Intentionality in Ancient Philosophy"
+    },
+    {
+      "source": "Mental Representation in Medieval Philosophy",
+      "target": "Mental Representation in Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Peter Auriol"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Medieval Theories of Future Contingents",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Theories of Practical Reason",
+      "target": "Medieval Theories of Practical Reason"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Medieval Skepticism"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Medieval Semiotics",
+      "target": "Mental Representation in Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Semiotics",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Properties"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Nicole Oresme"
+    },
+    {
+      "source": "Medieval Political Philosophy",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Prophecy",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Analysis",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Analysis",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Analysis",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Analysis",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Analysis",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Analysis",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Analysis",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Analysis",
+      "target": "Analysis"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Aristotle"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Properties"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "Medieval Theories of the Categories",
+      "target": "Binarium Famosissimum"
+    },
+    {
+      "source": "Medieval Theories of the Categories",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Negation"
+    },
+    {
+      "source": "Relevance Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Ancient Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Schema"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Consequence",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Peter Abelard",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Constants",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Commentators on Aristotle",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Logical Truth",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Alberic of Paris",
+      "target": "Alberic of Paris"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Intuitionistic Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Pluralism",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Anicius Manlius Severinus Boethius",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Aristotle\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Alfred Tarski",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Schema",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Schema",
+      "target": "Logical Constants"
+    },
+    {
+      "source": "Schema",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Schema",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Schema",
+      "target": "Schema"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Logical Constructions",
+      "target": "Logical Constructions"
+    },
+    {
+      "source": "Properties",
+      "target": "Analysis"
+    },
+    {
+      "source": "Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Properties",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Properties",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Properties",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Properties",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Properties",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Questions",
+      "target": "Questions"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Presentism",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Presentism",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Presentism",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Presentism",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Presentism",
+      "target": "Simplicity"
+    },
+    {
+      "source": "Presentism",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Presentism",
+      "target": "Presentism"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Fictionalism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Belief"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Information"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Properties"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Analysis"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Deflationism About Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Events",
+      "target": "Existence"
+    },
+    {
+      "source": "Events",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Events",
+      "target": "Object"
+    },
+    {
+      "source": "Events",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Events",
+      "target": "Properties"
+    },
+    {
+      "source": "Events",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Events",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Events",
+      "target": "Events"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Existence"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Singular Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Object"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Abstract Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Existence"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "Platonism in Metaphysics",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Two-Dimensional Semantics",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Identity Theory of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "States of Affairs",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Analysis"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Logical Truth"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Bernard Bolzano",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Analysis"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Generalized Quantifiers"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Logical Form",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Existence",
+      "target": "Object"
+    },
+    {
+      "source": "Existence",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Existence",
+      "target": "Properties"
+    },
+    {
+      "source": "Existence",
+      "target": "Existence"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Properties"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Truthmakers",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Belief",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Belief",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Belief",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Belief",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Belief",
+      "target": "Belief"
+    },
+    {
+      "source": "Intentionality in Ancient Philosophy",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Intentionality in Ancient Philosophy",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Intentionality in Ancient Philosophy",
+      "target": "Intentionality in Ancient Philosophy"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Belief"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Russell\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Object"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Properties"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Identity Theory of Truth"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "The Correspondence Theory of Truth",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Analysis"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Wittgenstein\u2019s Logical Atomism",
+      "target": "Wittgenstein\u2019s Logical Atomism"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Events"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Intrinsic vs. Extrinsic Properties",
+      "target": "Intrinsic vs. Extrinsic Properties"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Belief"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Word Meaning",
+      "target": "Word Meaning"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Belief"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Structured Propositions",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Fictionalism"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Moral Cognitivism vs. Non-Cognitivism",
+      "target": "Moral Cognitivism vs. Non-Cognitivism"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Singular Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Propositional Attitude Reports",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Object",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Object",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Object",
+      "target": "Existence"
+    },
+    {
+      "source": "Object",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Object",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Object",
+      "target": "George Edward Moore"
+    },
+    {
+      "source": "Object",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Object",
+      "target": "Platonism in Metaphysics"
+    },
+    {
+      "source": "Object",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Object",
+      "target": "Properties"
+    },
+    {
+      "source": "Object",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Events"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Properties"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Structured Propositions"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Situations in Natural Language Semantics",
+      "target": "Situations in Natural Language Semantics"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Existence"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Properties"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Ontological Commitment",
+      "target": "Ontological Commitment"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Analysis"
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Gilbert Ryle"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Propositional Attitude Reports"
+    },
+    {
+      "source": "Compositionality",
+      "target": "Compositionality"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Bernard Bolzano"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Logical Pluralism"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Model Theory"
+    },
+    {
+      "source": "Alonzo Church",
+      "target": "Alonzo Church"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Truthmakers"
+    },
+    {
+      "source": "Metaphysical Grounding",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "Negation"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Brentano\u2019s Theory of Judgement",
+      "target": "Brentano\u2019s Theory of Judgement"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Logical Form"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Kant\u2019s Theory of Judgment",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Proof-Theoretic Semantics"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Continuity and Infinitesimals"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Robert Grosseteste",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Ibn Sina\u2019s Logic",
+      "target": "Ibn Sina\u2019s Logic"
+    },
+    {
+      "source": "Peter Damian",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Peter Damian",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Peter Damian",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Peter Damian",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "Peter Damian",
+      "target": "Peter Damian"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Medieval Theories of Future Contingents"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "al-Ghazali",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Metaphysical Grounding"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "The Epistemology of Modality",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina\u2019s Logic"
+    },
+    {
+      "source": "Ibn Sina [Avicenna]",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Binarium Famosissimum"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Robert Kilwardby",
+      "target": "Robert Kilwardby"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Ancient Logic"
+    },
+    {
+      "source": "Stoicism",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Aristotle",
+      "target": "The Textual Transmission of the Aristotelian Corpus"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Descartes\u2019 Modal Metaphysics",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Descartes\u2019 Modal Metaphysics"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Leibniz\u2019s Modal Metaphysics",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Belief"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Hans Reichenbach",
+      "target": "Hans Reichenbach"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Abstract Objects"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Existence"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Object"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Two-Dimensional Semantics"
+    },
+    {
+      "source": "Possible Objects",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Classical Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Temporal Logic"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Modern Origins of Modal Logic",
+      "target": "Modern Origins of Modal Logic"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "John Buridan"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "The Logic of Peter of Spain",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "Robert Kilwardby"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Lambert of Auxerre",
+      "target": "Lambert of Auxerre"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "Brentano\u2019s Theory of Judgement"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "The Traditional Square of Opposition",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "School of Salamanca"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Juan Luis Vives [Joannes Ludovicus Vives]"
+    },
+    {
+      "source": "Aristotelianism in the Renaissance",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Dietrich of Freiberg"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Robert Kilwardby"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Albert the Great",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Divine Illumination",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Simon of Faversham",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Simon of Faversham",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Simon of Faversham",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Simon of Faversham",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Simon of Faversham",
+      "target": "Medieval Semiotics"
+    },
+    {
+      "source": "Simon of Faversham",
+      "target": "Simon of Faversham"
+    },
+    {
+      "source": "Juan Luis Vives [Joannes Ludovicus Vives]",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Juan Luis Vives [Joannes Ludovicus Vives]",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Juan Luis Vives [Joannes Ludovicus Vives]",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Juan Luis Vives [Joannes Ludovicus Vives]",
+      "target": "Juan Luis Vives [Joannes Ludovicus Vives]"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "The Traditional Square of Opposition"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Lorenzo Valla",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Alfred Tarski"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Epistemic Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Set Theory"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Linear Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Negation"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Relevance Logic"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Deflationism About Truth"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Fallacies",
+      "target": "Informal Logic"
+    },
+    {
+      "source": "Fallacies",
+      "target": "Fallacies"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Tarski\u2019s Truth Definitions"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Metaphysics",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Condemnation of 1277",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Condemnation of 1277",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Condemnation of 1277",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Binarium Famosissimum",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Binarium Famosissimum",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Binarium Famosissimum",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Binarium Famosissimum",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Binarium Famosissimum",
+      "target": "Binarium Famosissimum"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "The Textual Transmission of the Aristotelian Corpus",
+      "target": "The Textual Transmission of the Aristotelian Corpus"
+    },
+    {
+      "source": "Trinity",
+      "target": "Peter Abelard"
+    },
+    {
+      "source": "Trinity",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Trinity",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Trinity",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Trinity",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Trinity",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Trinity",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Trinity",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Trinity",
+      "target": "Events"
+    },
+    {
+      "source": "Trinity",
+      "target": "Robert Holkot"
+    },
+    {
+      "source": "Trinity",
+      "target": "Ramon Llull"
+    },
+    {
+      "source": "Trinity",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Trinity",
+      "target": "Monotheism"
+    },
+    {
+      "source": "Trinity",
+      "target": "Omniscience"
+    },
+    {
+      "source": "Trinity",
+      "target": "Properties"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Trinity",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Trinity",
+      "target": "Medieval Theories of Singular Terms"
+    },
+    {
+      "source": "Trinity",
+      "target": "States of Affairs"
+    },
+    {
+      "source": "Trinity",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Trinity",
+      "target": "Lorenzo Valla"
+    },
+    {
+      "source": "Trinity",
+      "target": "Adam de Wodeham"
+    },
+    {
+      "source": "Trinity",
+      "target": "Trinity"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Medieval Theories of Causation"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Mental Representation in Medieval Philosophy"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Peter John Olivi",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Intentionality in Ancient Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Mental Representation in Medieval Philosophy"
+    },
+    {
+      "source": "Arabic and Islamic Psychology and Philosophy of Mind",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Feminist History of Philosophy",
+      "target": "Feminist History of Philosophy"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Mysticism in Arabic and Islamic Philosophy",
+      "target": "Mysticism in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Foreknowledge and Free Will"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Stoicism"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Arabic and Islamic Psychology and Philosophy of Mind"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Anicius Manlius Severinus Boethius"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Peter John Olivi"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Dante Alighieri",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Natural Philosophy in the Renaissance",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Beauty",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Beauty",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Beauty",
+      "target": "Kant\u2019s Theory of Judgment"
+    },
+    {
+      "source": "Beauty",
+      "target": "Beauty"
+    },
+    {
+      "source": "Medieval Theories of Haecceity",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Haecceity",
+      "target": "The Possibilism-Actualism Debate"
+    },
+    {
+      "source": "Medieval Theories of Haecceity",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories of Haecceity",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Causation in Arabic and Islamic Thought",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Abner of Burgos"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Samuel Ibn Tibbon"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on Judaic Thought",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Existence"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Leibniz\u2019s Modal Metaphysics"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Logical Consequence"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "The Epistemology of Modality"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Possible Objects"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Causation in Arabic and Islamic Thought"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Pietro Pomponazzi"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Influence of Arabic and Islamic Philosophy on the Latin West",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Meister Eckhart",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Ancient and Medieval Empiricism",
+      "target": "Roger Bacon"
+    },
+    {
+      "source": "Ancient and Medieval Empiricism",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Ancient and Medieval Empiricism",
+      "target": "Robert Grosseteste"
+    },
+    {
+      "source": "Ancient and Medieval Empiricism",
+      "target": "Ancient and Medieval Empiricism"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Condemnation of 1277"
+    },
+    {
+      "source": "Ramon Llull",
+      "target": "Ramon Llull"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "al-Ghazali"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Modal Logic"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Medieval Theories of the Syllogism"
+    },
+    {
+      "source": "Arabic and Islamic Philosophy of Language and Logic",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Dante Alighieri"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Medieval Political Philosophy"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Marsilius of Padua",
+      "target": "Marsilius of Padua"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Commentators on Aristotle"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Aristotle\u2019s Logic"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Martin Luther"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Trinity"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Arabic and Islamic Philosophy of Language and Logic"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Greek Sources in Arabic and Islamic Philosophy",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Binarium Famosissimum"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Dietrich of Freiberg",
+      "target": "Dietrich of Freiberg"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Arabic and Islamic Natural Philosophy and Natural Science",
+      "target": "Arabic and Islamic Natural Philosophy and Natural Science"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Arabic and Islamic Metaphysics"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "The Correspondence Theory of Truth"
+    },
+    {
+      "source": "Medieval Theories of Transcendentals",
+      "target": "Medieval Theories of Transcendentals"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "Medieval Theories of Haecceity"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "Lambert of Auxerre"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Medieval Theories of Singular Terms",
+      "target": "Medieval Theories of Singular Terms"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Greek Sources in Arabic and Islamic Philosophy"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Influence of Arabic and Islamic Philosophy on Judaic Thought"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Binarium Famosissimum"
+    },
+    {
+      "source": "Solomon Ibn Gabirol [Avicebron]",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Maimonides",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Albert the Great"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Meister Eckhart"
+    },
+    {
+      "source": "Cusanus, Nicolaus [Nicolas of Cusa]",
+      "target": "Cusanus, Nicolaus [Nicolas of Cusa]"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Divine Illumination"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Existence"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "The Logic of Peter of Spain"
+    },
+    {
+      "source": "Bonaventure",
+      "target": "Bonaventure"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Prophecy"
+    },
+    {
+      "source": "Judah Halevi",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Hasdai Crescas"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Judah Halevi"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Solomon Ibn Gabirol [Avicebron]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Ibn Sina [Avicenna]"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Maimonides"
+    },
+    {
+      "source": "Samuel Ibn Tibbon",
+      "target": "Samuel Ibn Tibbon"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Influence of Arabic and Islamic Philosophy on the Latin West"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Aristotelianism in the Renaissance"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Natural Philosophy in the Renaissance"
+    },
+    {
+      "source": "Pietro Pomponazzi",
+      "target": "Pietro Pomponazzi"
+    }
+  ]
+}

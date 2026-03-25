@@ -1,0 +1,4572 @@
+{
+  "nodes": [
+    {
+      "id": "Philosophy of Cosmology",
+      "group": 1,
+      "address": "cosmology"
+    },
+    {
+      "id": "Thermodynamic Asymmetry in Time",
+      "group": 2,
+      "address": "time-thermo"
+    },
+    {
+      "id": "Confirmation",
+      "group": 2,
+      "address": "confirmation"
+    },
+    {
+      "id": "Underdetermination of Scientific Theory",
+      "group": 2,
+      "address": "scientific-underdetermination"
+    },
+    {
+      "id": "Natural Theology and Natural Religion",
+      "group": 2,
+      "address": "natural-theology"
+    },
+    {
+      "id": "Fine-Tuning",
+      "group": 2,
+      "address": "fine-tuning"
+    },
+    {
+      "id": "Laws of Nature",
+      "group": 2,
+      "address": "laws-of-nature"
+    },
+    {
+      "id": "Singularities and Black Holes",
+      "group": 2,
+      "address": "spacetime-singularities"
+    },
+    {
+      "id": "Interpretations of Probability",
+      "group": 3,
+      "address": "probability-interpret"
+    },
+    {
+      "id": "Counterfactual Theories of Causation",
+      "group": 3,
+      "address": "causation-counterfactual"
+    },
+    {
+      "id": "Time Machines",
+      "group": 3,
+      "address": "time-machine"
+    },
+    {
+      "id": "Intertheory Relations in Physics",
+      "group": 3,
+      "address": "physics-interrelate"
+    },
+    {
+      "id": "Retrocausality in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-retrocausality"
+    },
+    {
+      "id": "Causal Determinism",
+      "group": 3,
+      "address": "determinism-causal"
+    },
+    {
+      "id": "Chance versus Randomness",
+      "group": 3,
+      "address": "chance-randomness"
+    },
+    {
+      "id": "The Role of Decoherence in Quantum Mechanics",
+      "group": 3,
+      "address": "qm-decoherence"
+    },
+    {
+      "id": "Boltzmann\u2019s Work in Statistical Physics",
+      "group": 3,
+      "address": "statphys-Boltzmann"
+    },
+    {
+      "id": "Causation in Physics",
+      "group": 3,
+      "address": "causation-physics"
+    },
+    {
+      "id": "Symmetry and Symmetry Breaking",
+      "group": 3,
+      "address": "symmetry-breaking"
+    },
+    {
+      "id": "Reichenbach\u2019s Common Cause Principle",
+      "group": 3,
+      "address": "physics-Rpcc"
+    },
+    {
+      "id": "Information",
+      "group": 3,
+      "address": "information"
+    },
+    {
+      "id": "Temporal Consciousness",
+      "group": 3,
+      "address": "consciousness-temporal"
+    },
+    {
+      "id": "Time",
+      "group": 3,
+      "address": "time"
+    },
+    {
+      "id": "Philosophy of Statistical Mechanics",
+      "group": 3,
+      "address": "statphys-statmech"
+    },
+    {
+      "id": "Probabilistic Causation",
+      "group": 3,
+      "address": "causation-probabilistic"
+    },
+    {
+      "id": "The Structure of Scientific Theories",
+      "group": 3,
+      "address": "structure-scientific-theories"
+    },
+    {
+      "id": "Philosophy of Statistics",
+      "group": 3,
+      "address": "statistics"
+    },
+    {
+      "id": "Evidence",
+      "group": 3,
+      "address": "evidence"
+    },
+    {
+      "id": "Hyperintensionality",
+      "group": 3,
+      "address": "hyperintensionality"
+    },
+    {
+      "id": "Scientific Objectivity",
+      "group": 3,
+      "address": "scientific-objectivity"
+    },
+    {
+      "id": "Formal Epistemology",
+      "group": 3,
+      "address": "formal-epistemology"
+    },
+    {
+      "id": "Prediction versus Accommodation",
+      "group": 3,
+      "address": "prediction-accommodation"
+    },
+    {
+      "id": "Carl Hempel",
+      "group": 3,
+      "address": "hempel"
+    },
+    {
+      "id": "Experiment in Physics",
+      "group": 3,
+      "address": "physics-experiment"
+    },
+    {
+      "id": "Karl Popper",
+      "group": 3,
+      "address": "popper"
+    },
+    {
+      "id": "Vienna Circle",
+      "group": 3,
+      "address": "vienna-circle"
+    },
+    {
+      "id": "Inductive Logic",
+      "group": 3,
+      "address": "logic-inductive"
+    },
+    {
+      "id": "Analogy and Analogical Reasoning",
+      "group": 3,
+      "address": "reasoning-analogy"
+    },
+    {
+      "id": "Legal Probabilism",
+      "group": 3,
+      "address": "legal-probabilism"
+    },
+    {
+      "id": "Epistemic Closure",
+      "group": 3,
+      "address": "closure-epistemic"
+    },
+    {
+      "id": "William Whewell",
+      "group": 3,
+      "address": "whewell"
+    },
+    {
+      "id": "Experiment in Biology",
+      "group": 3,
+      "address": "biology-experiment"
+    },
+    {
+      "id": "Formal Learning Theory",
+      "group": 3,
+      "address": "learning-formal"
+    },
+    {
+      "id": "The Problem of Induction",
+      "group": 3,
+      "address": "induction-problem"
+    },
+    {
+      "id": "Bayesian Epistemology",
+      "group": 3,
+      "address": "epistemology-bayesian"
+    },
+    {
+      "id": "Scientific Method",
+      "group": 3,
+      "address": "scientific-method"
+    },
+    {
+      "id": "Wesley Salmon",
+      "group": 3,
+      "address": "wesley-salmon"
+    },
+    {
+      "id": "Rudolf Carnap",
+      "group": 3,
+      "address": "carnap"
+    },
+    {
+      "id": "Natural Selection",
+      "group": 3,
+      "address": "natural-selection"
+    },
+    {
+      "id": "Feminist Epistemology and Philosophy of Science",
+      "group": 3,
+      "address": "feminism-epistemology"
+    },
+    {
+      "id": "The Social Dimensions of Scientific Knowledge",
+      "group": 3,
+      "address": "scientific-knowledge-social"
+    },
+    {
+      "id": "Pierre Duhem",
+      "group": 3,
+      "address": "duhem"
+    },
+    {
+      "id": "Constructive Empiricism",
+      "group": 3,
+      "address": "constructive-empiricism"
+    },
+    {
+      "id": "Consequentializing",
+      "group": 3,
+      "address": "consequentializing"
+    },
+    {
+      "id": "Naturalism in Epistemology",
+      "group": 3,
+      "address": "epistemology-naturalized"
+    },
+    {
+      "id": "Scientific Realism",
+      "group": 3,
+      "address": "scientific-realism"
+    },
+    {
+      "id": "Methods in Comparative Cognition",
+      "group": 3,
+      "address": "comparative-cognition"
+    },
+    {
+      "id": "Abduction",
+      "group": 3,
+      "address": "abduction"
+    },
+    {
+      "id": "Paul Feyerabend",
+      "group": 3,
+      "address": "feyerabend"
+    },
+    {
+      "id": "Phylogenetic Inference",
+      "group": 3,
+      "address": "phylogenetic-inference"
+    },
+    {
+      "id": "Willard Van Orman Quine",
+      "group": 3,
+      "address": "quine"
+    },
+    {
+      "id": "Divine Revelation",
+      "group": 3,
+      "address": "divine-revelation"
+    },
+    {
+      "id": "Philosophy of Religion",
+      "group": 3,
+      "address": "philosophy-religion"
+    },
+    {
+      "id": "Samuel Clarke",
+      "group": 3,
+      "address": "clarke"
+    },
+    {
+      "id": "Teleological Arguments for God\u2019s Existence",
+      "group": 3,
+      "address": "teleological-arguments"
+    },
+    {
+      "id": "Augustine of Hippo",
+      "group": 3,
+      "address": "augustine"
+    },
+    {
+      "id": "Plotinus",
+      "group": 3,
+      "address": "plotinus"
+    },
+    {
+      "id": "Anselm of Canterbury",
+      "group": 3,
+      "address": "anselm"
+    },
+    {
+      "id": "Blaise Pascal",
+      "group": 3,
+      "address": "pascal"
+    },
+    {
+      "id": "Gottfried Wilhelm Leibniz",
+      "group": 3,
+      "address": "leibniz"
+    },
+    {
+      "id": "John Locke",
+      "group": 3,
+      "address": "locke"
+    },
+    {
+      "id": "Atheism and Agnosticism",
+      "group": 3,
+      "address": "atheism-agnosticism"
+    },
+    {
+      "id": "Moral Arguments for the Existence of God",
+      "group": 3,
+      "address": "moral-arguments-god"
+    },
+    {
+      "id": "Religion and Science",
+      "group": 3,
+      "address": "religion-science"
+    },
+    {
+      "id": "Hume on Religion",
+      "group": 3,
+      "address": "hume-religion"
+    },
+    {
+      "id": "The Epistemology of Religion",
+      "group": 3,
+      "address": "religion-epistemology"
+    },
+    {
+      "id": "Fideism",
+      "group": 3,
+      "address": "fideism"
+    },
+    {
+      "id": "Ontological Arguments",
+      "group": 3,
+      "address": "ontological-arguments"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Religion",
+      "group": 3,
+      "address": "kant-religion"
+    },
+    {
+      "id": "Robert Boyle",
+      "group": 3,
+      "address": "boyle"
+    },
+    {
+      "id": "Pragmatic Arguments and Belief in God",
+      "group": 3,
+      "address": "pragmatic-belief-god"
+    },
+    {
+      "id": "George Berkeley",
+      "group": 3,
+      "address": "berkeley"
+    },
+    {
+      "id": "The Problem of Evil",
+      "group": 3,
+      "address": "evil"
+    },
+    {
+      "id": "Jean Bodin",
+      "group": 3,
+      "address": "bodin"
+    },
+    {
+      "id": "Byzantine Philosophy",
+      "group": 3,
+      "address": "byzantine-philosophy"
+    },
+    {
+      "id": "Reason and Religious Commitment",
+      "group": 3,
+      "address": "religious-commitment-reason"
+    },
+    {
+      "id": "Philosophy and Christian Theology",
+      "group": 3,
+      "address": "christiantheology-philosophy"
+    },
+    {
+      "id": "Descartes\u2019 Ontological Argument",
+      "group": 3,
+      "address": "descartes-ontological"
+    },
+    {
+      "id": "Cosmological Argument",
+      "group": 3,
+      "address": "cosmological-argument"
+    },
+    {
+      "id": "Quantum Gravity",
+      "group": 3,
+      "address": "quantum-gravity"
+    },
+    {
+      "id": "Cosmology and Theology",
+      "group": 3,
+      "address": "cosmology-theology"
+    },
+    {
+      "id": "Quantum Field Theory",
+      "group": 3,
+      "address": "quantum-field-theory"
+    },
+    {
+      "id": "Creationism",
+      "group": 3,
+      "address": "creationism"
+    },
+    {
+      "id": "David Lewis",
+      "group": 3,
+      "address": "david-lewis"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Genetic Drift",
+      "group": 3,
+      "address": "genetic-drift"
+    },
+    {
+      "id": "Anomalous Monism",
+      "group": 3,
+      "address": "anomalous-monism"
+    },
+    {
+      "id": "Frank Ramsey",
+      "group": 3,
+      "address": "ramsey"
+    },
+    {
+      "id": "Dispositions",
+      "group": 3,
+      "address": "dispositions"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Darwinism",
+      "group": 3,
+      "address": "darwinism"
+    },
+    {
+      "id": "20th Century Theories of Scientific Explanation",
+      "group": 3,
+      "address": "scientific-explanation-20th"
+    },
+    {
+      "id": "Models in Science",
+      "group": 3,
+      "address": "models-science"
+    },
+    {
+      "id": "Natural Properties",
+      "group": 3,
+      "address": "natural-properties"
+    },
+    {
+      "id": "Molecular Biology",
+      "group": 3,
+      "address": "molecular-biology"
+    },
+    {
+      "id": "Miracles",
+      "group": 3,
+      "address": "miracles"
+    },
+    {
+      "id": "Cellular Automata",
+      "group": 3,
+      "address": "cellular-automata"
+    },
+    {
+      "id": "Arguments for Incompatibilism",
+      "group": 3,
+      "address": "incompatibilism-arguments"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Natural Kinds",
+      "group": 3,
+      "address": "natural-kinds"
+    },
+    {
+      "id": "Varieties of Modality",
+      "group": 3,
+      "address": "modality-varieties"
+    },
+    {
+      "id": "Fundamentality",
+      "group": 3,
+      "address": "fundamentality"
+    },
+    {
+      "id": "David Lewis\u2019s Metaphysics",
+      "group": 3,
+      "address": "lewis-metaphysics"
+    },
+    {
+      "id": "Philosophy of Biology in Latin America",
+      "group": 3,
+      "address": "phil-bio-latin-america"
+    },
+    {
+      "id": "David Hume",
+      "group": 3,
+      "address": "hume"
+    },
+    {
+      "id": "Regularity and Inferential Theories of Causation",
+      "group": 3,
+      "address": "causation-regularity"
+    },
+    {
+      "id": "Kant\u2019s Philosophy of Science",
+      "group": 3,
+      "address": "kant-science"
+    },
+    {
+      "id": "Counterfactuals",
+      "group": 3,
+      "address": "counterfactuals"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Kant and Hume on Causality",
+      "group": 3,
+      "address": "kant-hume-causality"
+    },
+    {
+      "id": "Object",
+      "group": 3,
+      "address": "object"
+    },
+    {
+      "id": "Indicative Conditionals",
+      "group": 3,
+      "address": "conditionals"
+    },
+    {
+      "id": "Philosophy of Macroevolution",
+      "group": 3,
+      "address": "macroevolution"
+    },
+    {
+      "id": "Possible Worlds",
+      "group": 3,
+      "address": "possible-worlds"
+    },
+    {
+      "id": "Ceteris Paribus Laws",
+      "group": 3,
+      "address": "ceteris-paribus"
+    },
+    {
+      "id": "The Metaphysics of Causation",
+      "group": 3,
+      "address": "causation-metaphysics"
+    },
+    {
+      "id": "Mechanisms in Science",
+      "group": 3,
+      "address": "science-mechanisms"
+    },
+    {
+      "id": "Holes",
+      "group": 3,
+      "address": "holes"
+    },
+    {
+      "id": "Quantum Mechanics",
+      "group": 3,
+      "address": "qm"
+    },
+    {
+      "id": "Time Travel",
+      "group": 3,
+      "address": "time-travel"
+    },
+    {
+      "id": "Supertasks",
+      "group": 3,
+      "address": "spacetime-supertasks"
+    },
+    {
+      "id": "Space and Time: Inertial Frames",
+      "group": 3,
+      "address": "spacetime-iframes"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "The Unity of Science",
+      "group": 3,
+      "address": "scientific-unity"
+    },
+    {
+      "id": "Scientific Discovery",
+      "group": 3,
+      "address": "scientific-discovery"
+    },
+    {
+      "id": "Absolute and Relational Space and Motion: Post-Newtonian Theories",
+      "group": 3,
+      "address": "spacetime-theories"
+    },
+    {
+      "id": "The Hole Argument",
+      "group": 3,
+      "address": "spacetime-holearg"
+    },
+    {
+      "id": "Being and Becoming in Modern Physics",
+      "group": 3,
+      "address": "spacetime-bebecome"
+    }
+  ],
+  "links": [
+    {
+      "source": "Philosophy of Cosmology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Cosmology",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Philosophy of Cosmology",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Cosmology",
+      "target": "Singularities and Black Holes"
+    },
+    {
+      "source": "Philosophy of Cosmology",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Philosophy of Cosmology",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Philosophy of Cosmology"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Information",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Symmetry and Symmetry Breaking",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Time",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Thermodynamic Asymmetry in Time",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Thermodynamic Asymmetry in Time"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Evidence"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Confirmation",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Confirmation",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Evidence",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Confirmation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Confirmation"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Confirmation"
+    },
+    {
+      "source": "Abduction",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Underdetermination of Scientific Theory"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Underdetermination of Scientific Theory",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Natural Theology and Natural Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "John Locke"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Blaise Pascal"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Natural Theology and Natural Religion",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Cosmology and Theology",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Cosmology and Theology"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Creationism"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Quantum Gravity"
+    },
+    {
+      "source": "Fine-Tuning",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Fine-Tuning"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Genetics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Hume"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Properties"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Laws of Nature",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Miracles",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Varieties of Modality",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Object",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Properties",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Laws of Nature"
+    },
+    {
+      "source": "Holes",
+      "target": "Singularities and Black Holes"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Singularities and Black Holes"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Quantum Gravity"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Being and Becoming in Modern Physics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Space and Time: Inertial Frames"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Singularities and Black Holes",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Information"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Interpretations of Probability",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Counterfactual Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Time Machines",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Time Machines",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Intertheory Relations in Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Time"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Retrocausality in Quantum Mechanics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "David Hume"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Causal Determinism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Chance versus Randomness",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Quantum Gravity"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "The Role of Decoherence in Quantum Mechanics",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Boltzmann\u2019s Work in Statistical Physics",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Causation in Physics",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Symmetry and Symmetry Breaking",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Symmetry and Symmetry Breaking",
+      "target": "Space and Time: Inertial Frames"
+    },
+    {
+      "source": "Symmetry and Symmetry Breaking",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Symmetry and Symmetry Breaking",
+      "target": "Symmetry and Symmetry Breaking"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Reichenbach\u2019s Common Cause Principle",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Information",
+      "target": "Properties"
+    },
+    {
+      "source": "Information",
+      "target": "Information"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "Time"
+    },
+    {
+      "source": "Temporal Consciousness",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Time",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Time",
+      "target": "Quantum Gravity"
+    },
+    {
+      "source": "Time",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "Time",
+      "target": "Being and Becoming in Modern Physics"
+    },
+    {
+      "source": "Time",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Time",
+      "target": "Time"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Information"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Boltzmann\u2019s Work in Statistical Physics"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Philosophy of Statistical Mechanics",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Properties"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Probabilistic Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Darwinism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Models in Science"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "The Structure of Scientific Theories",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Evidence"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Philosophy of Statistics",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Evidence",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Evidence",
+      "target": "Evidence"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Information"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Properties"
+    },
+    {
+      "source": "Hyperintensionality",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Scientific Objectivity",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Formal Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Prediction versus Accommodation",
+      "target": "Prediction versus Accommodation"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Abduction"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Creationism"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Physics",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "David Hume"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Vienna Circle",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Inductive Logic",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Abduction"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Evidence"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Analogy and Analogical Reasoning",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Abduction"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Legal Probabilism",
+      "target": "Legal Probabilism"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Evidence"
+    },
+    {
+      "source": "Epistemic Closure",
+      "target": "Epistemic Closure"
+    },
+    {
+      "source": "William Whewell",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "William Whewell",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "William Whewell",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Experiment in Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Formal Learning Theory",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "The Problem of Induction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Abduction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Formal Epistemology"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Prediction versus Accommodation"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Bayesian Epistemology",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "David Hume"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "John Locke"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Method",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Reichenbach\u2019s Common Cause Principle"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Wesley Salmon",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Formal Learning Theory"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Natural Selection",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Feminist Epistemology and Philosophy of Science",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "The Social Dimensions of Scientific Knowledge",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Blaise Pascal"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Philosophy of Statistical Mechanics"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Experiment in Physics"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Constructive Empiricism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Properties"
+    },
+    {
+      "source": "Consequentializing",
+      "target": "Consequentializing"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Naturalism in Epistemology",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Constructive Empiricism"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Scientific Realism",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Abduction"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Evidence"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Methods in Comparative Cognition",
+      "target": "Methods in Comparative Cognition"
+    },
+    {
+      "source": "Abduction",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Abduction",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "Abduction",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Abduction",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Abduction",
+      "target": "Abduction"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Inductive Logic"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Objectivity"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Phylogenetic Inference",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Naturalism in Epistemology"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Miracles"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Divine Revelation",
+      "target": "Divine Revelation"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Miracles"
+    },
+    {
+      "source": "Samuel Clarke",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Abduction"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Creationism"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "David Hume"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Teleological Arguments for God\u2019s Existence",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Augustine of Hippo",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Plotinus",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Anselm of Canterbury",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Blaise Pascal",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Blaise Pascal",
+      "target": "Blaise Pascal"
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "John Locke",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "John Locke",
+      "target": "David Hume"
+    },
+    {
+      "source": "John Locke",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "John Locke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Fideism"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Atheism and Agnosticism",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Moral Arguments for the Existence of God",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Religion and Science",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "David Hume"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Miracles"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Hume on Religion",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Fideism"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Miracles"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "The Epistemology of Religion",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Fideism",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Fideism",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Fideism",
+      "target": "Fideism"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "David Hume"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Ontological Arguments",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Religion",
+      "target": "Kant\u2019s Philosophy of Religion"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "David Hume"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "John Locke"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Miracles"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Blaise Pascal"
+    },
+    {
+      "source": "Robert Boyle",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "Moral Arguments for the Existence of God"
+    },
+    {
+      "source": "Pragmatic Arguments and Belief in God",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "David Hume"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "John Locke"
+    },
+    {
+      "source": "George Berkeley",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Abduction"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "The Problem of Evil",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "John Locke"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "Jean Bodin"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Plotinus"
+    },
+    {
+      "source": "Byzantine Philosophy",
+      "target": "Byzantine Philosophy"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Atheism and Agnosticism"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Miracles"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Pragmatic Arguments and Belief in God"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Teleological Arguments for God\u2019s Existence"
+    },
+    {
+      "source": "Reason and Religious Commitment",
+      "target": "Reason and Religious Commitment"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Augustine of Hippo"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "The Epistemology of Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Philosophy and Christian Theology",
+      "target": "Philosophy and Christian Theology"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Anselm of Canterbury"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Descartes\u2019 Ontological Argument",
+      "target": "Descartes\u2019 Ontological Argument"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Cosmology and Theology"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "David Hume"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Cosmological Argument",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Quantum Gravity",
+      "target": "Quantum Gravity"
+    },
+    {
+      "source": "Cosmology and Theology",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Cosmology and Theology",
+      "target": "Cosmology and Theology"
+    },
+    {
+      "source": "Quantum Field Theory",
+      "target": "Symmetry and Symmetry Breaking"
+    },
+    {
+      "source": "Quantum Field Theory",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Field Theory",
+      "target": "Quantum Gravity"
+    },
+    {
+      "source": "Quantum Field Theory",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Creationism",
+      "target": "Cosmology and Theology"
+    },
+    {
+      "source": "Creationism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Creationism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Creationism",
+      "target": "Religion and Science"
+    },
+    {
+      "source": "Creationism",
+      "target": "Creationism"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Dispositions"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "David Lewis",
+      "target": "The Problem of Evil"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Holes"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Ontological Arguments"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Natural Properties"
+    },
+    {
+      "source": "David Lewis",
+      "target": "Supervenience"
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Properties",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Properties",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Properties",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Properties",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Properties",
+      "target": "Natural Properties"
+    },
+    {
+      "source": "Properties",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Properties",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Chance versus Randomness"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Genetic Drift",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Anomalous Monism",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Bayesian Epistemology"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Object"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Properties"
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Dispositions",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Dispositions",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Properties"
+    },
+    {
+      "source": "Dispositions",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Genetics",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Genetics",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Genetics",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Genetics",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "Genetics",
+      "target": "Phylogenetic Inference"
+    },
+    {
+      "source": "Genetics",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Genetics",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Creationism"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Darwinism",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Darwinism",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Darwinism",
+      "target": "Darwinism"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "20th Century Theories of Scientific Explanation",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Models in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Models in Science",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Philosophy of Statistics"
+    },
+    {
+      "source": "Models in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Natural Properties",
+      "target": "Natural Properties"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Pierre Duhem"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Genetics"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Molecular Biology",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Miracles",
+      "target": "Abduction"
+    },
+    {
+      "source": "Miracles",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Miracles",
+      "target": "David Hume"
+    },
+    {
+      "source": "Miracles",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "Miracles",
+      "target": "Miracles"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Cellular Automata",
+      "target": "Cellular Automata"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Time"
+    },
+    {
+      "source": "Arguments for Incompatibilism",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Anomalous Monism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Properties"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Properties"
+    },
+    {
+      "source": "Natural Kinds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Varieties of Modality",
+      "target": "Varieties of Modality"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Cosmological Argument"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Fundamentality",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "David Lewis"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "David Lewis\u2019s Metaphysics",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Feminist Epistemology and Philosophy of Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "The Structure of Scientific Theories"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Vienna Circle"
+    },
+    {
+      "source": "Philosophy of Biology in Latin America",
+      "target": "Philosophy of Biology in Latin America"
+    },
+    {
+      "source": "David Hume",
+      "target": "George Berkeley"
+    },
+    {
+      "source": "David Hume",
+      "target": "Samuel Clarke"
+    },
+    {
+      "source": "David Hume",
+      "target": "Hume on Religion"
+    },
+    {
+      "source": "David Hume",
+      "target": "The Problem of Induction"
+    },
+    {
+      "source": "David Hume",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "David Hume",
+      "target": "John Locke"
+    },
+    {
+      "source": "David Hume",
+      "target": "Miracles"
+    },
+    {
+      "source": "David Hume",
+      "target": "David Hume"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Retrocausality in Quantum Mechanics"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Regularity and Inferential Theories of Causation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "Kant\u2019s Philosophy of Science",
+      "target": "Kant\u2019s Philosophy of Science"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Hyperintensionality"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Varieties of Modality"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Counterfactuals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Arguments for Incompatibilism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Properties"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Time"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "David Hume"
+    },
+    {
+      "source": "Kant and Hume on Causality",
+      "target": "Kant and Hume on Causality"
+    },
+    {
+      "source": "Object",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Object",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Object",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Object",
+      "target": "Properties"
+    },
+    {
+      "source": "Object",
+      "target": "Willard Van Orman Quine"
+    },
+    {
+      "source": "Object",
+      "target": "Object"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Interpretations of Probability"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Frank Ramsey"
+    },
+    {
+      "source": "Indicative Conditionals",
+      "target": "Indicative Conditionals"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Creationism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Darwinism"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Genetic Drift"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Natural Selection"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "The Social Dimensions of Scientific Knowledge"
+    },
+    {
+      "source": "Philosophy of Macroevolution",
+      "target": "Philosophy of Macroevolution"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Possible Worlds",
+      "target": "Possible Worlds"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Dispositions"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Ceteris Paribus Laws",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Regularity and Inferential Theories of Causation"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Counterfactuals"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "The Metaphysics of Causation",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Experiment in Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Robert Boyle"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Counterfactual Theories of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Causation in Physics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Probabilistic Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "The Metaphysics of Causation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Ceteris Paribus Laws"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "David Lewis\u2019s Metaphysics"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Molecular Biology"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Natural Kinds"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Wesley Salmon"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Scientific Realism"
+    },
+    {
+      "source": "Mechanisms in Science",
+      "target": "Mechanisms in Science"
+    },
+    {
+      "source": "Holes",
+      "target": "Object"
+    },
+    {
+      "source": "Holes",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Holes",
+      "target": "Holes"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "The Role of Decoherence in Quantum Mechanics"
+    },
+    {
+      "source": "Quantum Mechanics",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "Time Travel",
+      "target": "Time"
+    },
+    {
+      "source": "Time Travel",
+      "target": "Time Machines"
+    },
+    {
+      "source": "Time Travel",
+      "target": "Time Travel"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "Supertasks",
+      "target": "Supertasks"
+    },
+    {
+      "source": "Space and Time: Inertial Frames",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Space and Time: Inertial Frames",
+      "target": "Space and Time: Inertial Frames"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Fundamentality"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "20th Century Theories of Scientific Explanation"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Rudolf Carnap"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Paul Feyerabend"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Genetics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Carl Hempel"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "David Hume"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Gottfried Wilhelm Leibniz"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Intertheory Relations in Physics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Quantum Mechanics"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Quantum Field Theory"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "Supervenience"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "William Whewell"
+    },
+    {
+      "source": "The Unity of Science",
+      "target": "The Unity of Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Abduction"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Analogy and Analogical Reasoning"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Models in Science"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Karl Popper"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Method"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "William Whewell"
+    },
+    {
+      "source": "Scientific Discovery",
+      "target": "Scientific Discovery"
+    },
+    {
+      "source": "Absolute and Relational Space and Motion: Post-Newtonian Theories",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Absolute and Relational Space and Motion: Post-Newtonian Theories",
+      "target": "Absolute and Relational Space and Motion: Post-Newtonian Theories"
+    },
+    {
+      "source": "The Hole Argument",
+      "target": "Causal Determinism"
+    },
+    {
+      "source": "The Hole Argument",
+      "target": "Symmetry and Symmetry Breaking"
+    },
+    {
+      "source": "The Hole Argument",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Being and Becoming in Modern Physics",
+      "target": "Temporal Consciousness"
+    },
+    {
+      "source": "Being and Becoming in Modern Physics",
+      "target": "The Hole Argument"
+    },
+    {
+      "source": "Being and Becoming in Modern Physics",
+      "target": "Time"
+    },
+    {
+      "source": "Being and Becoming in Modern Physics",
+      "target": "Being and Becoming in Modern Physics"
+    }
+  ]
+}

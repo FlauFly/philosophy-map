@@ -1,0 +1,624 @@
+{
+  "nodes": [
+    {
+      "id": "The Kokugaku (Native Japan Studies) School",
+      "group": 1,
+      "address": "kokugaku-school"
+    },
+    {
+      "id": "Japanese Philosophy",
+      "group": 2,
+      "address": "japanese-philosophy"
+    },
+    {
+      "id": "K\u016bkai",
+      "group": 2,
+      "address": "kukai"
+    },
+    {
+      "id": "Japanese Zen Buddhist Philosophy",
+      "group": 2,
+      "address": "japanese-zen"
+    },
+    {
+      "id": "Watsuji Tetsur\u014d",
+      "group": 2,
+      "address": "watsuji-tetsuro"
+    },
+    {
+      "id": "Japanese Confucian Philosophy",
+      "group": 2,
+      "address": "japanese-confucian"
+    },
+    {
+      "id": "Japanese Aesthetics",
+      "group": 2,
+      "address": "japanese-aesthetics"
+    },
+    {
+      "id": "Japanese Pure Land Philosophy",
+      "group": 2,
+      "address": "japanese-pure-land"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 3,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "The Kyoto School",
+      "group": 3,
+      "address": "kyoto-school"
+    },
+    {
+      "id": "Nishida Kitar\u014d",
+      "group": 3,
+      "address": "nishida-kitaro"
+    },
+    {
+      "id": "Pantheism",
+      "group": 3,
+      "address": "pantheism"
+    },
+    {
+      "id": "Mysticism",
+      "group": 3,
+      "address": "mysticism"
+    },
+    {
+      "id": "Chan Buddhism",
+      "group": 3,
+      "address": "buddhism-chan"
+    },
+    {
+      "id": "Korean Buddhism",
+      "group": 3,
+      "address": "korean-buddhism"
+    },
+    {
+      "id": "Buddha",
+      "group": 3,
+      "address": "buddha"
+    },
+    {
+      "id": "Nothingness",
+      "group": 3,
+      "address": "nothingness"
+    },
+    {
+      "id": "Philosophy of Religion",
+      "group": 3,
+      "address": "philosophy-religion"
+    },
+    {
+      "id": "Martin Heidegger",
+      "group": 3,
+      "address": "heidegger"
+    },
+    {
+      "id": "Xunzi",
+      "group": 3,
+      "address": "xunzi"
+    },
+    {
+      "id": "Confucius",
+      "group": 3,
+      "address": "confucius"
+    },
+    {
+      "id": "Mencius",
+      "group": 3,
+      "address": "mencius"
+    },
+    {
+      "id": "Daoism",
+      "group": 3,
+      "address": "daoism"
+    },
+    {
+      "id": "Wang Yangming",
+      "group": 3,
+      "address": "wang-yangming"
+    },
+    {
+      "id": "Aesthetic Experience",
+      "group": 3,
+      "address": "aesthetic-experience"
+    },
+    {
+      "id": "The Concept of the Aesthetic",
+      "group": 3,
+      "address": "aesthetic-concept"
+    },
+    {
+      "id": "Philosophy of Film",
+      "group": 3,
+      "address": "film"
+    },
+    {
+      "id": "Aesthetics of the Everyday",
+      "group": 3,
+      "address": "aesthetics-of-everyday"
+    },
+    {
+      "id": "N\u0101g\u0101rjuna",
+      "group": 3,
+      "address": "nagarjuna"
+    },
+    {
+      "id": "Vasubandhu",
+      "group": 3,
+      "address": "vasubandhu"
+    }
+  ],
+  "links": [
+    {
+      "source": "Japanese Philosophy",
+      "target": "The Kokugaku (Native Japan Studies) School"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "Japanese Confucian Philosophy"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "K\u016bkai"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "Japanese Pure Land Philosophy"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "The Kokugaku (Native Japan Studies) School",
+      "target": "Watsuji Tetsur\u014d"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Japanese Confucian Philosophy"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "K\u016bkai"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Japanese Pure Land Philosophy"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Nishida Kitar\u014d"
+    },
+    {
+      "source": "Japanese Philosophy",
+      "target": "Watsuji Tetsur\u014d"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "K\u016bkai",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Japanese Zen Buddhist Philosophy",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Japanese Philosophy"
+    },
+    {
+      "source": "K\u016bkai",
+      "target": "Japanese Pure Land Philosophy"
+    },
+    {
+      "source": "K\u016bkai",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "K\u016bkai",
+      "target": "Mysticism"
+    },
+    {
+      "source": "K\u016bkai",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "K\u016bkai"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "K\u016bkai"
+    },
+    {
+      "source": "Buddha",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "Chan Buddhism",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "Japanese Zen Buddhist Philosophy",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Japanese Zen Buddhist Philosophy",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Korean Buddhism",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Japanese Zen Buddhist Philosophy"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Watsuji Tetsur\u014d"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Watsuji Tetsur\u014d"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Nishida Kitar\u014d"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Nothingness"
+    },
+    {
+      "source": "Watsuji Tetsur\u014d",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Confucius",
+      "target": "Japanese Confucian Philosophy"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Confucius"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Daoism"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Mencius"
+    },
+    {
+      "source": "Japanese Confucian Philosophy",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Japanese Confucian Philosophy"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Japanese Aesthetics"
+    },
+    {
+      "source": "Japanese Aesthetics",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Buddha",
+      "target": "Japanese Pure Land Philosophy"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Japanese Pure Land Philosophy"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "Buddha"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "N\u0101g\u0101rjuna"
+    },
+    {
+      "source": "Japanese Pure Land Philosophy",
+      "target": "Vasubandhu"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Japanese Pure Land Philosophy"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Daoism"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Mysticism"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "Nishida Kitar\u014d"
+    },
+    {
+      "source": "The Kyoto School",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Daoism"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Nishida Kitar\u014d",
+      "target": "Nishida Kitar\u014d"
+    },
+    {
+      "source": "Pantheism",
+      "target": "Pantheism"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Buddha"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Mysticism",
+      "target": "N\u0101g\u0101rjuna"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Vasubandhu"
+    },
+    {
+      "source": "Mysticism",
+      "target": "Mysticism"
+    },
+    {
+      "source": "Chan Buddhism",
+      "target": "Buddha"
+    },
+    {
+      "source": "Chan Buddhism",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Korean Buddhism",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Korean Buddhism",
+      "target": "Korean Buddhism"
+    },
+    {
+      "source": "Buddha",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Buddha",
+      "target": "Korean Buddhism"
+    },
+    {
+      "source": "Buddha",
+      "target": "N\u0101g\u0101rjuna"
+    },
+    {
+      "source": "Buddha",
+      "target": "Buddha"
+    },
+    {
+      "source": "Nothingness",
+      "target": "The Kyoto School"
+    },
+    {
+      "source": "Nothingness",
+      "target": "Nothingness"
+    },
+    {
+      "source": "Philosophy of Religion",
+      "target": "Philosophy of Religion"
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Martin Heidegger"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Confucius"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Daoism"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Mencius"
+    },
+    {
+      "source": "Xunzi",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Confucius",
+      "target": "Mencius"
+    },
+    {
+      "source": "Confucius",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Confucius",
+      "target": "Confucius"
+    },
+    {
+      "source": "Mencius",
+      "target": "Confucius"
+    },
+    {
+      "source": "Mencius",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Mencius",
+      "target": "Xunzi"
+    },
+    {
+      "source": "Mencius",
+      "target": "Mencius"
+    },
+    {
+      "source": "Daoism",
+      "target": "Daoism"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Confucius"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Daoism"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Mencius"
+    },
+    {
+      "source": "Wang Yangming",
+      "target": "Wang Yangming"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "Aesthetic Experience",
+      "target": "Aesthetic Experience"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "The Concept of the Aesthetic",
+      "target": "The Concept of the Aesthetic"
+    },
+    {
+      "source": "Philosophy of Film",
+      "target": "Philosophy of Film"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Chan Buddhism"
+    },
+    {
+      "source": "Aesthetics of the Everyday",
+      "target": "Aesthetics of the Everyday"
+    },
+    {
+      "source": "N\u0101g\u0101rjuna",
+      "target": "Buddha"
+    },
+    {
+      "source": "N\u0101g\u0101rjuna",
+      "target": "N\u0101g\u0101rjuna"
+    },
+    {
+      "source": "Vasubandhu",
+      "target": "N\u0101g\u0101rjuna"
+    },
+    {
+      "source": "Vasubandhu",
+      "target": "Vasubandhu"
+    }
+  ]
+}

@@ -1,0 +1,6182 @@
+{
+  "nodes": [
+    {
+      "id": "Group Rights",
+      "group": 1,
+      "address": "rights-group"
+    },
+    {
+      "id": "Shared Agency",
+      "group": 2,
+      "address": "shared-agency"
+    },
+    {
+      "id": "Discrimination",
+      "group": 2,
+      "address": "discrimination"
+    },
+    {
+      "id": "Nationalism",
+      "group": 2,
+      "address": "nationalism"
+    },
+    {
+      "id": "Rights",
+      "group": 2,
+      "address": "rights"
+    },
+    {
+      "id": "Collective Intentionality",
+      "group": 2,
+      "address": "collective-intentionality"
+    },
+    {
+      "id": "Culture",
+      "group": 2,
+      "address": "culture"
+    },
+    {
+      "id": "Human Rights",
+      "group": 2,
+      "address": "rights-human"
+    },
+    {
+      "id": "Identity Politics",
+      "group": 2,
+      "address": "identity-politics"
+    },
+    {
+      "id": "Legal Rights",
+      "group": 2,
+      "address": "legal-rights"
+    },
+    {
+      "id": "Social Ontology",
+      "group": 2,
+      "address": "social-ontology"
+    },
+    {
+      "id": "Territorial Rights and Territorial Justice",
+      "group": 2,
+      "address": "territorial-rights"
+    },
+    {
+      "id": "Civil Rights",
+      "group": 2,
+      "address": "civil-rights"
+    },
+    {
+      "id": "Multiculturalism",
+      "group": 2,
+      "address": "multiculturalism"
+    },
+    {
+      "id": "Collective Responsibility",
+      "group": 2,
+      "address": "collective-responsibility"
+    },
+    {
+      "id": "Intention",
+      "group": 3,
+      "address": "intention"
+    },
+    {
+      "id": "Business Ethics",
+      "group": 3,
+      "address": "ethics-business"
+    },
+    {
+      "id": "Social Institutions",
+      "group": 3,
+      "address": "social-institutions"
+    },
+    {
+      "id": "Agency",
+      "group": 3,
+      "address": "agency"
+    },
+    {
+      "id": "Moral Reasoning",
+      "group": 3,
+      "address": "reasoning-moral"
+    },
+    {
+      "id": "Action",
+      "group": 3,
+      "address": "action"
+    },
+    {
+      "id": "Social Epistemology",
+      "group": 3,
+      "address": "epistemology-social"
+    },
+    {
+      "id": "Practical Reason and the Structure of Actions",
+      "group": 3,
+      "address": "practical-reason-action"
+    },
+    {
+      "id": "Feminist Political Philosophy",
+      "group": 3,
+      "address": "feminism-political"
+    },
+    {
+      "id": "Equality of Educational Opportunity",
+      "group": 3,
+      "address": "equal-ed-opportunity"
+    },
+    {
+      "id": "Recognition",
+      "group": 3,
+      "address": "recognition"
+    },
+    {
+      "id": "Democracy",
+      "group": 3,
+      "address": "democracy"
+    },
+    {
+      "id": "Feminist Philosophy",
+      "group": 3,
+      "address": "feminist-philosophy"
+    },
+    {
+      "id": "Affirmative Action",
+      "group": 3,
+      "address": "affirmative-action"
+    },
+    {
+      "id": "Feminist Perspectives on Trans Issues",
+      "group": 3,
+      "address": "feminism-trans"
+    },
+    {
+      "id": "Homosexuality",
+      "group": 3,
+      "address": "homosexuality"
+    },
+    {
+      "id": "Liberalism",
+      "group": 3,
+      "address": "liberalism"
+    },
+    {
+      "id": "Equality",
+      "group": 3,
+      "address": "equality"
+    },
+    {
+      "id": "Freedom of Association",
+      "group": 3,
+      "address": "freedom-association"
+    },
+    {
+      "id": "Critical Disability Theory",
+      "group": 3,
+      "address": "disability-critical"
+    },
+    {
+      "id": "Feminist Philosophy of Law",
+      "group": 3,
+      "address": "feminism-law"
+    },
+    {
+      "id": "Equality of Opportunity",
+      "group": 3,
+      "address": "equal-opportunity"
+    },
+    {
+      "id": "Algorithmic Fairness",
+      "group": 3,
+      "address": "algorithmic-fairness"
+    },
+    {
+      "id": "Feminist Perspectives on Science",
+      "group": 3,
+      "address": "feminist-science"
+    },
+    {
+      "id": "Citizenship",
+      "group": 3,
+      "address": "citizenship"
+    },
+    {
+      "id": "Secession",
+      "group": 3,
+      "address": "secession"
+    },
+    {
+      "id": "Transitional Justice",
+      "group": 3,
+      "address": "justice-transitional"
+    },
+    {
+      "id": "Johann Gottfried von Herder",
+      "group": 3,
+      "address": "herder"
+    },
+    {
+      "id": "Global Democracy",
+      "group": 3,
+      "address": "global-democracy"
+    },
+    {
+      "id": "International Distributive Justice",
+      "group": 3,
+      "address": "international-justice"
+    },
+    {
+      "id": "Isaiah Berlin",
+      "group": 3,
+      "address": "berlin"
+    },
+    {
+      "id": "Solidarity in Social and Political Philosophy",
+      "group": 3,
+      "address": "solidarity"
+    },
+    {
+      "id": "Patriotism",
+      "group": 3,
+      "address": "patriotism"
+    },
+    {
+      "id": "Special Obligations",
+      "group": 3,
+      "address": "special-obligations"
+    },
+    {
+      "id": "Rosa Luxemburg",
+      "group": 3,
+      "address": "luxemburg"
+    },
+    {
+      "id": "Global Justice",
+      "group": 3,
+      "address": "justice-global"
+    },
+    {
+      "id": "Sovereignty",
+      "group": 3,
+      "address": "sovereignty"
+    },
+    {
+      "id": "Boundary",
+      "group": 3,
+      "address": "boundary"
+    },
+    {
+      "id": "Egalitarianism",
+      "group": 3,
+      "address": "egalitarianism"
+    },
+    {
+      "id": "Globalization",
+      "group": 3,
+      "address": "globalization"
+    },
+    {
+      "id": "John Rawls",
+      "group": 3,
+      "address": "rawls"
+    },
+    {
+      "id": "Cosmopolitanism",
+      "group": 3,
+      "address": "cosmopolitanism"
+    },
+    {
+      "id": "Communitarianism",
+      "group": 3,
+      "address": "communitarianism"
+    },
+    {
+      "id": "Immigration",
+      "group": 3,
+      "address": "immigration"
+    },
+    {
+      "id": "Ayn Rand",
+      "group": 3,
+      "address": "ayn-rand"
+    },
+    {
+      "id": "Suicide",
+      "group": 3,
+      "address": "suicide"
+    },
+    {
+      "id": "Consequentialism",
+      "group": 3,
+      "address": "consequentialism"
+    },
+    {
+      "id": "Locke\u2019s Political Philosophy",
+      "group": 3,
+      "address": "locke-political"
+    },
+    {
+      "id": "Feminist Perspectives on Disability",
+      "group": 3,
+      "address": "feminism-disability"
+    },
+    {
+      "id": "Robert Nozick\u2019s Political Philosophy",
+      "group": 3,
+      "address": "nozick-political"
+    },
+    {
+      "id": "Kant\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "kant-moral"
+    },
+    {
+      "id": "Intergenerational Justice",
+      "group": 3,
+      "address": "justice-intergenerational"
+    },
+    {
+      "id": "Property and Ownership",
+      "group": 3,
+      "address": "property"
+    },
+    {
+      "id": "Doing vs. Allowing Harm",
+      "group": 3,
+      "address": "doing-allowing"
+    },
+    {
+      "id": "Hobbes\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "hobbes-moral"
+    },
+    {
+      "id": "Freedom of Speech",
+      "group": 3,
+      "address": "freedom-speech"
+    },
+    {
+      "id": "Conservatism",
+      "group": 3,
+      "address": "conservatism"
+    },
+    {
+      "id": "John Locke",
+      "group": 3,
+      "address": "locke"
+    },
+    {
+      "id": "Privacy",
+      "group": 3,
+      "address": "privacy"
+    },
+    {
+      "id": "Children\u2019s Rights",
+      "group": 3,
+      "address": "rights-children"
+    },
+    {
+      "id": "The Moral Status of Animals",
+      "group": 3,
+      "address": "moral-animal"
+    },
+    {
+      "id": "Constitutionalism",
+      "group": 3,
+      "address": "constitutionalism"
+    },
+    {
+      "id": "Liberal Feminism",
+      "group": 3,
+      "address": "feminism-liberal"
+    },
+    {
+      "id": "Mill\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "mill-moral-political"
+    },
+    {
+      "id": "Libertarianism",
+      "group": 3,
+      "address": "libertarianism"
+    },
+    {
+      "id": "The Grounds of Moral Status",
+      "group": 3,
+      "address": "grounds-moral-status"
+    },
+    {
+      "id": "Positive and Negative Liberty",
+      "group": 3,
+      "address": "liberty-positive-negative"
+    },
+    {
+      "id": "The Nature of Law",
+      "group": 3,
+      "address": "lawphil-nature"
+    },
+    {
+      "id": "Respect",
+      "group": 3,
+      "address": "respect"
+    },
+    {
+      "id": "Jean Bodin",
+      "group": 3,
+      "address": "bodin"
+    },
+    {
+      "id": "Intellectual Property",
+      "group": 3,
+      "address": "intellectual-property"
+    },
+    {
+      "id": "Legal Positivism",
+      "group": 3,
+      "address": "legal-positivism"
+    },
+    {
+      "id": "The Nonidentity Problem",
+      "group": 3,
+      "address": "nonidentity-problem"
+    },
+    {
+      "id": "Leo Strauss",
+      "group": 3,
+      "address": "strauss-leo"
+    },
+    {
+      "id": "Exploitation",
+      "group": 3,
+      "address": "exploitation"
+    },
+    {
+      "id": "Natural Law Theories",
+      "group": 3,
+      "address": "natural-law-theories"
+    },
+    {
+      "id": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "group": 3,
+      "address": "reasons-agent"
+    },
+    {
+      "id": "Thomas Paine",
+      "group": 3,
+      "address": "paine"
+    },
+    {
+      "id": "Animal Consciousness",
+      "group": 3,
+      "address": "consciousness-animal"
+    },
+    {
+      "id": "Arrow\u2019s Theorem",
+      "group": 3,
+      "address": "arrows-theorem"
+    },
+    {
+      "id": "Intentionality",
+      "group": 3,
+      "address": "intentionality"
+    },
+    {
+      "id": "Edith Stein",
+      "group": 3,
+      "address": "stein"
+    },
+    {
+      "id": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "group": 3,
+      "address": "phenomenology-mg"
+    },
+    {
+      "id": "Beardsley\u2019s Aesthetics",
+      "group": 3,
+      "address": "beardsley-aesthetics"
+    },
+    {
+      "id": "Culture and Cognitive Science",
+      "group": 3,
+      "address": "culture-cogsci"
+    },
+    {
+      "id": "Sikh Philosophy",
+      "group": 3,
+      "address": "sikh-philosophy"
+    },
+    {
+      "id": "The Ethics of Cultural Heritage",
+      "group": 3,
+      "address": "ethics-cultural-heritage"
+    },
+    {
+      "id": "Identity",
+      "group": 3,
+      "address": "identity"
+    },
+    {
+      "id": "Cultural Evolution",
+      "group": 3,
+      "address": "evolution-cultural"
+    },
+    {
+      "id": "School of Salamanca",
+      "group": 3,
+      "address": "school-salamanca"
+    },
+    {
+      "id": "Social Minimum",
+      "group": 3,
+      "address": "social-minimum"
+    },
+    {
+      "id": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "group": 3,
+      "address": "histfem-condorcet"
+    },
+    {
+      "id": "War",
+      "group": 3,
+      "address": "war"
+    },
+    {
+      "id": "Distributive Justice",
+      "group": 3,
+      "address": "justice-distributive"
+    },
+    {
+      "id": "Thomas Jefferson",
+      "group": 3,
+      "address": "jefferson"
+    },
+    {
+      "id": "Environmental Ethics",
+      "group": 3,
+      "address": "ethics-environmental"
+    },
+    {
+      "id": "Dehumanization",
+      "group": 3,
+      "address": "dehumanization"
+    },
+    {
+      "id": "Feminist Perspectives on Globalization",
+      "group": 3,
+      "address": "feminism-globalization"
+    },
+    {
+      "id": "Well-Being",
+      "group": 3,
+      "address": "well-being"
+    },
+    {
+      "id": "Pufendorf\u2019s Moral and Political Philosophy",
+      "group": 3,
+      "address": "pufendorf-moral"
+    },
+    {
+      "id": "Religion and Political Theory",
+      "group": 3,
+      "address": "religion-politics"
+    },
+    {
+      "id": "Moral Relativism",
+      "group": 3,
+      "address": "moral-relativism"
+    },
+    {
+      "id": "Public Health Ethics",
+      "group": 3,
+      "address": "publichealth-ethics"
+    },
+    {
+      "id": "Immanuel Kant",
+      "group": 3,
+      "address": "kant"
+    },
+    {
+      "id": "Climate Justice",
+      "group": 3,
+      "address": "justice-climate"
+    },
+    {
+      "id": "Philosophy of International Law",
+      "group": 3,
+      "address": "international-law"
+    },
+    {
+      "id": "Dignity",
+      "group": 3,
+      "address": "dignity"
+    },
+    {
+      "id": "Torture",
+      "group": 3,
+      "address": "torture"
+    },
+    {
+      "id": "Latinx Philosophy",
+      "group": 3,
+      "address": "latinx"
+    },
+    {
+      "id": "Genetics",
+      "group": 3,
+      "address": "genetics"
+    },
+    {
+      "id": "Continental Feminism",
+      "group": 3,
+      "address": "femapproach-continental"
+    },
+    {
+      "id": "Feminist Perspectives on Power",
+      "group": 3,
+      "address": "feminist-power"
+    },
+    {
+      "id": "Feminist Perspectives on the Self",
+      "group": 3,
+      "address": "feminism-self"
+    },
+    {
+      "id": "Autonomy in Moral and Political Philosophy",
+      "group": 3,
+      "address": "autonomy-moral"
+    },
+    {
+      "id": "Race",
+      "group": 3,
+      "address": "race"
+    },
+    {
+      "id": "Feminist Perspectives on the Body",
+      "group": 3,
+      "address": "feminist-body"
+    },
+    {
+      "id": "Intersections Between Pragmatist and Continental Feminism",
+      "group": 3,
+      "address": "femapproach-prag-cont"
+    },
+    {
+      "id": "Analytical Marxism",
+      "group": 3,
+      "address": "marxism-analytical"
+    },
+    {
+      "id": "Analytic Feminism",
+      "group": 3,
+      "address": "femapproach-analytic"
+    },
+    {
+      "id": "Feminist Perspectives on Sex and Gender",
+      "group": 3,
+      "address": "feminism-gender"
+    },
+    {
+      "id": "Disability and Justice",
+      "group": 3,
+      "address": "disability-justice"
+    },
+    {
+      "id": "Federalism",
+      "group": 3,
+      "address": "federalism"
+    },
+    {
+      "id": "Deontological Ethics",
+      "group": 3,
+      "address": "ethics-deontological"
+    },
+    {
+      "id": "Karl Marx",
+      "group": 3,
+      "address": "marx"
+    },
+    {
+      "id": "Theories of the Common Law of Torts",
+      "group": 3,
+      "address": "tort-theories"
+    },
+    {
+      "id": "Privacy and Medicine",
+      "group": 3,
+      "address": "privacy-medicine"
+    },
+    {
+      "id": "Theories of Criminal Law",
+      "group": 3,
+      "address": "criminal-law"
+    },
+    {
+      "id": "The Normativity of Meaning and Content",
+      "group": 3,
+      "address": "meaning-normativity"
+    },
+    {
+      "id": "Adolf Reinach",
+      "group": 3,
+      "address": "reinach"
+    },
+    {
+      "id": "Methodological Holism in the Social Sciences",
+      "group": 3,
+      "address": "holism-social"
+    },
+    {
+      "id": "Disability: Definitions and Models",
+      "group": 3,
+      "address": "disability"
+    },
+    {
+      "id": "The Philosophy of Dance",
+      "group": 3,
+      "address": "dance"
+    },
+    {
+      "id": "History of the Ontology of Art",
+      "group": 3,
+      "address": "art-ontology-history"
+    },
+    {
+      "id": "The Definition of Art",
+      "group": 3,
+      "address": "art-definition"
+    },
+    {
+      "id": "Theories of Meaning",
+      "group": 3,
+      "address": "meaning"
+    },
+    {
+      "id": "Supervenience",
+      "group": 3,
+      "address": "supervenience"
+    },
+    {
+      "id": "Philosophy of Money and Finance",
+      "group": 3,
+      "address": "money-finance"
+    },
+    {
+      "id": "Physicalism",
+      "group": 3,
+      "address": "physicalism"
+    },
+    {
+      "id": "Convention",
+      "group": 3,
+      "address": "convention"
+    },
+    {
+      "id": "Backward Causation",
+      "group": 3,
+      "address": "causation-backwards"
+    },
+    {
+      "id": "Behaviorism",
+      "group": 3,
+      "address": "behaviorism"
+    },
+    {
+      "id": "Naturalistic Approaches to Social Construction",
+      "group": 3,
+      "address": "social-construction-naturalistic"
+    },
+    {
+      "id": "Names",
+      "group": 3,
+      "address": "names"
+    },
+    {
+      "id": "Ontological Dependence",
+      "group": 3,
+      "address": "dependence-ontological"
+    },
+    {
+      "id": "Scientific Reduction",
+      "group": 3,
+      "address": "scientific-reduction"
+    },
+    {
+      "id": "Metaphysics",
+      "group": 3,
+      "address": "metaphysics"
+    },
+    {
+      "id": "Assertion",
+      "group": 3,
+      "address": "assertion"
+    },
+    {
+      "id": "Conceptual Art",
+      "group": 3,
+      "address": "conceptual-art"
+    },
+    {
+      "id": "The Philosophy of Digital Art",
+      "group": 3,
+      "address": "digital-art"
+    },
+    {
+      "id": "Speech Acts",
+      "group": 3,
+      "address": "speech-acts"
+    },
+    {
+      "id": "The Philosophy of Music",
+      "group": 3,
+      "address": "music"
+    },
+    {
+      "id": "The Economic Analysis of Law",
+      "group": 3,
+      "address": "legal-econanalysis"
+    },
+    {
+      "id": "Externalism About the Mind",
+      "group": 3,
+      "address": "content-externalism"
+    },
+    {
+      "id": "Artifact",
+      "group": 3,
+      "address": "artifact"
+    },
+    {
+      "id": "Locke on Real Essence",
+      "group": 3,
+      "address": "real-essence"
+    },
+    {
+      "id": "Kant\u2019s Social and Political Philosophy",
+      "group": 3,
+      "address": "kant-social-political"
+    },
+    {
+      "id": "Hugo Grotius",
+      "group": 3,
+      "address": "grotius"
+    },
+    {
+      "id": "Justice, Inequality, and Health",
+      "group": 3,
+      "address": "justice-inequality-health"
+    },
+    {
+      "id": "Critical Philosophy of Race",
+      "group": 3,
+      "address": "critical-phil-race"
+    },
+    {
+      "id": "Marriage and Domestic Partnership",
+      "group": 3,
+      "address": "marriage"
+    },
+    {
+      "id": "Henry David Thoreau",
+      "group": 3,
+      "address": "thoreau"
+    },
+    {
+      "id": "Political Representation",
+      "group": 3,
+      "address": "political-representation"
+    },
+    {
+      "id": "Pornography and Censorship",
+      "group": 3,
+      "address": "pornography-censorship"
+    },
+    {
+      "id": "Civil Disobedience",
+      "group": 3,
+      "address": "civil-disobedience"
+    },
+    {
+      "id": "Colonialism",
+      "group": 3,
+      "address": "colonialism"
+    },
+    {
+      "id": "Religious Diversity (Pluralism)",
+      "group": 3,
+      "address": "religious-pluralism"
+    },
+    {
+      "id": "Philosophy of Technology",
+      "group": 3,
+      "address": "technology"
+    },
+    {
+      "id": "Moral Responsibility",
+      "group": 3,
+      "address": "moral-responsibility"
+    },
+    {
+      "id": "Terrorism",
+      "group": 3,
+      "address": "terrorism"
+    },
+    {
+      "id": "Atonement",
+      "group": 3,
+      "address": "atonement"
+    },
+    {
+      "id": "The Principle of Beneficence in Applied Ethics",
+      "group": 3,
+      "address": "principle-beneficence"
+    },
+    {
+      "id": "Methodological Individualism",
+      "group": 3,
+      "address": "methodological-individualism"
+    },
+    {
+      "id": "The Sale of Human Organs",
+      "group": 3,
+      "address": "organs-sale"
+    },
+    {
+      "id": "Moral Vegetarianism",
+      "group": 3,
+      "address": "vegetarianism"
+    },
+    {
+      "id": "The Concept of Evil",
+      "group": 3,
+      "address": "concept-evil"
+    },
+    {
+      "id": "Black Reparations",
+      "group": 3,
+      "address": "black-reparations"
+    },
+    {
+      "id": "Blame",
+      "group": 3,
+      "address": "blame"
+    }
+  ],
+  "links": [
+    {
+      "source": "Shared Agency",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Culture",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Group Rights",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Group Rights"
+    },
+    {
+      "source": "Action",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Agency",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Shared Agency",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Shared Agency"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Democracy"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Equality"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Discrimination",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Recognition",
+      "target": "Discrimination"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Boundary",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Globalization",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Immigration",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Culture"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Nationalism",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Special Obligations"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Secession"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Solidarity in Social and Political Philosophy"
+    },
+    {
+      "source": "Nationalism",
+      "target": "Territorial Rights and Territorial Justice"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Nationalism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Nationalism"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Rights"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Rights"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "Rights"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Rights"
+    },
+    {
+      "source": "Constitutionalism",
+      "target": "Rights"
+    },
+    {
+      "source": "Democracy",
+      "target": "Rights"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Rights"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Rights"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Rights"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Rights"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Rights"
+    },
+    {
+      "source": "Locke\u2019s Political Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Rights"
+    },
+    {
+      "source": "Robert Nozick\u2019s Political Philosophy",
+      "target": "Rights"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Rights"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Rights"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Rights"
+    },
+    {
+      "source": "Respect",
+      "target": "Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Rights",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Rights",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Rights",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Rights",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Rights",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Rights",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Rights",
+      "target": "John Locke"
+    },
+    {
+      "source": "Rights",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Rights",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Rights",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Rights",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Rights",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Rights",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Children\u2019s Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Rights"
+    },
+    {
+      "source": "Leo Strauss",
+      "target": "Rights"
+    },
+    {
+      "source": "Suicide",
+      "target": "Rights"
+    },
+    {
+      "source": "Action",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Collective Intentionality",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Collective Intentionality"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Culture"
+    },
+    {
+      "source": "Culture",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Culture",
+      "target": "The Ethics of Cultural Heritage"
+    },
+    {
+      "source": "Culture",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Culture",
+      "target": "Identity"
+    },
+    {
+      "source": "Culture",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Culture"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Culture"
+    },
+    {
+      "source": "Sikh Philosophy",
+      "target": "Culture"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Dignity",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Thomas Jefferson",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Human Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Democracy"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Dignity"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Equality"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Globalization"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Human Rights",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Human Rights",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Respect"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Children\u2019s Rights"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Human Rights",
+      "target": "Well-Being"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Torture",
+      "target": "Human Rights"
+    },
+    {
+      "source": "War",
+      "target": "Human Rights"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Federalism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Genetics",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Identity"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Identity Politics",
+      "target": "Race"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Race",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Recognition",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Secession",
+      "target": "Identity Politics"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Conservatism"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Legal Rights",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Privacy",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Legal Rights"
+    },
+    {
+      "source": "Boundary",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Assertion"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Convention"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Methodological Holism in the Social Sciences"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Names"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Race"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Social Ontology",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Social Ontology"
+    },
+    {
+      "source": "Hugo Grotius",
+      "target": "Territorial Rights and Territorial Justice"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Secession"
+    },
+    {
+      "source": "Territorial Rights and Territorial Justice",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Democracy"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Political Representation"
+    },
+    {
+      "source": "Civil Rights",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Civil Rights"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Immigration"
+    },
+    {
+      "source": "Multiculturalism",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Recognition",
+      "target": "Multiculturalism"
+    },
+    {
+      "source": "Atonement",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Black Reparations",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Action"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Intention"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Collective Responsibility",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "War",
+      "target": "Collective Responsibility"
+    },
+    {
+      "source": "Intention",
+      "target": "Action"
+    },
+    {
+      "source": "Intention",
+      "target": "Agency"
+    },
+    {
+      "source": "Intention",
+      "target": "Intention"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Privacy"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Business Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Social Institutions",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Agency",
+      "target": "Action"
+    },
+    {
+      "source": "Agency",
+      "target": "Intention"
+    },
+    {
+      "source": "Agency",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Agency",
+      "target": "Agency"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Moral Reasoning",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Action",
+      "target": "Intention"
+    },
+    {
+      "source": "Action",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Action",
+      "target": "Action"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Democracy"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Social Epistemology",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Agency"
+    },
+    {
+      "source": "Practical Reason and the Structure of Actions",
+      "target": "Practical Reason and the Structure of Actions"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Globalization"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Political Representation"
+    },
+    {
+      "source": "Feminist Political Philosophy",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Equality"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Children\u2019s Rights"
+    },
+    {
+      "source": "Equality of Educational Opportunity",
+      "target": "Equality of Educational Opportunity"
+    },
+    {
+      "source": "Recognition",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Recognition",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Recognition",
+      "target": "Respect"
+    },
+    {
+      "source": "Recognition",
+      "target": "Recognition"
+    },
+    {
+      "source": "Democracy",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Democracy",
+      "target": "Civil Disobedience"
+    },
+    {
+      "source": "Democracy",
+      "target": "Constitutionalism"
+    },
+    {
+      "source": "Democracy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Democracy",
+      "target": "Equality"
+    },
+    {
+      "source": "Democracy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Democracy",
+      "target": "Political Representation"
+    },
+    {
+      "source": "Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Globalization"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Philosophy",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Equality"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Equality of Educational Opportunity"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "Affirmative Action",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Trans Issues",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Homosexuality",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Homosexuality",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Conservatism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Freedom of Association"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Liberalism",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Robert Nozick\u2019s Political Philosophy"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Liberalism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Liberalism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Equality",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Equality",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Equality",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Equality",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Equality",
+      "target": "Equality"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Democracy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Immigration"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Privacy"
+    },
+    {
+      "source": "Freedom of Association",
+      "target": "Freedom of Association"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Race"
+    },
+    {
+      "source": "Critical Disability Theory",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Privacy"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Feminist Philosophy of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Equality"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Equality of Educational Opportunity"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Equality of Opportunity",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Algorithmic Fairness",
+      "target": "Algorithmic Fairness"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Science",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Democracy"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Immigration"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Citizenship",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Secession",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Secession",
+      "target": "Constitutionalism"
+    },
+    {
+      "source": "Secession",
+      "target": "Democracy"
+    },
+    {
+      "source": "Secession",
+      "target": "Federalism"
+    },
+    {
+      "source": "Secession",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Secession",
+      "target": "Secession"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Torture"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "War"
+    },
+    {
+      "source": "Transitional Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Johann Gottfried von Herder",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Globalization"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Global Democracy",
+      "target": "Global Democracy"
+    },
+    {
+      "source": "International Distributive Justice",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "International Distributive Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "International Distributive Justice",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Equality"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Johann Gottfried von Herder"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Isaiah Berlin",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Solidarity in Social and Political Philosophy",
+      "target": "Solidarity in Social and Political Philosophy"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Special Obligations"
+    },
+    {
+      "source": "Patriotism",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Special Obligations",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Special Obligations",
+      "target": "Special Obligations"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Democracy"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Rosa Luxemburg",
+      "target": "Rosa Luxemburg"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Globalization"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Immigration"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Patriotism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Secession"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Global Justice",
+      "target": "War"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Global Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Sovereignty",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Boundary",
+      "target": "Artifact"
+    },
+    {
+      "source": "Boundary",
+      "target": "Convention"
+    },
+    {
+      "source": "Boundary",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Boundary",
+      "target": "Race"
+    },
+    {
+      "source": "Boundary",
+      "target": "Boundary"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Equality"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Egalitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Globalization",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Globalization",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Globalization",
+      "target": "Democracy"
+    },
+    {
+      "source": "Globalization",
+      "target": "Global Democracy"
+    },
+    {
+      "source": "Globalization",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Globalization",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Globalization",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Globalization",
+      "target": "Globalization"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Civil Disobedience"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Democracy"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Equality"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Children\u2019s Rights"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "John Rawls",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "John Rawls",
+      "target": "War"
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Globalization"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Special Obligations"
+    },
+    {
+      "source": "Cosmopolitanism",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Globalization"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Communitarianism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Immigration",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Immigration",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Immigration",
+      "target": "Immigration"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Ayn Rand",
+      "target": "Ayn Rand"
+    },
+    {
+      "source": "Suicide",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Suicide",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Suicide",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Suicide",
+      "target": "Suicide"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Consequentialism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Locke\u2019s Political Philosophy",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Locke\u2019s Political Philosophy",
+      "target": "John Locke"
+    },
+    {
+      "source": "Locke\u2019s Political Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Locke\u2019s Political Philosophy",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Locke\u2019s Political Philosophy",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Equality"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Feminist Perspectives on Disability",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Robert Nozick\u2019s Political Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Robert Nozick\u2019s Political Philosophy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Robert Nozick\u2019s Political Philosophy",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Robert Nozick\u2019s Political Philosophy",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Robert Nozick\u2019s Political Philosophy",
+      "target": "Robert Nozick\u2019s Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Respect"
+    },
+    {
+      "source": "Kant\u2019s Moral Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Equality"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Intergenerational Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Constitutionalism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Equality"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Property and Ownership",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Doing vs. Allowing Harm",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Hobbes\u2019s Moral and Political Philosophy",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Freedom of Speech",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Robert Nozick\u2019s Political Philosophy"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Conservatism",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Conservatism",
+      "target": "Conservatism"
+    },
+    {
+      "source": "John Locke",
+      "target": "Liberalism"
+    },
+    {
+      "source": "John Locke",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "John Locke",
+      "target": "John Locke"
+    },
+    {
+      "source": "Privacy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Privacy",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Privacy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Privacy",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Privacy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Children\u2019s Rights",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Children\u2019s Rights",
+      "target": "Children\u2019s Rights"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Moral Status of Animals",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Constitutionalism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Constitutionalism",
+      "target": "John Locke"
+    },
+    {
+      "source": "Constitutionalism",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Constitutionalism",
+      "target": "Constitutionalism"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Democracy"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Liberal Feminism",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Mill\u2019s Moral and Political Philosophy",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "John Locke"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Robert Nozick\u2019s Political Philosophy"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Libertarianism",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Respect"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Grounds of Moral Status",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Action"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Positive and Negative Liberty",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "The Nature of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Respect",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Respect",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Respect",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Respect",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Respect",
+      "target": "Respect"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "Constitutionalism"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "John Locke"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Jean Bodin",
+      "target": "Jean Bodin"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "John Locke"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Intellectual Property",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Legal Positivism",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "The Nonidentity Problem",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Leo Strauss",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Leo Strauss",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Leo Strauss",
+      "target": "Leo Strauss"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Equality"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Exploitation",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Legal Positivism"
+    },
+    {
+      "source": "Natural Law Theories",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Special Obligations"
+    },
+    {
+      "source": "Reasons for Action: Agent-Neutral vs. Agent-Relative",
+      "target": "Reasons for Action: Agent-Neutral vs. Agent-Relative"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Democracy"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Political Representation"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Thomas Paine",
+      "target": "Thomas Paine"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Animal Consciousness",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "Arrow\u2019s Theorem",
+      "target": "Arrow\u2019s Theorem"
+    },
+    {
+      "source": "Intentionality",
+      "target": "Intentionality"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Edith Stein",
+      "target": "Edith Stein"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Intentionality"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "The Phenomenology of the Munich and G\u00f6ttingen Circles",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Intention"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Beardsley\u2019s Aesthetics",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Culture and Cognitive Science",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Sikh Philosophy",
+      "target": "Sikh Philosophy"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Colonialism"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Intellectual Property"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Race"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "The Ethics of Cultural Heritage",
+      "target": "The Ethics of Cultural Heritage"
+    },
+    {
+      "source": "Identity",
+      "target": "Identity"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Culture and Cognitive Science"
+    },
+    {
+      "source": "Cultural Evolution",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "War"
+    },
+    {
+      "source": "School of Salamanca",
+      "target": "School of Salamanca"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Equality"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Social Minimum",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "Liberalism"
+    },
+    {
+      "source": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet",
+      "target": "The History of Feminism: Marie-Jean-Antoine-Nicolas de Caritat, Marquis de Condorcet"
+    },
+    {
+      "source": "War",
+      "target": "Global Justice"
+    },
+    {
+      "source": "War",
+      "target": "Transitional Justice"
+    },
+    {
+      "source": "War",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "War",
+      "target": "War"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "John Locke"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Distributive Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Thomas Jefferson",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Thomas Jefferson",
+      "target": "Race"
+    },
+    {
+      "source": "Thomas Jefferson",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "Thomas Jefferson",
+      "target": "Thomas Jefferson"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Globalization"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Respect"
+    },
+    {
+      "source": "Environmental Ethics",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Dignity"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "War"
+    },
+    {
+      "source": "Dehumanization",
+      "target": "Dehumanization"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Globalization"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Immigration"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Feminist Perspectives on Globalization",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Well-Being",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Jean Bodin"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Pufendorf\u2019s Moral and Political Philosophy",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Democracy"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Religion and Political Theory",
+      "target": "Religion and Political Theory"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Reasoning"
+    },
+    {
+      "source": "Moral Relativism",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Democracy"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Public Health Ethics",
+      "target": "Public Health Ethics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "The Nonidentity Problem"
+    },
+    {
+      "source": "Climate Justice",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Democracy"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "War"
+    },
+    {
+      "source": "Philosophy of International Law",
+      "target": "Philosophy of International Law"
+    },
+    {
+      "source": "Dignity",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Dignity",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Dignity",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Dignity",
+      "target": "Recognition"
+    },
+    {
+      "source": "Dignity",
+      "target": "Respect"
+    },
+    {
+      "source": "Dignity",
+      "target": "Dignity"
+    },
+    {
+      "source": "Torture",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Torture",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Torture",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Torture",
+      "target": "War"
+    },
+    {
+      "source": "Torture",
+      "target": "Torture"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Race"
+    },
+    {
+      "source": "Latinx Philosophy",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Genetics",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Genetics",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Genetics",
+      "target": "Race"
+    },
+    {
+      "source": "Genetics",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Genetics",
+      "target": "Genetics"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Globalization"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Continental Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Perspectives on Power",
+      "target": "Feminist Perspectives on Power"
+    },
+    {
+      "source": "Feminist Perspectives on the Self",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Communitarianism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Privacy"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Well-Being"
+    },
+    {
+      "source": "Autonomy in Moral and Political Philosophy",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Race",
+      "target": "Affirmative Action"
+    },
+    {
+      "source": "Race",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Race",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Race",
+      "target": "Race"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Feminist Perspectives on the Body",
+      "target": "Feminist Perspectives on the Body"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Intersections Between Pragmatist and Continental Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Analytical Marxism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Critical Disability Theory"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Continental Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Intersections Between Pragmatist and Continental Feminism"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Political Philosophy"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Science"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Race"
+    },
+    {
+      "source": "Analytic Feminism",
+      "target": "Analytic Feminism"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Feminist Perspectives on the Self"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Feminist Perspectives on Sex and Gender",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Recognition"
+    },
+    {
+      "source": "Disability and Justice",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Federalism",
+      "target": "Citizenship"
+    },
+    {
+      "source": "Federalism",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Federalism",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Federalism",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Federalism",
+      "target": "Federalism"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Deontological Ethics",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Theories of the Common Law of Torts",
+      "target": "Theories of the Common Law of Torts"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Suicide"
+    },
+    {
+      "source": "Privacy and Medicine",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Theories of Criminal Law",
+      "target": "Theories of Criminal Law"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Assertion"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Convention"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "The Normativity of Meaning and Content",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "The Phenomenology of the Munich and G\u00f6ttingen Circles"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Adolf Reinach",
+      "target": "Adolf Reinach"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Methodological Holism in the Social Sciences",
+      "target": "Methodological Holism in the Social Sciences"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability and Justice"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Feminist Perspectives on Disability"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Disability: Definitions and Models",
+      "target": "Disability: Definitions and Models"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Philosophy of Dance",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Artifact"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "History of the Ontology of Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Definition of Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Action"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Convention"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Names"
+    },
+    {
+      "source": "Theories of Meaning",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Supervenience",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Global Justice"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Philosophy of Money and Finance",
+      "target": "Philosophy of Money and Finance"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Physicalism",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Convention",
+      "target": "Hobbes\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Convention",
+      "target": "John Locke"
+    },
+    {
+      "source": "Convention",
+      "target": "Moral Relativism"
+    },
+    {
+      "source": "Convention",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Convention",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Convention",
+      "target": "Convention"
+    },
+    {
+      "source": "Backward Causation",
+      "target": "Backward Causation"
+    },
+    {
+      "source": "Behaviorism",
+      "target": "Behaviorism"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Social Epistemology"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Cultural Evolution"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Feminist Perspectives on Sex and Gender"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Race"
+    },
+    {
+      "source": "Naturalistic Approaches to Social Construction",
+      "target": "Naturalistic Approaches to Social Construction"
+    },
+    {
+      "source": "Names",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Names",
+      "target": "Names"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Identity"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Ontological Dependence",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Ontological Dependence"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Supervenience"
+    },
+    {
+      "source": "Scientific Reduction",
+      "target": "Scientific Reduction"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Metaphysics",
+      "target": "Metaphysics"
+    },
+    {
+      "source": "Assertion",
+      "target": "Convention"
+    },
+    {
+      "source": "Assertion",
+      "target": "The Normativity of Meaning and Content"
+    },
+    {
+      "source": "Assertion",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "Assertion",
+      "target": "Assertion"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Beardsley\u2019s Aesthetics"
+    },
+    {
+      "source": "Conceptual Art",
+      "target": "Conceptual Art"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Digital Art",
+      "target": "The Philosophy of Digital Art"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Assertion"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Theories of Meaning"
+    },
+    {
+      "source": "Speech Acts",
+      "target": "Speech Acts"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Definition of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Dance"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "History of the Ontology of Art"
+    },
+    {
+      "source": "The Philosophy of Music",
+      "target": "The Philosophy of Music"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Nature of Law"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Economic Analysis of Law",
+      "target": "The Economic Analysis of Law"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Physicalism"
+    },
+    {
+      "source": "Externalism About the Mind",
+      "target": "Externalism About the Mind"
+    },
+    {
+      "source": "Artifact",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Artifact",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Artifact",
+      "target": "Artifact"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "John Locke"
+    },
+    {
+      "source": "Locke on Real Essence",
+      "target": "Locke on Real Essence"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Democracy"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "John Locke"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Natural Law Theories"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "Kant\u2019s Social and Political Philosophy",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Hugo Grotius",
+      "target": "Pufendorf\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Hugo Grotius",
+      "target": "War"
+    },
+    {
+      "source": "Hugo Grotius",
+      "target": "Hugo Grotius"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Equality"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Distributive Justice"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Race"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "John Rawls"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Social Minimum"
+    },
+    {
+      "source": "Justice, Inequality, and Health",
+      "target": "Justice, Inequality, and Health"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Latinx Philosophy"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Race"
+    },
+    {
+      "source": "Critical Philosophy of Race",
+      "target": "Critical Philosophy of Race"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Liberal Feminism"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Philosophy of Law"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Feminist Perspectives on Trans Issues"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Homosexuality"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Kant\u2019s Social and Political Philosophy"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Special Obligations"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Social Institutions"
+    },
+    {
+      "source": "Marriage and Domestic Partnership",
+      "target": "Marriage and Domestic Partnership"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Environmental Ethics"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Henry David Thoreau",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Political Representation",
+      "target": "Democracy"
+    },
+    {
+      "source": "Political Representation",
+      "target": "Political Representation"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Autonomy in Moral and Political Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Isaiah Berlin"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Egalitarianism"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Equality of Opportunity"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Feminist Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Freedom of Speech"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Positive and Negative Liberty"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Mill\u2019s Moral and Political Philosophy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Privacy"
+    },
+    {
+      "source": "Pornography and Censorship",
+      "target": "Pornography and Censorship"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Henry David Thoreau"
+    },
+    {
+      "source": "Civil Disobedience",
+      "target": "Civil Disobedience"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Exploitation"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Liberalism"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Political Representation"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Secession"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Sovereignty"
+    },
+    {
+      "source": "Colonialism",
+      "target": "Colonialism"
+    },
+    {
+      "source": "Religious Diversity (Pluralism)",
+      "target": "Religious Diversity (Pluralism)"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Artifact"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Climate Justice"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Philosophy of Technology",
+      "target": "Philosophy of Technology"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Blame"
+    },
+    {
+      "source": "Moral Responsibility",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Deontological Ethics"
+    },
+    {
+      "source": "Terrorism",
+      "target": "War"
+    },
+    {
+      "source": "Terrorism",
+      "target": "Terrorism"
+    },
+    {
+      "source": "Atonement",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Atonement",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "Atonement",
+      "target": "Atonement"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Consequentialism"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Cosmopolitanism"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Business Ethics"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Global Justice"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "International Distributive Justice"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Immanuel Kant"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Public Health Ethics"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "John Rawls"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "Well-Being"
+    },
+    {
+      "source": "The Principle of Beneficence in Applied Ethics",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Karl Marx"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Analytical Marxism"
+    },
+    {
+      "source": "Methodological Individualism",
+      "target": "Methodological Individualism"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "The Principle of Beneficence in Applied Ethics"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Privacy and Medicine"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Exploitation"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Libertarianism"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Property and Ownership"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "Respect"
+    },
+    {
+      "source": "The Sale of Human Organs",
+      "target": "The Sale of Human Organs"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Animal Consciousness"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "The Moral Status of Animals"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Doing vs. Allowing Harm"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "The Grounds of Moral Status"
+    },
+    {
+      "source": "Moral Vegetarianism",
+      "target": "Moral Vegetarianism"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Kant\u2019s Moral Philosophy"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "The Concept of Evil",
+      "target": "The Concept of Evil"
+    },
+    {
+      "source": "Black Reparations",
+      "target": "Intergenerational Justice"
+    },
+    {
+      "source": "Black Reparations",
+      "target": "Locke\u2019s Political Philosophy"
+    },
+    {
+      "source": "Black Reparations",
+      "target": "Black Reparations"
+    },
+    {
+      "source": "Blame",
+      "target": "Moral Responsibility"
+    },
+    {
+      "source": "Blame",
+      "target": "Blame"
+    }
+  ]
+}

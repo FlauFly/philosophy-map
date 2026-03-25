@@ -1,0 +1,1276 @@
+{
+  "nodes": [
+    {
+      "id": "Robert Alyngton",
+      "group": 1,
+      "address": "alyngton"
+    },
+    {
+      "id": "William Penbygull",
+      "group": 2,
+      "address": "penbygull"
+    },
+    {
+      "id": "Walter Burley",
+      "group": 2,
+      "address": "burley"
+    },
+    {
+      "id": "John Wyclif",
+      "group": 2,
+      "address": "wyclif"
+    },
+    {
+      "id": "Johannes Sharpe",
+      "group": 2,
+      "address": "sharpe"
+    },
+    {
+      "id": "Insolubles",
+      "group": 2,
+      "address": "insolubles"
+    },
+    {
+      "id": "Aristotle",
+      "group": 3,
+      "address": "aristotle"
+    },
+    {
+      "id": "Properties",
+      "group": 3,
+      "address": "properties"
+    },
+    {
+      "id": "Nicholas of Autrecourt",
+      "group": 3,
+      "address": "autrecourt"
+    },
+    {
+      "id": "Medieval Theories: Properties of Terms",
+      "group": 3,
+      "address": "medieval-terms"
+    },
+    {
+      "id": "Medieval Theories of Consequence",
+      "group": 3,
+      "address": "consequence-medieval"
+    },
+    {
+      "id": "Paul of Venice",
+      "group": 3,
+      "address": "paul-venice"
+    },
+    {
+      "id": "Sophismata",
+      "group": 3,
+      "address": "sophismata"
+    },
+    {
+      "id": "Albert of Saxony",
+      "group": 3,
+      "address": "albert-saxony"
+    },
+    {
+      "id": "The Medieval Problem of Universals",
+      "group": 3,
+      "address": "universals-medieval"
+    },
+    {
+      "id": "Medieval Theories of Demonstration",
+      "group": 3,
+      "address": "demonstration-medieval"
+    },
+    {
+      "id": "Medieval Theories of the Categories",
+      "group": 3,
+      "address": "medieval-categories"
+    },
+    {
+      "id": "William of Ockham",
+      "group": 3,
+      "address": "ockham"
+    },
+    {
+      "id": "Richard Kilvington",
+      "group": 3,
+      "address": "kilvington"
+    },
+    {
+      "id": "William Heytesbury",
+      "group": 3,
+      "address": "heytesbury"
+    },
+    {
+      "id": "Richard the Sophister",
+      "group": 3,
+      "address": "richard-sophister"
+    },
+    {
+      "id": "Medieval Theories of Obligationes",
+      "group": 3,
+      "address": "obligationes"
+    },
+    {
+      "id": "Medieval Mereology",
+      "group": 3,
+      "address": "mereology-medieval"
+    },
+    {
+      "id": "Medieval Theories of Relations",
+      "group": 3,
+      "address": "relations-medieval"
+    },
+    {
+      "id": "Medieval Theories of Analogy",
+      "group": 3,
+      "address": "analogy-medieval"
+    },
+    {
+      "id": "John Duns Scotus",
+      "group": 3,
+      "address": "duns-scotus"
+    },
+    {
+      "id": "Thomas Aquinas",
+      "group": 3,
+      "address": "aquinas"
+    },
+    {
+      "id": "Martin Luther",
+      "group": 3,
+      "address": "luther"
+    },
+    {
+      "id": "Walter Chatton",
+      "group": 3,
+      "address": "walter-chatton"
+    },
+    {
+      "id": "Richard FitzRalph",
+      "group": 3,
+      "address": "fitzralph"
+    },
+    {
+      "id": "Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-philosophy"
+    },
+    {
+      "id": "Giles of Rome",
+      "group": 3,
+      "address": "giles"
+    },
+    {
+      "id": "Liar Paradox",
+      "group": 3,
+      "address": "liar-paradox"
+    },
+    {
+      "id": "Self-Reference and Paradox",
+      "group": 3,
+      "address": "self-reference"
+    },
+    {
+      "id": "Curry\u2019s Paradox",
+      "group": 3,
+      "address": "curry-paradox"
+    },
+    {
+      "id": "Paraconsistent Logic",
+      "group": 3,
+      "address": "logic-paraconsistent"
+    },
+    {
+      "id": "Gregory of Rimini",
+      "group": 3,
+      "address": "gregory-rimini"
+    },
+    {
+      "id": "Dialetheism",
+      "group": 3,
+      "address": "dialetheism"
+    },
+    {
+      "id": "John Buridan",
+      "group": 3,
+      "address": "buridan"
+    },
+    {
+      "id": "Fallacies",
+      "group": 3,
+      "address": "fallacies"
+    },
+    {
+      "id": "The Revision Theory of Truth",
+      "group": 3,
+      "address": "truth-revision"
+    },
+    {
+      "id": "Literary Forms of Medieval Philosophy",
+      "group": 3,
+      "address": "medieval-literary"
+    }
+  ],
+  "links": [
+    {
+      "source": "Robert Alyngton",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "Robert Alyngton",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Robert Alyngton"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Aristotle"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Properties"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "William Penbygull",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "William Penbygull"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Walter Burley",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Walter Burley"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "John Wyclif"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "Johannes Sharpe"
+    },
+    {
+      "source": "John Wyclif",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Johannes Sharpe",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Insolubles",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Fallacies"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Insolubles",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Insolubles",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Insolubles",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Insolubles"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Insolubles"
+    },
+    {
+      "source": "Aristotle",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Properties",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Properties",
+      "target": "Properties"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Nicholas of Autrecourt",
+      "target": "Nicholas of Autrecourt"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories: Properties of Terms",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Medieval Theories of Consequence",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Paul of Venice",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Sophismata",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Sophismata",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Richard the Sophister"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Sophismata",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Albert of Saxony",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Properties"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "The Medieval Problem of Universals",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Demonstration",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Medieval Theories of the Categories",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Medieval Theories of the Categories",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "William of Ockham",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "Albert of Saxony"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard Kilvington",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Sophismata"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "William Heytesbury",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Richard the Sophister",
+      "target": "Richard the Sophister"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William Heytesbury"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Paul of Venice"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Richard the Sophister"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Theories of Obligationes",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Mereology",
+      "target": "Medieval Mereology"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Properties"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Medieval Theories of Relations",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Medieval Theories of Analogy",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Duns Scotus",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Analogy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Aristotle"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Martin Luther",
+      "target": "Martin Luther"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Medieval Theories of Relations"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "Walter Chatton",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Richard FitzRalph",
+      "target": "Richard FitzRalph"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of the Categories"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Consequence"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories of Obligationes"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "Medieval Philosophy",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Medieval Theories of Demonstration"
+    },
+    {
+      "source": "Giles of Rome",
+      "target": "Giles of Rome"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Liar Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Self-Reference and Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Curry\u2019s Paradox",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "John Duns Scotus"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Paraconsistent Logic",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Walter Chatton"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Richard FitzRalph"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Gregory of Rimini",
+      "target": "Gregory of Rimini"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Paraconsistent Logic"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Self-Reference and Paradox"
+    },
+    {
+      "source": "Dialetheism",
+      "target": "Dialetheism"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Literary Forms of Medieval Philosophy"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Nicholas of Autrecourt"
+    },
+    {
+      "source": "John Buridan",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Sophismata"
+    },
+    {
+      "source": "John Buridan",
+      "target": "Medieval Theories: Properties of Terms"
+    },
+    {
+      "source": "John Buridan",
+      "target": "The Medieval Problem of Universals"
+    },
+    {
+      "source": "John Buridan",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Fallacies",
+      "target": "Fallacies"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Curry\u2019s Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "Liar Paradox"
+    },
+    {
+      "source": "The Revision Theory of Truth",
+      "target": "The Revision Theory of Truth"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Thomas Aquinas"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "John Buridan"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Richard Kilvington"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "William of Ockham"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Sophismata"
+    },
+    {
+      "source": "Literary Forms of Medieval Philosophy",
+      "target": "Literary Forms of Medieval Philosophy"
+    }
+  ]
+}
