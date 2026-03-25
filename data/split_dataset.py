@@ -103,7 +103,11 @@ links = data["links"]
 df_nodes = pd.DataFrame.from_dict(nodes)
 df_links = pd.DataFrame.from_dict(links)
 
-articles = df_nodes['id'].to_list()
+# articles = df_nodes['id'].to_list()
 
-for article in articles:
-    extracting_graph(article)
+# for article in articles: 
+# extracting_graph(article)
+
+article = "Plato"
+
+print(extracting_graph(article))
