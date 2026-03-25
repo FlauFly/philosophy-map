@@ -108,6 +108,6 @@ df_links = pd.DataFrame.from_dict(links)
 # for article in articles: 
 # extracting_graph(article)
 
-article = "Plato"
+article = "Aristotle"
 
 print(extracting_graph(article))

@@ -1,0 +1,29 @@
+---
+const id = "Plato"
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test</title>
+</head>
+<body>
+    <div id="code">{id}</div>
+    <div id="output"></div>
+</body>
+</html>
+
+<script>
+    import data from '../../data/data.json' assert { type: 'json'};
+
+    const article = "Plato";
+
+    let resultNodes = [];
+
+    const filteredItem = data.nodes.filter(item => item.id == article);
+
+    console.log(filteredItem);
+
+
+</script>

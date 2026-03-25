@@ -1,0 +1,307 @@
+{
+  "nodes": [
+    {
+      "id": "William Stanley Jevons",
+      "group": 1,
+      "address": "william-jevons"
+    },
+    {
+      "id": "Emily Elizabeth Constance Jones",
+      "group": 2,
+      "address": "emily-elizabeth-constance-jones"
+    },
+    {
+      "id": "George Boole",
+      "group": 2,
+      "address": "boole"
+    },
+    {
+      "id": "Bertrand Russell",
+      "group": 3,
+      "address": "russell"
+    },
+    {
+      "id": "Russell\u2019s Moral Philosophy",
+      "group": 3,
+      "address": "russell-moral"
+    },
+    {
+      "id": "Hermann Lotze",
+      "group": 3,
+      "address": "hermann-lotze"
+    },
+    {
+      "id": "Gottlob Frege",
+      "group": 3,
+      "address": "frege"
+    },
+    {
+      "id": "The Algebra of Logic Tradition",
+      "group": 3,
+      "address": "algebra-logic-tradition"
+    },
+    {
+      "id": "Port Royal Logic",
+      "group": 3,
+      "address": "port-royal-logic"
+    },
+    {
+      "id": "Susan Stebbing",
+      "group": 3,
+      "address": "stebbing"
+    },
+    {
+      "id": "Henry Sidgwick",
+      "group": 3,
+      "address": "sidgwick"
+    },
+    {
+      "id": "The Development of Proof Theory",
+      "group": 3,
+      "address": "proof-theory-development"
+    },
+    {
+      "id": "The Mathematics of Boolean Algebra",
+      "group": 3,
+      "address": "boolalg-math"
+    },
+    {
+      "id": "Algebra",
+      "group": 3,
+      "address": "algebra"
+    },
+    {
+      "id": "Leibniz\u2019s Influence on 19th Century Logic",
+      "group": 3,
+      "address": "leibniz-logic-influence"
+    },
+    {
+      "id": "Algebraic Propositional Logic",
+      "group": 3,
+      "address": "logic-algebraic-propositional"
+    },
+    {
+      "id": "Peirce\u2019s Deductive Logic",
+      "group": 3,
+      "address": "peirce-logic"
+    }
+  ],
+  "links": [
+    {
+      "source": "William Stanley Jevons",
+      "target": "George Boole"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "William Stanley Jevons"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Port Royal Logic"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Emily Elizabeth Constance Jones",
+      "target": "Susan Stebbing"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Emily Elizabeth Constance Jones"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Emily Elizabeth Constance Jones"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "George Boole"
+    },
+    {
+      "source": "George Boole",
+      "target": "Algebra"
+    },
+    {
+      "source": "George Boole",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "George Boole",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "George Boole"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "George Boole"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "George Boole"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "George Boole"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "George Boole"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "Russell\u2019s Moral Philosophy",
+      "target": "Russell\u2019s Moral Philosophy"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Hermann Lotze",
+      "target": "Hermann Lotze"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "Algebra"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "Leibniz\u2019s Influence on 19th Century Logic"
+    },
+    {
+      "source": "The Algebra of Logic Tradition",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Port Royal Logic",
+      "target": "Port Royal Logic"
+    },
+    {
+      "source": "Susan Stebbing",
+      "target": "Susan Stebbing"
+    },
+    {
+      "source": "Henry Sidgwick",
+      "target": "Henry Sidgwick"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "Bertrand Russell"
+    },
+    {
+      "source": "The Development of Proof Theory",
+      "target": "The Development of Proof Theory"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Algebra"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "The Mathematics of Boolean Algebra",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebra",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebra",
+      "target": "Algebra"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "Gottlob Frege"
+    },
+    {
+      "source": "Leibniz\u2019s Influence on 19th Century Logic",
+      "target": "Leibniz\u2019s Influence on 19th Century Logic"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebra"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "The Mathematics of Boolean Algebra"
+    },
+    {
+      "source": "Algebraic Propositional Logic",
+      "target": "Algebraic Propositional Logic"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "The Algebra of Logic Tradition"
+    },
+    {
+      "source": "Peirce\u2019s Deductive Logic",
+      "target": "Peirce\u2019s Deductive Logic"
+    }
+  ]
+}
