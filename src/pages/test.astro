@@ -17,18 +17,105 @@ const id = "Plato"
 <script>
     import data from '../../data/data.json' assert { type: 'json'};
 
-    const article = "Plato";
+    const article = "William Stanley Jevons";
 
-    let resultNodes = [];
+    const resultNodes = [];
+
+    // main node
 
     const filteredItem = data.nodes.filter(item => item.id == article)[0];
     const mainItem = {"id": filteredItem['id'], "address": filteredItem['address'], "group": 1};
     resultNodes.push(mainItem);
 
+    // nodes from second group
+
     const targets = data.links.filter(item => item.source == article).map(item => item.target);
     const sources = data.links.filter(item => item.target == article).map(item => item.source);
 
-    console.log(sources);
+    const secondGroup = [...new Set([...targets, ...sources])];
 
+    for (let name of secondGroup) {
+        let item = data.nodes.filter(item => item.id == name)[0];
+        let secondaryNode = {"id": item['id'], "address": item['address'], "group": 2}
+        resultNodes.push(secondaryNode);
+    }
+
+    // nodes from third group
+
+    const targetSet = new Set();
+    for (let name of secondGroup) {
+        let items = data.links.filter(item => 
+            (item.source == name) &&
+            !(secondGroup.includes(item.target)) &&
+            (item.target != mainItem['id'])
+        ).map(item => item.target);
+        for (let item of items) {
+            if (!targetSet.has(item)) {
+                targetSet.add(item)
+            }
+        }
+    };
+    const fartherTargets = [...targetSet];
+
+    const sourceSet = new Set();
+    for (let name of secondGroup) {
+        let items = data.links.filter(item => 
+            (item.target == name) &&
+            !(secondGroup.includes(item.source)) &&
+            (item.source != mainItem['id'])
+        ).map(item => item.source);
+        for (let item of items) {
+            if (!sourceSet.has(item)) {
+                sourceSet.add(item);
+            };
+        };
+    };
+    const fartherSources = [...sourceSet];
+
+    const thirdGroup = [...new Set([...fartherTargets, ...fartherSources])]
+
+    for (let name of thirdGroup) {
+        let item = data.nodes.filter(item => item.id == name)[0];
+        let tertiaryNode = {"id": item['id'], "address": item['address'], "group": 3}
+        resultNodes.push(tertiaryNode);
+    }
+
+    // Connections between main article and second group
+    const primaryConnections = data.links.filter(item => item.source == article || item.target == article);
+
+    // Connections between second and third group
+    const secondaryConnections = [];
+    for (let name of secondGroup) {
+        let connection = data.links.filter(item => 
+            ((item.source == name) && (item.target != article) ||
+            ((item.target == name)) && (item.source != article))
+        );
+        secondaryConnections.push(...connection);
+    };
+
+    const uniqueSecondary = secondaryConnections.filter((o, index, arr) =>
+        arr.findIndex(item => JSON.stringify(item) === JSON.stringify(o)) === index
+    );
+
+
+    // Connections between various third group items
+    const tertiaryConnections = [];
+    for (let name of thirdGroup) {
+        let connection = data.links.filter(item =>
+            ((item.source == name) && thirdGroup.includes(item.target)) ||
+            ((item.target == name) && thirdGroup.includes(item.source)) 
+        );
+        tertiaryConnections.push(...connection);
+    }
+
+    const uniqueTertiary = tertiaryConnections.filter((o, index, arr) =>
+        arr.findIndex(item => JSON.stringify(item) === JSON.stringify(o)) === index
+    );
+
+    const resultConnections = [...primaryConnections, ...uniqueSecondary, ...uniqueTertiary];
+
+    const gData = {"nodes": resultNodes, "links": resultConnections};
+
+    console.log(gData);
 
 </script>
