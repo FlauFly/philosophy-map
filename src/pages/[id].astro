@@ -42,27 +42,28 @@ const { id, title } = Astro.props;
 
     import data from '../../data/data.json' assert { type: 'json'};
 
+
     const resultNodes = [];
 
     // main node
-
+    
     const filteredItem = data.nodes.filter(item => item.id == article)[0];
-    const mainItem = {"id": filteredItem['id'], "address": filteredItem['address'], "group": 1};
+    const mainItem = {"id": filteredItem['id'], "address": filteredItem['address'], "group": 1, "active": true};
     resultNodes.push(mainItem);
 
     // nodes from second group
 
     const targets = data.links.filter(item => item.source == article).map(item => item.target);
     const sources = data.links.filter(item => item.target == article).map(item => item.source);
-
+    
     const secondGroup = [...new Set([...targets, ...sources])];
 
     for (let name of secondGroup) {
         let item = data.nodes.filter(item => item.id == name)[0];
-        let secondaryNode = {"id": item['id'], "address": item['address'], "group": 2}
+        let secondaryNode = {"id": item['id'], "address": item['address'], "group": 2, "active": false};
         resultNodes.push(secondaryNode);
     }
-
+    
     // nodes from third group
 
     const targetSet = new Set();
@@ -99,13 +100,13 @@ const { id, title } = Astro.props;
 
     for (let name of thirdGroup) {
         let item = data.nodes.filter(item => item.id == name)[0];
-        let tertiaryNode = {"id": item['id'], "address": item['address'], "group": 3}
+        let tertiaryNode = {"id": item['id'], "address": item['address'], "group": 3, "active": true}
         resultNodes.push(tertiaryNode);
     }
-
+    
     // Connections between main article and second group
     const primaryConnections = data.links.filter(item => item.source == article || item.target == article);
-
+    
     // Connections between second and third group
     const secondaryConnections = [];
     for (let name of secondGroup) {
@@ -134,22 +135,74 @@ const { id, title } = Astro.props;
     const uniqueTertiary = tertiaryConnections.filter((o, index, arr) =>
         arr.findIndex(item => JSON.stringify(item) === JSON.stringify(o)) === index
     );
-
+    
     const resultConnections = [...primaryConnections, ...uniqueSecondary, ...uniqueTertiary];
+    
+    const gData = {"nodes": resultNodes, "links": resultConnections};
+    
+    const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+    console.log(nodesById);
+    
+    function getPrunedGraph() {
+        const visibleNodes = [];
+        const visibleLinks = [];
 
-    const gData = {"nodes": resultNodes, "links": resultConnections};    
+        for (let node of gData.nodes) {
+            if (node.group == 1 || node.group == 2) {
+                visibleNodes.push(node);
+            } else  {
+                let test = gData.links.some(link => 
+                    (
+                        link.target == node.id && 
+                        nodesById[link.source].group == 2 && 
+                        nodesById[link.source].active
+                    ) ||
+                    (
+                        link.source == node.id &&
+                        nodesById[link.target].group == 2 
+                        && nodesById[link.target].active
+                    ) 
+                );
+                if (test) {
+                    visibleNodes.push(node);
+                };
 
+            };
+        };
+
+
+        for (let link of gData.links) {
+            if (
+                visibleNodes.map(node => node.id).includes(link.source) &&
+                visibleNodes.map(node => node.id).includes(link.target)
+            ) {
+                let resultLink = {source: nodesById[link.source], target: nodesById[link.target]};
+                visibleLinks.push(resultLink);         
+            }
+        };
+
+        return { nodes: visibleNodes, links: visibleLinks };
+    }
+    
+    function testingPruning() {
+        return { "nodes": gData.nodes, "links": gData.links}
+    }
+
+
+    
     const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement)
-    .graphData(gData)
+    .graphData(getPrunedGraph())
     .nodeColor(node => 
       node.group == 1 ? '#ee4fc5'
-      : node.group == 2 ? '#0066cc'
+      : (node.group == 2 && node.active) ? '#0066cc'
+      : (node.group == 2 && !node.active) ? "#66a3e0"
       : '#fff')
     .nodeThreeObject(node => {
         const sprite = new SpriteText(node.id);
         sprite.material.depthWrite = false;
         sprite.color = node.group === 1 ? '#ee4fc5'
-        : node.group === 2 ? '#0066cc'
+        : (node.group === 2) && node.active ? '#0066cc'
+        : (node.group === 2) && !node.active ? '#80b3e6'
         : '#ffffff';
         sprite.textHeight = node.group === 1 ? 5
         : node.group === 2 ? 3
@@ -168,27 +221,19 @@ const { id, title } = Astro.props;
     .onNodeClick(node => {
         infoCard!.innerHTML = `
         <div>${node.id}</div>
-        <a href="${node.address}">Link</a>`;
-
-        const distance = 100;
-        const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
-
-        const newPos = node.x || node.y || node.z
-          ? { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }
-          : { x: 0, y: 0, z: distance }; // special case if node is in (0,0,0)
-
-        Graph.cameraPosition(
-          newPos, // new position
-          node, // lookAt ({ x, y, z })
-          3000 // ms transition duration
-        );
+        <a href="${node.address}">Link</a>`
+        console.clear();
+        if (node.group == 2) {
+            node.active = !node.active;
+            Graph.graphData(getPrunedGraph());
+        };
     })
     .linkDirectionalParticles(1)
     .linkDirectionalParticleWidth(0.8)
     .linkOpacity(0.1)
     .nodeThreeObjectExtend(true);
 
-    Graph.d3Force('charge').strength(-120);
+    Graph.d3Force('charge').strength(-100);
 </script>
 
 <style>
