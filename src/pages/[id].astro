@@ -34,21 +34,20 @@ const { id, title } = Astro.props;
 
     import SpriteText from "three-spritetext";
 
+    import data from '../../data/data.json' assert { type: 'json'};
+
     const article = document.getElementById('code')?.textContent;
 
     const infoCard = document.getElementById('info-card');
 
     // Filtering dataset into subgraph
 
-    import data from '../../data/data.json' assert { type: 'json'};
-
-
     const resultNodes = [];
 
     // main node
     
     const filteredItem = data.nodes.filter(item => item.id == article)[0];
-    const mainItem = {"id": filteredItem['id'], "address": filteredItem['address'], "group": 1, "active": true};
+    const mainItem = {"id": filteredItem['id'], "address": filteredItem['address'], "intro": filteredItem['intro'], "group": 1, "active": true};
     resultNodes.push(mainItem);
 
     // nodes from second group
@@ -60,7 +59,7 @@ const { id, title } = Astro.props;
 
     for (let name of secondGroup) {
         let item = data.nodes.filter(item => item.id == name)[0];
-        let secondaryNode = {"id": item['id'], "address": item['address'], "group": 2, "active": false};
+        let secondaryNode = {"id": item['id'], "address": item['address'], "intro": item['intro'], "group": 2, "active": false};
         resultNodes.push(secondaryNode);
     }
     
@@ -100,7 +99,7 @@ const { id, title } = Astro.props;
 
     for (let name of thirdGroup) {
         let item = data.nodes.filter(item => item.id == name)[0];
-        let tertiaryNode = {"id": item['id'], "address": item['address'], "group": 3, "active": true}
+        let tertiaryNode = {"id": item['id'], "address": item['address'], "intro": item['intro'], "group": 3, "active": true}
         resultNodes.push(tertiaryNode);
     }
     
@@ -141,7 +140,6 @@ const { id, title } = Astro.props;
     const gData = {"nodes": resultNodes, "links": resultConnections};
     
     const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
-    console.log(nodesById);
     
     function getPrunedGraph() {
         const visibleNodes = [];
@@ -170,7 +168,6 @@ const { id, title } = Astro.props;
             };
         };
 
-
         for (let link of gData.links) {
             if (
                 visibleNodes.map(node => node.id).includes(link.source) &&
@@ -183,12 +180,6 @@ const { id, title } = Astro.props;
 
         return { nodes: visibleNodes, links: visibleLinks };
     }
-    
-    function testingPruning() {
-        return { "nodes": gData.nodes, "links": gData.links}
-    }
-
-
     
     const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement)
     .graphData(getPrunedGraph())
@@ -221,7 +212,23 @@ const { id, title } = Astro.props;
     .onNodeClick(node => {
         infoCard!.innerHTML = `
         <div>${node.id}</div>
-        <a href="${node.address}">Link</a>`
+        <div>
+            <a href="${node.address}">Sub-graph</a>
+            <a href="https://plato.stanford.edu/entries/${node.address}">Link</a>
+        </div>
+        <p class="intro">${node.intro}</p>
+        <button>Read more</button>`;
+        const intro = infoCard?.getElementsByTagName('p')[0];
+        const readMoreButton = infoCard?.getElementsByTagName('button')[0];
+
+        readMoreButton?.addEventListener('click', () => {
+            intro?.classList.toggle("intro");
+            if (readMoreButton?.innerHTML === "Read more") {
+                readMoreButton.innerHTML = "Read less";
+            } else {
+                (readMoreButton as HTMLElement).innerHTML = "Read more";
+            }        
+        });
         console.clear();
         if (node.group == 2) {
             node.active = !node.active;
@@ -234,6 +241,30 @@ const { id, title } = Astro.props;
     .nodeThreeObjectExtend(true);
 
     Graph.d3Force('charge').strength(-100);
+
+    // Info Card interactivity
+
+    infoCard!.innerHTML = `
+        <div>${mainItem.id}</div>
+        <div>
+            <a href="${mainItem.address}">Sub-graph</a>
+            <a href="https://plato.stanford.edu/entries/${mainItem.address}">Link</a>
+        </div>
+        <p class="intro">${mainItem.intro}</p>
+        <button>Read more</button>`;
+
+    const intro = infoCard?.getElementsByTagName('p')[0];
+    const readMoreButton = infoCard?.getElementsByTagName('button')[0];
+
+    readMoreButton?.addEventListener('click', () => {
+        intro?.classList.toggle("intro");
+        if (readMoreButton?.innerHTML === "Read more") {
+            readMoreButton.innerHTML = "Read less";
+        } else {
+            (readMoreButton as HTMLElement).innerHTML = "Read more";
+        }        
+    });
+    
 </script>
 
 <style>
@@ -257,10 +288,36 @@ const { id, title } = Astro.props;
     padding: 8px;
     border-radius: 8px;
     max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 
 #code {
   color: black;
   display: none;
+}
+
+.info :global(.intro) {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.info :global(p) {
+    margin: 0;
+}
+
+.info :global(a) {
+    color: #fff;
+    background-color: #0066cc;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 100px;
+    padding: 5px;
+}
+
+.info :global(a):hover {
+    background-color: #66a3e0;
 }
 </style>
