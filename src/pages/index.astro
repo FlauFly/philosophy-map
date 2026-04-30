@@ -11,14 +11,33 @@ import Layout from '../layouts/Layout.astro';
 	<ul>
 		<li>Find article through above search bar.</li>
 		<li>Nodes represent articles of encyclopedia. Click on any node to see more information.</li>
-		<li>Pink node is main article of the sub-graph.</li>
-		<li>Light blue node are articles connected to main article. Click on it to get</li>
-		<li>Dark blue nodes which are expanded and show farther connection.</li>
+		<li><span class="node pink"></span> node is main article of the sub-graph.</li>
+		<li><span class="node light-blue"></span> nodes are articles connected to main article. Click on it to get</li>
+		<li><span class="node dark-blue"></span> nodes which are expanded and show farther connections.</li>
 	</ul>
 </Layout>
 
 <style>
 	* {
 		color: #fff;
+	}
+
+	.node {
+		height: 25px;
+		width: 25px;
+		border-radius: 50%;
+		display: inline-block;
+	}
+
+	.pink {
+		background-color: #ee4fc5;
+	}
+
+	.light-blue {
+		background-color: #80b3e6;
+	}
+
+	.dark-blue {
+		background-color: #0066cc;
 	}
 </style>
