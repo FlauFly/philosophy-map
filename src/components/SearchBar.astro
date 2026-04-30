@@ -29,6 +29,8 @@
     #suggestion-box {
         background-color: white;
         width: 32vw;
+        max-height: 60vh;
+        overflow: auto;
         list-style: none;
         padding: 0;
         margin: 0;
@@ -49,7 +51,7 @@
 </style>
 
 <script>
-    import articles from '../../data/articles.json' assert { type: 'json'};
+    import articles from '../../data/articles.json' with { type: 'json'};
 
     function simplifyText(text: String) {
         const nonAccentedText = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');

@@ -1,11 +1,24 @@
 ---
 import SearchBar from '../components/SearchBar.astro';
 import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
 <Layout>
+	<h1>Philosophy Map</h1>
 	<SearchBar />
+	<p>Philosophy Map is 3D graph representation of <a href="https://plato.stanford.edu/">Stanford Encyclopedia of Philosophy</a></p>
+	<h2>How To</h2>
+	<ul>
+		<li>Find article through above search bar.</li>
+		<li>Nodes represent articles of encyclopedia. Click on any node to see more information.</li>
+		<li>Pink node is main article of the sub-graph.</li>
+		<li>Light blue node are articles connected to main article. Click on it to get</li>
+		<li>Dark blue nodes which are expanded and show farther connection.</li>
+	</ul>
 </Layout>
+
+<style>
+	* {
+		color: #fff;
+	}
+</style>
