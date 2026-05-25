@@ -1,3 +1,7 @@
+---
+import { Font } from "astro:assets";
+---
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -7,6 +11,7 @@
 		<link rel="icon" href="/favicon.ico" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Philosophy Map</title>
+		<Font cssVariable="--font-roboto" />
 	</head>
 	<body>
 		<slot />
@@ -23,5 +28,6 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		font-family: var(--font-roboto);
 	}
 </style>

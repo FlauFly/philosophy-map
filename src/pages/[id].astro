@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { Font } from 'astro:assets';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages')
@@ -21,11 +22,13 @@ const { id, title } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <style> body { margin: 0; } </style>
     <title>{title}</title>
+    <Font cssVariable="--font-roboto" />
   </head>
   <body>
     <div class="info" id="info-card"></div>
     <div id="3d-graph"></div>
     <div id="code">{title}</div>
+    <a href="/" class="return">Return to search ↩</a>
   </body>
 </html>
 
@@ -268,6 +271,20 @@ const { id, title } = Astro.props;
 </script>
 
 <style>
+
+    body {
+        font-family: var(--font-roboto);
+    }
+
+    .return {
+        color: white;
+        position: absolute;
+        z-index: 5000;
+        top: 16px;
+        right: 16px;
+
+    }
+
   .node-label {
     font-size: 12px;
     padding: 1px 4px;
