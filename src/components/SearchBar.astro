@@ -18,8 +18,16 @@
     .search-bar input {
         padding: 10px;
         border-radius: 5px;
-        width: 30vw;
         border: 5px solid rgb(102, 201, 235);
+        width: 60vw;
+
+        @media screen and (width >= 768px) {
+            width: 45vw;
+        }
+
+        @media screen and (width >= 1020px) {
+            width: 30vw;
+        }
     }
 
     .search-bar input:focus-visible {
@@ -29,7 +37,6 @@
 
     #suggestion-box {
         background-color: white;
-        width: 32vw;
         max-height: 60vh;
         overflow: auto;
         list-style: none;
@@ -37,7 +44,15 @@
         margin: 0;
         position: absolute;
         top: 45px;
-        
+        width: 62vw;
+
+        @media screen and (width >= 768px) {
+            width: 47vw;
+        }
+
+        @media screen and (width >= 1020px) {
+            width: 32vw;
+        }        
     }
 
     .suggestion {
