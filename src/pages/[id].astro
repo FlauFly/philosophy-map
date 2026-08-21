@@ -193,7 +193,7 @@ const { id, title } = Astro.props;
       : '#fff')
     .nodeThreeObject(node => {
         const sprite = new SpriteText(node.id);
-        sprite.material.depthWrite = false;
+        sprite.material.depthWrite = true;
         sprite.color = node.group === 1 ? '#ee4fc5'
         : (node.group === 2) && node.active ? '#0066cc'
         : (node.group === 2) && !node.active ? '#80b3e6'
