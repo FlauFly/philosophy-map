@@ -201,6 +201,9 @@ const { id, title } = Astro.props;
         : (node.group === 2) && node.active ? '#0066cc'
         : (node.group === 2) && !node.active ? '#80b3e6'
         : '#ffffff';
+        nodeEl.style.backgroundColor = '#000000';
+        nodeEl.style.opacity = '0.75';
+        nodeEl.style.fontSize = "12px";
         return new CSS2DObject(nodeEl);
     })
     .nodeLabel(node => node.id)
