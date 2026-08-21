@@ -280,8 +280,12 @@ const { id, title } = Astro.props;
         color: white;
         position: absolute;
         z-index: 5000;
-        top: 16px;
         right: 16px;
+        bottom: 16px;
+
+        @media screen and (width >= 768px) {
+            top: 16px;
+        }
 
     }
 
@@ -304,7 +308,7 @@ const { id, title } = Astro.props;
     color: rgb(255, 255, 255);
     padding: 8px;
     border-radius: 8px;
-    max-width: 500px;
+    max-width: min(500px, 80vw);
     display: flex;
     flex-direction: column;
     gap: 15px;
