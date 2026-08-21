@@ -192,7 +192,7 @@ const { id, title } = Astro.props;
       : (node.group == 2 && !node.active) ? "#66a3e0"
       : '#fff')
     .nodeThreeObject(node => {
-        const sprite = new SpriteText("\n" + node.id);
+        const sprite = new SpriteText(node.id);
         sprite.material.depthWrite = false;
         sprite.material.depthTest = false;
         sprite.color = node.group === 1 ? '#ee4fc5'
@@ -202,9 +202,9 @@ const { id, title } = Astro.props;
         sprite.textHeight = node.group === 1 ? 5
         : node.group === 2 ? 3
         : 2;
-        sprite.center.y = node.group === 1 ? -1.6
-        : node.group === 2 ? -2.3
-        : -2.6;
+        sprite.center.y = node.group === 1 ? 1.9
+        : node.group === 2 ? 2.6
+        : 2.9;
         return sprite;
     })
     .nodeLabel(node => node.id)
