@@ -36,6 +36,7 @@ const { id, title } = Astro.props;
     import ForceGraph3D from "3d-force-graph";
 
     import SpriteText from "three-spritetext";
+    import { CSS2DRenderer, CSS2DObject } from 'https://esm.sh/three/examples/jsm/renderers/CSS2DRenderer.js';
 
     import data from '../../data/data.json' assert { type: 'json'};
 
@@ -184,7 +185,9 @@ const { id, title } = Astro.props;
         return { nodes: visibleNodes, links: visibleLinks };
     }
     
-    const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement)
+    const Graph = new ForceGraph3D(document.getElementById('3d-graph') as HTMLElement, {
+        extraRenderers: [new CSS2DRenderer()]
+    })
     .graphData(getPrunedGraph())
     .nodeColor(node => 
       node.group == 1 ? '#ee4fc5'
@@ -192,20 +195,13 @@ const { id, title } = Astro.props;
       : (node.group == 2 && !node.active) ? "#66a3e0"
       : '#fff')
     .nodeThreeObject(node => {
-        const sprite = new SpriteText(node.id);
-        sprite.material.depthWrite = false;
-        sprite.material.depthTest = false;
-        sprite.color = node.group === 1 ? '#ee4fc5'
+        const nodeEl = document.createElement('div');
+        nodeEl.textContent = node.id;
+        nodeEl.style.color = node.group === 1 ? '#ee4fc5'
         : (node.group === 2) && node.active ? '#0066cc'
         : (node.group === 2) && !node.active ? '#80b3e6'
         : '#ffffff';
-        sprite.textHeight = node.group === 1 ? 5
-        : node.group === 2 ? 3
-        : 2;
-        sprite.center.y = node.group === 1 ? 1.9
-        : node.group === 2 ? 2.6
-        : 2.9;
-        return sprite;
+        return new CSS2DObject(nodeEl);
     })
     .nodeLabel(node => node.id)
     .nodeVal(node =>
